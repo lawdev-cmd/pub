@@ -4,28 +4,32 @@
     "title": "Continue Watching",
     "url": null,
     "catalogType": "continueWatching",
-    "traktSortBy": null
+    "traktSortBy": null,
+    "inPlace": true
   },
   {
     "id": "trakt-latest-movie-releases",
     "title": "Latest Releases",
     "url": "giladg/lists/latest-4k-releases",
     "catalogType": "traktMovie",
-    "traktSortBy": "desc"
+    "traktSortBy": "desc",
+    "inPlace": true
   },
   {
     "id": "trakt-trending-movies",
     "title": "Trending Movies",
     "url": "tvgeniekodi/lists/trending-movies",
     "catalogType": "traktMovie",
-    "traktSortBy": null
+    "traktSortBy": null,
+    "inPlace": true
   },
   {
     "id": "trakt-top-tvshows",
     "title": "Latest TV Shows",
     "url": "garycrawfordgc/lists/latest-tv-shows",
     "catalogType": "traktTv",
-    "traktSortBy": null
+    "traktSortBy": null,
+    "inPlace": true
   },
   {
     "id": "trakt-90-minute-movies",
