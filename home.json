@@ -7,20 +7,6 @@
     "traktSortBy": null
   },
   {
-    "id": "trakt-90-minute-movies",
-    "title": "90 Minute Movies",
-    "url": "gyenkai/lists/90-minute-movies",
-    "catalogType": "traktMovie",
-    "traktSortBy": "random"
-  },
-  {
-    "id": "trakt-millennials-nostalgia",
-    "title": "Millennials Nostalgia",
-    "url": "katyrbrown96/lists/millennials-nostalgia",
-    "catalogType": "traktMovie",
-    "traktSortBy": "random"
-  },
-  {
     "id": "trakt-latest-movie-releases",
     "title": "Latest Releases",
     "url": "giladg/lists/latest-4k-releases",
@@ -40,6 +26,20 @@
     "url": "garycrawfordgc/lists/latest-tv-shows",
     "catalogType": "traktTv",
     "traktSortBy": null
+  },
+  {
+    "id": "trakt-90-minute-movies",
+    "title": "90 Minute Movies",
+    "url": "gyenkai/lists/90-minute-movies",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random"
+  },
+  {
+    "id": "trakt-millennials-nostalgia",
+    "title": "Millennials Nostalgia",
+    "url": "katyrbrown96/lists/millennials-nostalgia",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random"
   },
   {
     "id": "trakt-revenge-movies",
