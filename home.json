@@ -4,8 +4,7 @@
     "title": "Continue Watching",
     "url": null,
     "catalogType": "continueWatching",
-    "traktSortBy": null,
-    "inPlace": true
+    "traktSortBy": null
   },
   {
     "id": "trakt-latest-movie-releases",
