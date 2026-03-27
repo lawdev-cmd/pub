@@ -1,0 +1,37 @@
+[
+  {
+    "id": "tv-crime",
+    "title": "Crime TV Shows",
+    "url": "discover/tv?include_adult=false&include_null_first_air_dates=false&language=en-US&page=1&sort_by=first_air_date.desc&with_genres=80&with_original_language=en&vote_count.gte=40",
+    "catalogType": "tmdbTvDiscover",
+    "traktSortBy": null
+  },
+  {
+    "id": "trakt-netflix-shows",
+    "title": "Netflix Series",
+    "url": "garycrawfordgc/lists/netflix-shows",
+    "catalogType": "traktTv",
+    "traktSortBy": "random"
+  },
+  {
+    "id": "trakt-hulu-shows",
+    "title": "Hulu Series",
+    "url": "garycrawfordgc/lists/hulu-shows",
+    "catalogType": "traktTv",
+    "traktSortBy": "random"
+  },
+  {
+    "id": "trakt-disney-shows",
+    "title": "Disney+ Series",
+    "url": "garycrawfordgc/lists/disney-shows",
+    "catalogType": "traktTv",
+    "traktSortBy": "random"
+  },
+  {
+    "id": "trakt-comedy-shows",
+    "title": "Comedy Series",
+    "url": "garycrawfordgc/lists/comedy-shows",
+    "catalogType": "traktTv",
+    "traktSortBy": "random"
+  }
+]
