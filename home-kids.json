@@ -1,0 +1,65 @@
+[
+  {
+    "id": "continue_watching",
+    "title": "Continue Watching",
+    "url": null,
+    "catalogType": "continueWatching",
+    "traktSortBy": null
+  },
+  {
+    "id": "trakt-trending-kids-movies",
+    "title": "Trending Kids Movies",
+    "url": "tvgeniekodi/lists/trending-kids-movies",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random"
+  },
+  {
+    "id": "trakt-trending-kids-shows",
+    "title": "Trending Kids TV Shows",
+    "url": "japante/lists/trending-kids-shows",
+    "catalogType": "traktTv",
+    "traktSortBy": "random"
+  },
+  {
+    "id": "trakt-more-trending-kids-shows",
+    "title": "More Trending Kids Shows",
+    "url": "tvgeniekodi/lists/trending-kids-shows",
+    "catalogType": "traktTv",
+    "traktSortBy": "random"
+  },
+  {
+    "id": "trakt-popular-children-and-family",
+    "title": "Popular Family",
+    "url": "galacticboy/lists/popular-children-and-family",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random"
+  },
+  {
+    "id": "trakt-kids-shows",
+    "title": "Kids Shows",
+    "url": "drinfernoo/lists/kids-shows",
+    "catalogType": "traktTv",
+    "traktSortBy": "random"
+  },
+  {
+    "id": "trakt-the-family-collection",
+    "title": "Family Night",
+    "url": "kristaeglover/lists/the-family-collection",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random"
+  },
+  {
+    "id": "trakt-the-harry-potter-collection",
+    "title": "Harry Potter",
+    "url": "kristaeglover/lists/the-harry-potter-collection",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random"
+  },
+  {
+    "id": "trakt-top-100-kids-family-movies",
+    "title": "Top 100 Kids Family Movies",
+    "url": "giladg/lists/rotten-tomatoes-top-100-kids-family-movies",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random"
+  }
+]
