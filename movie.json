@@ -1,4 +1,10 @@
-[
+[{
+    "id": "trakt-trending-movies",
+    "title": "Trending Movies",
+    "url": "tvgeniekodi/lists/trending-movies",
+    "catalogType": "traktMovie",
+    "traktSortBy": null
+  },
   {
     "id": "trakt-revenge-movies",
     "title": "Revenge Movies",
