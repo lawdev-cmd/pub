@@ -1,4 +1,11 @@
 [
+   {
+    "id": "tv-trending-shows",
+    "title": "Trending Shows",
+    "url": "rizreflects/lists/trending-now-shows",
+    "catalogType": "traktTv",
+    "traktSortBy": null
+  },
   {
     "id": "tv-crime",
     "title": "Crime TV Shows",
