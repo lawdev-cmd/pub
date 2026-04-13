@@ -66,13 +66,6 @@
     "traktSortBy": "random"
   },
   {
-    "id": "trakt-horror-movies-garycrawfordgc",
-    "title": "Horror Movies: Top Picks",
-    "url": "garycrawfordgc/lists/horror",
-    "catalogType": "traktMovie",
-    "traktSortBy": "random"
-  },
-  {
     "id": "trakt-sci-fi-movies-garycrawfordgc",
     "title": "Sci-Fi Movies: Top Picks",
     "url": "garycrawfordgc/lists/sci-fi",
