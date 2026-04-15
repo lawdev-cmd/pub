@@ -9,7 +9,7 @@
   {
     "id": "trakt-latest-movie-releases",
     "title": "Latest Releases",
-    "url": "giladg/lists/latest-4k-releases",
+    "url": "garycrawfordgc/lists/latest-releases",
     "catalogType": "traktMovie",
     "traktSortBy": "desc",
     "inPlace": true
