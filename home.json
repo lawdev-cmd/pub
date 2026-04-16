@@ -38,13 +38,6 @@
     "traktSortBy": "random"
   },
   {
-    "id": "trakt-millennials-nostalgia",
-    "title": "Millennials Nostalgia",
-    "url": "katyrbrown96/lists/millennials-nostalgia",
-    "catalogType": "traktMovie",
-    "traktSortBy": "random"
-  },
-  {
     "id": "trakt-revenge-movies",
     "title": "Revenge Movies",
     "url": "kayaaron13/lists/revenge-movies",
