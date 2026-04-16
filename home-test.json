@@ -120,13 +120,6 @@
     "catalogType": "traktMovie",
     "traktSortBy": "random"
   },
-     {
-    "id": "well-acted",
-    "title": "Acting Level: Legendary",
-    "url": "rizreflects/lists/well-acted",
-    "catalogType": "traktMovie",
-    "traktSortBy": "random"
-  },
     {
     "id": "well-acted",
     "title": "Acting Level: Legendary",
