@@ -80,20 +80,6 @@
     "traktSortBy": "random"
   },
   {
-    "id": "trakt-survival-movies",
-    "title": "Survival Movies",
-    "url": "kayaaron13/lists/survival-movies",
-    "catalogType": "traktMovie",
-    "traktSortBy": "random"
-  },
-  {
-    "id": "trakt-comfort-movies",
-    "title": "Comfort Movies",
-    "url": "kayaaron13/lists/comfort-movies",
-    "catalogType": "traktMovie",
-    "traktSortBy": "random"
-  },
-  {
     "id": "trakt-top-bank-robbery-movies",
     "title": "Top Bank Robbery Movies",
     "url": "kayaaron13/lists/ranker-top-bank-robbery-movies",
@@ -167,13 +153,6 @@
     "id": "trakt-crime-movies",
     "title": "Crime Movies: Top Picks",
     "url": "garycrawfordgc/lists/crime",
-    "catalogType": "traktMovie",
-    "traktSortBy": "random"
-  },
-  {
-    "id": "trakt-laughs-and-laughter",
-    "title": "Laughs & Laughter",
-    "url": "hdlists/lists/comedy-movies-top-rated-from-1960-to-today",
     "catalogType": "traktMovie",
     "traktSortBy": "random"
   },
