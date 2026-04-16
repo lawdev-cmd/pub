@@ -36,19 +36,25 @@
     "url": "spawnofsatan/lists/action-movies-2000-2020",
     "catalogType": "traktMovie",
     "traktSortBy": "random"
-  },
-      {
-    "id": "tmdb-favorite-actors-tv",
-    "title": "Star Cast Shows",
-    "url": "mertens21/lists/tmdb-favorite-actors-tv",
-    "catalogType": "traktTv",
-    "traktSortBy": "random"
-  },
-        {
+  }, {
     "id": "miro-s-feel-good",
     "title": "Feel Good Movies",
     "url": "mrlegendneo/lists/miro-s-feel-good",
     "catalogType": "traktMovie",
+    "traktSortBy": "random"
+  },
+      {
+    "id": "slapstick-comedies",
+    "title": "Boredom Busters",
+    "url": "rizreflects/lists/slapstick-comedies",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random"
+  },
+      {
+    "id": "true-crime-docs-series",
+    "title": "True Crime Shows",
+    "url": "rizreflects/lists/true-crime-docs-series",
+    "catalogType": "traktTv",
     "traktSortBy": "random"
   },
       {
