@@ -141,13 +141,6 @@
     "catalogType": "traktMovie",
     "traktSortBy": "random"
   },
-       {
-    "id": "romance-movies",
-    "title": "Love in the Air",
-    "url": "rizreflects/lists/romance",
-    "catalogType": "traktMovie",
-    "traktSortBy": "random"
-  },
       {
     "id": "sci-fi-movies",
     "title": "The Sci-Fi Vault",
