@@ -38,6 +38,20 @@
     "traktSortBy": "random"
   },
       {
+    "id": "tmdb-favorite-actors-tv",
+    "title": "Star Cast Shows",
+    "url": "mertens21/lists/tmdb-favorite-actors-tv",
+    "catalogType": "traktTv",
+    "traktSortBy": "random"
+  },
+        {
+    "id": "miro-s-feel-good",
+    "title": "Feel Good Movies",
+    "url": "mrlegendneo/lists/miro-s-feel-good",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random"
+  },
+      {
     "id": "suspenseful-rizreflects-lists",
     "title": "Suspenseful movies",
     "url": "rizreflects/lists/suspenseful",
