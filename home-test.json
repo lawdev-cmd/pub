@@ -37,6 +37,27 @@
     "catalogType": "traktMovie",
     "traktSortBy": "random"
   },
+      {
+    "id": "suspenseful-rizreflects-lists",
+    "title": "Suspenseful movies",
+    "url": "rizreflects/lists/suspenseful",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random"
+  },
+      {
+    "id": "star-power",
+    "title": "Star Power",
+    "url": "forseti/lists/big-popular-blockbusters",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random"
+  },
+        {
+    "id": "big-popular-blockbusters",
+    "title": "Blockbuster movies",
+    "url": "forseti/lists/big-popular-blockbusters",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random"
+  },
   {
     "id": "trakt-90-minute-movies",
     "title": "90 Minute Movies",
