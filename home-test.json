@@ -19,7 +19,7 @@
     "title": "Trending Movies",
     "url": "tvgeniekodi/lists/trending-movies",
     "catalogType": "traktMovie",
-    "traktSortBy": null,
+    "traktSortBy": "",
     "inPlace": true
   },
   {
@@ -27,7 +27,7 @@
     "title": "Latest TV Shows",
     "url": "garycrawfordgc/lists/latest-tv-shows",
     "catalogType": "traktTv",
-    "traktSortBy": null,
+    "traktSortBy": "",
     "inPlace": true
   },
     {
