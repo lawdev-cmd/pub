@@ -162,13 +162,6 @@
     "catalogType": "traktMovie",
     "traktSortBy": "random"
   },
-  {
-    "id": "dark-films",
-    "title": "Dark Films",
-    "url": "rizreflects/lists/dark",
-    "catalogType": "traktMovie",
-    "traktSortBy": "random"
-  },
       {
     "id": "true-crime-docs-series",
     "title": "True Crime Shows",
@@ -222,27 +215,6 @@
     "id": "trakt-comedy-movies-garycrawfordgc",
     "title": "Comedy Movies: Top Picks",
     "url": "garycrawfordgc/lists/comedy",
-    "catalogType": "traktMovie",
-    "traktSortBy": "random"
-  },
-  {
-    "id": "trakt-thriller-movies-garycrawfordgc",
-    "title": "Thriller Movies: Top Picks",
-    "url": "garycrawfordgc/lists/thriller",
-    "catalogType": "traktMovie",
-    "traktSortBy": "random"
-  },
-  {
-    "id": "trakt-conspiracy-theories",
-    "title": "Conspiracy Theories",
-    "url": "kayaaron13/lists/conspiracy-movies",
-    "catalogType": "traktMovie",
-    "traktSortBy": "random"
-  },
-  {
-    "id": "trakt-comfort-movies",
-    "title": "Comfort Movies",
-    "url": "kayaaron13/lists/comfort-movies",
     "catalogType": "traktMovie",
     "traktSortBy": "random"
   },
