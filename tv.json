@@ -18,7 +18,7 @@
     "title": "Latest Netflix Shows",
     "url": "snoak/lists/latest-netflix-shows",
     "catalogType": "traktTv",
-    "traktSortBy": "random"
+    "traktSortBy": null
   },
   {
     "id": "trakt-hulu-shows",
