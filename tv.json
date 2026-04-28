@@ -7,13 +7,6 @@
     "traktSortBy": null
   },
   {
-    "id": "tv-crime",
-    "title": "Crime TV Shows",
-    "url": "discover/tv?include_adult=false&include_null_first_air_dates=false&language=en-US&page=1&sort_by=first_air_date.desc&with_genres=80&with_original_language=en&vote_count.gte=40",
-    "catalogType": "tmdbTvDiscover",
-    "traktSortBy": null
-  },
-  {
     "id": "latest-netflix-shows",
     "title": "Latest Netflix Shows",
     "url": "snoak/lists/latest-netflix-shows",
@@ -27,13 +20,28 @@
     "catalogType": "traktTv",
     "traktSortBy": null
   },
+     {
+    "id": "latest-apple-tv-shows",
+    "title": "Latest Apple TV+ Shows",
+    "url": "snoak/lists/latest-apple-tv-shows",
+    "catalogType": "traktTv",
+    "traktSortBy": null
+  },
         {
     "id": "latest-hbo-max-shows",
     "title": "Latest HBO Max Shows",
     "url": "snoak/lists/latest-hbo-max-shows",
     "catalogType": "traktTv",
     "traktSortBy": null
-  },{
+  },
+   {
+    "id": "latest-amazon-prime-shows",
+    "title": "Latest Amazon Prime Shows",
+    "url": "snoak/lists/latest-amazon-prime-shows",
+    "catalogType": "traktTv",
+    "traktSortBy": null
+  },
+   {
     "id": "latest-disney-shows",
     "title": "Latest Disney+ Shows",
     "url": "snoak/lists/latest-disney-shows",
