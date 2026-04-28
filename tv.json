@@ -33,47 +33,22 @@
     "url": "snoak/lists/latest-hbo-max-shows",
     "catalogType": "traktTv",
     "traktSortBy": null
-  },
-      {
-    "id": "latest-hulu-shows",
-    "title": "Latest Hulu Shows",
-    "url": "snoak/lists/latest-hulu-shows",
-    "catalogType": "traktTv",
-    "traktSortBy": null
-  },
-        {
+  },{
     "id": "latest-disney-shows",
     "title": "Latest Disney+ Shows",
     "url": "snoak/lists/latest-disney-shows",
     "catalogType": "traktTv",
     "traktSortBy": null
   },
-     {
-    "id": "trakt-hulu-shows",
-    "title": "Hulu Series",
-    "url": "garycrawfordgc/lists/hulu-shows",
+   {
+    "id": "latest-hulu-shows",
+    "title": "Latest Disney+ Shows",
+    "url": "snoak/lists/latest-hulu-shows",
     "catalogType": "traktTv",
-    "traktSortBy": "random"
-  },
-  {
-    "id": "trakt-hulu-shows",
-    "title": "Hulu Series",
-    "url": "garycrawfordgc/lists/hulu-shows",
-    "catalogType": "traktTv",
-    "traktSortBy": "random"
-  },
-  {
-    "id": "trakt-disney-shows",
-    "title": "Disney+ Series",
-    "url": "garycrawfordgc/lists/disney-shows",
-    "catalogType": "traktTv",
-    "traktSortBy": "random"
-  },
-  {
-    "id": "trakt-comedy-shows",
-    "title": "Comedy Series",
-    "url": "garycrawfordgc/lists/comedy-shows",
-    "catalogType": "traktTv",
-    "traktSortBy": "random"
+    "traktSortBy": null
   }
+    
+
+
+ 
 ]
