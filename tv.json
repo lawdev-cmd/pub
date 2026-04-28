@@ -14,9 +14,9 @@
     "traktSortBy": null
   },
   {
-    "id": "trakt-netflix-shows",
-    "title": "Netflix Series",
-    "url": "garycrawfordgc/lists/netflix-shows",
+    "id": "latest-netflix-shows",
+    "title": "Latest Netflix Shows",
+    "url": "snoak/lists/latest-netflix-shows",
     "catalogType": "traktTv",
     "traktSortBy": "random"
   },
