@@ -70,9 +70,44 @@
     "catalogType": "traktTv",
     "traktSortBy": null,
         "inPlace": true
+  },
+   {
+    "id": "latest-kdrama-shows",
+    "title": "Latest KDrama Shows",
+    "url": "snoak/lists/latest-kdrama-shows",
+    "catalogType": "traktTv",
+    "traktSortBy": null,
+        "inPlace": true
+  },
+   {
+    "id": "latest-reality-shows",
+    "title": "Latest Reality Shows",
+    "url": "snoak/lists/latest-reality-shows",
+    "catalogType": "traktTv",
+    "traktSortBy": null,
+        "inPlace": true
+  },
+   {
+    "id": "latest-sci-fi-shows",
+    "title": "Latest Sci-Fi Shows",
+    "url": "snoak/lists/latest-sci-fi-shows",
+    "catalogType": "traktTv",
+    "traktSortBy": null,
+        "inPlace": true
+  },
+   {
+    "id": "latest-thriller-shows",
+    "title": "Latest Thriller Shows",
+    "url": "snoak/lists/latest-thriller-shows",
+    "catalogType": "traktTv",
+    "traktSortBy": null,
+        "inPlace": true
+  },{
+    "id": "latest-spy-thriller-assassin-shows",
+    "title": "Latest Spy Thriller Shows",
+    "url": "snoak/lists/latest-spy-thriller-assassin-shows",
+    "catalogType": "traktTv",
+    "traktSortBy": null,
+        "inPlace": true
   }
-    
-
-
- 
 ]
