@@ -20,6 +20,41 @@
     "catalogType": "traktTv",
     "traktSortBy": null
   },
+     {
+    "id": "latest-paramount-shows",
+    "title": "Latest Paramount+ Shows",
+    "url": "snoak/lists/latest-paramount-shows",
+    "catalogType": "traktTv",
+    "traktSortBy": null
+  },
+        {
+    "id": "latest-hbo-max-shows",
+    "title": "Latest HBO Max Shows",
+    "url": "snoak/lists/latest-hbo-max-shows",
+    "catalogType": "traktTv",
+    "traktSortBy": null
+  },
+      {
+    "id": "latest-hulu-shows",
+    "title": "Latest Hulu Shows",
+    "url": "snoak/lists/latest-hulu-shows",
+    "catalogType": "traktTv",
+    "traktSortBy": null
+  },
+        {
+    "id": "latest-disney-shows",
+    "title": "Latest Disney+ Shows",
+    "url": "snoak/lists/latest-disney-shows",
+    "catalogType": "traktTv",
+    "traktSortBy": null
+  },
+     {
+    "id": "trakt-hulu-shows",
+    "title": "Hulu Series",
+    "url": "garycrawfordgc/lists/hulu-shows",
+    "catalogType": "traktTv",
+    "traktSortBy": "random"
+  },
   {
     "id": "trakt-hulu-shows",
     "title": "Hulu Series",
