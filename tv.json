@@ -57,7 +57,7 @@
   },
   {
     "id": "latest-hulu-shows",
-    "title": "Latest Disney+ Shows",
+    "title": "Latest Hulu Shows",
     "url": "snoak/lists/latest-hulu-shows",
     "catalogType": "traktTv",
     "traktSortBy": null,
