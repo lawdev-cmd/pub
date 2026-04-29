@@ -4,6 +4,7 @@
     "title": "Continue Watching",
     "url": null,
     "catalogType": "continueWatching",
+    "inPlace": true,
     "traktSortBy": null
   },
   {
