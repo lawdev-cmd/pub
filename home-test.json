@@ -29,28 +29,57 @@
     "catalogType": "traktTv",
     "traktSortBy": "",
     "inPlace": true
-  }, {
+  },
+  {
     "id": "visually-pleasing",
     "title": "Visually Pleasing",
     "url": "rizreflects/lists/visually-pleasing",
     "catalogType": "traktMovie",
     "traktSortBy": "random"
   },
-      {
+  {
+    "id": "bingeworthy-tv",
+    "title": "Bingeworthy TV",
+    "url": "marzipan-pie/lists/bingeworthy-tv",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random"
+  },
+  {
+    "id": "exciting-european-movies",
+    "title": "Movies from Europe",
+    "url": "amadeus68/lists/exciting-european-movies",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random"
+  },
+  {
+    "id": "oscar-winners-best-picture",
+    "title": "Oscar Winners: Best Picture",
+    "url": "eninja/lists/oscar-winners-best-picture",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random"
+  },
+  {
+    "id": "oscar-winners-best-cinematography",
+    "title": "Oscar Winners: Best Cinematography",
+    "url": "majeed_pk/lists/oscar-nominated-movies-for-best-cinematography",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random"
+  },
+  {
     "id": "quirky-indies",
     "title": "Quirky Indies",
     "url": "rizreflects/lists/quirky-indies",
     "catalogType": "traktMovie",
     "traktSortBy": "random"
   },
-      {
+  {
     "id": "survival-thrillers",
     "title": "Survival Thrillers",
     "url": "rizreflects/lists/survival",
     "catalogType": "traktMovie",
     "traktSortBy": "random"
   },
-   {
+  {
     "id": "astronomy-space",
     "title": "Zero Gravity Watchlist",
     "url": "rizreflects/lists/astronomy-space",
@@ -64,35 +93,35 @@
     "catalogType": "traktMovie",
     "traktSortBy": "random"
   },
-    {
+  {
     "id": "90s-00s-nostalgia",
     "title": "Nostalgia",
     "url": "ruthalyn/lists/90s-00s-nostalgia",
     "catalogType": "traktMovie",
     "traktSortBy": "random"
   },
-      {
+  {
     "id": "true-crime-docs-series",
     "title": "True Crime Shows",
     "url": "rizreflects/lists/true-crime-docs-series",
     "catalogType": "traktTv",
     "traktSortBy": "random"
   },
-      {
+  {
     "id": "suspenseful-rizreflects-lists",
     "title": "Suspenseful movies",
     "url": "rizreflects/lists/suspenseful",
     "catalogType": "traktMovie",
     "traktSortBy": "random"
   },
-      {
+  {
     "id": "star-power",
     "title": "Star Power",
     "url": "forseti/lists/big-popular-blockbusters",
     "catalogType": "traktMovie",
     "traktSortBy": "random"
   },
-        {
+  {
     "id": "big-popular-blockbusters",
     "title": "Blockbuster movies",
     "url": "forseti/lists/big-popular-blockbusters",
@@ -169,118 +198,119 @@
     "catalogType": "traktMovie",
     "traktSortBy": "random"
   },
-    {
+  {
     "id": "action-movies-2000-2020",
     "title": "Get in on the Action",
     "url": "spawnofsatan/lists/action-movies-2000-2020",
     "catalogType": "traktMovie",
     "traktSortBy": "random"
-  }, {
+  },
+  {
     "id": "miro-s-feel-good",
     "title": "Feel Good Movies",
     "url": "mrlegendneo/lists/miro-s-feel-good",
     "catalogType": "traktMovie",
     "traktSortBy": "random"
   },
-      {
+  {
     "id": "slapstick-comedies",
     "title": "Boredom Busters",
     "url": "rizreflects/lists/slapstick-comedies",
     "catalogType": "traktMovie",
     "traktSortBy": "random"
   },
-    {
+  {
     "id": "emotional-movies",
     "title": "Emotional Films",
     "url": "rizreflects/lists/emotional",
     "catalogType": "traktMovie",
     "traktSortBy": "random"
   },
-    {
+  {
     "id": "heart-warming-movies",
     "title": "Heart Warming Movies",
     "url": "rizreflects/lists/heart-warming",
     "catalogType": "traktMovie",
     "traktSortBy": "random"
   },
-      {
+  {
     "id": "inspiring-movies",
     "title": "Inspiring",
     "url": "rizreflects/lists/inspiring",
     "catalogType": "traktMovie",
     "traktSortBy": "random"
   },
-        {
+  {
     "id": "intense-movies",
     "title": "Intense Movies",
     "url": "rizreflects/lists/intense",
     "catalogType": "traktMovie",
     "traktSortBy": "random"
   },
-         {
+  {
     "id": "lighthearted-movies",
     "title": "Lighthearted",
     "url": "rizreflects/lists/lighthearted",
     "catalogType": "traktMovie",
     "traktSortBy": "random"
   },
-      {
+  {
     "id": "no-brainers-movies",
     "title": "No brainers",
     "url": "rizreflects/lists/no-brainers",
     "catalogType": "traktMovie",
     "traktSortBy": "random"
   },
-     {
+  {
     "id": "slow-burners",
     "title": "Slow Burners",
     "url": "rizreflects/lists/slow-burners",
     "catalogType": "traktMovie",
     "traktSortBy": "random"
   },
-      {
+  {
     "id": "touching-movies",
     "title": "Touching Movies",
     "url": "rizreflects/lists/touching",
     "catalogType": "traktMovie",
     "traktSortBy": "random"
   },
-    {
+  {
     "id": "true-story-based",
     "title": "Base on True Story",
     "url": "rizreflects/lists/true-story-based",
     "catalogType": "traktMovie",
     "traktSortBy": "random"
   },
-   {
+  {
     "id": "depressing-movies",
     "title": "Depressing",
     "url": "rizreflects/lists/depressing",
     "catalogType": "traktMovie",
     "traktSortBy": "random"
   },
-    {
+  {
     "id": "well-acted",
     "title": "Acting Level: Legendary",
     "url": "rizreflects/lists/well-acted",
     "catalogType": "traktMovie",
     "traktSortBy": "random"
   },
-   {
+  {
     "id": "sweet-movies",
     "title": "Sweet",
     "url": "rizreflects/lists/sweet",
     "catalogType": "traktMovie",
     "traktSortBy": "random"
   },
-     {
+  {
     "id": "romance-movies",
     "title": "Love in the Air",
     "url": "rizreflects/lists/romance",
     "catalogType": "traktMovie",
     "traktSortBy": "random"
   },
-      {
+  {
     "id": "sci-fi-movies",
     "title": "The Sci-Fi Vault",
     "url": "rizreflects/lists/sci-fi-movies",
