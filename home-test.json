@@ -64,6 +64,13 @@
     "catalogType": "traktMovie",
     "traktSortBy": "random"
   },
+    {
+    "id": "90s-00s-nostalgia",
+    "title": "Nostalgia",
+    "url": "ruthalyn/lists/90s-00s-nostalgia",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random"
+  },
       {
     "id": "true-crime-docs-series",
     "title": "True Crime Shows",
