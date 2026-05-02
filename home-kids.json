@@ -12,7 +12,8 @@
     "title": "Trending Kids Movies",
     "url": "tvgeniekodi/lists/trending-kids-movies",
     "catalogType": "traktMovie",
-    "traktSortBy": "random"
+    "inPlace": true,
+    "traktSortBy": null
   },
   {
     "id": "kids-animated-movies",
