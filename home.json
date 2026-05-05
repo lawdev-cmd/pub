@@ -30,6 +30,14 @@
     "traktSortBy": "",
     "inPlace": true
   },
+    {
+    "id": "daily-picks",
+    "title": "Today's Picks",
+    "url": "tvgeniekodi/lists/daily-picks",
+    "catalogType": "traktMovie",
+    "traktSortBy": "",
+    "inPlace": true
+  },
   {
     "id": "visually-pleasing",
     "title": "Visually Pleasing",
