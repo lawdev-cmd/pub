@@ -32,11 +32,10 @@
   },
     {
     "id": "daily-picks",
-    "title": "Today's Picks",
+    "title": "Today's Random Picks",
     "url": "tvgeniekodi/lists/daily-picks",
     "catalogType": "traktMovie",
-    "traktSortBy": "",
-    "inPlace": true
+    "traktSortBy": "random"
   },
   {
     "id": "visually-pleasing",
