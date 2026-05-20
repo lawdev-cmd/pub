@@ -6,5 +6,37 @@
   {
     "title": "Comedy",
     "url": "https://raw.githubusercontent.com/lawdev-cmd/pub/refs/heads/main/collections/comedy.json"
+  },
+    {
+    "title": "Adventure",
+    "url": "https://raw.githubusercontent.com/lawdev-cmd/pub/refs/heads/main/collections/action.json"
+  },
+  {
+    "title": "Romance",
+    "url": "https://raw.githubusercontent.com/lawdev-cmd/pub/refs/heads/main/collections/comedy.json"
+  },
+    {
+    "title": "Thriller",
+    "url": "https://raw.githubusercontent.com/lawdev-cmd/pub/refs/heads/main/collections/action.json"
+  },
+  {
+    "title": "Horror",
+    "url": "https://raw.githubusercontent.com/lawdev-cmd/pub/refs/heads/main/collections/comedy.json"
+  },
+    {
+    "title": "Western",
+    "url": "https://raw.githubusercontent.com/lawdev-cmd/pub/refs/heads/main/collections/action.json"
+  },
+  {
+    "title": "Romantic Comedy",
+    "url": "https://raw.githubusercontent.com/lawdev-cmd/pub/refs/heads/main/collections/comedy.json"
+  },
+    {
+    "title": "Edge of the seat",
+    "url": "https://raw.githubusercontent.com/lawdev-cmd/pub/refs/heads/main/collections/action.json"
+  },
+  {
+    "title": "Nightmare",
+    "url": "https://raw.githubusercontent.com/lawdev-cmd/pub/refs/heads/main/collections/comedy.json"
   }
 ]
