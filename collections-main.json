@@ -1,0 +1,9 @@
+[
+{
+title: "Action",
+  url: "https://raw.githubusercontent.com/lawdev-cmd/pub/refs/heads/main/collections/action.json"
+},{
+title: "Comedy",
+  url: "https://raw.githubusercontent.com/lawdev-cmd/pub/refs/heads/main/collections/comedy.json"
+}
+]
