@@ -16,9 +16,9 @@
     "traktSortBy": null
   },
   {
-    "id": "kids-animated-movies",
-    "title": "Kids Animated Movies",
-    "url": "kylesheila/lists/kids-animated-movies",
+    "id": "more-kids-movies",
+    "title": "Popular Kids Movies",
+    "url": "madmapper/lists/kids",
     "catalogType": "traktMovie",
     "traktSortBy": "random"
   },
