@@ -25,7 +25,7 @@
   },
   {
     "id": "trakt-thriller-movies-garycrawfordgc",
-    "title": "Thriller Movies: Top Picks",
+    "title": "Thriller Selection",
     "url": "garycrawfordgc/lists/thriller",
     "catalogType": "traktMovie",
     "traktSortBy": "random",
@@ -33,7 +33,7 @@
   },
   {
     "id": "trakt-action-80s-style",
-    "title": "Retro Action Blast",
+    "title": "1980s Action",
     "url": "marcelocastanheira/lists/action-80s-style",
     "catalogType": "traktMovie",
     "traktSortBy": "random",
@@ -58,7 +58,7 @@
   },
   {
     "id": "bang-bang-bang",
-    "title": "Smoking Barrels",
+    "title": "Gunfight Action",
     "url": "marcelocastanheira/lists/bang-bang-bang",
     "catalogType": "traktMovie",
     "traktSortBy": "random",
@@ -74,7 +74,7 @@
   },
   {
     "id": "war-war-war",
-    "title": "Battle Scar Cinema",
+    "title": "War Action",
     "url": "marcelocastanheira/lists/war-war-war",
     "catalogType": "traktMovie",
     "traktSortBy": "random",
@@ -90,7 +90,7 @@
   },
   {
     "id": "best-ass-whooping-actions-survivals",
-    "title": "Ass-whooping Action",
+    "title": "Hard-Hitting Action",
     "url": "nashmyjo/lists/best-ass-whooping-actions-survivals",
     "catalogType": "traktMovie",
     "traktSortBy": "random",
@@ -98,7 +98,7 @@
   },
   {
     "id": "assassin-hitman-spy",
-    "title": "Smoke & Mirrors",
+    "title": "Spy and Assassin Thrillers",
     "url": "29zombies/lists/assassin-hitman-spy",
     "catalogType": "traktMovie",
     "traktSortBy": "random",
@@ -106,7 +106,7 @@
   },
   {
     "id": "bad-dirty-corrupt-cops",
-    "title": "Cops Gone Rogue",
+    "title": "Rogue Cops",
     "url": "29zombies/lists/bad-dirty-corrupt-cops",
     "catalogType": "traktMovie",
     "traktSortBy": "random",
@@ -114,7 +114,7 @@
   },
   {
     "id": "car-chase-movies",
-    "title": "Pedal to the Metal",
+    "title": "Car Chase Action",
     "url": "29zombies/lists/car-chase",
     "catalogType": "traktMovie",
     "traktSortBy": "random",
