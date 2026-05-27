@@ -1,0 +1,122 @@
+[
+  {
+    "id": "trakt-romance-masterpieces",
+    "title": "Romance Masterpieces",
+    "url": "movistapp/lists/romance",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57
+  },
+  {
+    "id": "trakt-imdb-romance-favorites",
+    "title": "IMDb Romance Favorites",
+    "url": "irishstevo/lists/imdb-s-top-romance-movies",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 62
+  },
+  {
+    "id": "trakt-movies-romance",
+    "title": "Romance Movies",
+    "url": "jacksmomrocks/lists/movies-romance",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57
+  },
+  {
+    "id": "trakt-best-romance-movies",
+    "title": "Best Romance Movies",
+    "url": "moses456/lists/romance_-best-romance-in-movies",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 60
+  },
+  {
+    "id": "trakt-rotten-tomatoes-romance",
+    "title": "Rotten Tomatoes Top Romance",
+    "url": "cristinx/lists/rotten-tomatoe-s-top-100-romance-movies",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 65
+  },
+  {
+    "id": "trakt-comedy-and-romance",
+    "title": "Comedy & Romance",
+    "url": "coldkeys/lists/comedy-and-romance-movies",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57
+  },
+  {
+    "id": "trakt-forbidden-love",
+    "title": "Forbidden Love Stories",
+    "url": "moses456/lists/romance_-forbidden-love-in-movies",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 60
+  },
+  {
+    "id": "trakt-romance-movies-caty",
+    "title": "Romance Collection",
+    "url": "caty129/lists/romance-movies",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57
+  },
+  {
+    "id": "trakt-afi-greatest-love-stories",
+    "title": "AFI Greatest Love Stories",
+    "url": "sp1ti/lists/afi-s-100-years-100-passions-top-100-greatest-love-stories-in-american-cinema",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 68
+  },
+  {
+    "id": "trakt-love-triangle-tension",
+    "title": "Love Triangle & Tension",
+    "url": "majeed_pk/lists/love-triangle-sexual-tension-3rd-party",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57
+  },
+  {
+    "id": "trakt-romance-drama-mix",
+    "title": "Romance & Drama Mix",
+    "url": "krissykk/lists/romance-comedy-and-drama-mixed-movies-1of3",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57
+  },
+  {
+    "id": "trakt-taboo-forbidden-love",
+    "title": "Taboo & Forbidden Love",
+    "url": "additup/lists/taboos-forbidden-or-impossible-love",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57
+  },
+  {
+    "id": "trakt-romance-high-rated",
+    "title": "Top-Rated Romance",
+    "url": "porkie16/lists/romance-movies-rating-65",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 65
+  },
+  {
+    "id": "trakt-romance-movies-stuacott",
+    "title": "Romance Collection",
+    "url": "stuacott/lists/romance-movies",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57
+  },
+  {
+    "id": "trakt-greatest-romance-movies",
+    "title": "100 Greatest Romance Movies",
+    "url": "babyvultch/lists/digital-dreamdoor-s-100-greatest-romance-movies",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 62
+  }
+]
