@@ -28,7 +28,7 @@
   },
   {
     "id": "trakt-thriller-only-on-netflix-netflix-shows",
-    "title": "Only on Netflix",
+    "title": "Streaming Picks",
     "url": "garycrawfordgc/lists/netflix-shows",
     "catalogType": "traktTv",
     "traktSortBy": "random",
@@ -84,15 +84,6 @@
     "id": "trakt-thriller-activating-beast-mode-badass-chics",
     "title": "Activating Beast Mode",
     "url": "hirkiti/lists/badass-chics",
-    "catalogType": "traktMovie",
-    "traktSortBy": "random",
-    "minRating": 57,
-    "minYear": 1980
-  },
-  {
-    "id": "trakt-thriller-indian-movies-best-indian-thrillers-movies",
-    "title": "Indian Movies",
-    "url": "reaj47/lists/best-indian-thrillers-movies",
     "catalogType": "traktMovie",
     "traktSortBy": "random",
     "minRating": 57,
