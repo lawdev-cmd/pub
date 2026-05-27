@@ -1,106 +1,110 @@
 [
   {
-    "id": "trakt-western-masterpieces",
-    "title": "Western Selection",
+    "id": "trakt-western-today-s-topics-for-you-western-top-100-movies-rotten-tomatoes",
+    "title": "Today's Topics for You",
+    "url": "majeed_pk/lists/western-top-100-movies-rotten-tomatoes",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1960
+  },
+  {
+    "id": "trakt-western-classic-westerns-western",
+    "title": "Classic Westerns",
     "url": "movistapp/lists/western",
     "catalogType": "traktMovie",
     "traktSortBy": "random",
-    "minRating": 57
+    "minRating": 57,
+    "minYear": 1960
   },
   {
-    "id": "trakt-ranker-top-western",
-    "title": "Ranker Top Western Movies",
+    "id": "trakt-western-spaghetti-westerns-top-westerns",
+    "title": "Spaghetti Westerns",
+    "url": "tvgeniekodi/lists/top-westerns",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1960
+  },
+  {
+    "id": "trakt-western-modern-westerns-ranker-top-western-movies",
+    "title": "Modern Westerns",
     "url": "kayaaron13/lists/ranker-top-western-movies",
     "catalogType": "traktMovie",
     "traktSortBy": "random",
-    "minRating": 57
+    "minRating": 57,
+    "minYear": 1960
   },
   {
-    "id": "trakt-imdb-western-favorites",
-    "title": "IMDb Top Western",
+    "id": "trakt-western-western-tv-shows-westerns-tv",
+    "title": "Western TV Shows",
+    "url": "coldkeys/lists/westerns-tv",
+    "catalogType": "traktTv",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1960
+  },
+  {
+    "id": "trakt-western-outlaws-gunslingers-western-movies",
+    "title": "Outlaws & Gunslingers",
+    "url": "maxtrontv/lists/western-movies",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1960
+  },
+  {
+    "id": "trakt-western-western-epics-animation-scooby-doo-franchise",
+    "title": "Western Epics",
+    "url": "krissykk/lists/animation-scooby-doo-franchise",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1960
+  },
+  {
+    "id": "trakt-western-critically-acclaimed-westerns-imdb-s-top-western-movies",
+    "title": "Critically Acclaimed Westerns",
     "url": "irishstevo/lists/imdb-s-top-western-movies",
     "catalogType": "traktMovie",
     "traktSortBy": "random",
-    "minRating": 62
+    "minRating": 57,
+    "minYear": 1960
   },
   {
-    "id": "trakt-western-movies-coldkeys",
-    "title": "Western Movies",
-    "url": "coldkeys/lists/western-movies",
-    "catalogType": "traktMovie",
-    "traktSortBy": "random",
-    "minRating": 57
-  },
-  {
-    "id": "trakt-rotten-tomatoes-75-western",
-    "title": "Rotten Tomatoes 75 Best Westerns",
-    "url": "palmscan/lists/rotten-tomatoes-75-best-western-movies-of-all-time-copy",
-    "catalogType": "traktMovie",
-    "traktSortBy": "random",
-    "minRating": 65
-  },
-  {
-    "id": "trakt-rotten-tomatoes-top-60-western",
-    "title": "Rotten Tomatoes Top 60 Westerns",
-    "url": "travvyt/lists/rotten-tomatoes-top-60-western-movies",
-    "catalogType": "traktMovie",
-    "traktSortBy": "random",
-    "minRating": 65
-  },
-  {
-    "id": "trakt-spaghetti-westerns-500",
-    "title": "Spaghetti Westerns 500+",
+    "id": "trakt-western-revisionist-westerns-western-spaghetti-westerns-500-films",
+    "title": "Revisionist Westerns",
     "url": "majeed_pk/lists/western-spaghetti-westerns-500-films",
     "catalogType": "traktMovie",
     "traktSortBy": "random",
-    "minRating": 57
+    "minRating": 57,
+    "minYear": 1960
   },
   {
-    "id": "trakt-spaghetti-westerns-del74",
-    "title": "Spaghetti Western Classics",
-    "url": "del74/lists/spaghetti-westerns",
+    "id": "trakt-western-cowboy-adventures-clint-eastwood-westerns",
+    "title": "Cowboy Adventures",
+    "url": "cscott1/lists/clint-eastwood-westerns",
     "catalogType": "traktMovie",
     "traktSortBy": "random",
-    "minRating": 57
+    "minRating": 57,
+    "minYear": 1960
   },
   {
-    "id": "trakt-spaghetti-westerns-watchlist",
-    "title": "Spaghetti Western Essentials",
-    "url": "jeffsmith99/lists/spaghetti-westerns-i-want-to-watch",
+    "id": "trakt-western-western-gems-classic-westerns",
+    "title": "Western Gems",
+    "url": "kingkearney/lists/classic-westerns",
     "catalogType": "traktMovie",
     "traktSortBy": "random",
-    "minRating": 57
+    "minRating": 57,
+    "minYear": 1960
   },
   {
-    "id": "trakt-western-high-rated",
-    "title": "High-Rated Western",
-    "url": "canconfirm/lists/westerns",
+    "id": "trakt-western-your-next-watch-the-best-westerns",
+    "title": "Your Next Watch",
+    "url": "jim222001/lists/the-best-westerns",
     "catalogType": "traktMovie",
     "traktSortBy": "random",
-    "minRating": 65
-  },
-  {
-    "id": "trakt-western-collection-jtucci",
-    "title": "Western Collection",
-    "url": "jtucci/lists/western",
-    "catalogType": "traktMovie",
-    "traktSortBy": "random",
-    "minRating": 57
-  },
-  {
-    "id": "trakt-100-best-western-films",
-    "title": "100 Best Western Films (Critics)",
-    "url": "medous/lists/100-best-western-films-of-all-time-according-to-critics",
-    "catalogType": "traktMovie",
-    "traktSortBy": "random",
-    "minRating": 65
-  },
-  {
-    "id": "trakt-western-119-best-films",
-    "title": "119 Best Western Films",
-    "url": "dynamoracing/lists/western-119-best-films-of-all-time-copy",
-    "catalogType": "traktMovie",
-    "traktSortBy": "random",
-    "minRating": 62
+    "minRating": 57,
+    "minYear": 1960
   }
 ]
