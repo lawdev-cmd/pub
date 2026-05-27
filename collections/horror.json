@@ -117,9 +117,9 @@
     "minYear": 1980
   },
   {
-    "id": "trakt-horror-body-horror-70s-horror-cult",
+    "id": "trakt-horror-body-horror-david-cronenberg",
     "title": "Body Horror",
-    "url": "marcelocastanheira/lists/70s-horror-cult",
+    "url": "caspian024/lists/david-cronenberg",
     "catalogType": "traktMovie",
     "traktSortBy": "random",
     "minRating": 57,
