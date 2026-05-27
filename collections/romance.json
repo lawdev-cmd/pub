@@ -55,7 +55,7 @@
   },
   {
     "id": "trakt-romance-only-on-netflix-netflix1",
-    "title": "Only on Netflix",
+    "title": "Streaming Picks",
     "url": "stuacott/lists/netflix1",
     "catalogType": "traktMovie",
     "traktSortBy": "random",
@@ -118,7 +118,7 @@
   },
   {
     "id": "trakt-romance-new-on-netflix-hallmark-romance-premieres-2024-2025",
-    "title": "New on Netflix",
+    "title": "Trending This Year",
     "url": "midnitewolf/lists/hallmark-romance-premieres-2024-2025",
     "catalogType": "traktMovie",
     "traktSortBy": "random",
