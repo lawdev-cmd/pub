@@ -88,9 +88,9 @@
     "minRating": 57
   },
   {
-    "id": "trakt-adventure-movies-stuacott",
-    "title": "Adventure Collection",
-    "url": "stuacott/lists/adventure-movies",
+    "id": "trakt-sea-and-sail-adventures",
+    "title": "Sea & Sail Adventures",
+    "url": "g3orgios/lists/sea-sail",
     "catalogType": "traktMovie",
     "traktSortBy": "random",
     "minRating": 57
@@ -104,12 +104,12 @@
     "minRating": 57
   },
   {
-    "id": "trakt-adventure-high-rated",
-    "title": "Top-Rated Adventures",
-    "url": "porkie16/lists/adventure-movies-rating-65",
+    "id": "trakt-survival-movies-jim",
+    "title": "Survival Movie Picks",
+    "url": "jim222001/lists/survival-movies",
     "catalogType": "traktMovie",
     "traktSortBy": "random",
-    "minRating": 65
+    "minRating": 60
   },
   {
     "id": "trakt-expedition-survival",
