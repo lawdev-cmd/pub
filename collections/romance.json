@@ -16,9 +16,9 @@
         "minRating":  57
     },
     {
-        "id":  "trakt-romance-romance-movies-romance-comedy-and-drama-mixed-movies-1of3",
+        "id":  "trakt-romance-romance-movies-romance-movies",
         "title":  "Romance Movies",
-        "url":  "krissykk/lists/romance-comedy-and-drama-mixed-movies-1of3",
+        "url":  "maxtrontv/lists/romance-movies",
         "catalogType":  "traktMovie",
         "traktSortBy":  "random",
         "minRating":  57
@@ -40,9 +40,9 @@
         "minRating":  57
     },
     {
-        "id":  "trakt-romance-k-dramas-for-beginners-best-south-korean-movies-amp",
+        "id":  "trakt-romance-k-dramas-for-beginners-2019-2025-korean-drama",
         "title":  "K-Dramas for Beginners",
-        "url":  "gsmolo/lists/best-south-korean-movies-amp",
+        "url":  "a-homrany-hotmail-com/lists/2019-2025-korean-drama",
         "catalogType":  "traktTv",
         "traktSortBy":  "random",
         "minRating":  57
@@ -56,9 +56,9 @@
         "minRating":  57
     },
     {
-        "id":  "trakt-romance-romantic-comedies-reciperr-romantic-comedy-subgenre-movies-1990-2030-no-anim",
+        "id":  "trakt-romance-romantic-comedies-rotten-tomatoes-the-200-best-romantic-comedies-of-all-time",
         "title":  "Romantic Comedies",
-        "url":  "d-sync/lists/reciperr-romantic-comedy-subgenre-movies-1990-2030-no-animation",
+        "url":  "lish408/lists/rotten-tomatoes-the-200-best-romantic-comedies-of-all-time",
         "catalogType":  "traktMovie",
         "traktSortBy":  "random",
         "minRating":  57
@@ -72,33 +72,33 @@
         "minRating":  57
     },
     {
-        "id":  "trakt-romance-tv-drama-dies-rotten-tomatoes-the-200-best-romantic-comedies-of-all-time",
+        "id":  "trakt-romance-tv-drama-dies-rom-coms",
         "title":  "TV Drama(dies)",
-        "url":  "lish408/lists/rotten-tomatoes-the-200-best-romantic-comedies-of-all-time",
+        "url":  "madmapper/lists/rom-coms",
         "catalogType":  "traktTv",
         "traktSortBy":  "random",
         "minRating":  57
     },
     {
-        "id":  "trakt-romance-k-dramas-2019-2025-korean-drama",
+        "id":  "trakt-romance-k-dramas-best-south-korean-movies-amp",
         "title":  "K-Dramas",
-        "url":  "a-homrany-hotmail-com/lists/2019-2025-korean-drama",
+        "url":  "gsmolo/lists/best-south-korean-movies-amp",
         "catalogType":  "traktTv",
         "traktSortBy":  "random",
         "minRating":  57
     },
     {
-        "id":  "trakt-romance-romantic-drama-movies-rotten-tomatoes-the-200-best-romantic-comedies-of-all",
+        "id":  "trakt-romance-romantic-drama-movies-romantic-comedies",
         "title":  "Romantic Drama Movies",
-        "url":  "lish408/lists/rotten-tomatoes-the-200-best-romantic-comedies-of-all-time",
+        "url":  "29zombies/lists/romantic-comedies",
         "catalogType":  "traktMovie",
         "traktSortBy":  "random",
         "minRating":  57
     },
     {
-        "id":  "trakt-romance-international-comedies-best-foreign-language-films",
+        "id":  "trakt-romance-international-comedies-foreign-films",
         "title":  "International Comedies",
-        "url":  "starney/lists/best-foreign-language-films",
+        "url":  "majeed_pk/lists/foreign-films",
         "catalogType":  "traktMovie",
         "traktSortBy":  "random",
         "minRating":  57
@@ -128,17 +128,17 @@
         "minRating":  57
     },
     {
-        "id":  "trakt-romance-your-next-watch-must-watch-classic-movies",
+        "id":  "trakt-romance-your-next-watch-chick-flicks",
         "title":  "Your Next Watch",
-        "url":  "gary-lydement/lists/must-watch-classic-movies",
-        "catalogType":  "traktTv",
+        "url":  "canadutchy/lists/chick-flicks",
+        "catalogType":  "traktMovie",
         "traktSortBy":  "random",
         "minRating":  57
     },
     {
-        "id":  "trakt-romance-international-tv-dramas-best-foreign-language-films",
+        "id":  "trakt-romance-international-tv-dramas-british-crime-drama-tv-shows",
         "title":  "International TV Dramas",
-        "url":  "starney/lists/best-foreign-language-films",
+        "url":  "maxtrontv/lists/british-crime-drama-tv-shows",
         "catalogType":  "traktTv",
         "traktSortBy":  "random",
         "minRating":  57
@@ -152,4 +152,3 @@
         "minRating":  57
     }
 ]
-
