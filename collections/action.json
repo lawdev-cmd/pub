@@ -88,5 +88,140 @@
     "traktSortBy": "random",
     "minRating": 57,
     "minYear": 1980
+  },
+  {
+    "id": "trakt-action-martial-arts-movies-martial-arts-the-top-250-greatest-movies-of-all-time",
+    "title": "Martial Arts Movies",
+    "url": "majeed_pk/lists/martial-arts-the-top-250-greatest-movies-of-all-time",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1980
+  },
+  {
+    "id": "trakt-action-spy-thrillers-assassin-hitman-spy",
+    "title": "Spy Thrillers",
+    "url": "29zombies/lists/assassin-hitman-spy",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1980
+  },
+  {
+    "id": "trakt-action-war-movies-war",
+    "title": "War Movies",
+    "url": "garycrawfordgc/lists/war",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1980
+  },
+  {
+    "id": "trakt-action-heist-movies-ranker-top-bank-robbery-movies",
+    "title": "Heist Movies",
+    "url": "kayaaron13/lists/ranker-top-bank-robbery-movies",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1980
+  },
+  {
+    "id": "trakt-action-superhero-movies-superhero-movies",
+    "title": "Superhero Movies",
+    "url": "hammers-lists/lists/superhero-movies",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1980
+  },
+  {
+    "id": "trakt-action-crime-action-action-crime-thriller-list",
+    "title": "Crime Action",
+    "url": "dennisd49/lists/action-crime-thriller-list",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1980
+  },
+  {
+    "id": "trakt-action-action-blockbusters-blockbusters",
+    "title": "Action Blockbusters",
+    "url": "kingkearney/lists/blockbusters",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1980
+  },
+  {
+    "id": "trakt-action-critically-acclaimed-action-rotten-tomatoes-best-action-movies-of-all-time",
+    "title": "Critically Acclaimed Action",
+    "url": "lish408/lists/rotten-tomatoes-best-action-movies-of-all-time",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1980
+  },
+  {
+    "id": "trakt-action-sci-fi-action-sci-fi",
+    "title": "Sci-Fi Action",
+    "url": "garycrawfordgc/lists/sci-fi",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1980
+  },
+  {
+    "id": "trakt-action-car-chase-racing-car-chase",
+    "title": "Car Chase & Racing",
+    "url": "29zombies/lists/car-chase",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1980
+  },
+  {
+    "id": "trakt-action-gems-for-you-hidden-gems",
+    "title": "Gems for You",
+    "url": "recom273/lists/hidden-gems",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1980
+  },
+  {
+    "id": "trakt-action-80s-action-classics-action-80s-style",
+    "title": "80s Action Classics",
+    "url": "marcelocastanheira/lists/action-80s-style",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1980
+  },
+  {
+    "id": "trakt-action-90s-action-movies-90s-blockbusters",
+    "title": "90s Action Movies",
+    "url": "lysin/lists/90s-blockbusters",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1980
+  },
+  {
+    "id": "trakt-action-action-comedies-action_-best-of-80s-90s-00s-action-copy",
+    "title": "Action Comedies",
+    "url": "hippydog77/lists/action_-best-of-80s-90s-00s-action-copy",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1980
+  },
+  {
+    "id": "trakt-action-your-next-watch-bang-bang-bang",
+    "title": "Your Next Watch",
+    "url": "marcelocastanheira/lists/bang-bang-bang",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1980
   }
 ]
