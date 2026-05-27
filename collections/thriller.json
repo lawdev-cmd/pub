@@ -1,8 +1,8 @@
 [
     {
-        "id":  "trakt-thriller-action-movies-action_-best-of-80s-90s-00s-action-copy",
+        "id":  "trakt-thriller-action-movies-assassin-hitman-spy",
         "title":  "Action Movies",
-        "url":  "hippydog77/lists/action_-best-of-80s-90s-00s-action-copy",
+        "url":  "29zombies/lists/assassin-hitman-spy",
         "catalogType":  "traktMovie",
         "traktSortBy":  "random",
         "minRating":  57
@@ -24,9 +24,9 @@
         "minRating":  57
     },
     {
-        "id":  "trakt-thriller-only-on-netflix-netflix1",
+        "id":  "trakt-thriller-only-on-netflix-netflix-shows",
         "title":  "Only on Netflix",
-        "url":  "stuacott/lists/netflix1",
+        "url":  "garycrawfordgc/lists/netflix-shows",
         "catalogType":  "traktTv",
         "traktSortBy":  "random",
         "minRating":  57
@@ -40,9 +40,9 @@
         "minRating":  57
     },
     {
-        "id":  "trakt-thriller-violent-movies-thriller",
+        "id":  "trakt-thriller-violent-movies-bad-dirty-corrupt-cops",
         "title":  "Violent Movies",
-        "url":  "garycrawfordgc/lists/thriller",
+        "url":  "29zombies/lists/bad-dirty-corrupt-cops",
         "catalogType":  "traktMovie",
         "traktSortBy":  "random",
         "minRating":  57
@@ -56,17 +56,17 @@
         "minRating":  57
     },
     {
-        "id":  "trakt-thriller-get-in-on-the-action-action-crime-mystery-thriller-movie",
+        "id":  "trakt-thriller-get-in-on-the-action-action-thrillers",
         "title":  "Get in on the Action",
-        "url":  "subirbd/lists/action-crime-mystery-thriller-movie",
+        "url":  "kingkearney/lists/action-thrillers",
         "catalogType":  "traktMovie",
         "traktSortBy":  "random",
         "minRating":  57
     },
     {
-        "id":  "trakt-thriller-binge-worthy-tv-shows-binge-worthy",
+        "id":  "trakt-thriller-binge-worthy-tv-shows-trakt-popular-tv-shows",
         "title":  "Binge-Worthy TV Shows",
-        "url":  "ibjamn78/lists/binge-worthy",
+        "url":  "justin/lists/trakt-popular-tv-shows",
         "catalogType":  "traktTv",
         "traktSortBy":  "random",
         "minRating":  57
@@ -96,17 +96,17 @@
         "minRating":  57
     },
     {
-        "id":  "trakt-thriller-mind-boggling-binge-watches-mind-bending",
+        "id":  "trakt-thriller-mind-boggling-binge-watches-best-mindfucks",
         "title":  "Mind-Boggling Binge Watches",
-        "url":  "clu/lists/mind-bending",
+        "url":  "benfranklin/lists/best-mindfucks",
         "catalogType":  "traktTv",
         "traktSortBy":  "random",
         "minRating":  57
     },
     {
-        "id":  "trakt-thriller-action-thrillers-action-crime-mystery-thriller-movie",
+        "id":  "trakt-thriller-action-thrillers-action-thrillers",
         "title":  "Action Thrillers",
-        "url":  "subirbd/lists/action-crime-mystery-thriller-movie",
+        "url":  "kingkearney/lists/action-thrillers",
         "catalogType":  "traktMovie",
         "traktSortBy":  "random",
         "minRating":  57
@@ -200,9 +200,9 @@
         "minRating":  57
     },
     {
-        "id":  "trakt-thriller-horror-movies-fangoria-s-101-best-horror-movies-you-ve-never-seen",
+        "id":  "trakt-thriller-horror-movies-horror",
         "title":  "Horror Movies",
-        "url":  "sp1ti/lists/fangoria-s-101-best-horror-movies-you-ve-never-seen",
+        "url":  "garycrawfordgc/lists/horror",
         "catalogType":  "traktMovie",
         "traktSortBy":  "random",
         "minRating":  57
@@ -224,9 +224,9 @@
         "minRating":  57
     },
     {
-        "id":  "trakt-thriller-blockbuster-movies-imdb-top-rated-movies",
+        "id":  "trakt-thriller-blockbuster-movies-90s-blockbusters",
         "title":  "Blockbuster Movies",
-        "url":  "justin/lists/imdb-top-rated-movies",
+        "url":  "lysin/lists/90s-blockbusters",
         "catalogType":  "traktMovie",
         "traktSortBy":  "random",
         "minRating":  57
@@ -240,36 +240,35 @@
         "minRating":  57
     },
     {
-        "id":  "trakt-thriller-tv-dramas-the-best-of-thriller-crime-drama-tv-shows",
+        "id":  "trakt-thriller-tv-dramas-drama-shows",
         "title":  "TV Dramas",
-        "url":  "iyez/lists/the-best-of-thriller-crime-drama-tv-shows",
+        "url":  "garycrawfordgc/lists/drama-shows",
         "catalogType":  "traktTv",
         "traktSortBy":  "random",
         "minRating":  57
     },
     {
-        "id":  "trakt-thriller-watch-in-one-weekend-imdb-weekend-box-office",
+        "id":  "trakt-thriller-watch-in-one-weekend-academy-awards-best-picture-winners",
         "title":  "Watch in One Weekend",
-        "url":  "justin/lists/imdb-weekend-box-office",
-        "catalogType":  "traktTv",
+        "url":  "thefork/lists/academy-awards-best-picture-winners",
+        "catalogType":  "traktMovie",
         "traktSortBy":  "random",
         "minRating":  57
     },
     {
-        "id":  "trakt-thriller-tv-shows-based-on-books-the-best-of-thriller-crime-drama-tv-shows",
+        "id":  "trakt-thriller-tv-shows-based-on-books-imdb-top-rated-tv-shows",
         "title":  "TV Shows Based on Books",
-        "url":  "iyez/lists/the-best-of-thriller-crime-drama-tv-shows",
+        "url":  "justin/lists/imdb-top-rated-tv-shows",
         "catalogType":  "traktTv",
         "traktSortBy":  "random",
         "minRating":  57
     },
     {
-        "id":  "trakt-thriller-suspenseful-tv-shows-best-suspense-thriller-movies",
+        "id":  "trakt-thriller-suspenseful-tv-shows-the-best-of-thriller-crime-drama-tv-shows",
         "title":  "Suspenseful TV Shows",
-        "url":  "majeed_pk/lists/best-suspense-thriller-movies",
+        "url":  "iyez/lists/the-best-of-thriller-crime-drama-tv-shows",
         "catalogType":  "traktTv",
         "traktSortBy":  "random",
         "minRating":  57
     }
 ]
-
