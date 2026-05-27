@@ -13,9 +13,9 @@
     "traktSortBy": "random"
   },
   {
-    "id": "trakt-comedy-movies-garycrawfordgc",
-    "title": "Comedy Movies: Top Picks",
-    "url": "garycrawfordgc/lists/comedy",
+    "id": "trakt-action-101",
+    "title": "Action Movies",
+    "url": "movistapp/lists/action",
     "catalogType": "traktMovie",
     "traktSortBy": "random"
   },
@@ -27,9 +27,9 @@
     "traktSortBy": "random"
   },
   {
-    "id": "trakt-sci-fi-movies-garycrawfordgc",
-    "title": "Sci-Fi Movies: Top Picks",
-    "url": "garycrawfordgc/lists/sci-fi",
+    "id": "trakt-action-80s-style",
+    "title": "Retro Action Blast",
+    "url": "marcelocastanheira/lists/action-80s-style",
     "catalogType": "traktMovie",
     "traktSortBy": "random"
   },
@@ -48,9 +48,9 @@
     "traktSortBy": "random"
   },
   {
-    "id": "trakt-comfort-movies",
-    "title": "Comfort Movies",
-    "url": "kayaaron13/lists/comfort-movies",
+    "id": "bang-bang-bang",
+    "title": "Smoking Barrels",
+    "url": "marcelocastanheira/lists/bang-bang-bang",
     "catalogType": "traktMovie",
     "traktSortBy": "random"
   },
@@ -62,9 +62,9 @@
     "traktSortBy": "random"
   },
   {
-    "id": "trakt-cult-classics",
-    "title": "Cult Classics",
-    "url": "kayaaron13/lists/cult-classics",
+    "id": "war-war-war",
+    "title": "Battle Scar Cinema",
+    "url": "marcelocastanheira/lists/war-war-war",
     "catalogType": "traktMovie",
     "traktSortBy": "random"
   },
@@ -83,30 +83,30 @@
     "traktSortBy": "random"
   },
   {
-    "id": "trakt-movies-that-benefit-from-multiple-viewings",
-    "title": "Watch More Than Once",
-    "url": "kayaaron13/lists/movies-that-benefit-from-multiple-viewings-copy",
+    "id": "best-ass-whooping-actions-survivals",
+    "title": "Ass-whooping Action",
+    "url": "nashmyjo/lists/best-ass-whooping-actions-survivals",
     "catalogType": "traktMovie",
     "traktSortBy": "random"
   },
   {
-    "id": "trakt-romantic-comedy-movies-new",
-    "title": "Romantic Comedies",
-    "url": "bsbimalbose/lists/new-romantic-comedy",
+    "id": "assassin-hitman-spy",
+    "title": "Smoke & Mirrors",
+    "url": "29zombies/lists/assassin-hitman-spy",
     "catalogType": "traktMovie",
     "traktSortBy": "random"
   },
   {
-    "id": "trakt-best-of-the-best",
-    "title": "We know you'll love these",
-    "url": "aledd/lists/top-films",
+    "id": "bad-dirty-corrupt-cops",
+    "title": "Cops Gone Rogue",
+    "url": "29zombies/lists/bad-dirty-corrupt-cops",
     "catalogType": "traktMovie",
     "traktSortBy": "random"
   },
   {
-    "id": "trakt-comedy-movies",
-    "title": "Need a Good Laugh?",
-    "url": "ljransom/lists/comedy-movies",
+    "id": "car-chase-movies",
+    "title": "Pedal to the Metal",
+    "url": "29zombies/lists/car-chase",
     "catalogType": "traktMovie",
     "traktSortBy": "random"
   },
