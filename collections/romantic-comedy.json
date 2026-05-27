@@ -1,7 +1,7 @@
 [
   {
     "id": "trakt-rotten-tomatoes-200-romcoms",
-    "title": "Rotten Tomatoes 200 Best Rom-Coms",
+    "title": "Rotten Tomatoes Rom-Coms",
     "url": "lish408/lists/rotten-tomatoes-the-200-best-romantic-comedies-of-all-time",
     "catalogType": "traktMovie",
     "traktSortBy": "random",
@@ -9,7 +9,7 @@
   },
   {
     "id": "trakt-30-best-romantic-comedies",
-    "title": "30 Best Romantic Comedies",
+    "title": "Rom-Com Classics",
     "url": "movistapp/lists/the-30-best-romantic-comedies-of-all-time",
     "catalogType": "traktMovie",
     "traktSortBy": "random",
@@ -34,7 +34,7 @@
   },
   {
     "id": "trakt-romantic-comedys-bj",
-    "title": "Romantic Comedys",
+    "title": "Romantic Comedies",
     "url": "bj_stewart/lists/romantic-comedys",
     "catalogType": "traktMovie",
     "traktSortBy": "random",
@@ -50,7 +50,7 @@
   },
   {
     "id": "trakt-best-of-rom-com",
-    "title": "Best of Rom-Com",
+    "title": "Rom-Com Selection",
     "url": "madmapper/lists/best-of-rom-com",
     "catalogType": "traktMovie",
     "traktSortBy": "random",
@@ -74,7 +74,7 @@
   },
   {
     "id": "trakt-romcom-tom2tom",
-    "title": "RomCom Collection",
+    "title": "Rom-Com Collection",
     "url": "tom2tom/lists/romcom",
     "catalogType": "traktMovie",
     "traktSortBy": "random",
@@ -82,7 +82,7 @@
   },
   {
     "id": "trakt-romcom-bonnijolisa",
-    "title": "RomCom Hits",
+    "title": "Rom-Com Favorites",
     "url": "bonnijolisa/lists/romcom-70ebead8-adb5-44a2-b06b-f06c166520c7",
     "catalogType": "traktMovie",
     "traktSortBy": "random",
@@ -90,7 +90,7 @@
   },
   {
     "id": "trakt-romcom-movistapp-romance",
-    "title": "Romance & Rom-Com Picks",
+    "title": "Romance and Rom-Com",
     "url": "movistapp/lists/romance",
     "catalogType": "traktMovie",
     "traktSortBy": "random",
