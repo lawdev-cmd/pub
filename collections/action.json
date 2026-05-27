@@ -81,14 +81,6 @@
     "minRating": 57
   },
   {
-    "id": "trakt-crazy-plot-twists",
-    "title": "Crazy Plot Twists",
-    "url": "hdlists/lists/crazy-plot-twists",
-    "catalogType": "traktMovie",
-    "traktSortBy": "random",
-    "minRating": 57
-  },
-  {
     "id": "trakt-vacations-gone-wrong",
     "title": "Vacations Gone Wrong",
     "url": "kayaaron13/lists/vacations-gone-wrong",
@@ -124,62 +116,6 @@
     "id": "car-chase-movies",
     "title": "Pedal to the Metal",
     "url": "29zombies/lists/car-chase",
-    "catalogType": "traktMovie",
-    "traktSortBy": "random",
-    "minRating": 57
-  },
-  {
-    "id": "trakt-top-rated-crime-films",
-    "title": "Top Rated Crime Films",
-    "url": "hdlists/lists/crime-movies-top-rated-from-1980-to-today",
-    "catalogType": "traktMovie",
-    "traktSortBy": "random",
-    "minRating": 57
-  },
-  {
-    "id": "trakt-mystery-thrillers",
-    "title": "Mystery Thrillers",
-    "url": "hdlists/lists/mystery-movies-top-rated-from-1980-to-today",
-    "catalogType": "traktMovie",
-    "traktSortBy": "random",
-    "minRating": 57
-  },
-  {
-    "id": "trakt-crime-movies",
-    "title": "Crime Movies: Top Picks",
-    "url": "garycrawfordgc/lists/crime",
-    "catalogType": "traktMovie",
-    "traktSortBy": "random",
-    "minRating": 57
-  },
-  {
-    "id": "trakt-laughs-and-laughter",
-    "title": "Laughs & Laughter",
-    "url": "hdlists/lists/comedy-movies-top-rated-from-1960-to-today",
-    "catalogType": "traktMovie",
-    "traktSortBy": "random",
-    "minRating": 57
-  },
-  {
-    "id": "trakt-family-favorites",
-    "title": "Family Favorites",
-    "url": "hdlists/lists/family-movies-top-rated-from-1980-to-today",
-    "catalogType": "traktMovie",
-    "traktSortBy": "random",
-    "minRating": 57
-  },
-  {
-    "id": "trakt-2000s-movies",
-    "title": "Old But Fresh",
-    "url": "shambler74/lists/00s-movies",
-    "catalogType": "traktMovie",
-    "traktSortBy": "random",
-    "minRating": 57
-  },
-  {
-    "id": "trakt-90s-classics",
-    "title": "90s Classics",
-    "url": "shambler74/lists/90s-movies",
     "catalogType": "traktMovie",
     "traktSortBy": "random",
     "minRating": 57
