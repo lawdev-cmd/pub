@@ -37,7 +37,8 @@
     "url": "marcelocastanheira/lists/action-80s-style",
     "catalogType": "traktMovie",
     "traktSortBy": "random",
-    "minRating": 57
+    "minRating": 57,
+    "minYear": 1975
   },
   {
     "id": "trakt-conspiracy-theories",
