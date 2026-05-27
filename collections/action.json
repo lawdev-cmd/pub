@@ -1,162 +1,186 @@
-[{
+[
+  {
     "id": "trakt-trending-movies",
     "title": "Trending Movies",
     "url": "tvgeniekodi/lists/trending-movies",
     "catalogType": "traktMovie",
-    "traktSortBy": null
+    "traktSortBy": null,
+    "minRating": 57
   },
   {
     "id": "trakt-revenge-movies",
     "title": "Revenge Movies",
     "url": "kayaaron13/lists/revenge-movies",
     "catalogType": "traktMovie",
-    "traktSortBy": "random"
+    "traktSortBy": "random",
+    "minRating": 57
   },
   {
     "id": "trakt-action-101",
     "title": "Action Movies",
     "url": "movistapp/lists/action",
     "catalogType": "traktMovie",
-    "traktSortBy": "random"
+    "traktSortBy": "random",
+    "minRating": 57
   },
   {
     "id": "trakt-thriller-movies-garycrawfordgc",
     "title": "Thriller Movies: Top Picks",
     "url": "garycrawfordgc/lists/thriller",
     "catalogType": "traktMovie",
-    "traktSortBy": "random"
+    "traktSortBy": "random",
+    "minRating": 57
   },
   {
     "id": "trakt-action-80s-style",
     "title": "Retro Action Blast",
     "url": "marcelocastanheira/lists/action-80s-style",
     "catalogType": "traktMovie",
-    "traktSortBy": "random"
+    "traktSortBy": "random",
+    "minRating": 57
   },
   {
     "id": "trakt-conspiracy-theories",
     "title": "Conspiracy Theories",
     "url": "kayaaron13/lists/conspiracy-movies",
     "catalogType": "traktMovie",
-    "traktSortBy": "random"
+    "traktSortBy": "random",
+    "minRating": 57
   },
   {
     "id": "trakt-survival-movies",
     "title": "Survival Movies",
     "url": "kayaaron13/lists/survival-movies",
     "catalogType": "traktMovie",
-    "traktSortBy": "random"
+    "traktSortBy": "random",
+    "minRating": 57
   },
   {
     "id": "bang-bang-bang",
     "title": "Smoking Barrels",
     "url": "marcelocastanheira/lists/bang-bang-bang",
     "catalogType": "traktMovie",
-    "traktSortBy": "random"
+    "traktSortBy": "random",
+    "minRating": 57
   },
   {
     "id": "trakt-top-bank-robbery-movies",
     "title": "Top Bank Robbery Movies",
     "url": "kayaaron13/lists/ranker-top-bank-robbery-movies",
     "catalogType": "traktMovie",
-    "traktSortBy": "random"
+    "traktSortBy": "random",
+    "minRating": 57
   },
   {
     "id": "war-war-war",
     "title": "Battle Scar Cinema",
     "url": "marcelocastanheira/lists/war-war-war",
     "catalogType": "traktMovie",
-    "traktSortBy": "random"
+    "traktSortBy": "random",
+    "minRating": 57
   },
   {
     "id": "trakt-crazy-plot-twists",
     "title": "Crazy Plot Twists",
     "url": "hdlists/lists/crazy-plot-twists",
     "catalogType": "traktMovie",
-    "traktSortBy": "random"
+    "traktSortBy": "random",
+    "minRating": 57
   },
   {
     "id": "trakt-vacations-gone-wrong",
     "title": "Vacations Gone Wrong",
     "url": "kayaaron13/lists/vacations-gone-wrong",
     "catalogType": "traktMovie",
-    "traktSortBy": "random"
+    "traktSortBy": "random",
+    "minRating": 57
   },
   {
     "id": "best-ass-whooping-actions-survivals",
     "title": "Ass-whooping Action",
     "url": "nashmyjo/lists/best-ass-whooping-actions-survivals",
     "catalogType": "traktMovie",
-    "traktSortBy": "random"
+    "traktSortBy": "random",
+    "minRating": 57
   },
   {
     "id": "assassin-hitman-spy",
     "title": "Smoke & Mirrors",
     "url": "29zombies/lists/assassin-hitman-spy",
     "catalogType": "traktMovie",
-    "traktSortBy": "random"
+    "traktSortBy": "random",
+    "minRating": 57
   },
   {
     "id": "bad-dirty-corrupt-cops",
     "title": "Cops Gone Rogue",
     "url": "29zombies/lists/bad-dirty-corrupt-cops",
     "catalogType": "traktMovie",
-    "traktSortBy": "random"
+    "traktSortBy": "random",
+    "minRating": 57
   },
   {
     "id": "car-chase-movies",
     "title": "Pedal to the Metal",
     "url": "29zombies/lists/car-chase",
     "catalogType": "traktMovie",
-    "traktSortBy": "random"
+    "traktSortBy": "random",
+    "minRating": 57
   },
   {
     "id": "trakt-top-rated-crime-films",
     "title": "Top Rated Crime Films",
     "url": "hdlists/lists/crime-movies-top-rated-from-1980-to-today",
     "catalogType": "traktMovie",
-    "traktSortBy": "random"
+    "traktSortBy": "random",
+    "minRating": 57
   },
   {
     "id": "trakt-mystery-thrillers",
     "title": "Mystery Thrillers",
     "url": "hdlists/lists/mystery-movies-top-rated-from-1980-to-today",
     "catalogType": "traktMovie",
-    "traktSortBy": "random"
+    "traktSortBy": "random",
+    "minRating": 57
   },
   {
     "id": "trakt-crime-movies",
     "title": "Crime Movies: Top Picks",
     "url": "garycrawfordgc/lists/crime",
     "catalogType": "traktMovie",
-    "traktSortBy": "random"
+    "traktSortBy": "random",
+    "minRating": 57
   },
   {
     "id": "trakt-laughs-and-laughter",
     "title": "Laughs & Laughter",
     "url": "hdlists/lists/comedy-movies-top-rated-from-1960-to-today",
     "catalogType": "traktMovie",
-    "traktSortBy": "random"
+    "traktSortBy": "random",
+    "minRating": 57
   },
   {
     "id": "trakt-family-favorites",
     "title": "Family Favorites",
     "url": "hdlists/lists/family-movies-top-rated-from-1980-to-today",
     "catalogType": "traktMovie",
-    "traktSortBy": "random"
+    "traktSortBy": "random",
+    "minRating": 57
   },
   {
     "id": "trakt-2000s-movies",
     "title": "Old But Fresh",
     "url": "shambler74/lists/00s-movies",
     "catalogType": "traktMovie",
-    "traktSortBy": "random"
+    "traktSortBy": "random",
+    "minRating": 57
   },
   {
     "id": "trakt-90s-classics",
     "title": "90s Classics",
     "url": "shambler74/lists/90s-movies",
     "catalogType": "traktMovie",
-    "traktSortBy": "random"
+    "traktSortBy": "random",
+    "minRating": 57
   }
 ]
