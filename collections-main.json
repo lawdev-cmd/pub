@@ -34,17 +34,6 @@
     {
     "title": "Western",
     "url": "https://raw.githubusercontent.com/lawdev-cmd/pub/refs/heads/main/collections/western.json"
-  },
-  {
-    "title": "Romantic Comedy",
-    "url": "https://raw.githubusercontent.com/lawdev-cmd/pub/refs/heads/main/collections/romantic-comedy.json"
-  },
-    {
-    "title": "Edge of the seat",
-    "url": "https://raw.githubusercontent.com/lawdev-cmd/pub/refs/heads/main/collections/edge-of-the-seat.json"
-  },
-  {
-    "title": "Nightmare",
-    "url": "https://raw.githubusercontent.com/lawdev-cmd/pub/refs/heads/main/collections/nightmare.json"
   }
+
 ]
