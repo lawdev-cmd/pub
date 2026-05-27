@@ -1,7 +1,7 @@
 [
   {
     "id": "trakt-horror-oscars-scary-movies",
-    "title": "Horror Oscars: Best Scary Movies",
+    "title": "Oscar Winning Movies",
     "url": "jarvis-6165/lists/the-horror-oscars-the-best-scary-movies-of-every-year-since-1978-s-halloween",
     "catalogType": "traktMovie",
     "traktSortBy": "random",
@@ -57,7 +57,7 @@
   },
   {
     "id": "trakt-fangoria-hidden-horror",
-    "title": "Fangoria Hidden Horror Gems",
+    "title": "Fangoria Horror Picks",
     "url": "sp1ti/lists/fangoria-s-101-best-horror-movies-you-ve-never-seen",
     "catalogType": "traktMovie",
     "traktSortBy": "random",
