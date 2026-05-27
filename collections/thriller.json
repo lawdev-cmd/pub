@@ -1,7 +1,7 @@
 [
   {
     "id": "trakt-thriller-top-picks-gary",
-    "title": "Thriller: Top Picks",
+    "title": "Thriller Selection",
     "url": "garycrawfordgc/lists/thriller",
     "catalogType": "traktMovie",
     "traktSortBy": "random",
@@ -9,7 +9,7 @@
   },
   {
     "id": "trakt-thriller-masterpieces",
-    "title": "Thriller Masterpieces",
+    "title": "Thriller Collection",
     "url": "movistapp/lists/thriller",
     "catalogType": "traktMovie",
     "traktSortBy": "random",
@@ -17,7 +17,7 @@
   },
   {
     "id": "trakt-suspense-thriller-best",
-    "title": "Best Suspense Thrillers",
+    "title": "Suspense Thrillers",
     "url": "majeed_pk/lists/best-suspense-thriller-movies",
     "catalogType": "traktMovie",
     "traktSortBy": "random",
@@ -65,7 +65,7 @@
   },
   {
     "id": "trakt-twisted-psychological-mindfucks",
-    "title": "Twisted Psychological Mindfucks",
+    "title": "Psychological Twist Thrillers",
     "url": "29zombies/lists/twisted-plots-and-psychological-mindfucks",
     "catalogType": "traktMovie",
     "traktSortBy": "random",
@@ -73,7 +73,7 @@
   },
   {
     "id": "trakt-thriller-29zombies",
-    "title": "Thriller Picks",
+    "title": "Thriller Highlights",
     "url": "29zombies/lists/thriller",
     "catalogType": "traktMovie",
     "traktSortBy": "random",
@@ -97,7 +97,7 @@
   },
   {
     "id": "trakt-mystery-masterpieces",
-    "title": "Mystery Masterpieces",
+    "title": "Mystery Collection",
     "url": "movistapp/lists/mystery",
     "catalogType": "traktMovie",
     "traktSortBy": "random",
