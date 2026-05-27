@@ -126,9 +126,9 @@
     "minYear": 1980
   },
   {
-    "id": "trakt-action-superhero-movies-superhero-movies",
+    "id": "trakt-action-superhero-movies-superhero",
     "title": "Superhero Movies",
-    "url": "hammers-lists/lists/superhero-movies",
+    "url": "caspian024/lists/superhero",
     "catalogType": "traktMovie",
     "traktSortBy": "random",
     "minRating": 57,
@@ -153,9 +153,9 @@
     "minYear": 1980
   },
   {
-    "id": "trakt-action-critically-acclaimed-action-rotten-tomatoes-best-action-movies-of-all-time",
+    "id": "trakt-action-critically-acclaimed-action-100-best-action-movies",
     "title": "Critically Acclaimed Action",
-    "url": "lish408/lists/rotten-tomatoes-best-action-movies-of-all-time",
+    "url": "lencocoa/lists/100-best-action-movies",
     "catalogType": "traktMovie",
     "traktSortBy": "random",
     "minRating": 57,
