@@ -11,7 +11,7 @@
         "id":  "trakt-romance-asian-tv-shows-best-asian-erotic-movies-64",
         "title":  "Asian TV Shows",
         "url":  "majeed_pk/lists/best-asian-erotic-movies-64",
-        "catalogType":  "traktShow",
+        "catalogType":  "traktTv",
         "traktSortBy":  "random",
         "minRating":  57
     },
@@ -43,7 +43,7 @@
         "id":  "trakt-romance-k-dramas-for-beginners-best-south-korean-movies-amp",
         "title":  "K-Dramas for Beginners",
         "url":  "gsmolo/lists/best-south-korean-movies-amp",
-        "catalogType":  "traktShow",
+        "catalogType":  "traktTv",
         "traktSortBy":  "random",
         "minRating":  57
     },
@@ -75,7 +75,7 @@
         "id":  "trakt-romance-tv-drama-dies-rotten-tomatoes-the-200-best-romantic-comedies-of-all-time",
         "title":  "TV Drama(dies)",
         "url":  "lish408/lists/rotten-tomatoes-the-200-best-romantic-comedies-of-all-time",
-        "catalogType":  "traktShow",
+        "catalogType":  "traktTv",
         "traktSortBy":  "random",
         "minRating":  57
     },
@@ -83,7 +83,7 @@
         "id":  "trakt-romance-k-dramas-2019-2025-korean-drama",
         "title":  "K-Dramas",
         "url":  "a-homrany-hotmail-com/lists/2019-2025-korean-drama",
-        "catalogType":  "traktShow",
+        "catalogType":  "traktTv",
         "traktSortBy":  "random",
         "minRating":  57
     },
@@ -131,7 +131,7 @@
         "id":  "trakt-romance-your-next-watch-must-watch-classic-movies",
         "title":  "Your Next Watch",
         "url":  "gary-lydement/lists/must-watch-classic-movies",
-        "catalogType":  "traktShow",
+        "catalogType":  "traktTv",
         "traktSortBy":  "random",
         "minRating":  57
     },
@@ -139,7 +139,7 @@
         "id":  "trakt-romance-international-tv-dramas-best-foreign-language-films",
         "title":  "International TV Dramas",
         "url":  "starney/lists/best-foreign-language-films",
-        "catalogType":  "traktShow",
+        "catalogType":  "traktTv",
         "traktSortBy":  "random",
         "minRating":  57
     },
@@ -152,3 +152,4 @@
         "minRating":  57
     }
 ]
+
