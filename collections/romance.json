@@ -56,9 +56,9 @@
     "minRating": 60
   },
   {
-    "id": "trakt-romance-movies-caty",
-    "title": "Romance Collection",
-    "url": "caty129/lists/romance-movies",
+    "id": "trakt-hallmark-romance-collection",
+    "title": "Hallmark Romance Collection",
+    "url": "eelone/lists/hallmark-lifetime-up-other-romance-movies-my-rating-7-10",
     "catalogType": "traktMovie",
     "traktSortBy": "random",
     "minRating": 57
@@ -104,9 +104,9 @@
     "minRating": 65
   },
   {
-    "id": "trakt-romance-movies-stuacott",
-    "title": "Romance Collection",
-    "url": "stuacott/lists/romance-movies",
+    "id": "trakt-romance-hallmark-favorites",
+    "title": "Hallmark Romance Favorites",
+    "url": "eelone/lists/hallmark-lifetime-up-other-romance-movies-my-rating-7-10",
     "catalogType": "traktMovie",
     "traktSortBy": "random",
     "minRating": 57
