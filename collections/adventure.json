@@ -1,0 +1,122 @@
+[
+  {
+    "id": "trakt-adventure-masterpieces",
+    "title": "Adventure Masterpieces",
+    "url": "movistapp/lists/adventure",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57
+  },
+  {
+    "id": "trakt-imdb-adventure-favorites",
+    "title": "IMDb Adventure Favorites",
+    "url": "irishstevo/lists/imdb-s-top-adventure-movies",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 62
+  },
+  {
+    "id": "trakt-action-adventure-mix",
+    "title": "Action & Adventure",
+    "url": "coldkeys/lists/action-and-adventure-movies",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57
+  },
+  {
+    "id": "trakt-adventure-movies-caspian",
+    "title": "Adventure Movies",
+    "url": "caspian024/lists/adventure-movies",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57
+  },
+  {
+    "id": "trakt-epic-adventure-history",
+    "title": "Epic History Adventures",
+    "url": "majeed_pk/lists/history-epic-adventure-movies",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 60
+  },
+  {
+    "id": "trakt-adventure-picks-29zombies",
+    "title": "Adventure Picks",
+    "url": "29zombies/lists/adventure",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57
+  },
+  {
+    "id": "trakt-action-adventure-public",
+    "title": "Action Adventure Hits",
+    "url": "magictv7/lists/action-adventure-movies-public",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57
+  },
+  {
+    "id": "trakt-island-adventure",
+    "title": "Island Adventures",
+    "url": "29zombies/lists/island-adventure",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57
+  },
+  {
+    "id": "trakt-survival-adventures",
+    "title": "Survival Adventures",
+    "url": "kayaaron13/lists/survival-movies",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57
+  },
+  {
+    "id": "trakt-best-survival-movies",
+    "title": "Best Survival Movies",
+    "url": "majeed_pk/lists/the-best-survival-movies",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 60
+  },
+  {
+    "id": "trakt-treasure-hunt",
+    "title": "Treasure Hunt Adventures",
+    "url": "netplexflix/lists/treasure-hunt",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57
+  },
+  {
+    "id": "trakt-adventure-movies-stuacott",
+    "title": "Adventure Collection",
+    "url": "stuacott/lists/adventure-movies",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57
+  },
+  {
+    "id": "trakt-disaster-survival",
+    "title": "Disaster & Survival",
+    "url": "htpablo/lists/disaster-tragedy-destruction-and-survival",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57
+  },
+  {
+    "id": "trakt-adventure-high-rated",
+    "title": "Top-Rated Adventures",
+    "url": "porkie16/lists/adventure-movies-rating-65",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 65
+  },
+  {
+    "id": "trakt-expedition-survival",
+    "title": "Expedition Survival",
+    "url": "29zombies/lists/survival",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57
+  }
+]
