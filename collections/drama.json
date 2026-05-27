@@ -208,7 +208,7 @@
   },
   {
     "id": "trakt-dramas-only-on-netflix-netflix1",
-    "title": "Only on Netflix",
+    "title": "Streaming Picks",
     "url": "stuacott/lists/netflix1",
     "catalogType": "traktTv",
     "traktSortBy": "random",
@@ -217,7 +217,7 @@
   },
   {
     "id": "trakt-dramas-new-on-netflix-best-tv-shows-of-2024",
-    "title": "New on Netflix",
+    "title": "Trending This Year",
     "url": "callingjupiter/lists/best-tv-shows-of-2024",
     "catalogType": "traktTv",
     "traktSortBy": "random",
