@@ -8,33 +8,33 @@
         "minRating":  57
     },
     {
-        "id":  "trakt-comedies-award-winning-films-best-picture-oscar-nominees-by-year-academy-award",
+        "id":  "trakt-comedies-award-winning-films-comedy-movies",
         "title":  "Award-Winning Films",
-        "url":  "majeed_pk/lists/best-picture-oscar-nominees-by-year-academy-award",
+        "url":  "ljransom/lists/comedy-movies",
         "catalogType":  "traktMovie",
         "traktSortBy":  "random",
         "minRating":  57
     },
     {
-        "id":  "trakt-comedies-we-think-you-ll-love-these-time-out-100-best-comedy-movies",
+        "id":  "trakt-comedies-we-think-you-ll-love-these-comedy",
         "title":  "We Think You\u0027ll Love These",
-        "url":  "chazlarson/lists/time-out-100-best-comedy-movies",
+        "url":  "garycrawfordgc/lists/comedy",
         "catalogType":  "traktMovie",
         "traktSortBy":  "random",
         "minRating":  57
     },
     {
-        "id":  "trakt-comedies-need-a-good-laugh-empire-s-50-funniest-comedies-ever",
+        "id":  "trakt-comedies-need-a-good-laugh-comedy",
         "title":  "Need a Good Laugh",
-        "url":  "hulkhorgen/lists/empire-s-50-funniest-comedies-ever",
+        "url":  "movistapp/lists/comedy",
         "catalogType":  "traktMovie",
         "traktSortBy":  "random",
         "minRating":  57
     },
     {
-        "id":  "trakt-comedies-romantic-comedies-reciperr-romantic-comedy-subgenre-movies-1990-2030-no-ani",
+        "id":  "trakt-comedies-romantic-comedies-romantic-comedies",
         "title":  "Romantic Comedies",
-        "url":  "d-sync/lists/reciperr-romantic-comedy-subgenre-movies-1990-2030-no-animation",
+        "url":  "29zombies/lists/romantic-comedies",
         "catalogType":  "traktMovie",
         "traktSortBy":  "random",
         "minRating":  57
@@ -48,9 +48,9 @@
         "minRating":  57
     },
     {
-        "id":  "trakt-comedies-international-tv-shows-best-foreign-language-films",
+        "id":  "trakt-comedies-international-tv-shows-top-100-tv-comedy-shows",
         "title":  "International TV Shows",
-        "url":  "starney/lists/best-foreign-language-films",
+        "url":  "majeed_pk/lists/top-100-tv-comedy-shows",
         "catalogType":  "traktTv",
         "traktSortBy":  "random",
         "minRating":  57
@@ -59,7 +59,7 @@
         "id":  "trakt-comedies-desi-chill-indian-tv-shows-hindi",
         "title":  "Desi \u0026 Chill",
         "url":  "samyak3397/lists/indian-tv-shows-hindi",
-        "catalogType":  "traktMovie",
+        "catalogType":  "traktTv",
         "traktSortBy":  "random",
         "minRating":  57
     },
@@ -67,7 +67,7 @@
         "id":  "trakt-comedies-casual-viewing-feel-good-movies",
         "title":  "Casual Viewing",
         "url":  "shana71/lists/feel-good-movies",
-        "catalogType":  "traktTv",
+        "catalogType":  "traktMovie",
         "traktSortBy":  "random",
         "minRating":  57
     },
@@ -80,9 +80,9 @@
         "minRating":  57
     },
     {
-        "id":  "trakt-comedies-today-s-topics-for-you-the-best-of-british-comedy-tv-shows",
+        "id":  "trakt-comedies-today-s-topics-for-you-comedy-shows",
         "title":  "Today\u0027s Topics for You",
-        "url":  "iyez/lists/the-best-of-british-comedy-tv-shows",
+        "url":  "garycrawfordgc/lists/comedy-shows",
         "catalogType":  "traktTv",
         "traktSortBy":  "random",
         "minRating":  57
@@ -90,23 +90,23 @@
     {
         "id":  "trakt-comedies-critically-acclaimed-movies-comedy-movies",
         "title":  "Critically Acclaimed Movies",
-        "url":  "ljransom/lists/comedy-movies",
+        "url":  "maxtrontv/lists/comedy-movies",
         "catalogType":  "traktMovie",
         "traktSortBy":  "random",
         "minRating":  57
     },
     {
-        "id":  "trakt-comedies-tv-comedies-best-of-britcoms-british-comedy-tv-series",
+        "id":  "trakt-comedies-tv-comedies-the-best-of-british-comedy-tv-shows",
         "title":  "TV Comedies",
-        "url":  "majeed_pk/lists/best-of-britcoms-british-comedy-tv-series",
+        "url":  "iyez/lists/the-best-of-british-comedy-tv-shows",
         "catalogType":  "traktTv",
         "traktSortBy":  "random",
         "minRating":  57
     },
     {
-        "id":  "trakt-comedies-award-winning-tv-shows-emmy-award-best-comedy",
+        "id":  "trakt-comedies-award-winning-tv-shows-primetime-emmy-awards-outstanding-comedy-drama-varie",
         "title":  "Award-Winning TV Shows",
-        "url":  "pd_review/lists/emmy-award-best-comedy",
+        "url":  "thefork/lists/primetime-emmy-awards-outstanding-comedy-drama-variety-series-winners",
         "catalogType":  "traktTv",
         "traktSortBy":  "random",
         "minRating":  57
@@ -128,9 +128,9 @@
         "minRating":  57
     },
     {
-        "id":  "trakt-comedies-cringe-comedy-academy-award-for-best-picture",
+        "id":  "trakt-comedies-cringe-comedy-the-best-of-british-comedy-tv-shows",
         "title":  "Cringe Comedy",
-        "url":  "chrisu/lists/academy-award-for-best-picture",
+        "url":  "iyez/lists/the-best-of-british-comedy-tv-shows",
         "catalogType":  "traktTv",
         "traktSortBy":  "random",
         "minRating":  57
@@ -168,4 +168,3 @@
         "minRating":  57
     }
 ]
-
