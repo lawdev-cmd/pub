@@ -1,226 +1,254 @@
 [
-    {
-        "id":  "trakt-crime-today-s-topics-for-you-the-best-of-thriller-crime-drama-tv-shows",
-        "title":  "Today\u0027s Topics for You",
-        "url":  "iyez/lists/the-best-of-thriller-crime-drama-tv-shows",
-        "catalogType":  "traktTv",
-        "traktSortBy":  "random",
-        "minRating":  57
-    },
-    {
-        "id":  "trakt-crime-boredom-busters-crime",
-        "title":  "Boredom Busters",
-        "url":  "garycrawfordgc/lists/crime",
-        "catalogType":  "traktTv",
-        "traktSortBy":  "random",
-        "minRating":  57
-    },
-    {
-        "id":  "trakt-crime-critically-acclaimed-tv-shows-british-detective-tv-series",
-        "title":  "Critically Acclaimed TV Shows",
-        "url":  "majeed_pk/lists/british-detective-tv-series",
-        "catalogType":  "traktTv",
-        "traktSortBy":  "random",
-        "minRating":  57
-    },
-    {
-        "id":  "trakt-crime-get-in-on-the-action-crime",
-        "title":  "Get in on the Action",
-        "url":  "movistapp/lists/crime",
-        "catalogType":  "traktMovie",
-        "traktSortBy":  "random",
-        "minRating":  57
-    },
-    {
-        "id":  "trakt-crime-crime-tv-shows-crime-shows",
-        "title":  "Crime TV Shows",
-        "url":  "garycrawfordgc/lists/crime-shows",
-        "catalogType":  "traktTv",
-        "traktSortBy":  "random",
-        "minRating":  57
-    },
-    {
-        "id":  "trakt-crime-documentaries-true-crime-documentary-series-film",
-        "title":  "Documentaries",
-        "url":  "lish408/lists/true-crime-documentary-series-film",
-        "catalogType":  "traktMovie",
-        "traktSortBy":  "random",
-        "minRating":  57
-    },
-    {
-        "id":  "trakt-crime-gems-for-you-true-crime",
-        "title":  "Gems for You",
-        "url":  "canadutchy/lists/true-crime",
-        "catalogType":  "traktTv",
-        "traktSortBy":  "random",
-        "minRating":  57
-    },
-    {
-        "id":  "trakt-crime-drug-lords-mob-bosses-gangsters-top-100-gangster-movies",
-        "title":  "Drug Lords, Mob Bosses \u0026 Gangsters",
-        "url":  "majeed_pk/lists/top-100-gangster-movies",
-        "catalogType":  "traktMovie",
-        "traktSortBy":  "random",
-        "minRating":  57
-    },
-    {
-        "id":  "trakt-crime-binge-worthy-tv-shows-the-best-of-crime-murder-documentaries-tv-shows",
-        "title":  "Binge-Worthy TV Shows",
-        "url":  "iyez/lists/the-best-of-crime-murder-documentaries-tv-shows",
-        "catalogType":  "traktTv",
-        "traktSortBy":  "random",
-        "minRating":  57
-    },
-    {
-        "id":  "trakt-crime-action-movies-action-movies",
-        "title":  "Action Movies",
-        "url":  "caspian024/lists/action-movies",
-        "catalogType":  "traktMovie",
-        "traktSortBy":  "random",
-        "minRating":  57
-    },
-    {
-        "id":  "trakt-crime-award-winning-films-academy-award-for-best-picture",
-        "title":  "Award-Winning Films",
-        "url":  "chrisu/lists/academy-award-for-best-picture",
-        "catalogType":  "traktMovie",
-        "traktSortBy":  "random",
-        "minRating":  57
-    },
-    {
-        "id":  "trakt-crime-action-adventure-movies-action-and-adventure-movies",
-        "title":  "Action \u0026 Adventure Movies",
-        "url":  "coldkeys/lists/action-and-adventure-movies",
-        "catalogType":  "traktMovie",
-        "traktSortBy":  "random",
-        "minRating":  57
-    },
-    {
-        "id":  "trakt-crime-crime-tv-dramas-crime-series",
-        "title":  "Crime TV Dramas",
-        "url":  "marcelocastanheira/lists/crime-series",
-        "catalogType":  "traktTv",
-        "traktSortBy":  "random",
-        "minRating":  57
-    },
-    {
-        "id":  "trakt-crime-only-on-netflix-netflix-shows",
-        "title":  "Only on Netflix",
-        "url":  "garycrawfordgc/lists/netflix-shows",
-        "catalogType":  "traktTv",
-        "traktSortBy":  "random",
-        "minRating":  57
-    },
-    {
-        "id":  "trakt-crime-thriller-movies-imdb-s-top-crime-movies",
-        "title":  "Thriller Movies",
-        "url":  "irishstevo/lists/imdb-s-top-crime-movies",
-        "catalogType":  "traktMovie",
-        "traktSortBy":  "random",
-        "minRating":  57
-    },
-    {
-        "id":  "trakt-crime-crime-dramas-crime-dramas",
-        "title":  "Crime Dramas",
-        "url":  "kingkearney/lists/crime-dramas",
-        "catalogType":  "traktTv",
-        "traktSortBy":  "random",
-        "minRating":  57
-    },
-    {
-        "id":  "trakt-crime-tv-shows-based-on-books-imdb-top-rated-tv-shows",
-        "title":  "TV Shows Based on Books",
-        "url":  "justin/lists/imdb-top-rated-tv-shows",
-        "catalogType":  "traktTv",
-        "traktSortBy":  "random",
-        "minRating":  57
-    },
-    {
-        "id":  "trakt-crime-your-next-watch-crime-thrillers",
-        "title":  "Your Next Watch",
-        "url":  "kingkearney/lists/crime-thrillers",
-        "catalogType":  "traktTv",
-        "traktSortBy":  "random",
-        "minRating":  57
-    },
-    {
-        "id":  "trakt-crime-award-winning-binge-worthy-tv-dramas-the-best-gritty-crime-tv-shows",
-        "title":  "Award-Winning Binge-Worthy TV Dramas",
-        "url":  "jim222001/lists/the-best-gritty-crime-tv-shows",
-        "catalogType":  "traktTv",
-        "traktSortBy":  "random",
-        "minRating":  57
-    },
-    {
-        "id":  "trakt-crime-true-crime-documentary-series-true-crime-shows",
-        "title":  "True Crime Documentary Series",
-        "url":  "coldkeys/lists/true-crime-shows",
-        "catalogType":  "traktTv",
-        "traktSortBy":  "random",
-        "minRating":  57
-    },
-    {
-        "id":  "trakt-crime-strong-black-leads-black-shows-movies-black-leads",
-        "title":  "Strong Black Leads",
-        "url":  "chadee93/lists/black-shows-movies-black-leads",
-        "catalogType":  "traktTv",
-        "traktSortBy":  "random",
-        "minRating":  57
-    },
-    {
-        "id":  "trakt-crime-international-tv-dramas-british-crime-drama-tv-shows",
-        "title":  "International TV Dramas",
-        "url":  "maxtrontv/lists/british-crime-drama-tv-shows",
-        "catalogType":  "traktTv",
-        "traktSortBy":  "random",
-        "minRating":  57
-    },
-    {
-        "id":  "trakt-crime-ripped-from-the-headlines-ranker-best-movies-based-on-true-story",
-        "title":  "Ripped from the Headlines",
-        "url":  "kayaaron13/lists/ranker-best-movies-based-on-true-story",
-        "catalogType":  "traktMovie",
-        "traktSortBy":  "random",
-        "minRating":  57
-    },
-    {
-        "id":  "trakt-crime-exciting-movies-car-chase",
-        "title":  "Exciting Movies",
-        "url":  "29zombies/lists/car-chase",
-        "catalogType":  "traktMovie",
-        "traktSortBy":  "random",
-        "minRating":  57
-    },
-    {
-        "id":  "trakt-crime-90-minute-films-100-best-crime-movies",
-        "title":  "90-Minute Films",
-        "url":  "lencocoa/lists/100-best-crime-movies",
-        "catalogType":  "traktMovie",
-        "traktSortBy":  "random",
-        "minRating":  57
-    },
-    {
-        "id":  "trakt-crime-drama-movies-crime",
-        "title":  "Drama Movies",
-        "url":  "garycrawfordgc/lists/crime",
-        "catalogType":  "traktMovie",
-        "traktSortBy":  "random",
-        "minRating":  57
-    },
-    {
-        "id":  "trakt-crime-omnisc-tv-shows-british-detective-tv-series",
-        "title":  "Omnisc TV Shows",
-        "url":  "majeed_pk/lists/british-detective-tv-series",
-        "catalogType":  "traktTv",
-        "traktSortBy":  "random",
-        "minRating":  57
-    },
-    {
-        "id":  "trakt-crime-new-on-netflix-best-tv-shows-of-2024",
-        "title":  "New on Netflix",
-        "url":  "callingjupiter/lists/best-tv-shows-of-2024",
-        "catalogType":  "traktTv",
-        "traktSortBy":  "random",
-        "minRating":  57
-    }
+  {
+    "id": "trakt-crime-today-s-topics-for-you-the-best-of-thriller-crime-drama-tv-shows",
+    "title": "Today's Topics for You",
+    "url": "iyez/lists/the-best-of-thriller-crime-drama-tv-shows",
+    "catalogType": "traktTv",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1980
+  },
+  {
+    "id": "trakt-crime-boredom-busters-crime",
+    "title": "Boredom Busters",
+    "url": "garycrawfordgc/lists/crime",
+    "catalogType": "traktTv",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1980
+  },
+  {
+    "id": "trakt-crime-critically-acclaimed-tv-shows-british-detective-tv-series",
+    "title": "Critically Acclaimed TV Shows",
+    "url": "majeed_pk/lists/british-detective-tv-series",
+    "catalogType": "traktTv",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1980
+  },
+  {
+    "id": "trakt-crime-get-in-on-the-action-crime",
+    "title": "Get in on the Action",
+    "url": "movistapp/lists/crime",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1980
+  },
+  {
+    "id": "trakt-crime-crime-tv-shows-crime-shows",
+    "title": "Crime TV Shows",
+    "url": "garycrawfordgc/lists/crime-shows",
+    "catalogType": "traktTv",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1980
+  },
+  {
+    "id": "trakt-crime-documentaries-true-crime-documentary-series-film",
+    "title": "Documentaries",
+    "url": "lish408/lists/true-crime-documentary-series-film",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1980
+  },
+  {
+    "id": "trakt-crime-gems-for-you-true-crime",
+    "title": "Gems for You",
+    "url": "canadutchy/lists/true-crime",
+    "catalogType": "traktTv",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1980
+  },
+  {
+    "id": "trakt-crime-drug-lords-mob-bosses-gangsters-top-100-gangster-movies",
+    "title": "Drug Lords, Mob Bosses & Gangsters",
+    "url": "majeed_pk/lists/top-100-gangster-movies",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1980
+  },
+  {
+    "id": "trakt-crime-binge-worthy-tv-shows-the-best-of-crime-murder-documentaries-tv-shows",
+    "title": "Binge-Worthy TV Shows",
+    "url": "iyez/lists/the-best-of-crime-murder-documentaries-tv-shows",
+    "catalogType": "traktTv",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1980
+  },
+  {
+    "id": "trakt-crime-action-movies-action-movies",
+    "title": "Action Movies",
+    "url": "caspian024/lists/action-movies",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1980
+  },
+  {
+    "id": "trakt-crime-award-winning-films-academy-award-for-best-picture",
+    "title": "Award-Winning Films",
+    "url": "chrisu/lists/academy-award-for-best-picture",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1980
+  },
+  {
+    "id": "trakt-crime-action-adventure-movies-action-and-adventure-movies",
+    "title": "Action & Adventure Movies",
+    "url": "coldkeys/lists/action-and-adventure-movies",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1980
+  },
+  {
+    "id": "trakt-crime-crime-tv-dramas-crime-series",
+    "title": "Crime TV Dramas",
+    "url": "marcelocastanheira/lists/crime-series",
+    "catalogType": "traktTv",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1980
+  },
+  {
+    "id": "trakt-crime-only-on-netflix-netflix-shows",
+    "title": "Only on Netflix",
+    "url": "garycrawfordgc/lists/netflix-shows",
+    "catalogType": "traktTv",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1980
+  },
+  {
+    "id": "trakt-crime-thriller-movies-imdb-s-top-crime-movies",
+    "title": "Thriller Movies",
+    "url": "irishstevo/lists/imdb-s-top-crime-movies",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1980
+  },
+  {
+    "id": "trakt-crime-crime-dramas-crime-dramas",
+    "title": "Crime Dramas",
+    "url": "kingkearney/lists/crime-dramas",
+    "catalogType": "traktTv",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1980
+  },
+  {
+    "id": "trakt-crime-tv-shows-based-on-books-imdb-top-rated-tv-shows",
+    "title": "TV Shows Based on Books",
+    "url": "justin/lists/imdb-top-rated-tv-shows",
+    "catalogType": "traktTv",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1980
+  },
+  {
+    "id": "trakt-crime-your-next-watch-crime-thrillers",
+    "title": "Your Next Watch",
+    "url": "kingkearney/lists/crime-thrillers",
+    "catalogType": "traktTv",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1980
+  },
+  {
+    "id": "trakt-crime-award-winning-binge-worthy-tv-dramas-the-best-gritty-crime-tv-shows",
+    "title": "Award-Winning Binge-Worthy TV Dramas",
+    "url": "jim222001/lists/the-best-gritty-crime-tv-shows",
+    "catalogType": "traktTv",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1980
+  },
+  {
+    "id": "trakt-crime-true-crime-documentary-series-true-crime-shows",
+    "title": "True Crime Documentary Series",
+    "url": "coldkeys/lists/true-crime-shows",
+    "catalogType": "traktTv",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1980
+  },
+  {
+    "id": "trakt-crime-strong-black-leads-black-shows-movies-black-leads",
+    "title": "Strong Black Leads",
+    "url": "chadee93/lists/black-shows-movies-black-leads",
+    "catalogType": "traktTv",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1980
+  },
+  {
+    "id": "trakt-crime-international-tv-dramas-british-crime-drama-tv-shows",
+    "title": "International TV Dramas",
+    "url": "maxtrontv/lists/british-crime-drama-tv-shows",
+    "catalogType": "traktTv",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1980
+  },
+  {
+    "id": "trakt-crime-ripped-from-the-headlines-ranker-best-movies-based-on-true-story",
+    "title": "Ripped from the Headlines",
+    "url": "kayaaron13/lists/ranker-best-movies-based-on-true-story",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1980
+  },
+  {
+    "id": "trakt-crime-exciting-movies-car-chase",
+    "title": "Exciting Movies",
+    "url": "29zombies/lists/car-chase",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1980
+  },
+  {
+    "id": "trakt-crime-90-minute-films-100-best-crime-movies",
+    "title": "90-Minute Films",
+    "url": "lencocoa/lists/100-best-crime-movies",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1980
+  },
+  {
+    "id": "trakt-crime-drama-movies-crime",
+    "title": "Drama Movies",
+    "url": "garycrawfordgc/lists/crime",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1980
+  },
+  {
+    "id": "trakt-crime-omnisc-tv-shows-british-detective-tv-series",
+    "title": "Omnisc TV Shows",
+    "url": "majeed_pk/lists/british-detective-tv-series",
+    "catalogType": "traktTv",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1980
+  },
+  {
+    "id": "trakt-crime-new-on-netflix-best-tv-shows-of-2024",
+    "title": "New on Netflix",
+    "url": "callingjupiter/lists/best-tv-shows-of-2024",
+    "catalogType": "traktTv",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1980
+  }
 ]
