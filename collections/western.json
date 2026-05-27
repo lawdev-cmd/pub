@@ -74,7 +74,7 @@
   {
     "id": "trakt-western-high-rated",
     "title": "Top-Rated Westerns",
-    "url": "porkie16/lists/western-movies-rating-65",
+    "url": "canconfirm/lists/westerns",
     "catalogType": "traktMovie",
     "traktSortBy": "random",
     "minRating": 65
