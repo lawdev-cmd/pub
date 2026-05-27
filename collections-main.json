@@ -1,4 +1,8 @@
 [
+   {
+    "title": "Drama",
+    "url": "https://raw.githubusercontent.com/lawdev-cmd/pub/refs/heads/main/collections/drama.json"
+  },
   {
     "title": "Action",
     "url": "https://raw.githubusercontent.com/lawdev-cmd/pub/refs/heads/main/collections/action.json"
@@ -6,6 +10,10 @@
   {
     "title": "Comedy",
     "url": "https://raw.githubusercontent.com/lawdev-cmd/pub/refs/heads/main/collections/comedy.json"
+  },
+  {
+    "title": "Crime",
+    "url": "https://raw.githubusercontent.com/lawdev-cmd/pub/refs/heads/main/collections/crime.json"
   },
     {
     "title": "Adventure",
