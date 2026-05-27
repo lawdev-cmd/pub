@@ -1,125 +1,182 @@
 [
   {
-    "id": "trakt-horror-top-picks-gary",
-    "title": "Horror Selection",
-    "url": "garycrawfordgc/lists/horror",
-    "catalogType": "traktMovie",
-    "traktSortBy": "random",
-    "minRating": 57
-  },
-  {
-    "id": "trakt-horror-masterpieces",
-    "title": "Horror Collection",
-    "url": "movistapp/lists/horror",
-    "catalogType": "traktMovie",
-    "traktSortBy": "random",
-    "minRating": 57
-  },
-  {
-    "id": "trakt-horror-movies-pauls67",
-    "title": "Horror Movies",
-    "url": "pauls67/lists/horror-movies",
-    "catalogType": "traktMovie",
-    "traktSortBy": "random",
-    "minRating": 60
-  },
-  {
-    "id": "trakt-rotten-tomatoes-best-horror",
-    "title": "Rotten Tomatoes Best Horror",
+    "id": "trakt-horror-today-s-topics-for-you-rotten-tomatoes-best-horror-movies-of-all-time",
+    "title": "Today's Topics for You",
     "url": "lish408/lists/rotten-tomatoes-best-horror-movies-of-all-time",
     "catalogType": "traktMovie",
     "traktSortBy": "random",
-    "minRating": 65
+    "minRating": 57,
+    "minYear": 1980
   },
   {
-    "id": "trakt-fangoria-hidden-horror",
-    "title": "Fangoria Horror Picks",
-    "url": "sp1ti/lists/fangoria-s-101-best-horror-movies-you-ve-never-seen",
-    "catalogType": "traktMovie",
-    "traktSortBy": "random",
-    "minRating": 60
-  },
-  {
-    "id": "trakt-ranker-top-horror",
-    "title": "Ranker Horror",
-    "url": "kayaaron13/lists/ranker-top-horror-movies",
-    "catalogType": "traktMovie",
-    "traktSortBy": "random",
-    "minRating": 57
-  },
-  {
-    "id": "trakt-supernatural-horror-best",
-    "title": "Supernatural Horror Collection",
-    "url": "majeed_pk/lists/best-supernatural-horror-movies-and-tv",
-    "catalogType": "traktMovie",
-    "traktSortBy": "random",
-    "minRating": 57
-  },
-  {
-    "id": "trakt-horror-slashers",
-    "title": "Horror Slashers",
-    "url": "marcelocastanheira/lists/horror-slashers",
-    "catalogType": "traktMovie",
-    "traktSortBy": "random",
-    "minRating": 57
-  },
-  {
-    "id": "trakt-80s-horror-cults",
-    "title": "80s Horror Cult Classics",
-    "url": "marcelocastanheira/lists/80s-horror-cults",
+    "id": "trakt-horror-critically-acclaimed-horror-horror",
+    "title": "Critically Acclaimed Horror",
+    "url": "garycrawfordgc/lists/horror",
     "catalogType": "traktMovie",
     "traktSortBy": "random",
     "minRating": 57,
     "minYear": 1980
   },
   {
-    "id": "trakt-supernatural-horror-ravyn",
-    "title": "Supernatural Horror",
-    "url": "ravynloony/lists/supernatural-horror",
+    "id": "trakt-horror-horror-movies-horror",
+    "title": "Horror Movies",
+    "url": "movistapp/lists/horror",
     "catalogType": "traktMovie",
     "traktSortBy": "random",
-    "minRating": 57
+    "minRating": 57,
+    "minYear": 1980
   },
   {
-    "id": "trakt-slasher-flicks-best",
-    "title": "Slasher Essentials",
-    "url": "sp1ti/lists/the-horror-club-the-best-of-slasher-flicks",
+    "id": "trakt-horror-classic-horror-horror",
+    "title": "Classic Horror",
+    "url": "hammers-lists/lists/horror",
     "catalogType": "traktMovie",
     "traktSortBy": "random",
-    "minRating": 57
+    "minRating": 57,
+    "minYear": 1980
   },
   {
-    "id": "trakt-slasher-movies-kayaaron",
+    "id": "trakt-horror-slasher-movies-horror-1274158",
     "title": "Slasher Movies",
-    "url": "kayaaron13/lists/slasher-movies",
-    "catalogType": "traktMovie",
-    "traktSortBy": "random",
-    "minRating": 57
-  },
-  {
-    "id": "trakt-80s-cult-horror-top50",
-    "title": "1980s Cult Horror",
-    "url": "steveyboy2k14/lists/top-50-best-80s-cult-horror-movies",
+    "url": "donxy/lists/horror-1274158",
     "catalogType": "traktMovie",
     "traktSortBy": "random",
     "minRating": 57,
     "minYear": 1980
   },
   {
-    "id": "trakt-70s-horror-cult",
-    "title": "1970s Cult Horror",
+    "id": "trakt-horror-supernatural-horror-80s-horror",
+    "title": "Supernatural Horror",
+    "url": "canadutchy/lists/80s-horror",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1980
+  },
+  {
+    "id": "trakt-horror-psychological-horror-zombies",
+    "title": "Psychological Horror",
+    "url": "29zombies/lists/zombies",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1980
+  },
+  {
+    "id": "trakt-horror-zombie-movies-ranker-top-zombie-movies",
+    "title": "Zombie Movies",
+    "url": "kayaaron13/lists/ranker-top-zombie-movies",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1980
+  },
+  {
+    "id": "trakt-horror-vampire-movies-vampire-movies",
+    "title": "Vampire Movies",
+    "url": "coldkeys/lists/vampire-movies",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1980
+  },
+  {
+    "id": "trakt-horror-found-footage-bbc-culture-s-100-greatest-foreign-language-films",
+    "title": "Found Footage",
+    "url": "majeed_pk/lists/bbc-culture-s-100-greatest-foreign-language-films",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1980
+  },
+  {
+    "id": "trakt-horror-horror-tv-shows-horror-shows",
+    "title": "Horror TV Shows",
+    "url": "garycrawfordgc/lists/horror-shows",
+    "catalogType": "traktTv",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1980
+  },
+  {
+    "id": "trakt-horror-anthology-horror-popular-horror",
+    "title": "Anthology Horror",
+    "url": "lish408/lists/popular-horror",
+    "catalogType": "traktTv",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1980
+  },
+  {
+    "id": "trakt-horror-cult-horror-a-v-club-s-the-new-cult-canon",
+    "title": "Cult Horror",
+    "url": "sp1ti/lists/a-v-club-s-the-new-cult-canon",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1980
+  },
+  {
+    "id": "trakt-horror-body-horror-70s-horror-cult",
+    "title": "Body Horror",
     "url": "marcelocastanheira/lists/70s-horror-cult",
     "catalogType": "traktMovie",
     "traktSortBy": "random",
     "minRating": 57,
-    "minYear": 1970
+    "minYear": 1980
   },
   {
-    "id": "trakt-horror-cult-classics",
-    "title": "Horror & Cult Classics",
-    "url": "tsogoes/lists/horror-cult-classics",
+    "id": "trakt-horror-monster-movies-creature-feature-monster-movies",
+    "title": "Monster Movies",
+    "url": "hammers-lists/lists/creature-feature-monster-movies",
     "catalogType": "traktMovie",
     "traktSortBy": "random",
-    "minRating": 57
+    "minRating": 57,
+    "minYear": 1980
+  },
+  {
+    "id": "trakt-horror-gems-for-you-horror-movies",
+    "title": "Gems for You",
+    "url": "maxtrontv/lists/horror-movies",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1980
+  },
+  {
+    "id": "trakt-horror-your-next-watch-imdb-s-top-horror-movies",
+    "title": "Your Next Watch",
+    "url": "irishstevo/lists/imdb-s-top-horror-movies",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1980
+  },
+  {
+    "id": "trakt-horror-horror-comedies-cult-classics",
+    "title": "Horror Comedies",
+    "url": "madmapper/lists/cult-classics",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1980
+  },
+  {
+    "id": "trakt-horror-foreign-horror-bbc-culture-s-100-greatest-foreign-language-films",
+    "title": "Foreign Horror",
+    "url": "zimanazly/lists/bbc-culture-s-100-greatest-foreign-language-films",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1980
+  },
+  {
+    "id": "trakt-horror-horror-anthologies-franchises-horror-movies",
+    "title": "Horror Anthologies & Franchises",
+    "url": "caspian024/lists/horror-movies",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1980
   }
 ]
