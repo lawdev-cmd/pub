@@ -1,140 +1,170 @@
 [
-  {
-    "id": "trakt-comedy-masterpieces",
-    "title": "Comedy Selection",
-    "url": "movistapp/lists/comedy",
-    "catalogType": "traktMovie",
-    "traktSortBy": "random",
-    "minRating": 68
-  },
-  {
-    "id": "trakt-comedy-movies-top-list",
-    "title": "Top Comedy Movies",
-    "url": "ljransom/lists/comedy-movies",
-    "catalogType": "traktMovie",
-    "traktSortBy": "random",
-    "minRating": 70
-  },
-  {
-    "id": "trakt-action-comedy-gems",
-    "title": "Action Comedies",
-    "url": "film_reel/lists/action-comedy",
-    "catalogType": "traktMovie",
-    "traktSortBy": "random",
-    "minRating": 65
-  },
-  {
-    "id": "trakt-dark-comedy-top-picks",
-    "title": "Dark Comedy Selection",
-    "url": "majeed_pk/lists/the-great-dark-comedy-list",
-    "catalogType": "traktMovie",
-    "traktSortBy": "random",
-    "minRating": 69
-  },
-  {
-    "id": "trakt-dark-comedy-deep-cuts",
-    "title": "Dark Comedy Deep Cuts",
-    "url": "madmapper/lists/dark-comedy",
-    "catalogType": "traktMovie",
-    "traktSortBy": "random",
-    "minRating": 67
-  },
-  {
-    "id": "trakt-romcom-essentials",
-    "title": "Rom-Com Essentials",
-    "url": "d-sync/lists/reciperr-romantic-comedy-subgenre-movies-1990-2030-no-animation",
-    "catalogType": "traktMovie",
-    "traktSortBy": "random",
-    "minRating": 66,
-    "minYear": 1990
-  },
-  {
-    "id": "trakt-classic-comedy-hall-of-fame",
-    "title": "Classic Comedies",
-    "url": "joemarar/lists/classic-comedy-movies",
-    "catalogType": "traktMovie",
-    "traktSortBy": "random",
-    "minRating": 68
-  },
-  {
-    "id": "trakt-award-comedy-picks",
-    "title": "Critics' Comedy Selection",
-    "url": "chazlarson/lists/time-out-100-best-comedy-movies",
-    "catalogType": "traktMovie",
-    "traktSortBy": "random",
-    "minRating": 72
-  },
-  {
-    "id": "trakt-imdb-comedy-favorites",
-    "title": "IMDb Comedy Favorites",
-    "url": "irishstevo/lists/imdb-s-top-comedy-movies",
-    "catalogType": "traktMovie",
-    "traktSortBy": "random",
-    "minRating": 72
-  },
-  {
-    "id": "trakt-horror-comedy-crossover",
-    "title": "Horror-Comedy",
-    "url": "29zombies/lists/horror-comedy",
-    "catalogType": "traktMovie",
-    "traktSortBy": "random",
-    "minRating": 64
-  },
-  {
-    "id": "trakt-satire-and-spoofs",
-    "title": "Satire & Spoofs",
-    "url": "kingkearney/lists/spoofs-satire",
-    "catalogType": "traktMovie",
-    "traktSortBy": "random",
-    "minRating": 66
-  },
-  {
-    "id": "trakt-comedy-deep-library",
-    "title": "Comedy Collection",
-    "url": "importimage/lists/comedy",
-    "catalogType": "traktMovie",
-    "traktSortBy": "random",
-    "minRating": 67
-  },
-  {
-    "id": "trakt-british-comedy-favorites",
-    "title": "British Comedy Favorites",
-    "url": "pauls67/lists/british-comedy",
-    "catalogType": "traktMovie",
-    "traktSortBy": "random",
-    "minRating": 66
-  },
-  {
-    "id": "trakt-comedy-horror-hits",
-    "title": "Comedy Horror Hits",
-    "url": "ravynloony/lists/comedy-horror",
-    "catalogType": "traktMovie",
-    "traktSortBy": "random",
-    "minRating": 64
-  },
-  {
-    "id": "trakt-80s-90s-comedy-classics",
-    "title": "80s & 90s Comedy Classics",
-    "url": "theinfamousfx/lists/80s-and-90s-comedy-movies",
-    "catalogType": "traktMovie",
-    "traktSortBy": "random",
-    "minRating": 62,
-    "minYear": 1980
-  },
-  {
-    "id": "trakt-rotten-tomatoes-essential-comedy",
-    "title": "Rotten Tomatoes Essential Comedy",
-    "url": "jukulas/lists/rotten-tomatoes-100-essential-comedy-movies-copy",
-    "catalogType": "traktMovie",
-    "traktSortBy": "random",
-    "minRating": 72
-  },
-  {
-    "id": "trakt-bbc-top-100-comedy",
-    "title": "BBC Top 100 Comedy Films",
-    "url": "alessandro/lists/bbc-culture-s-top-100-comedy-films-of-all-time",
-    "catalogType": "traktMovie",
-    "traktSortBy": "random",
-    "minRating": 72
-  }
+    {
+        "id":  "trakt-comedies-geminies-spill-the-tea-the-best-of-british-comedy-tv-shows",
+        "title":  "Geminies Spill the Tea",
+        "url":  "iyez/lists/the-best-of-british-comedy-tv-shows",
+        "catalogType":  "traktShow",
+        "traktSortBy":  "random",
+        "minRating":  57
+    },
+    {
+        "id":  "trakt-comedies-award-winning-films-best-picture-oscar-nominees-by-year-academy-award",
+        "title":  "Award-Winning Films",
+        "url":  "majeed_pk/lists/best-picture-oscar-nominees-by-year-academy-award",
+        "catalogType":  "traktMovie",
+        "traktSortBy":  "random",
+        "minRating":  57
+    },
+    {
+        "id":  "trakt-comedies-we-think-you-ll-love-these-time-out-100-best-comedy-movies",
+        "title":  "We Think You\u0027ll Love These",
+        "url":  "chazlarson/lists/time-out-100-best-comedy-movies",
+        "catalogType":  "traktMovie",
+        "traktSortBy":  "random",
+        "minRating":  57
+    },
+    {
+        "id":  "trakt-comedies-need-a-good-laugh-empire-s-50-funniest-comedies-ever",
+        "title":  "Need a Good Laugh",
+        "url":  "hulkhorgen/lists/empire-s-50-funniest-comedies-ever",
+        "catalogType":  "traktMovie",
+        "traktSortBy":  "random",
+        "minRating":  57
+    },
+    {
+        "id":  "trakt-comedies-romantic-comedies-reciperr-romantic-comedy-subgenre-movies-1990-2030-no-ani",
+        "title":  "Romantic Comedies",
+        "url":  "d-sync/lists/reciperr-romantic-comedy-subgenre-movies-1990-2030-no-animation",
+        "catalogType":  "traktMovie",
+        "traktSortBy":  "random",
+        "minRating":  57
+    },
+    {
+        "id":  "trakt-comedies-action-action_-best-of-80s-90s-00s-action-copy",
+        "title":  "Action",
+        "url":  "hippydog77/lists/action_-best-of-80s-90s-00s-action-copy",
+        "catalogType":  "traktMovie",
+        "traktSortBy":  "random",
+        "minRating":  57
+    },
+    {
+        "id":  "trakt-comedies-international-tv-shows-best-foreign-language-films",
+        "title":  "International TV Shows",
+        "url":  "starney/lists/best-foreign-language-films",
+        "catalogType":  "traktShow",
+        "traktSortBy":  "random",
+        "minRating":  57
+    },
+    {
+        "id":  "trakt-comedies-desi-chill-indian-tv-shows-hindi",
+        "title":  "Desi \u0026 Chill",
+        "url":  "samyak3397/lists/indian-tv-shows-hindi",
+        "catalogType":  "traktMovie",
+        "traktSortBy":  "random",
+        "minRating":  57
+    },
+    {
+        "id":  "trakt-comedies-casual-viewing-feel-good-movies",
+        "title":  "Casual Viewing",
+        "url":  "shana71/lists/feel-good-movies",
+        "catalogType":  "traktShow",
+        "traktSortBy":  "random",
+        "minRating":  57
+    },
+    {
+        "id":  "trakt-comedies-kids-films-academy-award-for-best-animated-feature",
+        "title":  "Kids Films",
+        "url":  "chrisu/lists/academy-award-for-best-animated-feature",
+        "catalogType":  "traktMovie",
+        "traktSortBy":  "random",
+        "minRating":  57
+    },
+    {
+        "id":  "trakt-comedies-today-s-topics-for-you-the-best-of-british-comedy-tv-shows",
+        "title":  "Today\u0027s Topics for You",
+        "url":  "iyez/lists/the-best-of-british-comedy-tv-shows",
+        "catalogType":  "traktShow",
+        "traktSortBy":  "random",
+        "minRating":  57
+    },
+    {
+        "id":  "trakt-comedies-critically-acclaimed-movies-comedy-movies",
+        "title":  "Critically Acclaimed Movies",
+        "url":  "ljransom/lists/comedy-movies",
+        "catalogType":  "traktMovie",
+        "traktSortBy":  "random",
+        "minRating":  57
+    },
+    {
+        "id":  "trakt-comedies-tv-comedies-best-of-britcoms-british-comedy-tv-series",
+        "title":  "TV Comedies",
+        "url":  "majeed_pk/lists/best-of-britcoms-british-comedy-tv-series",
+        "catalogType":  "traktShow",
+        "traktSortBy":  "random",
+        "minRating":  57
+    },
+    {
+        "id":  "trakt-comedies-award-winning-tv-shows-emmy-award-best-comedy",
+        "title":  "Award-Winning TV Shows",
+        "url":  "pd_review/lists/emmy-award-best-comedy",
+        "catalogType":  "traktShow",
+        "traktSortBy":  "random",
+        "minRating":  57
+    },
+    {
+        "id":  "trakt-comedies-comedy-movies-110-best-comedy-movies",
+        "title":  "Comedy Movies",
+        "url":  "lencocoa/lists/110-best-comedy-movies",
+        "catalogType":  "traktMovie",
+        "traktSortBy":  "random",
+        "minRating":  57
+    },
+    {
+        "id":  "trakt-comedies-romantic-movies-best-romantic-movies-of-all-time",
+        "title":  "Romantic Movies",
+        "url":  "majeed_pk/lists/best-romantic-movies-of-all-time",
+        "catalogType":  "traktMovie",
+        "traktSortBy":  "random",
+        "minRating":  57
+    },
+    {
+        "id":  "trakt-comedies-cringe-comedy-academy-award-for-best-picture",
+        "title":  "Cringe Comedy",
+        "url":  "chrisu/lists/academy-award-for-best-picture",
+        "catalogType":  "traktShow",
+        "traktSortBy":  "random",
+        "minRating":  57
+    },
+    {
+        "id":  "trakt-comedies-binge-worthy-tv-dramas-binge-worthy",
+        "title":  "Binge-Worthy TV Dramas",
+        "url":  "ibjamn78/lists/binge-worthy",
+        "catalogType":  "traktShow",
+        "traktSortBy":  "random",
+        "minRating":  57
+    },
+    {
+        "id":  "trakt-comedies-late-night-comedy-movies-stoner-movies",
+        "title":  "Late Night Comedy Movies",
+        "url":  "jarvis-1144833/lists/stoner-movies",
+        "catalogType":  "traktMovie",
+        "traktSortBy":  "random",
+        "minRating":  57
+    },
+    {
+        "id":  "trakt-comedies-the-perfect-work-from-home-partner-miro-s-feel-good",
+        "title":  "The Perfect Work-from-Home Partner",
+        "url":  "mrlegendneo/lists/miro-s-feel-good",
+        "catalogType":  "traktShow",
+        "traktSortBy":  "random",
+        "minRating":  57
+    },
+    {
+        "id":  "trakt-comedies-growing-up-millennial-coming-of-age",
+        "title":  "Growing Up Millennial",
+        "url":  "madmapper/lists/coming-of-age",
+        "catalogType":  "traktShow",
+        "traktSortBy":  "random",
+        "minRating":  57
+    }
 ]
