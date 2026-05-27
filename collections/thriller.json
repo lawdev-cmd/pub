@@ -1,0 +1,122 @@
+[
+  {
+    "id": "trakt-thriller-top-picks-gary",
+    "title": "Thriller: Top Picks",
+    "url": "garycrawfordgc/lists/thriller",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57
+  },
+  {
+    "id": "trakt-thriller-masterpieces",
+    "title": "Thriller Masterpieces",
+    "url": "movistapp/lists/thriller",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57
+  },
+  {
+    "id": "trakt-suspense-thriller-best",
+    "title": "Best Suspense Thrillers",
+    "url": "majeed_pk/lists/best-suspense-thriller-movies",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 60
+  },
+  {
+    "id": "trakt-thriller-movies-majeed",
+    "title": "Thriller Movies",
+    "url": "majeed_pk/lists/thriller-movies",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 60
+  },
+  {
+    "id": "trakt-imdb-thriller-favorites",
+    "title": "IMDb Thriller Favorites",
+    "url": "irishstevo/lists/imdb-s-top-thriller-movies",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 62
+  },
+  {
+    "id": "trakt-psychological-thrillers",
+    "title": "Psychological Thrillers",
+    "url": "majeed_pk/lists/psychological-thrillers",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 62
+  },
+  {
+    "id": "trakt-top-200-psychological-thrillers",
+    "title": "Top 200 Psychological Thrillers",
+    "url": "majeed_pk/lists/top-200-psychological-thrillers",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 62
+  },
+  {
+    "id": "trakt-100-best-thriller-movies",
+    "title": "100 Best Thriller Movies",
+    "url": "lencocoa/lists/100-best-thriller-movies",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 65
+  },
+  {
+    "id": "trakt-twisted-psychological-mindfucks",
+    "title": "Twisted Psychological Mindfucks",
+    "url": "29zombies/lists/twisted-plots-and-psychological-mindfucks",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57
+  },
+  {
+    "id": "trakt-thriller-29zombies",
+    "title": "Thriller Picks",
+    "url": "29zombies/lists/thriller",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57
+  },
+  {
+    "id": "trakt-psychological-thrillers-urban",
+    "title": "Psychological Thrillers Deep Cuts",
+    "url": "urban-legend/lists/psychological-thrillers",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57
+  },
+  {
+    "id": "trakt-psychological-thrillers-flekz",
+    "title": "Psychological Thriller Vault",
+    "url": "flekz22/lists/psychological-thrillers",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57
+  },
+  {
+    "id": "trakt-mystery-masterpieces",
+    "title": "Mystery Masterpieces",
+    "url": "movistapp/lists/mystery",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57
+  },
+  {
+    "id": "trakt-detective-sleuth-mystery",
+    "title": "Detective & Sleuth Mystery",
+    "url": "29zombies/lists/detective-sleuth-mystery",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57
+  },
+  {
+    "id": "trakt-psychological-thrillers-istoit",
+    "title": "Psychological Thriller Essentials",
+    "url": "istoit/lists/psychological-thrillers",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57
+  }
+]
