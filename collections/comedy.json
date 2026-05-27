@@ -3,7 +3,7 @@
         "id":  "trakt-comedies-geminies-spill-the-tea-the-best-of-british-comedy-tv-shows",
         "title":  "Geminies Spill the Tea",
         "url":  "iyez/lists/the-best-of-british-comedy-tv-shows",
-        "catalogType":  "traktShow",
+        "catalogType":  "traktTv",
         "traktSortBy":  "random",
         "minRating":  57
     },
@@ -51,7 +51,7 @@
         "id":  "trakt-comedies-international-tv-shows-best-foreign-language-films",
         "title":  "International TV Shows",
         "url":  "starney/lists/best-foreign-language-films",
-        "catalogType":  "traktShow",
+        "catalogType":  "traktTv",
         "traktSortBy":  "random",
         "minRating":  57
     },
@@ -67,7 +67,7 @@
         "id":  "trakt-comedies-casual-viewing-feel-good-movies",
         "title":  "Casual Viewing",
         "url":  "shana71/lists/feel-good-movies",
-        "catalogType":  "traktShow",
+        "catalogType":  "traktTv",
         "traktSortBy":  "random",
         "minRating":  57
     },
@@ -83,7 +83,7 @@
         "id":  "trakt-comedies-today-s-topics-for-you-the-best-of-british-comedy-tv-shows",
         "title":  "Today\u0027s Topics for You",
         "url":  "iyez/lists/the-best-of-british-comedy-tv-shows",
-        "catalogType":  "traktShow",
+        "catalogType":  "traktTv",
         "traktSortBy":  "random",
         "minRating":  57
     },
@@ -99,7 +99,7 @@
         "id":  "trakt-comedies-tv-comedies-best-of-britcoms-british-comedy-tv-series",
         "title":  "TV Comedies",
         "url":  "majeed_pk/lists/best-of-britcoms-british-comedy-tv-series",
-        "catalogType":  "traktShow",
+        "catalogType":  "traktTv",
         "traktSortBy":  "random",
         "minRating":  57
     },
@@ -107,7 +107,7 @@
         "id":  "trakt-comedies-award-winning-tv-shows-emmy-award-best-comedy",
         "title":  "Award-Winning TV Shows",
         "url":  "pd_review/lists/emmy-award-best-comedy",
-        "catalogType":  "traktShow",
+        "catalogType":  "traktTv",
         "traktSortBy":  "random",
         "minRating":  57
     },
@@ -131,7 +131,7 @@
         "id":  "trakt-comedies-cringe-comedy-academy-award-for-best-picture",
         "title":  "Cringe Comedy",
         "url":  "chrisu/lists/academy-award-for-best-picture",
-        "catalogType":  "traktShow",
+        "catalogType":  "traktTv",
         "traktSortBy":  "random",
         "minRating":  57
     },
@@ -139,7 +139,7 @@
         "id":  "trakt-comedies-binge-worthy-tv-dramas-binge-worthy",
         "title":  "Binge-Worthy TV Dramas",
         "url":  "ibjamn78/lists/binge-worthy",
-        "catalogType":  "traktShow",
+        "catalogType":  "traktTv",
         "traktSortBy":  "random",
         "minRating":  57
     },
@@ -155,7 +155,7 @@
         "id":  "trakt-comedies-the-perfect-work-from-home-partner-miro-s-feel-good",
         "title":  "The Perfect Work-from-Home Partner",
         "url":  "mrlegendneo/lists/miro-s-feel-good",
-        "catalogType":  "traktShow",
+        "catalogType":  "traktTv",
         "traktSortBy":  "random",
         "minRating":  57
     },
@@ -163,8 +163,9 @@
         "id":  "trakt-comedies-growing-up-millennial-coming-of-age",
         "title":  "Growing Up Millennial",
         "url":  "madmapper/lists/coming-of-age",
-        "catalogType":  "traktShow",
+        "catalogType":  "traktTv",
         "traktSortBy":  "random",
         "minRating":  57
     }
 ]
+
