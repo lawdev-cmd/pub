@@ -1,7 +1,7 @@
 [
   {
     "id": "trakt-adventure-masterpieces",
-    "title": "Adventure Masterpieces",
+    "title": "Adventure Selection",
     "url": "movistapp/lists/adventure",
     "catalogType": "traktMovie",
     "traktSortBy": "random",
@@ -9,7 +9,7 @@
   },
   {
     "id": "trakt-imdb-adventure-favorites",
-    "title": "IMDb Adventure Favorites",
+    "title": "IMDb Top Adventure",
     "url": "irishstevo/lists/imdb-s-top-adventure-movies",
     "catalogType": "traktMovie",
     "traktSortBy": "random",
@@ -33,7 +33,7 @@
   },
   {
     "id": "trakt-epic-adventure-history",
-    "title": "Epic History Adventures",
+    "title": "Historical Adventure",
     "url": "majeed_pk/lists/history-epic-adventure-movies",
     "catalogType": "traktMovie",
     "traktSortBy": "random",
@@ -41,7 +41,7 @@
   },
   {
     "id": "trakt-adventure-picks-29zombies",
-    "title": "Adventure Picks",
+    "title": "Adventure Collection",
     "url": "29zombies/lists/adventure",
     "catalogType": "traktMovie",
     "traktSortBy": "random",
@@ -49,7 +49,7 @@
   },
   {
     "id": "trakt-action-adventure-public",
-    "title": "Action Adventure Hits",
+    "title": "Action-Adventure",
     "url": "magictv7/lists/action-adventure-movies-public",
     "catalogType": "traktMovie",
     "traktSortBy": "random",
@@ -73,7 +73,7 @@
   },
   {
     "id": "trakt-best-survival-movies",
-    "title": "Best Survival Movies",
+    "title": "Survival Films",
     "url": "majeed_pk/lists/the-best-survival-movies",
     "catalogType": "traktMovie",
     "traktSortBy": "random",
@@ -81,7 +81,7 @@
   },
   {
     "id": "trakt-treasure-hunt",
-    "title": "Treasure Hunt Adventures",
+    "title": "Treasure Hunt",
     "url": "netplexflix/lists/treasure-hunt",
     "catalogType": "traktMovie",
     "traktSortBy": "random",
@@ -89,7 +89,7 @@
   },
   {
     "id": "trakt-sea-and-sail-adventures",
-    "title": "Sea & Sail Adventures",
+    "title": "Sea Adventure",
     "url": "g3orgios/lists/sea-sail",
     "catalogType": "traktMovie",
     "traktSortBy": "random",
@@ -105,7 +105,7 @@
   },
   {
     "id": "trakt-survival-movies-jim",
-    "title": "Survival Movie Picks",
+    "title": "Survival Selection",
     "url": "jim222001/lists/survival-movies",
     "catalogType": "traktMovie",
     "traktSortBy": "random",
@@ -113,7 +113,7 @@
   },
   {
     "id": "trakt-expedition-survival",
-    "title": "Expedition Survival",
+    "title": "Expedition Films",
     "url": "29zombies/lists/survival",
     "catalogType": "traktMovie",
     "traktSortBy": "random",
