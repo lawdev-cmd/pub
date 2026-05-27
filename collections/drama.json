@@ -1,235 +1,234 @@
 [
-  {
-    "id": "trakt-dramas-today-s-topics-for-you-the-best-of-thriller-crime-drama-tv-shows",
-    "title": "Today's Topics for You",
-    "url": "iyez/lists/the-best-of-thriller-crime-drama-tv-shows",
-    "catalogType": "traktTv",
-    "traktSortBy": "random",
-    "minRating": 57
-  },
-  {
-    "id": "trakt-dramas-critically-acclaimed-tv-shows-british-crime-drama-tv-shows",
-    "title": "Critically Acclaimed TV Shows",
-    "url": "maxtrontv/lists/british-crime-drama-tv-shows",
-    "catalogType": "traktTv",
-    "traktSortBy": "random",
-    "minRating": 57
-  },
-  {
-    "id": "trakt-dramas-growing-up-millennial-coming-of-age",
-    "title": "Growing Up Millennial",
-    "url": "madmapper/lists/coming-of-age",
-    "catalogType": "traktTv",
-    "traktSortBy": "random",
-    "minRating": 57
-  },
-  {
-    "id": "trakt-dramas-teen-tv-dramas-teen-dramas",
-    "title": "Teen TV Dramas",
-    "url": "stephanieaghahowa/lists/teen-dramas",
-    "catalogType": "traktTv",
-    "traktSortBy": "random",
-    "minRating": 57
-  },
-  {
-    "id": "trakt-dramas-acclaimed-writers-rotten-tomatoes-best-horror-tv-shows-of-all-time",
-    "title": "Acclaimed Writers",
-    "url": "lish408/lists/rotten-tomatoes-best-horror-tv-shows-of-all-time",
-    "catalogType": "traktTv",
-    "traktSortBy": "random",
-    "minRating": 57
-  },
-  {
-    "id": "trakt-dramas-suspenseful-tv-shows-the-best-of-british-period-drama-tv-shows",
-    "title": "Suspenseful TV Shows",
-    "url": "iyez/lists/the-best-of-british-period-drama-tv-shows",
-    "catalogType": "traktTv",
-    "traktSortBy": "random",
-    "minRating": 57
-  },
-  {
-    "id": "trakt-dramas-medical-tv-shows-medical",
-    "title": "Medical TV Shows",
-    "url": "torneroosje/lists/medical",
-    "catalogType": "traktTv",
-    "traktSortBy": "random",
-    "minRating": 57
-  },
-  {
-    "id": "trakt-dramas-gems-for-you-hidden-gems",
-    "title": "Gems for You",
-    "url": "recom273/lists/hidden-gems",
-    "catalogType": "traktTv",
-    "traktSortBy": "random",
-    "minRating": 57
-  },
-  {
-    "id": "trakt-dramas-familiar-favorite-series-the-best-of-british-period-drama-tv-shows",
-    "title": "Familiar Favorite Series",
-    "url": "iyez/lists/the-best-of-british-period-drama-tv-shows",
-    "catalogType": "traktTv",
-    "traktSortBy": "random",
-    "minRating": 57
-  },
-  {
-    "id": "trakt-dramas-award-winning-tv-dramas-emmy-award-best-drama",
-    "title": "Award-Winning TV Dramas",
-    "url": "pd_review/lists/emmy-award-best-drama",
-    "catalogType": "traktTv",
-    "traktSortBy": "random",
-    "minRating": 57
-  },
-  {
-    "id": "trakt-dramas-period-dramas-the-best-of-british-period-drama-tv-shows",
-    "title": "Period Dramas",
-    "url": "iyez/lists/the-best-of-british-period-drama-tv-shows",
-    "catalogType": "traktTv",
-    "traktSortBy": "random",
-    "minRating": 57
-  },
-  {
-    "id": "trakt-dramas-legal-tv-dramas-law-and-lawyers",
-    "title": "Legal TV Dramas",
-    "url": "iwatchalotofshows/lists/law-and-lawyers",
-    "catalogType": "traktTv",
-    "traktSortBy": "random",
-    "minRating": 57
-  },
-  {
-    "id": "trakt-dramas-political-dramas-political-thrillers-conspiracy-espionage-terror",
-    "title": "Political Dramas",
-    "url": "majeed_pk/lists/political-thrillers-conspiracy-espionage-terror",
-    "catalogType": "traktTv",
-    "traktSortBy": "random",
-    "minRating": 57
-  },
-  {
-    "id": "trakt-dramas-family-dramas-rotten-tomatoes-top-100-kids-family-movies",
-    "title": "Family Dramas",
-    "url": "giladg/lists/rotten-tomatoes-top-100-kids-family-movies",
-    "catalogType": "traktTv",
-    "traktSortBy": "random",
-    "minRating": 57
-  },
-  {
-    "id": "trakt-dramas-romantic-dramas-romantic-comedies",
-    "title": "Romantic Dramas",
-    "url": "hammers-lists/lists/romantic-comedies",
-    "catalogType": "traktTv",
-    "traktSortBy": "random",
-    "minRating": 57
-  },
-  {
-    "id": "trakt-dramas-critically-acclaimed-movies-imdb-top-rated-movies",
-    "title": "Critically Acclaimed Movies",
-    "url": "justin/lists/imdb-top-rated-movies",
-    "catalogType": "traktMovie",
-    "traktSortBy": "random",
-    "minRating": 57
-  },
-  {
-    "id": "trakt-dramas-coming-of-age-drama-coming-of-age-movies",
-    "title": "Coming-of-Age Drama",
-    "url": "canadutchy/lists/coming-of-age-movies",
-    "catalogType": "traktMovie",
-    "traktSortBy": "random",
-    "minRating": 57
-  },
-  {
-    "id": "trakt-dramas-binge-worthy-tv-dramas-binge-worthy",
-    "title": "Binge-Worthy TV Dramas",
-    "url": "ibjamn78/lists/binge-worthy",
-    "catalogType": "traktTv",
-    "traktSortBy": "random",
-    "minRating": 57
-  },
-  {
-    "id": "trakt-dramas-k-dramas-2019-2025-korean-drama",
-    "title": "K-Dramas",
-    "url": "a-homrany-hotmail-com/lists/2019-2025-korean-drama",
-    "catalogType": "traktTv",
-    "traktSortBy": "random",
-    "minRating": 57
-  },
-  {
-    "id": "trakt-dramas-drama-movies-based-on-books-movies-mini-series-based-on-true-story",
-    "title": "Drama Movies Based on Books",
-    "url": "sawo/lists/movies-mini-series-based-on-true-story",
-    "catalogType": "traktMovie",
-    "traktSortBy": "random",
-    "minRating": 57
-  },
-  {
-    "id": "trakt-dramas-true-story-dramas-ranker-best-movies-based-on-true-story",
-    "title": "True Story Dramas",
-    "url": "kayaaron13/lists/ranker-best-movies-based-on-true-story",
-    "catalogType": "traktMovie",
-    "traktSortBy": "random",
-    "minRating": 57
-  },
-  {
-    "id": "trakt-dramas-strong-female-leads-strong-and-interesting-women",
-    "title": "Strong Female Leads",
-    "url": "kutrinet/lists/strong-and-interesting-women",
-    "catalogType": "traktTv",
-    "traktSortBy": "random",
-    "minRating": 57
-  },
-  {
-    "id": "trakt-dramas-your-next-watch-must-watch-classic-movies",
-    "title": "Your Next Watch",
-    "url": "gary-lydement/lists/must-watch-classic-movies",
-    "catalogType": "traktTv",
-    "traktSortBy": "random",
-    "minRating": 57
-  },
-  {
-    "id": "trakt-dramas-only-on-netflix-netflix1",
-    "title": "Only on Netflix",
-    "url": "stuacott/lists/netflix1",
-    "catalogType": "traktTv",
-    "traktSortBy": "random",
-    "minRating": 57
-  },
-  {
-    "id": "trakt-dramas-new-on-netflix-best-tv-shows-of-2024",
-    "title": "New on Netflix",
-    "url": "callingjupiter/lists/best-tv-shows-of-2024",
-    "catalogType": "traktTv",
-    "traktSortBy": "random",
-    "minRating": 57
-  },
-  {
-    "id": "trakt-dramas-sci-fi-dramas-science-fiction-tv-shows",
-    "title": "Sci-Fi Dramas",
-    "url": "cscott1/lists/science-fiction-tv-shows",
-    "catalogType": "traktTv",
-    "traktSortBy": "random",
-    "minRating": 57
-  },
-  {
-    "id": "trakt-dramas-historical-dramas-period-drama-historical-series",
-    "title": "Historical Dramas",
-    "url": "athanasiaa/lists/period-drama-historical-series",
-    "catalogType": "traktTv",
-    "traktSortBy": "random",
-    "minRating": 57
-  },
-  {
-    "id": "trakt-dramas-drama-movies-drama",
-    "title": "Drama Movies",
-    "url": "garycrawfordgc/lists/drama",
-    "catalogType": "traktMovie",
-    "traktSortBy": "random",
-    "minRating": 57
-  },
-  {
-    "id": "trakt-dramas-international-tv-dramas-best-foreign-language-films",
-    "title": "International TV Dramas",
-    "url": "starney/lists/best-foreign-language-films",
-    "catalogType": "traktTv",
-    "traktSortBy": "random",
-    "minRating": 57
-  }
+    {
+        "id":  "trakt-dramas-today-s-topics-for-you-drama",
+        "title":  "Today\u0027s Topics for You",
+        "url":  "garycrawfordgc/lists/drama",
+        "catalogType":  "traktTv",
+        "traktSortBy":  "random",
+        "minRating":  57
+    },
+    {
+        "id":  "trakt-dramas-critically-acclaimed-tv-shows-drama-shows",
+        "title":  "Critically Acclaimed TV Shows",
+        "url":  "garycrawfordgc/lists/drama-shows",
+        "catalogType":  "traktTv",
+        "traktSortBy":  "random",
+        "minRating":  57
+    },
+    {
+        "id":  "trakt-dramas-growing-up-millennial-drama",
+        "title":  "Growing Up Millennial",
+        "url":  "movistapp/lists/drama",
+        "catalogType":  "traktTv",
+        "traktSortBy":  "random",
+        "minRating":  57
+    },
+    {
+        "id":  "trakt-dramas-teen-tv-dramas-teen-dramas",
+        "title":  "Teen TV Dramas",
+        "url":  "stephanieaghahowa/lists/teen-dramas",
+        "catalogType":  "traktTv",
+        "traktSortBy":  "random",
+        "minRating":  57
+    },
+    {
+        "id":  "trakt-dramas-acclaimed-writers-imdb-top-rated-tv-shows",
+        "title":  "Acclaimed Writers",
+        "url":  "justin/lists/imdb-top-rated-tv-shows",
+        "catalogType":  "traktTv",
+        "traktSortBy":  "random",
+        "minRating":  57
+    },
+    {
+        "id":  "trakt-dramas-suspenseful-tv-shows-the-best-of-thriller-crime-drama-tv-shows",
+        "title":  "Suspenseful TV Shows",
+        "url":  "iyez/lists/the-best-of-thriller-crime-drama-tv-shows",
+        "catalogType":  "traktTv",
+        "traktSortBy":  "random",
+        "minRating":  57
+    },
+    {
+        "id":  "trakt-dramas-medical-tv-shows-medical",
+        "title":  "Medical TV Shows",
+        "url":  "torneroosje/lists/medical",
+        "catalogType":  "traktTv",
+        "traktSortBy":  "random",
+        "minRating":  57
+    },
+    {
+        "id":  "trakt-dramas-gems-for-you-hidden-gems",
+        "title":  "Gems for You",
+        "url":  "recom273/lists/hidden-gems",
+        "catalogType":  "traktTv",
+        "traktSortBy":  "random",
+        "minRating":  57
+    },
+    {
+        "id":  "trakt-dramas-familiar-favorite-series-the-best-of-british-period-drama-tv-shows",
+        "title":  "Familiar Favorite Series",
+        "url":  "iyez/lists/the-best-of-british-period-drama-tv-shows",
+        "catalogType":  "traktTv",
+        "traktSortBy":  "random",
+        "minRating":  57
+    },
+    {
+        "id":  "trakt-dramas-award-winning-tv-dramas-emmy-award-best-drama",
+        "title":  "Award-Winning TV Dramas",
+        "url":  "pd_review/lists/emmy-award-best-drama",
+        "catalogType":  "traktTv",
+        "traktSortBy":  "random",
+        "minRating":  57
+    },
+    {
+        "id":  "trakt-dramas-period-dramas-the-best-of-british-period-drama-tv-shows",
+        "title":  "Period Dramas",
+        "url":  "iyez/lists/the-best-of-british-period-drama-tv-shows",
+        "catalogType":  "traktTv",
+        "traktSortBy":  "random",
+        "minRating":  57
+    },
+    {
+        "id":  "trakt-dramas-legal-tv-dramas-legal-dramas",
+        "title":  "Legal TV Dramas",
+        "url":  "madmapper/lists/legal-dramas",
+        "catalogType":  "traktTv",
+        "traktSortBy":  "random",
+        "minRating":  57
+    },
+    {
+        "id":  "trakt-dramas-political-dramas-political-thrillers-conspiracy-espionage-terror",
+        "title":  "Political Dramas",
+        "url":  "majeed_pk/lists/political-thrillers-conspiracy-espionage-terror",
+        "catalogType":  "traktTv",
+        "traktSortBy":  "random",
+        "minRating":  57
+    },
+    {
+        "id":  "trakt-dramas-family-dramas-family",
+        "title":  "Family Dramas",
+        "url":  "movistapp/lists/family",
+        "catalogType":  "traktTv",
+        "traktSortBy":  "random",
+        "minRating":  57
+    },
+    {
+        "id":  "trakt-dramas-romantic-dramas-romantic-comedies",
+        "title":  "Romantic Dramas",
+        "url":  "hammers-lists/lists/romantic-comedies",
+        "catalogType":  "traktMovie",
+        "traktSortBy":  "random",
+        "minRating":  57
+    },
+    {
+        "id":  "trakt-dramas-critically-acclaimed-movies-imdb-top-rated-movies",
+        "title":  "Critically Acclaimed Movies",
+        "url":  "justin/lists/imdb-top-rated-movies",
+        "catalogType":  "traktMovie",
+        "traktSortBy":  "random",
+        "minRating":  57
+    },
+    {
+        "id":  "trakt-dramas-coming-of-age-drama-coming-of-age-movies",
+        "title":  "Coming-of-Age Drama",
+        "url":  "canadutchy/lists/coming-of-age-movies",
+        "catalogType":  "traktMovie",
+        "traktSortBy":  "random",
+        "minRating":  57
+    },
+    {
+        "id":  "trakt-dramas-binge-worthy-tv-dramas-binge-worthy",
+        "title":  "Binge-Worthy TV Dramas",
+        "url":  "ibjamn78/lists/binge-worthy",
+        "catalogType":  "traktTv",
+        "traktSortBy":  "random",
+        "minRating":  57
+    },
+    {
+        "id":  "trakt-dramas-k-dramas-2019-2025-korean-drama",
+        "title":  "K-Dramas",
+        "url":  "a-homrany-hotmail-com/lists/2019-2025-korean-drama",
+        "catalogType":  "traktTv",
+        "traktSortBy":  "random",
+        "minRating":  57
+    },
+    {
+        "id":  "trakt-dramas-drama-movies-based-on-books-movies-mini-series-based-on-true-story",
+        "title":  "Drama Movies Based on Books",
+        "url":  "sawo/lists/movies-mini-series-based-on-true-story",
+        "catalogType":  "traktMovie",
+        "traktSortBy":  "random",
+        "minRating":  57
+    },
+    {
+        "id":  "trakt-dramas-true-story-dramas-ranker-best-movies-based-on-true-story",
+        "title":  "True Story Dramas",
+        "url":  "kayaaron13/lists/ranker-best-movies-based-on-true-story",
+        "catalogType":  "traktMovie",
+        "traktSortBy":  "random",
+        "minRating":  57
+    },
+    {
+        "id":  "trakt-dramas-strong-female-leads-strong-and-interesting-women",
+        "title":  "Strong Female Leads",
+        "url":  "kutrinet/lists/strong-and-interesting-women",
+        "catalogType":  "traktTv",
+        "traktSortBy":  "random",
+        "minRating":  57
+    },
+    {
+        "id":  "trakt-dramas-your-next-watch-must-watch-classic-movies",
+        "title":  "Your Next Watch",
+        "url":  "gary-lydement/lists/must-watch-classic-movies",
+        "catalogType":  "traktMovie",
+        "traktSortBy":  "random",
+        "minRating":  57
+    },
+    {
+        "id":  "trakt-dramas-only-on-netflix-netflix1",
+        "title":  "Only on Netflix",
+        "url":  "stuacott/lists/netflix1",
+        "catalogType":  "traktTv",
+        "traktSortBy":  "random",
+        "minRating":  57
+    },
+    {
+        "id":  "trakt-dramas-new-on-netflix-best-tv-shows-of-2024",
+        "title":  "New on Netflix",
+        "url":  "callingjupiter/lists/best-tv-shows-of-2024",
+        "catalogType":  "traktTv",
+        "traktSortBy":  "random",
+        "minRating":  57
+    },
+    {
+        "id":  "trakt-dramas-sci-fi-dramas-science-fiction-tv-shows",
+        "title":  "Sci-Fi Dramas",
+        "url":  "cscott1/lists/science-fiction-tv-shows",
+        "catalogType":  "traktTv",
+        "traktSortBy":  "random",
+        "minRating":  57
+    },
+    {
+        "id":  "trakt-dramas-historical-dramas-period-drama-historical-series",
+        "title":  "Historical Dramas",
+        "url":  "athanasiaa/lists/period-drama-historical-series",
+        "catalogType":  "traktTv",
+        "traktSortBy":  "random",
+        "minRating":  57
+    },
+    {
+        "id":  "trakt-dramas-drama-movies-drama",
+        "title":  "Drama Movies",
+        "url":  "garycrawfordgc/lists/drama",
+        "catalogType":  "traktMovie",
+        "traktSortBy":  "random",
+        "minRating":  57
+    },
+    {
+        "id":  "trakt-dramas-international-tv-dramas-british-crime-drama-tv-shows",
+        "title":  "International TV Dramas",
+        "url":  "maxtrontv/lists/british-crime-drama-tv-shows",
+        "catalogType":  "traktTv",
+        "traktSortBy":  "random",
+        "minRating":  57
+    }
 ]
-
