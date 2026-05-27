@@ -1,122 +1,137 @@
 [
   {
-    "id": "trakt-adventure-masterpieces",
-    "title": "Adventure Selection",
+    "id": "trakt-adventure-today-s-topics-for-you-adventure",
+    "title": "Today's Topics for You",
     "url": "movistapp/lists/adventure",
     "catalogType": "traktMovie",
     "traktSortBy": "random",
-    "minRating": 57
+    "minRating": 57,
+    "minYear": 1980
   },
   {
-    "id": "trakt-imdb-adventure-favorites",
-    "title": "IMDb Top Adventure",
-    "url": "irishstevo/lists/imdb-s-top-adventure-movies",
+    "id": "trakt-adventure-action-adventure-movies-action-adventure-movies",
+    "title": "Action & Adventure Movies",
+    "url": "maxtrontv/lists/action-adventure-movies",
     "catalogType": "traktMovie",
     "traktSortBy": "random",
-    "minRating": 62
+    "minRating": 57,
+    "minYear": 1980
   },
   {
-    "id": "trakt-action-adventure-mix",
-    "title": "Action & Adventure",
+    "id": "trakt-adventure-epic-adventures-sexy-adventure",
+    "title": "Epic Adventures",
+    "url": "amohr/lists/sexy-adventure",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1980
+  },
+  {
+    "id": "trakt-adventure-fantasy-adventures-fantasy-sci-fi-adventure-comedy-drama",
+    "title": "Fantasy Adventures",
+    "url": "krissykk/lists/fantasy-sci-fi-adventure-comedy-drama",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1980
+  },
+  {
+    "id": "trakt-adventure-adventure-tv-shows-action-adventure-tv-shows-copy",
+    "title": "Adventure TV Shows",
+    "url": "hippydog77/lists/action-adventure-tv-shows-copy",
+    "catalogType": "traktTv",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1980
+  },
+  {
+    "id": "trakt-adventure-family-adventures-action-and-adventure-movies",
+    "title": "Family Adventures",
     "url": "coldkeys/lists/action-and-adventure-movies",
     "catalogType": "traktMovie",
     "traktSortBy": "random",
-    "minRating": 57
+    "minRating": 57,
+    "minYear": 1980
   },
   {
-    "id": "trakt-adventure-movies-caspian",
-    "title": "Adventure Movies",
+    "id": "trakt-adventure-sci-fi-adventures-adventure-movies",
+    "title": "Sci-Fi Adventures",
     "url": "caspian024/lists/adventure-movies",
     "catalogType": "traktMovie",
     "traktSortBy": "random",
-    "minRating": 57
+    "minRating": 57,
+    "minYear": 1980
   },
   {
-    "id": "trakt-epic-adventure-history",
-    "title": "Historical Adventure",
-    "url": "majeed_pk/lists/history-epic-adventure-movies",
-    "catalogType": "traktMovie",
-    "traktSortBy": "random",
-    "minRating": 60
-  },
-  {
-    "id": "trakt-adventure-picks-29zombies",
-    "title": "Adventure Collection",
+    "id": "trakt-adventure-anime-adventures-adventure",
+    "title": "Anime Adventures",
     "url": "29zombies/lists/adventure",
-    "catalogType": "traktMovie",
+    "catalogType": "traktTv",
     "traktSortBy": "random",
-    "minRating": 57
+    "minRating": 57,
+    "minYear": 1980
   },
   {
-    "id": "trakt-action-adventure-public",
-    "title": "Action-Adventure",
-    "url": "magictv7/lists/action-adventure-movies-public",
-    "catalogType": "traktMovie",
-    "traktSortBy": "random",
-    "minRating": 57
-  },
-  {
-    "id": "trakt-island-adventure",
-    "title": "Island Adventures",
-    "url": "29zombies/lists/island-adventure",
-    "catalogType": "traktMovie",
-    "traktSortBy": "random",
-    "minRating": 57
-  },
-  {
-    "id": "trakt-survival-adventures",
+    "id": "trakt-adventure-survival-adventures-imdb-s-top-adventure-movies",
     "title": "Survival Adventures",
-    "url": "kayaaron13/lists/survival-movies",
+    "url": "irishstevo/lists/imdb-s-top-adventure-movies",
     "catalogType": "traktMovie",
     "traktSortBy": "random",
-    "minRating": 57
+    "minRating": 57,
+    "minYear": 1980
   },
   {
-    "id": "trakt-best-survival-movies",
-    "title": "Survival Films",
-    "url": "majeed_pk/lists/the-best-survival-movies",
+    "id": "trakt-adventure-treasure-hunts-heists-adventure",
+    "title": "Treasure Hunts & Heists",
+    "url": "mrj514/lists/adventure",
     "catalogType": "traktMovie",
     "traktSortBy": "random",
-    "minRating": 60
+    "minRating": 57,
+    "minYear": 1980
   },
   {
-    "id": "trakt-treasure-hunt",
-    "title": "Treasure Hunt",
-    "url": "netplexflix/lists/treasure-hunt",
+    "id": "trakt-adventure-swashbuckling-classics-classic-adventures",
+    "title": "Swashbuckling Classics",
+    "url": "kingkearney/lists/classic-adventures",
     "catalogType": "traktMovie",
     "traktSortBy": "random",
-    "minRating": 57
+    "minRating": 57,
+    "minYear": 1980
   },
   {
-    "id": "trakt-sea-and-sail-adventures",
-    "title": "Sea Adventure",
-    "url": "g3orgios/lists/sea-sail",
+    "id": "trakt-adventure-gems-for-you-action-adventure",
+    "title": "Gems for You",
+    "url": "ibjamn78/lists/action-adventure",
     "catalogType": "traktMovie",
     "traktSortBy": "random",
-    "minRating": 57
+    "minRating": 57,
+    "minYear": 1980
   },
   {
-    "id": "trakt-disaster-survival",
-    "title": "Disaster & Survival",
-    "url": "htpablo/lists/disaster-tragedy-destruction-and-survival",
+    "id": "trakt-adventure-critically-acclaimed-adventures-the-best-adventure-movies",
+    "title": "Critically Acclaimed Adventures",
+    "url": "jim222001/lists/the-best-adventure-movies",
     "catalogType": "traktMovie",
     "traktSortBy": "random",
-    "minRating": 57
+    "minRating": 57,
+    "minYear": 1980
   },
   {
-    "id": "trakt-survival-movies-jim",
-    "title": "Survival Selection",
-    "url": "jim222001/lists/survival-movies",
+    "id": "trakt-adventure-adventure-blockbusters-adventure-swords-sorcery-dragons-legends-mythical-e",
+    "title": "Adventure Blockbusters",
+    "url": "krissykk/lists/adventure-swords-sorcery-dragons-legends-mythical-events-2of2",
     "catalogType": "traktMovie",
     "traktSortBy": "random",
-    "minRating": 60
+    "minRating": 57,
+    "minYear": 1980
   },
   {
-    "id": "trakt-expedition-survival",
-    "title": "Expedition Films",
-    "url": "29zombies/lists/survival",
+    "id": "trakt-adventure-your-next-watch-action-adventure-1181694",
+    "title": "Your Next Watch",
+    "url": "kingkearney/lists/action-adventure-1181694",
     "catalogType": "traktMovie",
     "traktSortBy": "random",
-    "minRating": 57
+    "minRating": 57,
+    "minYear": 1980
   }
 ]
