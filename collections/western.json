@@ -54,9 +54,9 @@
     "minYear": 1960
   },
   {
-    "id": "trakt-western-western-epics-animation-scooby-doo-franchise",
+    "id": "trakt-western-western-epics-western-movies",
     "title": "Western Epics",
-    "url": "krissykk/lists/animation-scooby-doo-franchise",
+    "url": "gary-lydement/lists/western-movies",
     "catalogType": "traktMovie",
     "traktSortBy": "random",
     "minRating": 57,
