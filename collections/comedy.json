@@ -1,7 +1,7 @@
 [
   {
     "id": "trakt-comedy-masterpieces",
-    "title": "Comedy Masterpieces",
+    "title": "Comedy Selection",
     "url": "movistapp/lists/comedy",
     "catalogType": "traktMovie",
     "traktSortBy": "random",
@@ -17,7 +17,7 @@
   },
   {
     "id": "trakt-action-comedy-gems",
-    "title": "Action Comedy Gems",
+    "title": "Action Comedies",
     "url": "film_reel/lists/action-comedy",
     "catalogType": "traktMovie",
     "traktSortBy": "random",
@@ -25,7 +25,7 @@
   },
   {
     "id": "trakt-dark-comedy-top-picks",
-    "title": "Dark Comedy: Top Picks",
+    "title": "Dark Comedy Selection",
     "url": "majeed_pk/lists/the-great-dark-comedy-list",
     "catalogType": "traktMovie",
     "traktSortBy": "random",
@@ -50,7 +50,7 @@
   },
   {
     "id": "trakt-classic-comedy-hall-of-fame",
-    "title": "Classic Comedy Hall of Fame",
+    "title": "Classic Comedies",
     "url": "joemarar/lists/classic-comedy-movies",
     "catalogType": "traktMovie",
     "traktSortBy": "random",
@@ -58,7 +58,7 @@
   },
   {
     "id": "trakt-award-comedy-picks",
-    "title": "Critics' Comedy Picks",
+    "title": "Critics' Comedy Selection",
     "url": "chazlarson/lists/time-out-100-best-comedy-movies",
     "catalogType": "traktMovie",
     "traktSortBy": "random",
@@ -74,7 +74,7 @@
   },
   {
     "id": "trakt-horror-comedy-crossover",
-    "title": "Horror Comedy Crossover",
+    "title": "Horror-Comedy",
     "url": "29zombies/lists/horror-comedy",
     "catalogType": "traktMovie",
     "traktSortBy": "random",
@@ -90,7 +90,7 @@
   },
   {
     "id": "trakt-comedy-deep-library",
-    "title": "Comedy Deep Library",
+    "title": "Comedy Collection",
     "url": "importimage/lists/comedy",
     "catalogType": "traktMovie",
     "traktSortBy": "random",
