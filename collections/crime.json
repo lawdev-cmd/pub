@@ -3,7 +3,7 @@
         "id":  "trakt-crime-today-s-topics-for-you-the-best-of-crime-murder-documentaries-tv-shows",
         "title":  "Today\u0027s Topics for You",
         "url":  "iyez/lists/the-best-of-crime-murder-documentaries-tv-shows",
-        "catalogType":  "traktShow",
+        "catalogType":  "traktTv",
         "traktSortBy":  "random",
         "minRating":  57
     },
@@ -11,7 +11,7 @@
         "id":  "trakt-crime-boredom-busters-binge-worthy",
         "title":  "Boredom Busters",
         "url":  "ibjamn78/lists/binge-worthy",
-        "catalogType":  "traktShow",
+        "catalogType":  "traktTv",
         "traktSortBy":  "random",
         "minRating":  57
     },
@@ -19,7 +19,7 @@
         "id":  "trakt-crime-critically-acclaimed-tv-shows-british-crime-drama-tv-shows",
         "title":  "Critically Acclaimed TV Shows",
         "url":  "maxtrontv/lists/british-crime-drama-tv-shows",
-        "catalogType":  "traktShow",
+        "catalogType":  "traktTv",
         "traktSortBy":  "random",
         "minRating":  57
     },
@@ -35,7 +35,7 @@
         "id":  "trakt-crime-crime-tv-shows-the-best-of-thriller-crime-drama-tv-shows",
         "title":  "Crime TV Shows",
         "url":  "iyez/lists/the-best-of-thriller-crime-drama-tv-shows",
-        "catalogType":  "traktShow",
+        "catalogType":  "traktTv",
         "traktSortBy":  "random",
         "minRating":  57
     },
@@ -51,7 +51,7 @@
         "id":  "trakt-crime-gems-for-you-hidden-gems",
         "title":  "Gems for You",
         "url":  "recom273/lists/hidden-gems",
-        "catalogType":  "traktShow",
+        "catalogType":  "traktTv",
         "traktSortBy":  "random",
         "minRating":  57
     },
@@ -67,7 +67,7 @@
         "id":  "trakt-crime-binge-worthy-tv-shows-binge-worthy",
         "title":  "Binge-Worthy TV Shows",
         "url":  "ibjamn78/lists/binge-worthy",
-        "catalogType":  "traktShow",
+        "catalogType":  "traktTv",
         "traktSortBy":  "random",
         "minRating":  57
     },
@@ -99,7 +99,7 @@
         "id":  "trakt-crime-crime-tv-dramas-the-best-of-thriller-crime-drama-tv-shows",
         "title":  "Crime TV Dramas",
         "url":  "iyez/lists/the-best-of-thriller-crime-drama-tv-shows",
-        "catalogType":  "traktShow",
+        "catalogType":  "traktTv",
         "traktSortBy":  "random",
         "minRating":  57
     },
@@ -107,7 +107,7 @@
         "id":  "trakt-crime-only-on-netflix-netflix1",
         "title":  "Only on Netflix",
         "url":  "stuacott/lists/netflix1",
-        "catalogType":  "traktShow",
+        "catalogType":  "traktTv",
         "traktSortBy":  "random",
         "minRating":  57
     },
@@ -131,7 +131,7 @@
         "id":  "trakt-crime-tv-shows-based-on-books-imdb-top-rated-tv-shows",
         "title":  "TV Shows Based on Books",
         "url":  "justin/lists/imdb-top-rated-tv-shows",
-        "catalogType":  "traktShow",
+        "catalogType":  "traktTv",
         "traktSortBy":  "random",
         "minRating":  57
     },
@@ -139,7 +139,7 @@
         "id":  "trakt-crime-your-next-watch-must-watch-classic-movies",
         "title":  "Your Next Watch",
         "url":  "gary-lydement/lists/must-watch-classic-movies",
-        "catalogType":  "traktShow",
+        "catalogType":  "traktTv",
         "traktSortBy":  "random",
         "minRating":  57
     },
@@ -147,7 +147,7 @@
         "id":  "trakt-crime-award-winning-binge-worthy-tv-dramas-emmy-award-best-drama",
         "title":  "Award-Winning Binge-Worthy TV Dramas",
         "url":  "pd_review/lists/emmy-award-best-drama",
-        "catalogType":  "traktShow",
+        "catalogType":  "traktTv",
         "traktSortBy":  "random",
         "minRating":  57
     },
@@ -155,7 +155,7 @@
         "id":  "trakt-crime-true-crime-documentary-series-true-crime-documentary-series-film",
         "title":  "True Crime Documentary Series",
         "url":  "lish408/lists/true-crime-documentary-series-film",
-        "catalogType":  "traktShow",
+        "catalogType":  "traktTv",
         "traktSortBy":  "random",
         "minRating":  57
     },
@@ -163,7 +163,7 @@
         "id":  "trakt-crime-strong-black-leads-black-shows-movies-black-leads",
         "title":  "Strong Black Leads",
         "url":  "chadee93/lists/black-shows-movies-black-leads",
-        "catalogType":  "traktShow",
+        "catalogType":  "traktTv",
         "traktSortBy":  "random",
         "minRating":  57
     },
@@ -171,7 +171,7 @@
         "id":  "trakt-crime-international-tv-dramas-best-foreign-language-films",
         "title":  "International TV Dramas",
         "url":  "starney/lists/best-foreign-language-films",
-        "catalogType":  "traktShow",
+        "catalogType":  "traktTv",
         "traktSortBy":  "random",
         "minRating":  57
     },
@@ -179,7 +179,7 @@
         "id":  "trakt-crime-ripped-from-the-headlines-based-on-a-true-story",
         "title":  "Ripped from the Headlines",
         "url":  "benfranklin/lists/based-on-a-true-story",
-        "catalogType":  "traktShow",
+        "catalogType":  "traktTv",
         "traktSortBy":  "random",
         "minRating":  57
     },
@@ -211,7 +211,7 @@
         "id":  "trakt-crime-omnisc-tv-shows-detective-espionage-investigation-mystery-thriller",
         "title":  "Omnisc TV Shows",
         "url":  "giuseppedr/lists/detective-espionage-investigation-mystery-thriller",
-        "catalogType":  "traktShow",
+        "catalogType":  "traktTv",
         "traktSortBy":  "random",
         "minRating":  57
     },
@@ -219,8 +219,9 @@
         "id":  "trakt-crime-new-on-netflix-best-tv-shows-of-2024",
         "title":  "New on Netflix",
         "url":  "callingjupiter/lists/best-tv-shows-of-2024",
-        "catalogType":  "traktShow",
+        "catalogType":  "traktTv",
         "traktSortBy":  "random",
         "minRating":  57
     }
 ]
+
