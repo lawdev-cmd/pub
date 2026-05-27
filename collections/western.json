@@ -1,0 +1,106 @@
+[
+  {
+    "id": "trakt-western-masterpieces",
+    "title": "Western Masterpieces",
+    "url": "movistapp/lists/western",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57
+  },
+  {
+    "id": "trakt-ranker-top-western",
+    "title": "Ranker Top Western Movies",
+    "url": "kayaaron13/lists/ranker-top-western-movies",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57
+  },
+  {
+    "id": "trakt-imdb-western-favorites",
+    "title": "IMDb Western Favorites",
+    "url": "irishstevo/lists/imdb-s-top-western-movies",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 62
+  },
+  {
+    "id": "trakt-western-movies-coldkeys",
+    "title": "Western Movies",
+    "url": "coldkeys/lists/western-movies",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57
+  },
+  {
+    "id": "trakt-rotten-tomatoes-75-western",
+    "title": "Rotten Tomatoes 75 Best Westerns",
+    "url": "palmscan/lists/rotten-tomatoes-75-best-western-movies-of-all-time-copy",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 65
+  },
+  {
+    "id": "trakt-rotten-tomatoes-top-60-western",
+    "title": "Rotten Tomatoes Top 60 Westerns",
+    "url": "travvyt/lists/rotten-tomatoes-top-60-western-movies",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 65
+  },
+  {
+    "id": "trakt-spaghetti-westerns-500",
+    "title": "Spaghetti Westerns 500+",
+    "url": "majeed_pk/lists/western-spaghetti-westerns-500-films",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57
+  },
+  {
+    "id": "trakt-spaghetti-westerns-del74",
+    "title": "Spaghetti Western Classics",
+    "url": "del74/lists/spaghetti-westerns",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57
+  },
+  {
+    "id": "trakt-spaghetti-westerns-watchlist",
+    "title": "Spaghetti Western Essentials",
+    "url": "jeffsmith99/lists/spaghetti-westerns-i-want-to-watch",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57
+  },
+  {
+    "id": "trakt-western-high-rated",
+    "title": "Top-Rated Westerns",
+    "url": "porkie16/lists/western-movies-rating-65",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 65
+  },
+  {
+    "id": "trakt-western-collection-jtucci",
+    "title": "Western Collection",
+    "url": "jtucci/lists/western",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57
+  },
+  {
+    "id": "trakt-100-best-western-films",
+    "title": "100 Best Western Films (Critics)",
+    "url": "medous/lists/100-best-western-films-of-all-time-according-to-critics",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 65
+  },
+  {
+    "id": "trakt-western-119-best-films",
+    "title": "119 Best Western Films",
+    "url": "dynamoracing/lists/western-119-best-films-of-all-time-copy",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 62
+  }
+]
