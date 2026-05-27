@@ -1,123 +1,92 @@
 [
   {
-    "id": "trakt-trending-movies",
-    "title": "Trending Movies",
-    "url": "tvgeniekodi/lists/trending-movies",
-    "catalogType": "traktMovie",
-    "traktSortBy": null,
-    "minRating": 57
-  },
-  {
-    "id": "trakt-revenge-movies",
-    "title": "Revenge Movies",
-    "url": "kayaaron13/lists/revenge-movies",
-    "catalogType": "traktMovie",
-    "traktSortBy": "random",
-    "minRating": 57
-  },
-  {
-    "id": "trakt-action-101",
-    "title": "Action Movies",
-    "url": "movistapp/lists/action",
-    "catalogType": "traktMovie",
-    "traktSortBy": "random",
-    "minRating": 57
-  },
-  {
-    "id": "trakt-thriller-movies-garycrawfordgc",
-    "title": "Thriller Selection",
-    "url": "garycrawfordgc/lists/thriller",
-    "catalogType": "traktMovie",
-    "traktSortBy": "random",
-    "minRating": 57
-  },
-  {
-    "id": "trakt-action-80s-style",
-    "title": "1980s Action",
-    "url": "marcelocastanheira/lists/action-80s-style",
+    "id": "trakt-action-today-s-topics-for-you-action",
+    "title": "Today's Topics for You",
+    "url": "garycrawfordgc/lists/action",
     "catalogType": "traktMovie",
     "traktSortBy": "random",
     "minRating": 57,
-    "minYear": 1975
+    "minYear": 1980
   },
   {
-    "id": "trakt-conspiracy-theories",
-    "title": "Conspiracy Theories",
-    "url": "kayaaron13/lists/conspiracy-movies",
+    "id": "trakt-action-action-adventure-movies-action-shooter-movies",
+    "title": "Action & Adventure Movies",
+    "url": "ljransom/lists/action-shooter-movies",
     "catalogType": "traktMovie",
     "traktSortBy": "random",
-    "minRating": 57
+    "minRating": 57,
+    "minYear": 1980
   },
   {
-    "id": "trakt-survival-movies",
-    "title": "Survival Movies",
-    "url": "kayaaron13/lists/survival-movies",
+    "id": "trakt-action-familiar-favorites-rotten-tomatoes-100-best-action-movies-copy",
+    "title": "Familiar Favorites",
+    "url": "sebastian-c-bell/lists/rotten-tomatoes-100-best-action-movies-copy",
     "catalogType": "traktMovie",
     "traktSortBy": "random",
-    "minRating": 57
+    "minRating": 57,
+    "minYear": 1980
   },
   {
-    "id": "bang-bang-bang",
-    "title": "Gunfight Action",
-    "url": "marcelocastanheira/lists/bang-bang-bang",
-    "catalogType": "traktMovie",
+    "id": "trakt-action-exciting-tv-shows-live-action-tv-shows-based-on-manga-manhwa-and-anime",
+    "title": "Exciting TV Shows",
+    "url": "sp1ti/lists/live-action-tv-shows-based-on-manga-manhwa-and-anime",
+    "catalogType": "traktTv",
     "traktSortBy": "random",
-    "minRating": 57
+    "minRating": 57,
+    "minYear": 1980
   },
   {
-    "id": "trakt-top-bank-robbery-movies",
-    "title": "Top Bank Robbery Movies",
-    "url": "kayaaron13/lists/ranker-top-bank-robbery-movies",
-    "catalogType": "traktMovie",
+    "id": "trakt-action-tv-action-adventure-tv-shows-action",
+    "title": "TV Action & Adventure",
+    "url": "astigmark/lists/tv-shows-action",
+    "catalogType": "traktTv",
     "traktSortBy": "random",
-    "minRating": 57
+    "minRating": 57,
+    "minYear": 1980
   },
   {
-    "id": "war-war-war",
-    "title": "War Action",
-    "url": "marcelocastanheira/lists/war-war-war",
+    "id": "trakt-action-get-in-on-the-action-imdb-s-top-action-movies",
+    "title": "Get in on the Action",
+    "url": "irishstevo/lists/imdb-s-top-action-movies",
     "catalogType": "traktMovie",
     "traktSortBy": "random",
-    "minRating": 57
+    "minRating": 57,
+    "minYear": 1980
   },
   {
-    "id": "trakt-vacations-gone-wrong",
-    "title": "Vacations Gone Wrong",
-    "url": "kayaaron13/lists/vacations-gone-wrong",
+    "id": "trakt-action-we-think-you-ll-love-these-asian-martial-arts",
+    "title": "We Think You'll Love These",
+    "url": "hammers-lists/lists/asian-martial-arts",
     "catalogType": "traktMovie",
     "traktSortBy": "random",
-    "minRating": 57
+    "minRating": 57,
+    "minYear": 1980
   },
   {
-    "id": "best-ass-whooping-actions-survivals",
-    "title": "Hard-Hitting Action",
-    "url": "nashmyjo/lists/best-ass-whooping-actions-survivals",
+    "id": "trakt-action-action-movies-spy-films-1465050",
+    "title": "Action Movies",
+    "url": "donxy/lists/spy-films-1465050",
     "catalogType": "traktMovie",
     "traktSortBy": "random",
-    "minRating": 57
+    "minRating": 57,
+    "minYear": 1980
   },
   {
-    "id": "assassin-hitman-spy",
-    "title": "Spy and Assassin Thrillers",
-    "url": "29zombies/lists/assassin-hitman-spy",
-    "catalogType": "traktMovie",
+    "id": "trakt-action-anime-series-trending-anime-shows",
+    "title": "Anime Series",
+    "url": "tvgeniekodi/lists/trending-anime-shows",
+    "catalogType": "traktTv",
     "traktSortBy": "random",
-    "minRating": 57
+    "minRating": 57,
+    "minYear": 1980
   },
   {
-    "id": "bad-dirty-corrupt-cops",
-    "title": "Rogue Cops",
-    "url": "29zombies/lists/bad-dirty-corrupt-cops",
+    "id": "trakt-action-watch-together-for-older-kids-rotten-tomatoes-top-100-kids-family-movies",
+    "title": "Watch Together for Older Kids",
+    "url": "giladg/lists/rotten-tomatoes-top-100-kids-family-movies",
     "catalogType": "traktMovie",
     "traktSortBy": "random",
-    "minRating": 57
-  },
-  {
-    "id": "car-chase-movies",
-    "title": "Car Chase Action",
-    "url": "29zombies/lists/car-chase",
-    "catalogType": "traktMovie",
-    "traktSortBy": "random",
-    "minRating": 57
+    "minRating": 57,
+    "minYear": 1980
   }
 ]
