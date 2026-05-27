@@ -1,170 +1,191 @@
 [
-    {
-        "id":  "trakt-comedies-geminies-spill-the-tea-the-best-of-british-comedy-tv-shows",
-        "title":  "Geminies Spill the Tea",
-        "url":  "iyez/lists/the-best-of-british-comedy-tv-shows",
-        "catalogType":  "traktTv",
-        "traktSortBy":  "random",
-        "minRating":  57
-    },
-    {
-        "id":  "trakt-comedies-award-winning-films-comedy-movies",
-        "title":  "Award-Winning Films",
-        "url":  "ljransom/lists/comedy-movies",
-        "catalogType":  "traktMovie",
-        "traktSortBy":  "random",
-        "minRating":  57
-    },
-    {
-        "id":  "trakt-comedies-we-think-you-ll-love-these-comedy",
-        "title":  "We Think You\u0027ll Love These",
-        "url":  "garycrawfordgc/lists/comedy",
-        "catalogType":  "traktMovie",
-        "traktSortBy":  "random",
-        "minRating":  57
-    },
-    {
-        "id":  "trakt-comedies-need-a-good-laugh-comedy",
-        "title":  "Need a Good Laugh",
-        "url":  "movistapp/lists/comedy",
-        "catalogType":  "traktMovie",
-        "traktSortBy":  "random",
-        "minRating":  57
-    },
-    {
-        "id":  "trakt-comedies-romantic-comedies-romantic-comedies",
-        "title":  "Romantic Comedies",
-        "url":  "29zombies/lists/romantic-comedies",
-        "catalogType":  "traktMovie",
-        "traktSortBy":  "random",
-        "minRating":  57
-    },
-    {
-        "id":  "trakt-comedies-action-action_-best-of-80s-90s-00s-action-copy",
-        "title":  "Action",
-        "url":  "hippydog77/lists/action_-best-of-80s-90s-00s-action-copy",
-        "catalogType":  "traktMovie",
-        "traktSortBy":  "random",
-        "minRating":  57
-    },
-    {
-        "id":  "trakt-comedies-international-tv-shows-top-100-tv-comedy-shows",
-        "title":  "International TV Shows",
-        "url":  "majeed_pk/lists/top-100-tv-comedy-shows",
-        "catalogType":  "traktTv",
-        "traktSortBy":  "random",
-        "minRating":  57
-    },
-    {
-        "id":  "trakt-comedies-desi-chill-indian-tv-shows-hindi",
-        "title":  "Desi \u0026 Chill",
-        "url":  "samyak3397/lists/indian-tv-shows-hindi",
-        "catalogType":  "traktTv",
-        "traktSortBy":  "random",
-        "minRating":  57
-    },
-    {
-        "id":  "trakt-comedies-casual-viewing-feel-good-movies",
-        "title":  "Casual Viewing",
-        "url":  "shana71/lists/feel-good-movies",
-        "catalogType":  "traktMovie",
-        "traktSortBy":  "random",
-        "minRating":  57
-    },
-    {
-        "id":  "trakt-comedies-kids-films-academy-award-for-best-animated-feature",
-        "title":  "Kids Films",
-        "url":  "chrisu/lists/academy-award-for-best-animated-feature",
-        "catalogType":  "traktMovie",
-        "traktSortBy":  "random",
-        "minRating":  57
-    },
-    {
-        "id":  "trakt-comedies-today-s-topics-for-you-comedy-shows",
-        "title":  "Today\u0027s Topics for You",
-        "url":  "garycrawfordgc/lists/comedy-shows",
-        "catalogType":  "traktTv",
-        "traktSortBy":  "random",
-        "minRating":  57
-    },
-    {
-        "id":  "trakt-comedies-critically-acclaimed-movies-comedy-movies",
-        "title":  "Critically Acclaimed Movies",
-        "url":  "maxtrontv/lists/comedy-movies",
-        "catalogType":  "traktMovie",
-        "traktSortBy":  "random",
-        "minRating":  57
-    },
-    {
-        "id":  "trakt-comedies-tv-comedies-the-best-of-british-comedy-tv-shows",
-        "title":  "TV Comedies",
-        "url":  "iyez/lists/the-best-of-british-comedy-tv-shows",
-        "catalogType":  "traktTv",
-        "traktSortBy":  "random",
-        "minRating":  57
-    },
-    {
-        "id":  "trakt-comedies-award-winning-tv-shows-primetime-emmy-awards-outstanding-comedy-drama-varie",
-        "title":  "Award-Winning TV Shows",
-        "url":  "thefork/lists/primetime-emmy-awards-outstanding-comedy-drama-variety-series-winners",
-        "catalogType":  "traktTv",
-        "traktSortBy":  "random",
-        "minRating":  57
-    },
-    {
-        "id":  "trakt-comedies-comedy-movies-110-best-comedy-movies",
-        "title":  "Comedy Movies",
-        "url":  "lencocoa/lists/110-best-comedy-movies",
-        "catalogType":  "traktMovie",
-        "traktSortBy":  "random",
-        "minRating":  57
-    },
-    {
-        "id":  "trakt-comedies-romantic-movies-best-romantic-movies-of-all-time",
-        "title":  "Romantic Movies",
-        "url":  "majeed_pk/lists/best-romantic-movies-of-all-time",
-        "catalogType":  "traktMovie",
-        "traktSortBy":  "random",
-        "minRating":  57
-    },
-    {
-        "id":  "trakt-comedies-cringe-comedy-the-best-of-british-comedy-tv-shows",
-        "title":  "Cringe Comedy",
-        "url":  "iyez/lists/the-best-of-british-comedy-tv-shows",
-        "catalogType":  "traktTv",
-        "traktSortBy":  "random",
-        "minRating":  57
-    },
-    {
-        "id":  "trakt-comedies-binge-worthy-tv-dramas-binge-worthy",
-        "title":  "Binge-Worthy TV Dramas",
-        "url":  "ibjamn78/lists/binge-worthy",
-        "catalogType":  "traktTv",
-        "traktSortBy":  "random",
-        "minRating":  57
-    },
-    {
-        "id":  "trakt-comedies-late-night-comedy-movies-stoner-movies",
-        "title":  "Late Night Comedy Movies",
-        "url":  "jarvis-1144833/lists/stoner-movies",
-        "catalogType":  "traktMovie",
-        "traktSortBy":  "random",
-        "minRating":  57
-    },
-    {
-        "id":  "trakt-comedies-the-perfect-work-from-home-partner-miro-s-feel-good",
-        "title":  "The Perfect Work-from-Home Partner",
-        "url":  "mrlegendneo/lists/miro-s-feel-good",
-        "catalogType":  "traktTv",
-        "traktSortBy":  "random",
-        "minRating":  57
-    },
-    {
-        "id":  "trakt-comedies-growing-up-millennial-coming-of-age",
-        "title":  "Growing Up Millennial",
-        "url":  "madmapper/lists/coming-of-age",
-        "catalogType":  "traktTv",
-        "traktSortBy":  "random",
-        "minRating":  57
-    }
+  {
+    "id": "trakt-comedies-geminies-spill-the-tea-the-best-of-british-comedy-tv-shows",
+    "title": "Geminies Spill the Tea",
+    "url": "iyez/lists/the-best-of-british-comedy-tv-shows",
+    "catalogType": "traktTv",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1990
+  },
+  {
+    "id": "trakt-comedies-award-winning-films-comedy-movies",
+    "title": "Award-Winning Films",
+    "url": "ljransom/lists/comedy-movies",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1990
+  },
+  {
+    "id": "trakt-comedies-we-think-you-ll-love-these-comedy",
+    "title": "We Think You'll Love These",
+    "url": "garycrawfordgc/lists/comedy",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1990
+  },
+  {
+    "id": "trakt-comedies-need-a-good-laugh-comedy",
+    "title": "Need a Good Laugh",
+    "url": "movistapp/lists/comedy",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1990
+  },
+  {
+    "id": "trakt-comedies-romantic-comedies-romantic-comedies",
+    "title": "Romantic Comedies",
+    "url": "29zombies/lists/romantic-comedies",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1990
+  },
+  {
+    "id": "trakt-comedies-action-action_-best-of-80s-90s-00s-action-copy",
+    "title": "Action",
+    "url": "hippydog77/lists/action_-best-of-80s-90s-00s-action-copy",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1990
+  },
+  {
+    "id": "trakt-comedies-international-tv-shows-top-100-tv-comedy-shows",
+    "title": "International TV Shows",
+    "url": "majeed_pk/lists/top-100-tv-comedy-shows",
+    "catalogType": "traktTv",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1990
+  },
+  {
+    "id": "trakt-comedies-desi-chill-indian-tv-shows-hindi",
+    "title": "Desi & Chill",
+    "url": "samyak3397/lists/indian-tv-shows-hindi",
+    "catalogType": "traktTv",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1990
+  },
+  {
+    "id": "trakt-comedies-casual-viewing-feel-good-movies",
+    "title": "Casual Viewing",
+    "url": "shana71/lists/feel-good-movies",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1990
+  },
+  {
+    "id": "trakt-comedies-kids-films-academy-award-for-best-animated-feature",
+    "title": "Kids Films",
+    "url": "chrisu/lists/academy-award-for-best-animated-feature",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1990
+  },
+  {
+    "id": "trakt-comedies-today-s-topics-for-you-comedy-shows",
+    "title": "Today's Topics for You",
+    "url": "garycrawfordgc/lists/comedy-shows",
+    "catalogType": "traktTv",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1990
+  },
+  {
+    "id": "trakt-comedies-critically-acclaimed-movies-comedy-movies",
+    "title": "Critically Acclaimed Movies",
+    "url": "maxtrontv/lists/comedy-movies",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1990
+  },
+  {
+    "id": "trakt-comedies-tv-comedies-the-best-of-british-comedy-tv-shows",
+    "title": "TV Comedies",
+    "url": "iyez/lists/the-best-of-british-comedy-tv-shows",
+    "catalogType": "traktTv",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1990
+  },
+  {
+    "id": "trakt-comedies-award-winning-tv-shows-primetime-emmy-awards-outstanding-comedy-drama-varie",
+    "title": "Award-Winning TV Shows",
+    "url": "thefork/lists/primetime-emmy-awards-outstanding-comedy-drama-variety-series-winners",
+    "catalogType": "traktTv",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1990
+  },
+  {
+    "id": "trakt-comedies-comedy-movies-110-best-comedy-movies",
+    "title": "Comedy Movies",
+    "url": "lencocoa/lists/110-best-comedy-movies",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1990
+  },
+  {
+    "id": "trakt-comedies-romantic-movies-best-romantic-movies-of-all-time",
+    "title": "Romantic Movies",
+    "url": "majeed_pk/lists/best-romantic-movies-of-all-time",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1990
+  },
+  {
+    "id": "trakt-comedies-cringe-comedy-the-best-of-british-comedy-tv-shows",
+    "title": "Cringe Comedy",
+    "url": "iyez/lists/the-best-of-british-comedy-tv-shows",
+    "catalogType": "traktTv",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1990
+  },
+  {
+    "id": "trakt-comedies-binge-worthy-tv-dramas-binge-worthy",
+    "title": "Binge-Worthy TV Dramas",
+    "url": "ibjamn78/lists/binge-worthy",
+    "catalogType": "traktTv",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1990
+  },
+  {
+    "id": "trakt-comedies-late-night-comedy-movies-stoner-movies",
+    "title": "Late Night Comedy Movies",
+    "url": "jarvis-1144833/lists/stoner-movies",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1990
+  },
+  {
+    "id": "trakt-comedies-the-perfect-work-from-home-partner-miro-s-feel-good",
+    "title": "The Perfect Work-from-Home Partner",
+    "url": "mrlegendneo/lists/miro-s-feel-good",
+    "catalogType": "traktTv",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1990
+  },
+  {
+    "id": "trakt-comedies-growing-up-millennial-coming-of-age",
+    "title": "Growing Up Millennial",
+    "url": "madmapper/lists/coming-of-age",
+    "catalogType": "traktTv",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1990
+  }
 ]
