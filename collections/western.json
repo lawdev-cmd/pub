@@ -1,7 +1,7 @@
 [
   {
     "id": "trakt-western-masterpieces",
-    "title": "Western Masterpieces",
+    "title": "Western Selection",
     "url": "movistapp/lists/western",
     "catalogType": "traktMovie",
     "traktSortBy": "random",
@@ -17,7 +17,7 @@
   },
   {
     "id": "trakt-imdb-western-favorites",
-    "title": "IMDb Western Favorites",
+    "title": "IMDb Top Western",
     "url": "irishstevo/lists/imdb-s-top-western-movies",
     "catalogType": "traktMovie",
     "traktSortBy": "random",
@@ -73,7 +73,7 @@
   },
   {
     "id": "trakt-western-high-rated",
-    "title": "Top-Rated Westerns",
+    "title": "High-Rated Western",
     "url": "canconfirm/lists/westerns",
     "catalogType": "traktMovie",
     "traktSortBy": "random",
