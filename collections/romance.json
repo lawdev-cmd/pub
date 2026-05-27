@@ -1,99 +1,137 @@
 [
   {
-    "id": "trakt-rotten-tomatoes-200-romcoms",
-    "title": "Rotten Tomatoes Rom-Coms",
-    "url": "lish408/lists/rotten-tomatoes-the-200-best-romantic-comedies-of-all-time",
-    "catalogType": "traktMovie",
-    "traktSortBy": "random",
-    "minRating": 65
-  },
-  {
-    "id": "trakt-30-best-romantic-comedies",
-    "title": "Rom-Com Classics",
-    "url": "movistapp/lists/the-30-best-romantic-comedies-of-all-time",
-    "catalogType": "traktMovie",
-    "traktSortBy": "random",
-    "minRating": 62
-  },
-  {
-    "id": "trakt-romantic-comedies-29zombies",
-    "title": "Romantic Comedies",
-    "url": "29zombies/lists/romantic-comedies",
-    "catalogType": "traktMovie",
-    "traktSortBy": "random",
-    "minRating": 57
-  },
-  {
-    "id": "trakt-romcom-subgenre-1990-2030",
-    "title": "Rom-Com Essentials (1990+)",
-    "url": "d-sync/lists/reciperr-romantic-comedy-subgenre-movies-1990-2030-no-animation",
-    "catalogType": "traktMovie",
-    "traktSortBy": "random",
-    "minRating": 66,
-    "minYear": 1990
-  },
-  {
-    "id": "trakt-romantic-comedys-bj",
-    "title": "Romantic Comedies",
-    "url": "bj_stewart/lists/romantic-comedys",
-    "catalogType": "traktMovie",
-    "traktSortBy": "random",
-    "minRating": 57
-  },
-  {
-    "id": "trakt-rom-com-mrj514",
-    "title": "Rom Com Picks",
-    "url": "mrj514/lists/rom-com",
-    "catalogType": "traktMovie",
-    "traktSortBy": "random",
-    "minRating": 57
-  },
-  {
-    "id": "trakt-best-of-rom-com",
-    "title": "Rom-Com Selection",
-    "url": "madmapper/lists/best-of-rom-com",
-    "catalogType": "traktMovie",
-    "traktSortBy": "random",
-    "minRating": 57
-  },
-  {
-    "id": "trakt-vogue-65-romantic-comedies",
-    "title": "Vogue 65 Best Romantic Comedies",
-    "url": "majeed_pk/lists/65-best-romantic-comedies-vogue-2019",
-    "catalogType": "traktMovie",
-    "traktSortBy": "random",
-    "minRating": 62
-  },
-  {
-    "id": "trakt-comedy-and-romance-movies",
-    "title": "Comedy & Romance Movies",
-    "url": "coldkeys/lists/comedy-and-romance-movies",
-    "catalogType": "traktMovie",
-    "traktSortBy": "random",
-    "minRating": 57
-  },
-  {
-    "id": "trakt-romcom-tom2tom",
-    "title": "Rom-Com Collection",
-    "url": "tom2tom/lists/romcom",
-    "catalogType": "traktMovie",
-    "traktSortBy": "random",
-    "minRating": 57
-  },
-  {
-    "id": "trakt-romcom-bonnijolisa",
-    "title": "Rom-Com Favorites",
-    "url": "bonnijolisa/lists/romcom-70ebead8-adb5-44a2-b06b-f06c166520c7",
-    "catalogType": "traktMovie",
-    "traktSortBy": "random",
-    "minRating": 57
-  },
-  {
-    "id": "trakt-romcom-movistapp-romance",
-    "title": "Romance and Rom-Com",
+    "id": "trakt-romance-masterpieces",
+    "title": "Romance Selection",
     "url": "movistapp/lists/romance",
     "catalogType": "traktMovie",
     "traktSortBy": "random",
-    "minRating": 60
+    "minRating": 57,
+    "minYear": 1985
+  },
+  {
+    "id": "trakt-imdb-romance-favorites",
+    "title": "IMDb Top Romance",
+    "url": "irishstevo/lists/imdb-s-top-romance-movies",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 62,
+    "minYear": 1985
+  },
+  {
+    "id": "trakt-movies-romance",
+    "title": "Romance Movies",
+    "url": "jacksmomrocks/lists/movies-romance",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1985
+  },
+  {
+    "id": "trakt-best-romance-movies",
+    "title": "Romance Highlights",
+    "url": "moses456/lists/romance_-best-romance-in-movies",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 60,
+    "minYear": 1985
+  },
+  {
+    "id": "trakt-rotten-tomatoes-romance",
+    "title": "Rotten Tomatoes Top Romance",
+    "url": "cristinx/lists/rotten-tomatoe-s-top-100-romance-movies",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 65,
+    "minYear": 1985
+  },
+  {
+    "id": "trakt-comedy-and-romance",
+    "title": "Comedy & Romance",
+    "url": "coldkeys/lists/comedy-and-romance-movies",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1985
+  },
+  {
+    "id": "trakt-forbidden-love",
+    "title": "Forbidden Love Stories",
+    "url": "moses456/lists/romance_-forbidden-love-in-movies",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 60,
+    "minYear": 1985
+  },
+  {
+    "id": "trakt-hallmark-romance-collection",
+    "title": "Hallmark Romance Collection",
+    "url": "eelone/lists/hallmark-lifetime-up-other-romance-movies-my-rating-7-10",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1985
+  },
+  {
+    "id": "trakt-afi-greatest-love-stories",
+    "title": "AFI Greatest Love Stories",
+    "url": "sp1ti/lists/afi-s-100-years-100-passions-top-100-greatest-love-stories-in-american-cinema",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 68,
+    "minYear": 1985
+  },
+  {
+    "id": "trakt-love-triangle-tension",
+    "title": "Love Triangle Stories",
+    "url": "majeed_pk/lists/love-triangle-sexual-tension-3rd-party",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1985
+  },
+  {
+    "id": "trakt-romance-drama-mix",
+    "title": "Romance & Drama Mix",
+    "url": "krissykk/lists/romance-comedy-and-drama-mixed-movies-1of3",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1985
+  },
+  {
+    "id": "trakt-taboo-forbidden-love",
+    "title": "Forbidden Love Dramas",
+    "url": "additup/lists/taboos-forbidden-or-impossible-love",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1985
+  },
+  {
+    "id": "trakt-romance-high-rated",
+    "title": "High-Rated Romance",
+    "url": "porkie16/lists/romance-movies-rating-65",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 65,
+    "minYear": 1985
+  },
+  {
+    "id": "trakt-romance-hallmark-favorites",
+    "title": "Hallmark and Lifetime Romance",
+    "url": "eelone/lists/hallmark-lifetime-up-other-romance-movies-my-rating-7-10",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1985
+  },
+  {
+    "id": "trakt-greatest-romance-movies",
+    "title": "100 Greatest Romance Movies",
+    "url": "babyvultch/lists/digital-dreamdoor-s-100-greatest-romance-movies",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 62,
+    "minYear": 1985
   }
 ]
