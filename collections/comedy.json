@@ -63,15 +63,6 @@
     "minYear": 1990
   },
   {
-    "id": "trakt-comedies-desi-chill-indian-tv-shows-hindi",
-    "title": "Desi & Chill",
-    "url": "samyak3397/lists/indian-tv-shows-hindi",
-    "catalogType": "traktTv",
-    "traktSortBy": "random",
-    "minRating": 57,
-    "minYear": 1990
-  },
-  {
     "id": "trakt-comedies-casual-viewing-feel-good-movies",
     "title": "Casual Viewing",
     "url": "shana71/lists/feel-good-movies",
