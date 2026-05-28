@@ -90,9 +90,9 @@
         "minYear":  1990
     },
     {
-        "id":  "trakt-family-classic-family-films-2-family-action-comedy-drama-classics-g-pg",
-        "title":  "Classic Family Films",
-        "url":  "steveocraig/lists/2-family-action-comedy-drama-classics-g-pg",
+        "id":  "trakt-family-family-classics-family-classics",
+        "title":  "Family Classics",
+        "url":  "kingkearney/lists/family-classics",
         "catalogType":  "traktMovie",
         "traktSortBy":  "random",
         "minRating":  57,
