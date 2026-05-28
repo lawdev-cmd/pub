@@ -72,18 +72,18 @@
         "minYear":  1980
     },
     {
-        "id":  "trakt-british-sherlock-holmes-sherlock-holmes-basil-rathbone",
-        "title":  "Sherlock Holmes",
-        "url":  "del74/lists/sherlock-holmes-basil-rathbone",
-        "catalogType":  "traktMovie",
+        "id":  "trakt-british-british-tv-classics-british-tv-classics",
+        "title":  "British TV Classics",
+        "url":  "jbilling9/lists/british-tv-classics",
+        "catalogType":  "traktTv",
         "traktSortBy":  "random",
         "minRating":  57,
         "minYear":  1980
     },
     {
-        "id":  "trakt-british-doctor-who-universe-watching-order-doctor-who-universe",
-        "title":  "Doctor Who Universe",
-        "url":  "grendelcrusher/lists/watching-order-doctor-who-universe",
+        "id":  "trakt-british-british-gothic-horror-classic-british-gothic-horror",
+        "title":  "British Gothic Horror",
+        "url":  "majeed_pk/lists/classic-british-gothic-horror",
         "catalogType":  "traktMovie",
         "traktSortBy":  "random",
         "minRating":  57,
