@@ -1,0 +1,182 @@
+[
+    {
+        "id":  "trakt-awardwinners-todays-top-picks-for-you-academy-awards-best-picture-winners",
+        "title":  "Today\u0027s Top Picks for You",
+        "url":  "thefork/lists/academy-awards-best-picture-winners",
+        "catalogType":  "traktMovie",
+        "traktSortBy":  "random",
+        "minRating":  57,
+        "minYear":  1970
+    },
+    {
+        "id":  "trakt-awardwinners-academy-award-best-picture-academy-award-for-best-picture",
+        "title":  "Academy Award Best Picture",
+        "url":  "chrisu/lists/academy-award-for-best-picture",
+        "catalogType":  "traktMovie",
+        "traktSortBy":  "random",
+        "minRating":  57,
+        "minYear":  1970
+    },
+    {
+        "id":  "trakt-awardwinners-oscar-winners-2026-oscar-winners",
+        "title":  "Oscar Winners",
+        "url":  "visualcortex/lists/2026-oscar-winners",
+        "catalogType":  "traktMovie",
+        "traktSortBy":  "random",
+        "minRating":  57,
+        "minYear":  1970
+    },
+    {
+        "id":  "trakt-awardwinners-golden-globe-winners-golden-globe-awards-2016",
+        "title":  "Golden Globe Winners",
+        "url":  "movistapp/lists/golden-globe-awards-2016",
+        "catalogType":  "traktMovie",
+        "traktSortBy":  "random",
+        "minRating":  57,
+        "minYear":  1970
+    },
+    {
+        "id":  "trakt-awardwinners-emmy-award-winners-primetime-emmy-awards-outstanding-comedy-drama-variety-series-winners",
+        "title":  "Emmy Award Winners",
+        "url":  "thefork/lists/primetime-emmy-awards-outstanding-comedy-drama-variety-series-winners",
+        "catalogType":  "traktTv",
+        "traktSortBy":  "random",
+        "minRating":  57,
+        "minYear":  1970
+    },
+    {
+        "id":  "trakt-awardwinners-best-drama-emmys-emmy-winners-drama",
+        "title":  "Best Drama Emmys",
+        "url":  "fidel-cb/lists/emmy-winners-drama",
+        "catalogType":  "traktTv",
+        "traktSortBy":  "random",
+        "minRating":  57,
+        "minYear":  1970
+    },
+    {
+        "id":  "trakt-awardwinners-best-comedy-emmys-emmy-outstanding-comedy-series",
+        "title":  "Best Comedy Emmys",
+        "url":  "magpi/lists/emmy-outstanding-comedy-series",
+        "catalogType":  "traktTv",
+        "traktSortBy":  "random",
+        "minRating":  57,
+        "minYear":  1970
+    },
+    {
+        "id":  "trakt-awardwinners-cannes-palme-dor-cannes-palme-d-or-winners",
+        "title":  "Cannes Palme d\u0027Or",
+        "url":  "sp1ti/lists/cannes-palme-d-or-winners",
+        "catalogType":  "traktMovie",
+        "traktSortBy":  "random",
+        "minRating":  57,
+        "minYear":  1970
+    },
+    {
+        "id":  "trakt-awardwinners-best-animated-feature-academy-award-for-best-animated-feature",
+        "title":  "Best Animated Feature",
+        "url":  "chrisu/lists/academy-award-for-best-animated-feature",
+        "catalogType":  "traktMovie",
+        "traktSortBy":  "random",
+        "minRating":  57,
+        "minYear":  1970
+    },
+    {
+        "id":  "trakt-awardwinners-best-foreign-language-oscar-best-foreign-language-films",
+        "title":  "Best Foreign Language Oscar",
+        "url":  "starney/lists/best-foreign-language-films",
+        "catalogType":  "traktMovie",
+        "traktSortBy":  "random",
+        "minRating":  57,
+        "minYear":  1970
+    },
+    {
+        "id":  "trakt-awardwinners-best-documentary-winners-rotten-tomatoes-100-best-documentaries-ranked-by-tomatometer",
+        "title":  "Best Documentary Winners",
+        "url":  "istoit/lists/rotten-tomatoes-100-best-documentaries-ranked-by-tomatometer",
+        "catalogType":  "traktMovie",
+        "traktSortBy":  "random",
+        "minRating":  57,
+        "minYear":  1970
+    },
+    {
+        "id":  "trakt-awardwinners-bafta-winners-bafta-best-film-award-winners",
+        "title":  "BAFTA Winners",
+        "url":  "majeed_pk/lists/bafta-best-film-award-winners",
+        "catalogType":  "traktMovie",
+        "traktSortBy":  "random",
+        "minRating":  57,
+        "minYear":  1970
+    },
+    {
+        "id":  "trakt-awardwinners-saturn-awards-saturn-award-for-best-science-fiction-film-all-nominees-and-winners",
+        "title":  "Saturn Awards",
+        "url":  "eloy86/lists/saturn-award-for-best-science-fiction-film-all-nominees-and-winners",
+        "catalogType":  "traktMovie",
+        "traktSortBy":  "random",
+        "minRating":  57,
+        "minYear":  1970
+    },
+    {
+        "id":  "trakt-awardwinners-sag-award-winners-the-star-wars-saga-feature-films-and-tv-shows",
+        "title":  "SAG Award Winners",
+        "url":  "pullsa/lists/the-star-wars-saga-feature-films-and-tv-shows",
+        "catalogType":  "traktTv",
+        "traktSortBy":  "random",
+        "minRating":  57,
+        "minYear":  1970
+    },
+    {
+        "id":  "trakt-awardwinners-best-director-winners-academy-award-best-director",
+        "title":  "Best Director Winners",
+        "url":  "jrpetersjr/lists/academy-award-best-director",
+        "catalogType":  "traktMovie",
+        "traktSortBy":  "random",
+        "minRating":  57,
+        "minYear":  1970
+    },
+    {
+        "id":  "trakt-awardwinners-best-actor-performances-oscar-winners-best-actor-best-actress",
+        "title":  "Best Actor Performances",
+        "url":  "eninja/lists/oscar-winners-best-actor-best-actress",
+        "catalogType":  "traktMovie",
+        "traktSortBy":  "random",
+        "minRating":  57,
+        "minYear":  1970
+    },
+    {
+        "id":  "trakt-awardwinners-sundance-winners-sundance-film-festival-grand-jury-prize-documentary",
+        "title":  "Sundance Winners",
+        "url":  "sp1ti/lists/sundance-film-festival-grand-jury-prize-documentary",
+        "catalogType":  "traktMovie",
+        "traktSortBy":  "random",
+        "minRating":  57,
+        "minYear":  1970
+    },
+    {
+        "id":  "trakt-awardwinners-awards-season-picks-awards-season-2025",
+        "title":  "Awards Season Picks",
+        "url":  "majeed_pk/lists/awards-season-2025",
+        "catalogType":  "traktMovie",
+        "traktSortBy":  "random",
+        "minRating":  57,
+        "minYear":  1970
+    },
+    {
+        "id":  "trakt-awardwinners-lifetime-achievement-films-lifetime-christmas-2023",
+        "title":  "Lifetime Achievement Films",
+        "url":  "crossoverenserie/lists/lifetime-christmas-2023",
+        "catalogType":  "traktMovie",
+        "traktSortBy":  "random",
+        "minRating":  57,
+        "minYear":  1970
+    },
+    {
+        "id":  "trakt-awardwinners-your-next-watch-academy-award-winners-for-best-cinematography",
+        "title":  "Your Next Watch",
+        "url":  "giladg/lists/academy-award-winners-for-best-cinematography",
+        "catalogType":  "traktMovie",
+        "traktSortBy":  "random",
+        "minRating":  57,
+        "minYear":  1970
+    }
+]
