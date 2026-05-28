@@ -180,9 +180,9 @@
     "minYear": 1980
   },
   {
-    "id": "trakt-thriller-limited-series-best-mindfucks",
+    "id": "trakt-thriller-limited-series-british-tv-mini-series",
     "title": "Limited Series",
-    "url": "benfranklin/lists/best-mindfucks",
+    "url": "majeed_pk/lists/british-tv-mini-series",
     "catalogType": "traktTv",
     "traktSortBy": "random",
     "minRating": 57,
