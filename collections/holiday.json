@@ -126,9 +126,9 @@
         "minYear":  1970
     },
     {
-        "id":  "trakt-holiday-classic-christmas-tv-christmas-tv",
-        "title":  "Classic Christmas TV",
-        "url":  "candroid/lists/christmas-tv",
+        "id":  "trakt-holiday-christmas-tv-specials-christmas-tv-specials",
+        "title":  "Christmas TV Specials",
+        "url":  "toasterfaerie/lists/christmas-tv-specials",
         "catalogType":  "traktTv",
         "traktSortBy":  "random",
         "minRating":  57,
