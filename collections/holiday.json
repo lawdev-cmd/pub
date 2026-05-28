@@ -1,0 +1,146 @@
+[
+    {
+        "id":  "trakt-holiday-todays-top-picks-for-you-christmas-movies",
+        "title":  "Today\u0027s Top Picks for You",
+        "url":  "movistapp/lists/christmas-movies",
+        "catalogType":  "traktMovie",
+        "traktSortBy":  "random",
+        "minRating":  57,
+        "minYear":  1970
+    },
+    {
+        "id":  "trakt-holiday-christmas-movies-rotten-tomatoes-the-best-christmas-movies-of-all-time",
+        "title":  "Christmas Movies",
+        "url":  "lish408/lists/rotten-tomatoes-the-best-christmas-movies-of-all-time",
+        "catalogType":  "traktMovie",
+        "traktSortBy":  "random",
+        "minRating":  57,
+        "minYear":  1970
+    },
+    {
+        "id":  "trakt-holiday-christmas-classics-christmas-classics",
+        "title":  "Christmas Classics",
+        "url":  "schenley/lists/christmas-classics",
+        "catalogType":  "traktMovie",
+        "traktSortBy":  "random",
+        "minRating":  57,
+        "minYear":  1970
+    },
+    {
+        "id":  "trakt-holiday-hallmark-holiday-movies-hallmark-christmas",
+        "title":  "Hallmark Holiday Movies",
+        "url":  "ad76/lists/hallmark-christmas",
+        "catalogType":  "traktMovie",
+        "traktSortBy":  "random",
+        "minRating":  57,
+        "minYear":  1970
+    },
+    {
+        "id":  "trakt-holiday-holiday-tv-specials-holiday-special",
+        "title":  "Holiday TV Specials",
+        "url":  "canconfirm/lists/holiday-special",
+        "catalogType":  "traktTv",
+        "traktSortBy":  "random",
+        "minRating":  57,
+        "minYear":  1970
+    },
+    {
+        "id":  "trakt-holiday-halloween-movies-family-halloween",
+        "title":  "Halloween Movies",
+        "url":  "donxy/lists/family-halloween",
+        "catalogType":  "traktMovie",
+        "traktSortBy":  "random",
+        "minRating":  57,
+        "minYear":  1970
+    },
+    {
+        "id":  "trakt-holiday-thanksgiving-films-holiday-season-halloween-thanksgiving-christmas",
+        "title":  "Thanksgiving Films",
+        "url":  "membball84/lists/holiday-season-halloween-thanksgiving-christmas",
+        "catalogType":  "traktMovie",
+        "traktSortBy":  "random",
+        "minRating":  57,
+        "minYear":  1970
+    },
+    {
+        "id":  "trakt-holiday-family-christmas-films-great-american-family-channel-christmas-list",
+        "title":  "Family Christmas Films",
+        "url":  "loopher/lists/great-american-family-channel-christmas-list",
+        "catalogType":  "traktMovie",
+        "traktSortBy":  "random",
+        "minRating":  57,
+        "minYear":  1970
+    },
+    {
+        "id":  "trakt-holiday-animated-holiday-films-holiday-animations-claymations-puppetry",
+        "title":  "Animated Holiday Films",
+        "url":  "niclem/lists/holiday-animations-claymations-puppetry",
+        "catalogType":  "traktMovie",
+        "traktSortBy":  "random",
+        "minRating":  57,
+        "minYear":  1970
+    },
+    {
+        "id":  "trakt-holiday-holiday-horror-halloween-horror-b2a01bb2-898f-45c0-9a3c-14d801e8627a",
+        "title":  "Holiday Horror",
+        "url":  "donxy/lists/halloween-horror-b2a01bb2-898f-45c0-9a3c-14d801e8627a",
+        "catalogType":  "traktMovie",
+        "traktSortBy":  "random",
+        "minRating":  57,
+        "minYear":  1970
+    },
+    {
+        "id":  "trakt-holiday-religious-faith-films-controversial-religious-anti-religious",
+        "title":  "Religious \u0026 Faith Films",
+        "url":  "majeed_pk/lists/controversial-religious-anti-religious",
+        "catalogType":  "traktMovie",
+        "traktSortBy":  "random",
+        "minRating":  57,
+        "minYear":  1970
+    },
+    {
+        "id":  "trakt-holiday-holiday-singalongs-musical",
+        "title":  "Holiday Sing-Alongs",
+        "url":  "jealad/lists/musical",
+        "catalogType":  "traktMovie",
+        "traktSortBy":  "random",
+        "minRating":  57,
+        "minYear":  1970
+    },
+    {
+        "id":  "trakt-holiday-cozy-winter-films-anime-winter-2025-2026",
+        "title":  "Cozy Winter Films",
+        "url":  "sp1ti/lists/anime-winter-2025-2026",
+        "catalogType":  "traktMovie",
+        "traktSortBy":  "random",
+        "minRating":  57,
+        "minYear":  1970
+    },
+    {
+        "id":  "trakt-holiday-holiday-tv-episodes-christmas-episodes",
+        "title":  "Holiday TV Episodes",
+        "url":  "philrivers/lists/christmas-episodes",
+        "catalogType":  "traktTv",
+        "traktSortBy":  "random",
+        "minRating":  57,
+        "minYear":  1970
+    },
+    {
+        "id":  "trakt-holiday-classic-christmas-tv-christmas-tv",
+        "title":  "Classic Christmas TV",
+        "url":  "candroid/lists/christmas-tv",
+        "catalogType":  "traktTv",
+        "traktSortBy":  "random",
+        "minRating":  57,
+        "minYear":  1970
+    },
+    {
+        "id":  "trakt-holiday-your-next-watch-christmas",
+        "title":  "Your Next Watch",
+        "url":  "outspoken/lists/christmas",
+        "catalogType":  "traktMovie",
+        "traktSortBy":  "random",
+        "minRating":  57,
+        "minYear":  1970
+    }
+]
