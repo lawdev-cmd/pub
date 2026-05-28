@@ -135,9 +135,9 @@
         "minYear":  1930
     },
     {
-        "id":  "trakt-classics-iconic-directors-martin-scorsese-s-world-cinema-project",
-        "title":  "Iconic Directors",
-        "url":  "majeed_pk/lists/martin-scorsese-s-world-cinema-project",
+        "id":  "trakt-classics-kubricks-favorites-stanley-kubrick-s-favorite-movies",
+        "title":  "Kubrick's Favorites",
+        "url":  "sp1ti/lists/stanley-kubrick-s-favorite-movies",
         "catalogType":  "traktMovie",
         "traktSortBy":  "random",
         "minRating":  57,
