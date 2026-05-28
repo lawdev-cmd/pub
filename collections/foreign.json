@@ -1,0 +1,173 @@
+[
+    {
+        "id":  "trakt-foreign-todays-top-picks-for-you-foreign-films",
+        "title":  "Today\u0027s Top Picks for You",
+        "url":  "majeed_pk/lists/foreign-films",
+        "catalogType":  "traktMovie",
+        "traktSortBy":  "random",
+        "minRating":  57,
+        "minYear":  1960
+    },
+    {
+        "id":  "trakt-foreign-best-foreign-language-films-bbc-culture-s-100-greatest-foreign-language-films",
+        "title":  "Best Foreign Language Films",
+        "url":  "majeed_pk/lists/bbc-culture-s-100-greatest-foreign-language-films",
+        "catalogType":  "traktMovie",
+        "traktSortBy":  "random",
+        "minRating":  57,
+        "minYear":  1960
+    },
+    {
+        "id":  "trakt-foreign-international-tv-dramas-best-worldwide-apocalyptic-pandemic-zombie-tv-shows",
+        "title":  "International TV Dramas",
+        "url":  "turkkildare/lists/best-worldwide-apocalyptic-pandemic-zombie-tv-shows",
+        "catalogType":  "traktTv",
+        "traktSortBy":  "random",
+        "minRating":  57,
+        "minYear":  1960
+    },
+    {
+        "id":  "trakt-foreign-korean-films-korean-movies",
+        "title":  "Korean Films",
+        "url":  "c858/lists/korean-movies",
+        "catalogType":  "traktMovie",
+        "traktSortBy":  "random",
+        "minRating":  57,
+        "minYear":  1960
+    },
+    {
+        "id":  "trakt-foreign-kdramas-k-drama",
+        "title":  "K-Dramas",
+        "url":  "nhudad/lists/k-drama",
+        "catalogType":  "traktTv",
+        "traktSortBy":  "random",
+        "minRating":  57,
+        "minYear":  1960
+    },
+    {
+        "id":  "trakt-foreign-japanese-films-charts-top-japanese-movies",
+        "title":  "Japanese Films",
+        "url":  "mraniki/lists/charts-top-japanese-movies",
+        "catalogType":  "traktMovie",
+        "traktSortBy":  "random",
+        "minRating":  57,
+        "minYear":  1960
+    },
+    {
+        "id":  "trakt-foreign-french-cinema-best-french-films-cesar-award-winners",
+        "title":  "French Cinema",
+        "url":  "majeed_pk/lists/best-french-films-cesar-award-winners",
+        "catalogType":  "traktMovie",
+        "traktSortBy":  "random",
+        "minRating":  57,
+        "minYear":  1960
+    },
+    {
+        "id":  "trakt-foreign-spanish-language-films-crimes-in-spanish",
+        "title":  "Spanish Language Films",
+        "url":  "marcelocastanheira/lists/crimes-in-spanish",
+        "catalogType":  "traktMovie",
+        "traktSortBy":  "random",
+        "minRating":  57,
+        "minYear":  1960
+    },
+    {
+        "id":  "trakt-foreign-british-tv-series-british-shows",
+        "title":  "British TV Series",
+        "url":  "gonzohunter/lists/british-shows",
+        "catalogType":  "traktTv",
+        "traktSortBy":  "random",
+        "minRating":  57,
+        "minYear":  1960
+    },
+    {
+        "id":  "trakt-foreign-scandinavian-noir-nordic-noir-euro-mysteries",
+        "title":  "Scandinavian Noir",
+        "url":  "shinykari/lists/nordic-noir-euro-mysteries",
+        "catalogType":  "traktMovie",
+        "traktSortBy":  "random",
+        "minRating":  57,
+        "minYear":  1960
+    },
+    {
+        "id":  "trakt-foreign-asian-action-asian-martial-arts",
+        "title":  "Asian Action",
+        "url":  "hammers-lists/lists/asian-martial-arts",
+        "catalogType":  "traktMovie",
+        "traktSortBy":  "random",
+        "minRating":  57,
+        "minYear":  1960
+    },
+    {
+        "id":  "trakt-foreign-anime-films-site-sound-50-essential-anime-films",
+        "title":  "Anime Films",
+        "url":  "giladg/lists/site-sound-50-essential-anime-films",
+        "catalogType":  "traktMovie",
+        "traktSortBy":  "random",
+        "minRating":  57,
+        "minYear":  1960
+    },
+    {
+        "id":  "trakt-foreign-foreign-comedies-foreign-comedy-movie-nudity-watchlist",
+        "title":  "Foreign Comedies",
+        "url":  "amohr/lists/foreign-comedy-movie-nudity-watchlist",
+        "catalogType":  "traktMovie",
+        "traktSortBy":  "random",
+        "minRating":  57,
+        "minYear":  1960
+    },
+    {
+        "id":  "trakt-foreign-foreign-thrillers-50-foreign-action-thriller-crime-films",
+        "title":  "Foreign Thrillers",
+        "url":  "skinnyfilmbuff/lists/50-foreign-action-thriller-crime-films",
+        "catalogType":  "traktMovie",
+        "traktSortBy":  "random",
+        "minRating":  57,
+        "minYear":  1960
+    },
+    {
+        "id":  "trakt-foreign-foreign-horror-foreign-horror",
+        "title":  "Foreign Horror",
+        "url":  "canadutchy/lists/foreign-horror",
+        "catalogType":  "traktMovie",
+        "traktSortBy":  "random",
+        "minRating":  57,
+        "minYear":  1960
+    },
+    {
+        "id":  "trakt-foreign-cannes-winners-cannes-palme-d-or-winners",
+        "title":  "Cannes Winners",
+        "url":  "sp1ti/lists/cannes-palme-d-or-winners",
+        "catalogType":  "traktMovie",
+        "traktSortBy":  "random",
+        "minRating":  57,
+        "minYear":  1960
+    },
+    {
+        "id":  "trakt-foreign-critically-acclaimed-foreign-best-foreign-language-films",
+        "title":  "Critically Acclaimed Foreign",
+        "url":  "starney/lists/best-foreign-language-films",
+        "catalogType":  "traktMovie",
+        "traktSortBy":  "random",
+        "minRating":  57,
+        "minYear":  1960
+    },
+    {
+        "id":  "trakt-foreign-world-cinema-classics-directory-of-world-cinema-japan",
+        "title":  "World Cinema Classics",
+        "url":  "sp1ti/lists/directory-of-world-cinema-japan",
+        "catalogType":  "traktMovie",
+        "traktSortBy":  "random",
+        "minRating":  57,
+        "minYear":  1960
+    },
+    {
+        "id":  "trakt-foreign-your-next-watch-foreign-films",
+        "title":  "Your Next Watch",
+        "url":  "mahasharif/lists/foreign-films",
+        "catalogType":  "traktMovie",
+        "traktSortBy":  "random",
+        "minRating":  57,
+        "minYear":  1960
+    }
+]
