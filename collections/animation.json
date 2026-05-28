@@ -36,9 +36,9 @@
         "minYear":  1990
     },
     {
-        "id":  "trakt-animation-disney-animated-disney-movies",
+        "id":  "trakt-animation-disney-animated-walt-disney-animation-studios-films",
         "title":  "Disney Animated",
-        "url":  "garycrawfordgc/lists/disney-movies",
+        "url":  "donxy/lists/walt-disney-animation-studios-films",
         "catalogType":  "traktMovie",
         "traktSortBy":  "random",
         "minRating":  57,
@@ -99,9 +99,9 @@
         "minYear":  1990
     },
     {
-        "id":  "trakt-animation-classic-cartoons-80s-cartoon-shows",
-        "title":  "Classic Cartoons",
-        "url":  "hammers-lists/lists/80s-cartoon-shows",
+        "id":  "trakt-animation-saturday-morning-cartoons-animation-saturday-morning-cartoons",
+        "title":  "Saturday Morning Cartoons",
+        "url":  "krissykk/lists/animation-saturday-morning-cartoons",
         "catalogType":  "traktTv",
         "traktSortBy":  "random",
         "minRating":  57,
@@ -117,9 +117,9 @@
         "minYear":  1990
     },
     {
-        "id":  "trakt-animation-animated-shorts-oscars-animated-short-film-1931-2023-winners-nominees",
+        "id":  "trakt-animation-animated-shorts-academy-award-best-animated-short-film",
         "title":  "Animated Shorts",
-        "url":  "svktrakt/lists/oscars-animated-short-film-1931-2023-winners-nominees",
+        "url":  "jrpetersjr/lists/academy-award-best-animated-short-film",
         "catalogType":  "traktMovie",
         "traktSortBy":  "random",
         "minRating":  57,
