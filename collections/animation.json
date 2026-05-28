@@ -1,0 +1,155 @@
+[
+    {
+        "id":  "trakt-animation-todays-top-picks-for-you-walt-disney-animated-feature-films",
+        "title":  "Today\u0027s Top Picks for You",
+        "url":  "movistapp/lists/walt-disney-animated-feature-films",
+        "catalogType":  "traktMovie",
+        "traktSortBy":  "random",
+        "minRating":  57,
+        "minYear":  1990
+    },
+    {
+        "id":  "trakt-animation-animated-movies-animation",
+        "title":  "Animated Movies",
+        "url":  "giladg/lists/animation",
+        "catalogType":  "traktMovie",
+        "traktSortBy":  "random",
+        "minRating":  57,
+        "minYear":  1990
+    },
+    {
+        "id":  "trakt-animation-animated-tv-series-90s-cartoon-shows",
+        "title":  "Animated TV Series",
+        "url":  "hammers-lists/lists/90s-cartoon-shows",
+        "catalogType":  "traktTv",
+        "traktSortBy":  "random",
+        "minRating":  57,
+        "minYear":  1990
+    },
+    {
+        "id":  "trakt-animation-pixar-movies-pixar-feature-films",
+        "title":  "Pixar Movies",
+        "url":  "draackje/lists/pixar-feature-films",
+        "catalogType":  "traktMovie",
+        "traktSortBy":  "random",
+        "minRating":  57,
+        "minYear":  1990
+    },
+    {
+        "id":  "trakt-animation-disney-animated-disney-movies",
+        "title":  "Disney Animated",
+        "url":  "garycrawfordgc/lists/disney-movies",
+        "catalogType":  "traktMovie",
+        "traktSortBy":  "random",
+        "minRating":  57,
+        "minYear":  1990
+    },
+    {
+        "id":  "trakt-animation-studio-ghibli-studio-ghibli-feature-films",
+        "title":  "Studio Ghibli",
+        "url":  "draackje/lists/studio-ghibli-feature-films",
+        "catalogType":  "traktMovie",
+        "traktSortBy":  "random",
+        "minRating":  57,
+        "minYear":  1990
+    },
+    {
+        "id":  "trakt-animation-dreamworks-films-dreamworks-feature-films",
+        "title":  "DreamWorks Films",
+        "url":  "draackje/lists/dreamworks-feature-films",
+        "catalogType":  "traktMovie",
+        "traktSortBy":  "random",
+        "minRating":  57,
+        "minYear":  1990
+    },
+    {
+        "id":  "trakt-animation-anime-movies-the-100-best-anime-movies-of-all-time",
+        "title":  "Anime Movies",
+        "url":  "majeed_pk/lists/the-100-best-anime-movies-of-all-time",
+        "catalogType":  "traktMovie",
+        "traktSortBy":  "random",
+        "minRating":  57,
+        "minYear":  1990
+    },
+    {
+        "id":  "trakt-animation-anime-series-deanzel-s-definitive-anime-list-f-ck-yo-list",
+        "title":  "Anime Series",
+        "url":  "deanzel/lists/deanzel-s-definitive-anime-list-f-ck-yo-list",
+        "catalogType":  "traktTv",
+        "traktSortBy":  "random",
+        "minRating":  57,
+        "minYear":  1990
+    },
+    {
+        "id":  "trakt-animation-adult-animation-top-adult-animation",
+        "title":  "Adult Animation",
+        "url":  "tvgeniekodi/lists/top-adult-animation",
+        "catalogType":  "traktMovie",
+        "traktSortBy":  "random",
+        "minRating":  57,
+        "minYear":  1990
+    },
+    {
+        "id":  "trakt-animation-stop-motion-stop-motion-animation",
+        "title":  "Stop Motion",
+        "url":  "yoru14/lists/stop-motion-animation",
+        "catalogType":  "traktMovie",
+        "traktSortBy":  "random",
+        "minRating":  57,
+        "minYear":  1990
+    },
+    {
+        "id":  "trakt-animation-classic-cartoons-80s-cartoon-shows",
+        "title":  "Classic Cartoons",
+        "url":  "hammers-lists/lists/80s-cartoon-shows",
+        "catalogType":  "traktTv",
+        "traktSortBy":  "random",
+        "minRating":  57,
+        "minYear":  1990
+    },
+    {
+        "id":  "trakt-animation-awardwinning-animation-academy-award-for-best-animated-feature",
+        "title":  "Award-Winning Animation",
+        "url":  "chrisu/lists/academy-award-for-best-animated-feature",
+        "catalogType":  "traktMovie",
+        "traktSortBy":  "random",
+        "minRating":  57,
+        "minYear":  1990
+    },
+    {
+        "id":  "trakt-animation-animated-shorts-oscars-animated-short-film-1931-2023-winners-nominees",
+        "title":  "Animated Shorts",
+        "url":  "svktrakt/lists/oscars-animated-short-film-1931-2023-winners-nominees",
+        "catalogType":  "traktMovie",
+        "traktSortBy":  "random",
+        "minRating":  57,
+        "minYear":  1990
+    },
+    {
+        "id":  "trakt-animation-anime-adventures-anime-adventure",
+        "title":  "Anime Adventures",
+        "url":  "kingkearney/lists/anime-adventure",
+        "catalogType":  "traktTv",
+        "traktSortBy":  "random",
+        "minRating":  57,
+        "minYear":  1990
+    },
+    {
+        "id":  "trakt-animation-slice-of-life-anime-anime-slice-of-life-for-person-in-20s",
+        "title":  "Slice of Life Anime",
+        "url":  "rinicko/lists/anime-slice-of-life-for-person-in-20s",
+        "catalogType":  "traktTv",
+        "traktSortBy":  "random",
+        "minRating":  57,
+        "minYear":  1990
+    },
+    {
+        "id":  "trakt-animation-your-next-watch-dc-comics-animated",
+        "title":  "Your Next Watch",
+        "url":  "donxy/lists/dc-comics-animated",
+        "catalogType":  "traktMovie",
+        "traktSortBy":  "random",
+        "minRating":  57,
+        "minYear":  1990
+    }
+]
