@@ -90,36 +90,36 @@
         "minYear":  1990
     },
     {
-        "id":  "trakt-documentary-investigative-docs-detective-espionage-investigation-mystery-thriller",
-        "title":  "Investigative Docs",
-        "url":  "giuseppedr/lists/detective-espionage-investigation-mystery-thriller",
+        "id":  "trakt-documentary-acclaimed-documentaries-the-documentary-blog-s-top-50-documentaries-of-the-decade",
+        "title":  "Acclaimed Documentaries",
+        "url":  "sp1ti/lists/the-documentary-blog-s-top-50-documentaries-of-the-decade",
         "catalogType":  "traktMovie",
         "traktSortBy":  "random",
         "minRating":  57,
         "minYear":  1990
     },
     {
-        "id":  "trakt-documentary-environmental-docs-trapped-environment-thrillers",
+        "id":  "trakt-documentary-environmental-docs-environmental-movies",
         "title":  "Environmental Docs",
-        "url":  "noahbolanowski/lists/trapped-environment-thrillers",
+        "url":  "idelo/lists/environmental-movies",
         "catalogType":  "traktMovie",
         "traktSortBy":  "random",
         "minRating":  57,
         "minYear":  1990
     },
     {
-        "id":  "trakt-documentary-cult-conspiracy-wikipedia-s-list-of-cult-films",
-        "title":  "Cult \u0026 Conspiracy",
-        "url":  "didzgreen/lists/wikipedia-s-list-of-cult-films",
+        "id":  "trakt-documentary-conspiracy-docs-conspiracy-documenatries",
+        "title":  "Conspiracy Docs",
+        "url":  "sig1878/lists/conspiracy-documenatries",
         "catalogType":  "traktMovie",
         "traktSortBy":  "random",
         "minRating":  57,
         "minYear":  1990
     },
     {
-        "id":  "trakt-documentary-mindblowing-documentaries-best-mindfucks",
-        "title":  "Mind-Blowing Documentaries",
-        "url":  "benfranklin/lists/best-mindfucks",
+        "id":  "trakt-documentary-must-see-documentaries-documentary",
+        "title":  "Must-See Documentaries",
+        "url":  "movistapp/lists/documentary",
         "catalogType":  "traktMovie",
         "traktSortBy":  "random",
         "minRating":  57,
@@ -135,9 +135,9 @@
         "minYear":  1990
     },
     {
-        "id":  "trakt-documentary-murder-mystery-docs-murder-mystery-movies",
-        "title":  "Murder \u0026 Mystery Docs",
-        "url":  "giladg/lists/murder-mystery-movies",
+        "id":  "trakt-documentary-space-documentaries-space-documentaries",
+        "title":  "Space Documentaries",
+        "url":  "mende666-hotmail-com/lists/space-documentaries",
         "catalogType":  "traktMovie",
         "traktSortBy":  "random",
         "minRating":  57,
