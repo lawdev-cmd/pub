@@ -99,9 +99,9 @@
         "minYear":  1980
     },
     {
-        "id":  "trakt-fantasy-dark-fantasy-classic-british-gothic-horror",
+        "id":  "trakt-fantasy-dark-fantasy-collection-dark-fantasy",
         "title":  "Dark Fantasy",
-        "url":  "majeed_pk/lists/classic-british-gothic-horror",
+        "url":  "oya-kesh/lists/collection-dark-fantasy",
         "catalogType":  "traktMovie",
         "traktSortBy":  "random",
         "minRating":  57,
@@ -117,18 +117,18 @@
         "minYear":  1980
     },
     {
-        "id":  "trakt-fantasy-classic-fantasy-classic-sci-fi-fantasy",
-        "title":  "Classic Fantasy",
-        "url":  "kingkearney/lists/classic-sci-fi-fantasy",
+        "id":  "trakt-fantasy-epic-fantasy-fantasy-epic-dark-medieval-historical-movies",
+        "title":  "Epic Fantasy",
+        "url":  "xkriss44/lists/fantasy-epic-dark-medieval-historical-movies",
         "catalogType":  "traktMovie",
         "traktSortBy":  "random",
         "minRating":  57,
         "minYear":  1980
     },
     {
-        "id":  "trakt-fantasy-marvel-cinematic-universe-marvel-cinematic-universe",
-        "title":  "Marvel Cinematic Universe",
-        "url":  "donxy/lists/marvel-cinematic-universe",
+        "id":  "trakt-fantasy-witches-and-witchcraft-witches-and-witch-craft",
+        "title":  "Witches & Witchcraft",
+        "url":  "kayaaron13/lists/witches-and-witch-craft",
         "catalogType":  "traktMovie",
         "traktSortBy":  "random",
         "minRating":  57,
