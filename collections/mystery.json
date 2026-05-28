@@ -63,9 +63,9 @@
         "minYear":  1980
     },
     {
-        "id":  "trakt-mystery-noir-films-the-big-film-noir-list",
+        "id":  "trakt-mystery-noir-films-film-noir",
         "title":  "Noir Films",
-        "url":  "midnighter78/lists/the-big-film-noir-list",
+        "url":  "y1kx2/lists/film-noir",
         "catalogType":  "traktMovie",
         "traktSortBy":  "random",
         "minRating":  57,
@@ -99,9 +99,9 @@
         "minYear":  1980
     },
     {
-        "id":  "trakt-mystery-classic-mysteries-hitchcock",
-        "title":  "Classic Mysteries",
-        "url":  "movistapp/lists/hitchcock",
+        "id":  "trakt-mystery-agatha-christie-mysteries-author-agatha-christie-mysteries",
+        "title":  "Agatha Christie Mysteries",
+        "url":  "krissykk/lists/author-agatha-christie-mysteries",
         "catalogType":  "traktMovie",
         "traktSortBy":  "random",
         "minRating":  57,
@@ -135,9 +135,9 @@
         "minYear":  1980
     },
     {
-        "id":  "trakt-mystery-sherlock-holmes-universe-sherlock-holmes-basil-rathbone",
-        "title":  "Sherlock Holmes Universe",
-        "url":  "del74/lists/sherlock-holmes-basil-rathbone",
+        "id":  "trakt-mystery-suspense-thrillers-best-suspense-thriller-movies",
+        "title":  "Suspense Thrillers",
+        "url":  "majeed_pk/lists/best-suspense-thriller-movies",
         "catalogType":  "traktMovie",
         "traktSortBy":  "random",
         "minRating":  57,
