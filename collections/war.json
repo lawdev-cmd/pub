@@ -1,0 +1,173 @@
+[
+    {
+        "id":  "trakt-war-todays-top-picks-for-you-war",
+        "title":  "Today\u0027s Top Picks for You",
+        "url":  "garycrawfordgc/lists/war",
+        "catalogType":  "traktMovie",
+        "traktSortBy":  "random",
+        "minRating":  57,
+        "minYear":  1960
+    },
+    {
+        "id":  "trakt-war-war-movies-war-movies-f6f720dc-1cfb-4c2c-b0de-57e55e403c9c",
+        "title":  "War Movies",
+        "url":  "majeed_pk/lists/war-movies-f6f720dc-1cfb-4c2c-b0de-57e55e403c9c",
+        "catalogType":  "traktMovie",
+        "traktSortBy":  "random",
+        "minRating":  57,
+        "minYear":  1960
+    },
+    {
+        "id":  "trakt-war-war-tv-shows-star-wars-shows-series",
+        "title":  "War TV Shows",
+        "url":  "geekztor/lists/star-wars-shows-series",
+        "catalogType":  "traktTv",
+        "traktSortBy":  "random",
+        "minRating":  57,
+        "minYear":  1960
+    },
+    {
+        "id":  "trakt-war-world-war-ii-films-world-war-ii-films-and-tv",
+        "title":  "World War II Films",
+        "url":  "majeed_pk/lists/world-war-ii-films-and-tv",
+        "catalogType":  "traktTv",
+        "traktSortBy":  "random",
+        "minRating":  57,
+        "minYear":  1960
+    },
+    {
+        "id":  "trakt-war-vietnam-war-war-vietnam-war-movies",
+        "title":  "Vietnam War",
+        "url":  "majeed_pk/lists/war-vietnam-war-movies",
+        "catalogType":  "traktMovie",
+        "traktSortBy":  "random",
+        "minRating":  57,
+        "minYear":  1960
+    },
+    {
+        "id":  "trakt-war-cold-war-era-cold-war",
+        "title":  "Cold War Era",
+        "url":  "kayaaron13/lists/cold-war",
+        "catalogType":  "traktMovie",
+        "traktSortBy":  "random",
+        "minRating":  57,
+        "minYear":  1960
+    },
+    {
+        "id":  "trakt-war-combat-films-battlestar-galactica-how-to-watch",
+        "title":  "Combat Films",
+        "url":  "marcelocastanheira/lists/battlestar-galactica-how-to-watch",
+        "catalogType":  "traktMovie",
+        "traktSortBy":  "random",
+        "minRating":  57,
+        "minYear":  1960
+    },
+    {
+        "id":  "trakt-war-war-documentaries-war-documentaries",
+        "title":  "War Documentaries",
+        "url":  "hammers-lists/lists/war-documentaries",
+        "catalogType":  "traktMovie",
+        "traktSortBy":  "random",
+        "minRating":  57,
+        "minYear":  1960
+    },
+    {
+        "id":  "trakt-war-military-dramas-war-and-military",
+        "title":  "Military Dramas",
+        "url":  "michaeldibben/lists/war-and-military",
+        "catalogType":  "traktMovie",
+        "traktSortBy":  "random",
+        "minRating":  57,
+        "minYear":  1960
+    },
+    {
+        "id":  "trakt-war-war-heroes-super-heroes",
+        "title":  "War Heroes",
+        "url":  "ibjamn78/lists/super-heroes",
+        "catalogType":  "traktMovie",
+        "traktSortBy":  "random",
+        "minRating":  57,
+        "minYear":  1960
+    },
+    {
+        "id":  "trakt-war-classic-war-films-classic-war-stories",
+        "title":  "Classic War Films",
+        "url":  "kingkearney/lists/classic-war-stories",
+        "catalogType":  "traktMovie",
+        "traktSortBy":  "random",
+        "minRating":  57,
+        "minYear":  1960
+    },
+    {
+        "id":  "trakt-war-modern-warfare-miro-s-modern-warfare",
+        "title":  "Modern Warfare",
+        "url":  "mrlegendneo/lists/miro-s-modern-warfare",
+        "catalogType":  "traktMovie",
+        "traktSortBy":  "random",
+        "minRating":  57,
+        "minYear":  1960
+    },
+    {
+        "id":  "trakt-war-war-dramas-war-drama-wwii",
+        "title":  "War Dramas",
+        "url":  "majeed_pk/lists/war-drama-wwii",
+        "catalogType":  "traktMovie",
+        "traktSortBy":  "random",
+        "minRating":  57,
+        "minYear":  1960
+    },
+    {
+        "id":  "trakt-war-pow-resistance-the-j-film-pow-wow-s-top-100-favorite-japanese-films",
+        "title":  "POW \u0026 Resistance",
+        "url":  "sp1ti/lists/the-j-film-pow-wow-s-top-100-favorite-japanese-films",
+        "catalogType":  "traktMovie",
+        "traktSortBy":  "random",
+        "minRating":  57,
+        "minYear":  1960
+    },
+    {
+        "id":  "trakt-war-spy-war-thrillers-espionage",
+        "title":  "Spy \u0026 War Thrillers",
+        "url":  "michaeldibben/lists/espionage",
+        "catalogType":  "traktMovie",
+        "traktSortBy":  "random",
+        "minRating":  57,
+        "minYear":  1960
+    },
+    {
+        "id":  "trakt-war-true-story-war-films-based-on-a-true-story",
+        "title":  "True Story War Films",
+        "url":  "benfranklin/lists/based-on-a-true-story",
+        "catalogType":  "traktMovie",
+        "traktSortBy":  "random",
+        "minRating":  57,
+        "minYear":  1960
+    },
+    {
+        "id":  "trakt-war-war-miniseries-miniseries-limited-series",
+        "title":  "War Mini-Series",
+        "url":  "billy-shakes/lists/miniseries-limited-series",
+        "catalogType":  "traktTv",
+        "traktSortBy":  "random",
+        "minRating":  57,
+        "minYear":  1960
+    },
+    {
+        "id":  "trakt-war-critically-acclaimed-war-films-imdb-s-top-war-movies",
+        "title":  "Critically Acclaimed War Films",
+        "url":  "irishstevo/lists/imdb-s-top-war-movies",
+        "catalogType":  "traktMovie",
+        "traktSortBy":  "random",
+        "minRating":  57,
+        "minYear":  1960
+    },
+    {
+        "id":  "trakt-war-your-next-watch-star-wars-canon-timeline",
+        "title":  "Your Next Watch",
+        "url":  "sonicwarrior/lists/star-wars-canon-timeline",
+        "catalogType":  "traktMovie",
+        "traktSortBy":  "random",
+        "minRating":  57,
+        "minYear":  1960
+    }
+]
