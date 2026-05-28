@@ -1,7 +1,7 @@
 [
   {
     "id": "trakt-horror-today-s-topics-for-you-rotten-tomatoes-best-horror-movies-of-all-time",
-    "title": "Today's Topics for You",
+    "title": "Today's Top Picks for You",
     "url": "lish408/lists/rotten-tomatoes-best-horror-movies-of-all-time",
     "catalogType": "traktMovie",
     "traktSortBy": "random",
@@ -126,9 +126,9 @@
     "minYear": 1980
   },
   {
-    "id": "trakt-horror-monster-movies-creature-feature-monster-movies",
+    "id": "trakt-horror-monster-movies-creature-features",
     "title": "Monster Movies",
-    "url": "hammers-lists/lists/creature-feature-monster-movies",
+    "url": "canadutchy/lists/creature-features",
     "catalogType": "traktMovie",
     "traktSortBy": "random",
     "minRating": 57,
@@ -153,9 +153,9 @@
     "minYear": 1980
   },
   {
-    "id": "trakt-horror-horror-comedies-cult-classics",
+    "id": "trakt-horror-horror-comedies-comedy-horror-movies",
     "title": "Horror Comedies",
-    "url": "madmapper/lists/cult-classics",
+    "url": "kayaaron13/lists/comedy-horror-movies",
     "catalogType": "traktMovie",
     "traktSortBy": "random",
     "minRating": 57,
