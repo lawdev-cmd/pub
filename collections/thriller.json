@@ -45,8 +45,8 @@
     "minYear": 1980
   },
   {
-    "id": "trakt-thriller-violent-movies-bad-dirty-corrupt-cops",
-    "title": "Violent Movies",
+    "id": "trakt-thriller-bad-cops-antiheroes-bad-dirty-corrupt-cops",
+    "title": "Bad Cops & Antiheroes",
     "url": "29zombies/lists/bad-dirty-corrupt-cops",
     "catalogType": "traktMovie",
     "traktSortBy": "random",
