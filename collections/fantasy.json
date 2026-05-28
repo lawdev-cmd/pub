@@ -1,0 +1,173 @@
+[
+    {
+        "id":  "trakt-fantasy-todays-top-picks-for-you-fantasy",
+        "title":  "Today\u0027s Top Picks for You",
+        "url":  "movistapp/lists/fantasy",
+        "catalogType":  "traktMovie",
+        "traktSortBy":  "random",
+        "minRating":  57,
+        "minYear":  1980
+    },
+    {
+        "id":  "trakt-fantasy-fantasy-movies-fantasy-movies",
+        "title":  "Fantasy Movies",
+        "url":  "coldkeys/lists/fantasy-movies",
+        "catalogType":  "traktMovie",
+        "traktSortBy":  "random",
+        "minRating":  57,
+        "minYear":  1980
+    },
+    {
+        "id":  "trakt-fantasy-fantasy-tv-shows-fantasy-adventure-tv-shows",
+        "title":  "Fantasy TV Shows",
+        "url":  "codecarter/lists/fantasy-adventure-tv-shows",
+        "catalogType":  "traktTv",
+        "traktSortBy":  "random",
+        "minRating":  57,
+        "minYear":  1980
+    },
+    {
+        "id":  "trakt-fantasy-sword-sorcery-fantasy-swords-sorcery-and-celluloid",
+        "title":  "Sword \u0026 Sorcery",
+        "url":  "rooktherhymer/lists/fantasy-swords-sorcery-and-celluloid",
+        "catalogType":  "traktMovie",
+        "traktSortBy":  "random",
+        "minRating":  57,
+        "minYear":  1980
+    },
+    {
+        "id":  "trakt-fantasy-magical-worlds-fantasy-supernatural-and-magic",
+        "title":  "Magical Worlds",
+        "url":  "michaeldibben/lists/fantasy-supernatural-and-magic",
+        "catalogType":  "traktMovie",
+        "traktSortBy":  "random",
+        "minRating":  57,
+        "minYear":  1980
+    },
+    {
+        "id":  "trakt-fantasy-lord-of-the-rings-middleearth-tolkien",
+        "title":  "Lord of the Rings \u0026 Middle-earth",
+        "url":  "istoit/lists/tolkien",
+        "catalogType":  "traktMovie",
+        "traktSortBy":  "random",
+        "minRating":  57,
+        "minYear":  1980
+    },
+    {
+        "id":  "trakt-fantasy-harry-potter-wizarding-author-j-k-rowling-harry-potter-fantastic-beasts-a-chronological-gu",
+        "title":  "Harry Potter \u0026 Wizarding",
+        "url":  "krissykk/lists/author-j-k-rowling-harry-potter-fantastic-beasts-a-chronological-guide",
+        "catalogType":  "traktMovie",
+        "traktSortBy":  "random",
+        "minRating":  57,
+        "minYear":  1980
+    },
+    {
+        "id":  "trakt-fantasy-mythology-legends-mythological-and-fantasy-world",
+        "title":  "Mythology \u0026 Legends",
+        "url":  "htpablo/lists/mythological-and-fantasy-world",
+        "catalogType":  "traktMovie",
+        "traktSortBy":  "random",
+        "minRating":  57,
+        "minYear":  1980
+    },
+    {
+        "id":  "trakt-fantasy-disney-magic-disney-movies",
+        "title":  "Disney Magic",
+        "url":  "garycrawfordgc/lists/disney-movies",
+        "catalogType":  "traktMovie",
+        "traktSortBy":  "random",
+        "minRating":  57,
+        "minYear":  1980
+    },
+    {
+        "id":  "trakt-fantasy-fairy-tales-fairy-tales",
+        "title":  "Fairy Tales",
+        "url":  "istoit/lists/fairy-tales",
+        "catalogType":  "traktMovie",
+        "traktSortBy":  "random",
+        "minRating":  57,
+        "minYear":  1980
+    },
+    {
+        "id":  "trakt-fantasy-anime-fantasy-isekai-anime",
+        "title":  "Anime Fantasy",
+        "url":  "drkain/lists/isekai-anime",
+        "catalogType":  "traktTv",
+        "traktSortBy":  "random",
+        "minRating":  57,
+        "minYear":  1980
+    },
+    {
+        "id":  "trakt-fantasy-dark-fantasy-classic-british-gothic-horror",
+        "title":  "Dark Fantasy",
+        "url":  "majeed_pk/lists/classic-british-gothic-horror",
+        "catalogType":  "traktMovie",
+        "traktSortBy":  "random",
+        "minRating":  57,
+        "minYear":  1980
+    },
+    {
+        "id":  "trakt-fantasy-family-fantasy-family-sci-fi-fantasy",
+        "title":  "Family Fantasy",
+        "url":  "kingkearney/lists/family-sci-fi-fantasy",
+        "catalogType":  "traktMovie",
+        "traktSortBy":  "random",
+        "minRating":  57,
+        "minYear":  1980
+    },
+    {
+        "id":  "trakt-fantasy-classic-fantasy-classic-sci-fi-fantasy",
+        "title":  "Classic Fantasy",
+        "url":  "kingkearney/lists/classic-sci-fi-fantasy",
+        "catalogType":  "traktMovie",
+        "traktSortBy":  "random",
+        "minRating":  57,
+        "minYear":  1980
+    },
+    {
+        "id":  "trakt-fantasy-marvel-cinematic-universe-marvel-cinematic-universe",
+        "title":  "Marvel Cinematic Universe",
+        "url":  "donxy/lists/marvel-cinematic-universe",
+        "catalogType":  "traktMovie",
+        "traktSortBy":  "random",
+        "minRating":  57,
+        "minYear":  1980
+    },
+    {
+        "id":  "trakt-fantasy-dc-universe-dc-comics-animated",
+        "title":  "DC Universe",
+        "url":  "donxy/lists/dc-comics-animated",
+        "catalogType":  "traktMovie",
+        "traktSortBy":  "random",
+        "minRating":  57,
+        "minYear":  1980
+    },
+    {
+        "id":  "trakt-fantasy-comic-book-adaptations-marvel-dc-comic-adaptations",
+        "title":  "Comic Book Adaptations",
+        "url":  "benfranklin/lists/marvel-dc-comic-adaptations",
+        "catalogType":  "traktMovie",
+        "traktSortBy":  "random",
+        "minRating":  57,
+        "minYear":  1980
+    },
+    {
+        "id":  "trakt-fantasy-critically-acclaimed-fantasy-imdb-s-top-fantasy-movies",
+        "title":  "Critically Acclaimed Fantasy",
+        "url":  "irishstevo/lists/imdb-s-top-fantasy-movies",
+        "catalogType":  "traktMovie",
+        "traktSortBy":  "random",
+        "minRating":  57,
+        "minYear":  1980
+    },
+    {
+        "id":  "trakt-fantasy-your-next-watch-fantasy",
+        "title":  "Your Next Watch",
+        "url":  "6911557d-5846-4d10-97c8-af0ed44a5dc7/lists/fantasy",
+        "catalogType":  "traktMovie",
+        "traktSortBy":  "random",
+        "minRating":  57,
+        "minYear":  1980
+    }
+]
