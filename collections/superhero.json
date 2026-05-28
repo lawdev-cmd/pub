@@ -27,15 +27,6 @@
         "minYear":  1990
     },
     {
-        "id":  "trakt-superhero-superhero-movies-superhero-comic-book-movies-and-tv-shows",
-        "title":  "Superhero Movies",
-        "url":  "seriouspain/lists/superhero-comic-book-movies-and-tv-shows",
-        "catalogType":  "traktMovie",
-        "traktSortBy":  "random",
-        "minRating":  57,
-        "minYear":  1990
-    },
-    {
         "id":  "trakt-superhero-superhero-tv-shows-live-action-superhero-tv",
         "title":  "Superhero TV Shows",
         "url":  "amohr/lists/live-action-superhero-tv",
@@ -102,15 +93,6 @@
         "id":  "trakt-superhero-xmen-universe-x-men-universe",
         "title":  "X-Men Universe",
         "url":  "donxy/lists/x-men-universe",
-        "catalogType":  "traktMovie",
-        "traktSortBy":  "random",
-        "minRating":  57,
-        "minYear":  1990
-    },
-    {
-        "id":  "trakt-superhero-spiderman-films-spiderman",
-        "title":  "Spider-Man Films",
-        "url":  "morgana1273/lists/spiderman",
         "catalogType":  "traktMovie",
         "traktSortBy":  "random",
         "minRating":  57,
