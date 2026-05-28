@@ -63,15 +63,6 @@
         "minYear":  1980
     },
     {
-        "id":  "trakt-mystery-noir-films-film-noir",
-        "title":  "Noir Films",
-        "url":  "y1kx2/lists/film-noir",
-        "catalogType":  "traktMovie",
-        "traktSortBy":  "random",
-        "minRating":  57,
-        "minYear":  1980
-    },
-    {
         "id":  "trakt-mystery-psychological-thrillers-psychological-thrillers",
         "title":  "Psychological Thrillers",
         "url":  "majeed_pk/lists/psychological-thrillers",
