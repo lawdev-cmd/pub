@@ -90,15 +90,6 @@
         "minYear":  1980
     },
     {
-        "id":  "trakt-scifi-classic-scifi-b-movies-horror-sci-fi-classics",
-        "title":  "Classic Sci-Fi",
-        "url":  "marcelocastanheira/lists/b-movies-horror-sci-fi-classics",
-        "catalogType":  "traktMovie",
-        "traktSortBy":  "random",
-        "minRating":  57,
-        "minYear":  1980
-    },
-    {
         "id":  "trakt-scifi-scifi-anime-anime-scifi-cyberpunk",
         "title":  "Sci-Fi Anime",
         "url":  "jemus42/lists/anime-scifi-cyberpunk",
