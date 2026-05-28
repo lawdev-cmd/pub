@@ -1,7 +1,7 @@
 [
   {
     "id": "trakt-action-today-s-topics-for-you-action",
-    "title": "Today's Topics for You",
+    "title": "Today's Top Picks for You",
     "url": "garycrawfordgc/lists/action",
     "catalogType": "traktMovie",
     "traktSortBy": "random",
