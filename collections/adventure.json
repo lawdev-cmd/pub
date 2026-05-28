@@ -1,7 +1,7 @@
 [
   {
     "id": "trakt-adventure-today-s-topics-for-you-adventure",
-    "title": "Today's Topics for You",
+    "title": "Today's Top Picks for You",
     "url": "movistapp/lists/adventure",
     "catalogType": "traktMovie",
     "traktSortBy": "random",
