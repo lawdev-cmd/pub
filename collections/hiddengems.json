@@ -1,0 +1,155 @@
+[
+    {
+        "id":  "trakt-hiddengems-todays-top-picks-for-you-hidden-gems",
+        "title":  "Today\u0027s Top Picks for You",
+        "url":  "recom273/lists/hidden-gems",
+        "catalogType":  "traktMovie",
+        "traktSortBy":  "random",
+        "minRating":  57,
+        "minYear":  1980
+    },
+    {
+        "id":  "trakt-hiddengems-hidden-gem-movies-underrated-unusual-cult-films",
+        "title":  "Hidden Gem Movies",
+        "url":  "majeed_pk/lists/underrated-unusual-cult-films",
+        "catalogType":  "traktMovie",
+        "traktSortBy":  "random",
+        "minRating":  57,
+        "minYear":  1980
+    },
+    {
+        "id":  "trakt-hiddengems-cult-classics-cult-classics",
+        "title":  "Cult Classics",
+        "url":  "kayaaron13/lists/cult-classics",
+        "catalogType":  "traktMovie",
+        "traktSortBy":  "random",
+        "minRating":  57,
+        "minYear":  1980
+    },
+    {
+        "id":  "trakt-hiddengems-festival-favorites-cannes-palme-d-or-winners",
+        "title":  "Festival Favorites",
+        "url":  "sp1ti/lists/cannes-palme-d-or-winners",
+        "catalogType":  "traktMovie",
+        "traktSortBy":  "random",
+        "minRating":  57,
+        "minYear":  1980
+    },
+    {
+        "id":  "trakt-hiddengems-a24-films-a24",
+        "title":  "A24 Films",
+        "url":  "lish408/lists/a24",
+        "catalogType":  "traktMovie",
+        "traktSortBy":  "random",
+        "minRating":  57,
+        "minYear":  1980
+    },
+    {
+        "id":  "trakt-hiddengems-indie-films-more-indie-horror-thriller-and-sci-fi-movies-to-watch-this-october-part-3",
+        "title":  "Indie Films",
+        "url":  "skinnyfilmbuff/lists/more-indie-horror-thriller-and-sci-fi-movies-to-watch-this-october-part-3",
+        "catalogType":  "traktMovie",
+        "traktSortBy":  "random",
+        "minRating":  57,
+        "minYear":  1980
+    },
+    {
+        "id":  "trakt-hiddengems-cult-tv-shows-bbc-culture-the-100-greatest-tv-series-of-the-21st-century",
+        "title":  "Cult TV Shows",
+        "url":  "nylgeroo/lists/bbc-culture-the-100-greatest-tv-series-of-the-21st-century",
+        "catalogType":  "traktTv",
+        "traktSortBy":  "random",
+        "minRating":  57,
+        "minYear":  1980
+    },
+    {
+        "id":  "trakt-hiddengems-unusual-weird-films-jay-trotter-s-amazing-underrated-obscure-bizarre-films",
+        "title":  "Unusual \u0026 Weird Films",
+        "url":  "majeed_pk/lists/jay-trotter-s-amazing-underrated-obscure-bizarre-films",
+        "catalogType":  "traktMovie",
+        "traktSortBy":  "random",
+        "minRating":  57,
+        "minYear":  1980
+    },
+    {
+        "id":  "trakt-hiddengems-lost-gems-forgotten-80s-90s",
+        "title":  "Lost Gems",
+        "url":  "skaggi/lists/forgotten-80s-90s",
+        "catalogType":  "traktMovie",
+        "traktSortBy":  "random",
+        "minRating":  57,
+        "minYear":  1980
+    },
+    {
+        "id":  "trakt-hiddengems-foreign-hidden-gems-foreign-films",
+        "title":  "Foreign Hidden Gems",
+        "url":  "mahasharif/lists/foreign-films",
+        "catalogType":  "traktMovie",
+        "traktSortBy":  "random",
+        "minRating":  57,
+        "minYear":  1980
+    },
+    {
+        "id":  "trakt-hiddengems-cult-horror-70s-horror-cult",
+        "title":  "Cult Horror",
+        "url":  "marcelocastanheira/lists/70s-horror-cult",
+        "catalogType":  "traktMovie",
+        "traktSortBy":  "random",
+        "minRating":  57,
+        "minYear":  1980
+    },
+    {
+        "id":  "trakt-hiddengems-underground-films-underground-network",
+        "title":  "Underground Films",
+        "url":  "justin/lists/underground-network",
+        "catalogType":  "traktMovie",
+        "traktSortBy":  "random",
+        "minRating":  57,
+        "minYear":  1980
+    },
+    {
+        "id":  "trakt-hiddengems-cult-action-quentin-tarantino-s-favorite-grindhouse-movies",
+        "title":  "Cult Action",
+        "url":  "sp1ti/lists/quentin-tarantino-s-favorite-grindhouse-movies",
+        "catalogType":  "traktMovie",
+        "traktSortBy":  "random",
+        "minRating":  57,
+        "minYear":  1980
+    },
+    {
+        "id":  "trakt-hiddengems-genre-mashups-genre-mystery-1000-titles-1970-2013",
+        "title":  "Genre Mash-Ups",
+        "url":  "xilfneps/lists/genre-mystery-1000-titles-1970-2013",
+        "catalogType":  "traktMovie",
+        "traktSortBy":  "random",
+        "minRating":  57,
+        "minYear":  1980
+    },
+    {
+        "id":  "trakt-hiddengems-recently-discovered-tv-based-on-recently-watched-couchmoney-tv",
+        "title":  "Recently Discovered",
+        "url":  "rinicko/lists/tv-based-on-recently-watched-couchmoney-tv",
+        "catalogType":  "traktTv",
+        "traktSortBy":  "random",
+        "minRating":  57,
+        "minYear":  1980
+    },
+    {
+        "id":  "trakt-hiddengems-wordofmouth-picks-recommended-movies",
+        "title":  "Word-of-Mouth Picks",
+        "url":  "garycrawfordgc/lists/recommended-movies",
+        "catalogType":  "traktMovie",
+        "traktSortBy":  "random",
+        "minRating":  57,
+        "minYear":  1980
+    },
+    {
+        "id":  "trakt-hiddengems-your-next-watch-wikipedia-s-list-of-cult-films",
+        "title":  "Your Next Watch",
+        "url":  "didzgreen/lists/wikipedia-s-list-of-cult-films",
+        "catalogType":  "traktMovie",
+        "traktSortBy":  "random",
+        "minRating":  57,
+        "minYear":  1980
+    }
+]
