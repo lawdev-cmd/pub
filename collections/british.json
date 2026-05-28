@@ -1,0 +1,164 @@
+[
+    {
+        "id":  "trakt-british-todays-top-picks-for-you-british-shows",
+        "title":  "Today\u0027s Top Picks for You",
+        "url":  "gonzohunter/lists/british-shows",
+        "catalogType":  "traktTv",
+        "traktSortBy":  "random",
+        "minRating":  57,
+        "minYear":  1980
+    },
+    {
+        "id":  "trakt-british-best-british-tv-charts-top-british-tv",
+        "title":  "Best British TV",
+        "url":  "mraniki/lists/charts-top-british-tv",
+        "catalogType":  "traktTv",
+        "traktSortBy":  "random",
+        "minRating":  57,
+        "minYear":  1980
+    },
+    {
+        "id":  "trakt-british-british-period-dramas-the-best-of-british-period-drama-tv-shows",
+        "title":  "British Period Dramas",
+        "url":  "iyez/lists/the-best-of-british-period-drama-tv-shows",
+        "catalogType":  "traktTv",
+        "traktSortBy":  "random",
+        "minRating":  57,
+        "minYear":  1980
+    },
+    {
+        "id":  "trakt-british-british-comedies-best-of-britcoms-british-comedy-tv-series",
+        "title":  "British Comedies",
+        "url":  "majeed_pk/lists/best-of-britcoms-british-comedy-tv-series",
+        "catalogType":  "traktTv",
+        "traktSortBy":  "random",
+        "minRating":  57,
+        "minYear":  1980
+    },
+    {
+        "id":  "trakt-british-british-crime-dramas-british-crime-drama-tv-shows",
+        "title":  "British Crime Dramas",
+        "url":  "maxtrontv/lists/british-crime-drama-tv-shows",
+        "catalogType":  "traktTv",
+        "traktSortBy":  "random",
+        "minRating":  57,
+        "minYear":  1980
+    },
+    {
+        "id":  "trakt-british-british-detective-series-british-detective-tv-series",
+        "title":  "British Detective Series",
+        "url":  "majeed_pk/lists/british-detective-tv-series",
+        "catalogType":  "traktTv",
+        "traktSortBy":  "random",
+        "minRating":  57,
+        "minYear":  1980
+    },
+    {
+        "id":  "trakt-british-british-miniseries-british-tv-mini-series",
+        "title":  "British Mini-Series",
+        "url":  "majeed_pk/lists/british-tv-mini-series",
+        "catalogType":  "traktTv",
+        "traktSortBy":  "random",
+        "minRating":  57,
+        "minYear":  1980
+    },
+    {
+        "id":  "trakt-british-costume-dramas-period-drama-historical-series",
+        "title":  "Costume Dramas",
+        "url":  "athanasiaa/lists/period-drama-historical-series",
+        "catalogType":  "traktTv",
+        "traktSortBy":  "random",
+        "minRating":  57,
+        "minYear":  1980
+    },
+    {
+        "id":  "trakt-british-sherlock-holmes-sherlock-holmes-basil-rathbone",
+        "title":  "Sherlock Holmes",
+        "url":  "del74/lists/sherlock-holmes-basil-rathbone",
+        "catalogType":  "traktMovie",
+        "traktSortBy":  "random",
+        "minRating":  57,
+        "minYear":  1980
+    },
+    {
+        "id":  "trakt-british-doctor-who-universe-watching-order-doctor-who-universe",
+        "title":  "Doctor Who Universe",
+        "url":  "grendelcrusher/lists/watching-order-doctor-who-universe",
+        "catalogType":  "traktMovie",
+        "traktSortBy":  "random",
+        "minRating":  57,
+        "minYear":  1980
+    },
+    {
+        "id":  "trakt-british-british-sitcoms-british-sitcoms",
+        "title":  "British Sitcoms",
+        "url":  "zx224/lists/british-sitcoms",
+        "catalogType":  "traktTv",
+        "traktSortBy":  "random",
+        "minRating":  57,
+        "minYear":  1980
+    },
+    {
+        "id":  "trakt-british-downton-abbey-era-period-dramas-victorian-era",
+        "title":  "Downton Abbey Era",
+        "url":  "majeed_pk/lists/period-dramas-victorian-era",
+        "catalogType":  "traktTv",
+        "traktSortBy":  "random",
+        "minRating":  57,
+        "minYear":  1980
+    },
+    {
+        "id":  "trakt-british-bbc-productions-bbc-shows",
+        "title":  "BBC Productions",
+        "url":  "garycrawfordgc/lists/bbc-shows",
+        "catalogType":  "traktTv",
+        "traktSortBy":  "random",
+        "minRating":  57,
+        "minYear":  1980
+    },
+    {
+        "id":  "trakt-british-british-films-the-bfi-100-a-selection-of-the-favourite-british-films-of-the-20th-century",
+        "title":  "British Films",
+        "url":  "sp1ti/lists/the-bfi-100-a-selection-of-the-favourite-british-films-of-the-20th-century",
+        "catalogType":  "traktMovie",
+        "traktSortBy":  "random",
+        "minRating":  57,
+        "minYear":  1980
+    },
+    {
+        "id":  "trakt-british-royal-dramas-otakings-elite-anime-ova-watch-list-85-2000",
+        "title":  "Royal Dramas",
+        "url":  "hlindhe/lists/otakings-elite-anime-ova-watch-list-85-2000",
+        "catalogType":  "traktTv",
+        "traktSortBy":  "random",
+        "minRating":  57,
+        "minYear":  1980
+    },
+    {
+        "id":  "trakt-british-bond-films-007",
+        "title":  "Bond Films",
+        "url":  "movistapp/lists/007",
+        "catalogType":  "traktMovie",
+        "traktSortBy":  "random",
+        "minRating":  57,
+        "minYear":  1980
+    },
+    {
+        "id":  "trakt-british-british-drama-films-british-crime-drama",
+        "title":  "British Drama Films",
+        "url":  "pauls67/lists/british-crime-drama",
+        "catalogType":  "traktMovie",
+        "traktSortBy":  "random",
+        "minRating":  57,
+        "minYear":  1980
+    },
+    {
+        "id":  "trakt-british-your-next-watch-bbc-natural-history-unit-filmography",
+        "title":  "Your Next Watch",
+        "url":  "lish408/lists/bbc-natural-history-unit-filmography",
+        "catalogType":  "traktMovie",
+        "traktSortBy":  "random",
+        "minRating":  57,
+        "minYear":  1980
+    }
+]
