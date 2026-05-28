@@ -1,0 +1,110 @@
+[
+    {
+        "id":  "trakt-truestory-todays-top-picks-for-you-based-on-a-true-story",
+        "title":  "Today\u0027s Top Picks for You",
+        "url":  "benfranklin/lists/based-on-a-true-story",
+        "catalogType":  "traktMovie",
+        "traktSortBy":  "random",
+        "minRating":  57,
+        "minYear":  1980
+    },
+    {
+        "id":  "trakt-truestory-based-on-true-story-movies-mini-series-based-on-true-story",
+        "title":  "Based on True Story",
+        "url":  "sawo/lists/movies-mini-series-based-on-true-story",
+        "catalogType":  "traktMovie",
+        "traktSortBy":  "random",
+        "minRating":  57,
+        "minYear":  1980
+    },
+    {
+        "id":  "trakt-truestory-true-crime-documentaries-true-crime-documentary-series-film",
+        "title":  "True Crime Documentaries",
+        "url":  "lish408/lists/true-crime-documentary-series-film",
+        "catalogType":  "traktTv",
+        "traktSortBy":  "random",
+        "minRating":  57,
+        "minYear":  1980
+    },
+    {
+        "id":  "trakt-truestory-biopics-biopic-movies-about-musicians",
+        "title":  "Biopics",
+        "url":  "majeed_pk/lists/biopic-movies-about-musicians",
+        "catalogType":  "traktMovie",
+        "traktSortBy":  "random",
+        "minRating":  57,
+        "minYear":  1980
+    },
+    {
+        "id":  "trakt-truestory-historical-films-300-historical-movies-in-chronological-order",
+        "title":  "Historical Films",
+        "url":  "majeed_pk/lists/300-historical-movies-in-chronological-order",
+        "catalogType":  "traktMovie",
+        "traktSortBy":  "random",
+        "minRating":  57,
+        "minYear":  1980
+    },
+    {
+        "id":  "trakt-truestory-reallife-heroes-super-heroes",
+        "title":  "Real-Life Heroes",
+        "url":  "ibjamn78/lists/super-heroes",
+        "catalogType":  "traktMovie",
+        "traktSortBy":  "random",
+        "minRating":  57,
+        "minYear":  1980
+    },
+    {
+        "id":  "trakt-truestory-survival-stories-disaster-tragedy-destruction-and-survival",
+        "title":  "Survival Stories",
+        "url":  "htpablo/lists/disaster-tragedy-destruction-and-survival",
+        "catalogType":  "traktMovie",
+        "traktSortBy":  "random",
+        "minRating":  57,
+        "minYear":  1980
+    },
+    {
+        "id":  "trakt-truestory-crime-heist-true-stories-con-artist-heist",
+        "title":  "Crime \u0026 Heist True Stories",
+        "url":  "29zombies/lists/con-artist-heist",
+        "catalogType":  "traktMovie",
+        "traktSortBy":  "random",
+        "minRating":  57,
+        "minYear":  1980
+    },
+    {
+        "id":  "trakt-truestory-historical-tv-dramas-historical-tv-shows",
+        "title":  "Historical TV Dramas",
+        "url":  "brighteyes0812/lists/historical-tv-shows",
+        "catalogType":  "traktTv",
+        "traktSortBy":  "random",
+        "minRating":  57,
+        "minYear":  1980
+    },
+    {
+        "id":  "trakt-truestory-court-trial-dramas-courtroom-dramas",
+        "title":  "Court \u0026 Trial Dramas",
+        "url":  "majeed_pk/lists/courtroom-dramas",
+        "catalogType":  "traktMovie",
+        "traktSortBy":  "random",
+        "minRating":  57,
+        "minYear":  1980
+    },
+    {
+        "id":  "trakt-truestory-disaster-true-stories-disaster-films",
+        "title":  "Disaster True Stories",
+        "url":  "hammers-lists/lists/disaster-films",
+        "catalogType":  "traktMovie",
+        "traktSortBy":  "random",
+        "minRating":  57,
+        "minYear":  1980
+    },
+    {
+        "id":  "trakt-truestory-your-next-watch-true-story",
+        "title":  "Your Next Watch",
+        "url":  "rbyrn/lists/true-story",
+        "catalogType":  "traktMovie",
+        "traktSortBy":  "random",
+        "minRating":  57,
+        "minYear":  1980
+    }
+]
