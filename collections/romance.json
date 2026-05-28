@@ -144,10 +144,10 @@
     "minYear": 1990
   },
   {
-    "id": "trakt-romance-international-tv-dramas-british-crime-drama-tv-shows",
-    "title": "International TV Dramas",
-    "url": "maxtrontv/lists/british-crime-drama-tv-shows",
-    "catalogType": "traktTv",
+    "id": "trakt-romance-greatest-love-stories-afi-100-passions",
+    "title": "Greatest Love Stories",
+    "url": "sp1ti/lists/afi-s-100-years-100-passions-top-100-greatest-love-stories-in-american-cinema",
+    "catalogType": "traktMovie",
     "traktSortBy": "random",
     "minRating": 57,
     "minYear": 1990
