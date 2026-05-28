@@ -81,15 +81,6 @@
         "minYear":  1980
     },
     {
-        "id":  "trakt-british-british-gothic-horror-classic-british-gothic-horror",
-        "title":  "British Gothic Horror",
-        "url":  "majeed_pk/lists/classic-british-gothic-horror",
-        "catalogType":  "traktMovie",
-        "traktSortBy":  "random",
-        "minRating":  57,
-        "minYear":  1980
-    },
-    {
         "id":  "trakt-british-british-sitcoms-british-sitcoms",
         "title":  "British Sitcoms",
         "url":  "zx224/lists/british-sitcoms",
@@ -121,15 +112,6 @@
         "title":  "British Films",
         "url":  "sp1ti/lists/the-bfi-100-a-selection-of-the-favourite-british-films-of-the-20th-century",
         "catalogType":  "traktMovie",
-        "traktSortBy":  "random",
-        "minRating":  57,
-        "minYear":  1980
-    },
-    {
-        "id":  "trakt-british-royal-dramas-otakings-elite-anime-ova-watch-list-85-2000",
-        "title":  "Royal Dramas",
-        "url":  "hlindhe/lists/otakings-elite-anime-ova-watch-list-85-2000",
-        "catalogType":  "traktTv",
         "traktSortBy":  "random",
         "minRating":  57,
         "minYear":  1980
