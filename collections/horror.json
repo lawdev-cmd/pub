@@ -81,9 +81,9 @@
     "minYear": 1980
   },
   {
-    "id": "trakt-horror-found-footage-bbc-culture-s-100-greatest-foreign-language-films",
+    "id": "trakt-horror-found-footage-rotten-tomatoes-100-best-found-footage-movies",
     "title": "Found Footage",
-    "url": "majeed_pk/lists/bbc-culture-s-100-greatest-foreign-language-films",
+    "url": "lish408/lists/rotten-tomatoes-100-best-found-footage-movies",
     "catalogType": "traktMovie",
     "traktSortBy": "random",
     "minRating": 57,
@@ -108,9 +108,9 @@
     "minYear": 1980
   },
   {
-    "id": "trakt-horror-cult-horror-a-v-club-s-the-new-cult-canon",
-    "title": "Cult Horror",
-    "url": "sp1ti/lists/a-v-club-s-the-new-cult-canon",
+    "id": "trakt-horror-70s-cult-horror-70-s-cult-horror",
+    "title": "70s Cult Horror",
+    "url": "gabriel-syme/lists/70-s-cult-horror",
     "catalogType": "traktMovie",
     "traktSortBy": "random",
     "minRating": 57,
