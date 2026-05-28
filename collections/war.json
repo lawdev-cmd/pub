@@ -18,9 +18,9 @@
         "minYear":  1960
     },
     {
-        "id":  "trakt-war-war-tv-shows-star-wars-shows-series",
+        "id":  "trakt-war-war-tv-shows-war-movies-tv-documentaries",
         "title":  "War TV Shows",
-        "url":  "geekztor/lists/star-wars-shows-series",
+        "url":  "krissykk/lists/war-movies-tv-documentaries",
         "catalogType":  "traktTv",
         "traktSortBy":  "random",
         "minRating":  57,
