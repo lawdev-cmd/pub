@@ -82,7 +82,7 @@
   },
   {
     "id": "trakt-comedies-today-s-topics-for-you-comedy-shows",
-    "title": "Today's Topics for You",
+    "title": "Today's Top Picks for You",
     "url": "garycrawfordgc/lists/comedy-shows",
     "catalogType": "traktTv",
     "traktSortBy": "random",
