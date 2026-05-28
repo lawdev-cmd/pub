@@ -126,9 +126,9 @@
         "minYear":  1990
     },
     {
-        "id":  "trakt-documentary-awardwinning-docs-oscars-documentary-feature-1942-2023-winners-nominees",
+        "id":  "trakt-documentary-awardwinning-docs-bfi-s-top-100-documentary-films",
         "title":  "Award-Winning Docs",
-        "url":  "svktrakt/lists/oscars-documentary-feature-1942-2023-winners-nominees",
+        "url":  "majeed_pk/lists/bfi-s-top-100-documentary-films",
         "catalogType":  "traktMovie",
         "traktSortBy":  "random",
         "minRating":  57,
