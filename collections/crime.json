@@ -189,9 +189,9 @@
     "minYear": 1980
   },
   {
-    "id": "trakt-crime-international-tv-dramas-british-crime-drama-tv-shows",
+    "id": "trakt-crime-international-tv-dramas-foreign-tv-series",
     "title": "International TV Dramas",
-    "url": "maxtrontv/lists/british-crime-drama-tv-shows",
+    "url": "norman05/lists/foreign-tv-series",
     "catalogType": "traktTv",
     "traktSortBy": "random",
     "minRating": 57,
