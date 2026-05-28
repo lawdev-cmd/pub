@@ -1,0 +1,155 @@
+[
+    {
+        "id":  "trakt-documentary-best-documentaries-rotten-tomatoes-100-best-documentaries-ranked-by-tomatometer",
+        "title":  "Best Documentaries",
+        "url":  "istoit/lists/rotten-tomatoes-100-best-documentaries-ranked-by-tomatometer",
+        "catalogType":  "traktMovie",
+        "traktSortBy":  "random",
+        "minRating":  57,
+        "minYear":  1990
+    },
+    {
+        "id":  "trakt-documentary-documentary-series-documentary-series-reality-tv",
+        "title":  "Documentary Series",
+        "url":  "spigot666/lists/documentary-series-reality-tv",
+        "catalogType":  "traktTv",
+        "traktSortBy":  "random",
+        "minRating":  57,
+        "minYear":  1990
+    },
+    {
+        "id":  "trakt-documentary-true-crime-documentaries-true-crime-documentary-series-film",
+        "title":  "True Crime Documentaries",
+        "url":  "lish408/lists/true-crime-documentary-series-film",
+        "catalogType":  "traktTv",
+        "traktSortBy":  "random",
+        "minRating":  57,
+        "minYear":  1990
+    },
+    {
+        "id":  "trakt-documentary-nature-documentaries-imdb-popular-nature-documentaries",
+        "title":  "Nature Documentaries",
+        "url":  "lish408/lists/imdb-popular-nature-documentaries",
+        "catalogType":  "traktMovie",
+        "traktSortBy":  "random",
+        "minRating":  57,
+        "minYear":  1990
+    },
+    {
+        "id":  "trakt-documentary-music-documentaries-music-documentaries",
+        "title":  "Music Documentaries",
+        "url":  "zetetic23/lists/music-documentaries",
+        "catalogType":  "traktMovie",
+        "traktSortBy":  "random",
+        "minRating":  57,
+        "minYear":  1990
+    },
+    {
+        "id":  "trakt-documentary-sports-documentaries-sports-documentary-series-film",
+        "title":  "Sports Documentaries",
+        "url":  "lish408/lists/sports-documentary-series-film",
+        "catalogType":  "traktTv",
+        "traktSortBy":  "random",
+        "minRating":  57,
+        "minYear":  1990
+    },
+    {
+        "id":  "trakt-documentary-historical-documentaries-history-documentaries",
+        "title":  "Historical Documentaries",
+        "url":  "hammers-lists/lists/history-documentaries",
+        "catalogType":  "traktMovie",
+        "traktSortBy":  "random",
+        "minRating":  57,
+        "minYear":  1990
+    },
+    {
+        "id":  "trakt-documentary-science-documentaries-history-science-documentaries",
+        "title":  "Science Documentaries",
+        "url":  "cscott1/lists/history-science-documentaries",
+        "catalogType":  "traktMovie",
+        "traktSortBy":  "random",
+        "minRating":  57,
+        "minYear":  1990
+    },
+    {
+        "id":  "trakt-documentary-food-travel-docs-time-travel",
+        "title":  "Food \u0026 Travel Docs",
+        "url":  "vagnerr/lists/time-travel",
+        "catalogType":  "traktMovie",
+        "traktSortBy":  "random",
+        "minRating":  57,
+        "minYear":  1990
+    },
+    {
+        "id":  "trakt-documentary-biography-films-biographies",
+        "title":  "Biography Films",
+        "url":  "majeed_pk/lists/biographies",
+        "catalogType":  "traktMovie",
+        "traktSortBy":  "random",
+        "minRating":  57,
+        "minYear":  1990
+    },
+    {
+        "id":  "trakt-documentary-investigative-docs-detective-espionage-investigation-mystery-thriller",
+        "title":  "Investigative Docs",
+        "url":  "giuseppedr/lists/detective-espionage-investigation-mystery-thriller",
+        "catalogType":  "traktMovie",
+        "traktSortBy":  "random",
+        "minRating":  57,
+        "minYear":  1990
+    },
+    {
+        "id":  "trakt-documentary-environmental-docs-trapped-environment-thrillers",
+        "title":  "Environmental Docs",
+        "url":  "noahbolanowski/lists/trapped-environment-thrillers",
+        "catalogType":  "traktMovie",
+        "traktSortBy":  "random",
+        "minRating":  57,
+        "minYear":  1990
+    },
+    {
+        "id":  "trakt-documentary-cult-conspiracy-wikipedia-s-list-of-cult-films",
+        "title":  "Cult \u0026 Conspiracy",
+        "url":  "didzgreen/lists/wikipedia-s-list-of-cult-films",
+        "catalogType":  "traktMovie",
+        "traktSortBy":  "random",
+        "minRating":  57,
+        "minYear":  1990
+    },
+    {
+        "id":  "trakt-documentary-mindblowing-documentaries-best-mindfucks",
+        "title":  "Mind-Blowing Documentaries",
+        "url":  "benfranklin/lists/best-mindfucks",
+        "catalogType":  "traktMovie",
+        "traktSortBy":  "random",
+        "minRating":  57,
+        "minYear":  1990
+    },
+    {
+        "id":  "trakt-documentary-awardwinning-docs-oscars-documentary-feature-1942-2023-winners-nominees",
+        "title":  "Award-Winning Docs",
+        "url":  "svktrakt/lists/oscars-documentary-feature-1942-2023-winners-nominees",
+        "catalogType":  "traktMovie",
+        "traktSortBy":  "random",
+        "minRating":  57,
+        "minYear":  1990
+    },
+    {
+        "id":  "trakt-documentary-murder-mystery-docs-murder-mystery-movies",
+        "title":  "Murder \u0026 Mystery Docs",
+        "url":  "giladg/lists/murder-mystery-movies",
+        "catalogType":  "traktMovie",
+        "traktSortBy":  "random",
+        "minRating":  57,
+        "minYear":  1990
+    },
+    {
+        "id":  "trakt-documentary-tech-internet-documentary-tech",
+        "title":  "Tech \u0026 Internet",
+        "url":  "sonsie/lists/documentary-tech",
+        "catalogType":  "traktMovie",
+        "traktSortBy":  "random",
+        "minRating":  57,
+        "minYear":  1990
+    }
+]
