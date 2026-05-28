@@ -90,9 +90,9 @@
         "minYear":  1980
     },
     {
-        "id":  "trakt-hiddengems-cult-horror-70s-horror-cult",
-        "title":  "Cult Horror",
-        "url":  "marcelocastanheira/lists/70s-horror-cult",
+        "id":  "trakt-hiddengems-80s-cult-horror-top-50-best-80s-cult-horror-movies",
+        "title":  "80s Cult Horror",
+        "url":  "steveyboy2k14/lists/top-50-best-80s-cult-horror-movies",
         "catalogType":  "traktMovie",
         "traktSortBy":  "random",
         "minRating":  57,
@@ -108,9 +108,9 @@
         "minYear":  1980
     },
     {
-        "id":  "trakt-hiddengems-cult-action-quentin-tarantino-s-favorite-grindhouse-movies",
-        "title":  "Cult Action",
-        "url":  "sp1ti/lists/quentin-tarantino-s-favorite-grindhouse-movies",
+        "id":  "trakt-hiddengems-b-movies-b-movies-watch-list",
+        "title":  "B-Movies",
+        "url":  "galko/lists/b-movies-watch-list",
         "catalogType":  "traktMovie",
         "traktSortBy":  "random",
         "minRating":  57,
