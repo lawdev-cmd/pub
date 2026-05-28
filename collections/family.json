@@ -1,0 +1,164 @@
+[
+    {
+        "id":  "trakt-family-todays-top-picks-for-you-rotten-tomatoes-top-100-kids-family-movies",
+        "title":  "Today\u0027s Top Picks for You",
+        "url":  "giladg/lists/rotten-tomatoes-top-100-kids-family-movies",
+        "catalogType":  "traktMovie",
+        "traktSortBy":  "random",
+        "minRating":  57,
+        "minYear":  1990
+    },
+    {
+        "id":  "trakt-family-family-movies-family-movies-non-cartoon",
+        "title":  "Family Movies",
+        "url":  "deangib/lists/family-movies-non-cartoon",
+        "catalogType":  "traktMovie",
+        "traktSortBy":  "random",
+        "minRating":  57,
+        "minYear":  1990
+    },
+    {
+        "id":  "trakt-family-family-tv-shows-animation-family-tv-y-tv-g-designed-to-be-appropriate-for-all-children-und",
+        "title":  "Family TV Shows",
+        "url":  "krissykk/lists/animation-family-tv-y-tv-g-designed-to-be-appropriate-for-all-children-under-7",
+        "catalogType":  "traktTv",
+        "traktSortBy":  "random",
+        "minRating":  57,
+        "minYear":  1990
+    },
+    {
+        "id":  "trakt-family-kids-family-kids-family-watchlist",
+        "title":  "Kids \u0026 Family",
+        "url":  "sebastian-c-bell/lists/kids-family-watchlist",
+        "catalogType":  "traktMovie",
+        "traktSortBy":  "random",
+        "minRating":  57,
+        "minYear":  1990
+    },
+    {
+        "id":  "trakt-family-disney-movies-walt-disney-animated-feature-films",
+        "title":  "Disney Movies",
+        "url":  "movistapp/lists/walt-disney-animated-feature-films",
+        "catalogType":  "traktMovie",
+        "traktSortBy":  "random",
+        "minRating":  57,
+        "minYear":  1990
+    },
+    {
+        "id":  "trakt-family-pixar-picks-pixar-feature-films",
+        "title":  "Pixar Picks",
+        "url":  "draackje/lists/pixar-feature-films",
+        "catalogType":  "traktMovie",
+        "traktSortBy":  "random",
+        "minRating":  57,
+        "minYear":  1990
+    },
+    {
+        "id":  "trakt-family-family-adventures-family-adventures",
+        "title":  "Family Adventures",
+        "url":  "kingkearney/lists/family-adventures",
+        "catalogType":  "traktMovie",
+        "traktSortBy":  "random",
+        "minRating":  57,
+        "minYear":  1990
+    },
+    {
+        "id":  "trakt-family-family-comedies-1-family-action-comedy-drama-modern-g-pg",
+        "title":  "Family Comedies",
+        "url":  "steveocraig/lists/1-family-action-comedy-drama-modern-g-pg",
+        "catalogType":  "traktMovie",
+        "traktSortBy":  "random",
+        "minRating":  57,
+        "minYear":  1990
+    },
+    {
+        "id":  "trakt-family-family-fantasy-familyholidayfantasyadv",
+        "title":  "Family Fantasy",
+        "url":  "cryptocoders/lists/familyholidayfantasyadv",
+        "catalogType":  "traktMovie",
+        "traktSortBy":  "random",
+        "minRating":  57,
+        "minYear":  1990
+    },
+    {
+        "id":  "trakt-family-holiday-family-films-christmas",
+        "title":  "Holiday Family Films",
+        "url":  "outspoken/lists/christmas",
+        "catalogType":  "traktMovie",
+        "traktSortBy":  "random",
+        "minRating":  57,
+        "minYear":  1990
+    },
+    {
+        "id":  "trakt-family-classic-family-films-2-family-action-comedy-drama-classics-g-pg",
+        "title":  "Classic Family Films",
+        "url":  "steveocraig/lists/2-family-action-comedy-drama-classics-g-pg",
+        "catalogType":  "traktMovie",
+        "traktSortBy":  "random",
+        "minRating":  57,
+        "minYear":  1990
+    },
+    {
+        "id":  "trakt-family-awardwinning-family-imdb-s-top-family-movies",
+        "title":  "Award-Winning Family",
+        "url":  "irishstevo/lists/imdb-s-top-family-movies",
+        "catalogType":  "traktMovie",
+        "traktSortBy":  "random",
+        "minRating":  57,
+        "minYear":  1990
+    },
+    {
+        "id":  "trakt-family-coming-of-age-coming-of-age-movies",
+        "title":  "Coming of Age",
+        "url":  "canadutchy/lists/coming-of-age-movies",
+        "catalogType":  "traktMovie",
+        "traktSortBy":  "random",
+        "minRating":  57,
+        "minYear":  1990
+    },
+    {
+        "id":  "trakt-family-family-musicals-35-best-musical-movies-of-all-time",
+        "title":  "Family Musicals",
+        "url":  "majeed_pk/lists/35-best-musical-movies-of-all-time",
+        "catalogType":  "traktMovie",
+        "traktSortBy":  "random",
+        "minRating":  57,
+        "minYear":  1990
+    },
+    {
+        "id":  "trakt-family-family-scifi-family-sci-fi-fantasy",
+        "title":  "Family Sci-Fi",
+        "url":  "kingkearney/lists/family-sci-fi-fantasy",
+        "catalogType":  "traktMovie",
+        "traktSortBy":  "random",
+        "minRating":  57,
+        "minYear":  1990
+    },
+    {
+        "id":  "trakt-family-saturday-morning-cartoons-90s-cartoon-shows",
+        "title":  "Saturday Morning Cartoons",
+        "url":  "hammers-lists/lists/90s-cartoon-shows",
+        "catalogType":  "traktTv",
+        "traktSortBy":  "random",
+        "minRating":  57,
+        "minYear":  1990
+    },
+    {
+        "id":  "trakt-family-family-drama-family-dramas",
+        "title":  "Family Drama",
+        "url":  "kingkearney/lists/family-dramas",
+        "catalogType":  "traktMovie",
+        "traktSortBy":  "random",
+        "minRating":  57,
+        "minYear":  1990
+    },
+    {
+        "id":  "trakt-family-your-next-watch-kids",
+        "title":  "Your Next Watch",
+        "url":  "canconfirm/lists/kids",
+        "catalogType":  "traktMovie",
+        "traktSortBy":  "random",
+        "minRating":  57,
+        "minYear":  1990
+    }
+]
