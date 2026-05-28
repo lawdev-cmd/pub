@@ -1,0 +1,164 @@
+[
+    {
+        "id":  "trakt-classics-todays-top-picks-for-you-the-complete-criterion-collection",
+        "title":  "Today\u0027s Top Picks for You",
+        "url":  "twentywashere/lists/the-complete-criterion-collection",
+        "catalogType":  "traktMovie",
+        "traktSortBy":  "random",
+        "minRating":  57,
+        "minYear":  1930
+    },
+    {
+        "id":  "trakt-classics-mustwatch-classic-movies-must-watch-classic-movies",
+        "title":  "Must-Watch Classic Movies",
+        "url":  "gary-lydement/lists/must-watch-classic-movies",
+        "catalogType":  "traktMovie",
+        "traktSortBy":  "random",
+        "minRating":  57,
+        "minYear":  1930
+    },
+    {
+        "id":  "trakt-classics-afi-top-100-afi-s-100-years-100-movies-10th-anniversary-edition",
+        "title":  "AFI Top 100",
+        "url":  "sp1ti/lists/afi-s-100-years-100-movies-10th-anniversary-edition",
+        "catalogType":  "traktMovie",
+        "traktSortBy":  "random",
+        "minRating":  57,
+        "minYear":  1930
+    },
+    {
+        "id":  "trakt-classics-criterion-collection-criterion-collection",
+        "title":  "Criterion Collection",
+        "url":  "milmusicas/lists/criterion-collection",
+        "catalogType":  "traktMovie",
+        "traktSortBy":  "random",
+        "minRating":  57,
+        "minYear":  1930
+    },
+    {
+        "id":  "trakt-classics-golden-age-of-hollywood-hollywood-golden-age-classics",
+        "title":  "Golden Age of Hollywood",
+        "url":  "majeed_pk/lists/hollywood-golden-age-classics",
+        "catalogType":  "traktMovie",
+        "traktSortBy":  "random",
+        "minRating":  57,
+        "minYear":  1930
+    },
+    {
+        "id":  "trakt-classics-academy-award-winners-academy-awards-best-picture-winners",
+        "title":  "Academy Award Winners",
+        "url":  "thefork/lists/academy-awards-best-picture-winners",
+        "catalogType":  "traktMovie",
+        "traktSortBy":  "random",
+        "minRating":  57,
+        "minYear":  1930
+    },
+    {
+        "id":  "trakt-classics-classic-dramas-classic-dramas",
+        "title":  "Classic Dramas",
+        "url":  "kingkearney/lists/classic-dramas",
+        "catalogType":  "traktMovie",
+        "traktSortBy":  "random",
+        "minRating":  57,
+        "minYear":  1930
+    },
+    {
+        "id":  "trakt-classics-classic-comedies-classic-comedy-movies",
+        "title":  "Classic Comedies",
+        "url":  "joemarar/lists/classic-comedy-movies",
+        "catalogType":  "traktMovie",
+        "traktSortBy":  "random",
+        "minRating":  57,
+        "minYear":  1930
+    },
+    {
+        "id":  "trakt-classics-classic-thrillers-hitchcock",
+        "title":  "Classic Thrillers",
+        "url":  "movistapp/lists/hitchcock",
+        "catalogType":  "traktMovie",
+        "traktSortBy":  "random",
+        "minRating":  57,
+        "minYear":  1930
+    },
+    {
+        "id":  "trakt-classics-classic-westerns-classic-westerns",
+        "title":  "Classic Westerns",
+        "url":  "kingkearney/lists/classic-westerns",
+        "catalogType":  "traktMovie",
+        "traktSortBy":  "random",
+        "minRating":  57,
+        "minYear":  1930
+    },
+    {
+        "id":  "trakt-classics-classic-horror-classic-horror",
+        "title":  "Classic Horror",
+        "url":  "canadutchy/lists/classic-horror",
+        "catalogType":  "traktMovie",
+        "traktSortBy":  "random",
+        "minRating":  57,
+        "minYear":  1930
+    },
+    {
+        "id":  "trakt-classics-classic-scifi-classic-sci-fi",
+        "title":  "Classic Sci-Fi",
+        "url":  "tuesdaysgone5150/lists/classic-sci-fi",
+        "catalogType":  "traktMovie",
+        "traktSortBy":  "random",
+        "minRating":  57,
+        "minYear":  1930
+    },
+    {
+        "id":  "trakt-classics-classic-musicals-musical",
+        "title":  "Classic Musicals",
+        "url":  "jealad/lists/musical",
+        "catalogType":  "traktMovie",
+        "traktSortBy":  "random",
+        "minRating":  57,
+        "minYear":  1930
+    },
+    {
+        "id":  "trakt-classics-foreign-classics-directory-of-world-cinema-japan",
+        "title":  "Foreign Classics",
+        "url":  "sp1ti/lists/directory-of-world-cinema-japan",
+        "catalogType":  "traktMovie",
+        "traktSortBy":  "random",
+        "minRating":  57,
+        "minYear":  1930
+    },
+    {
+        "id":  "trakt-classics-japanese-cinema-akira-kurosawa-s-favorite-films",
+        "title":  "Japanese Cinema",
+        "url":  "sp1ti/lists/akira-kurosawa-s-favorite-films",
+        "catalogType":  "traktMovie",
+        "traktSortBy":  "random",
+        "minRating":  57,
+        "minYear":  1930
+    },
+    {
+        "id":  "trakt-classics-iconic-directors-martin-scorsese-s-world-cinema-project",
+        "title":  "Iconic Directors",
+        "url":  "majeed_pk/lists/martin-scorsese-s-world-cinema-project",
+        "catalogType":  "traktMovie",
+        "traktSortBy":  "random",
+        "minRating":  57,
+        "minYear":  1930
+    },
+    {
+        "id":  "trakt-classics-greatest-films-ever-100-greatest-sci-fi-movies",
+        "title":  "Greatest Films Ever",
+        "url":  "codermike/lists/100-greatest-sci-fi-movies",
+        "catalogType":  "traktMovie",
+        "traktSortBy":  "random",
+        "minRating":  57,
+        "minYear":  1930
+    },
+    {
+        "id":  "trakt-classics-your-next-watch-classics",
+        "title":  "Your Next Watch",
+        "url":  "jtucci/lists/classics",
+        "catalogType":  "traktMovie",
+        "traktSortBy":  "random",
+        "minRating":  57,
+        "minYear":  1930
+    }
+]
