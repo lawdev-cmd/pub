@@ -1,0 +1,164 @@
+[
+    {
+        "id":  "trakt-superhero-todays-top-picks-for-you-marvel-cinematic-universe",
+        "title":  "Today\u0027s Top Picks for You",
+        "url":  "donxy/lists/marvel-cinematic-universe",
+        "catalogType":  "traktMovie",
+        "traktSortBy":  "random",
+        "minRating":  57,
+        "minYear":  1990
+    },
+    {
+        "id":  "trakt-superhero-marvel-cinematic-universe-marvel-cinematic-universe-timeline",
+        "title":  "Marvel Cinematic Universe",
+        "url":  "geekritique/lists/marvel-cinematic-universe-timeline",
+        "catalogType":  "traktMovie",
+        "traktSortBy":  "random",
+        "minRating":  57,
+        "minYear":  1990
+    },
+    {
+        "id":  "trakt-superhero-dc-extended-universe-dc-universe-movies",
+        "title":  "DC Extended Universe",
+        "url":  "ljransom/lists/dc-universe-movies",
+        "catalogType":  "traktMovie",
+        "traktSortBy":  "random",
+        "minRating":  57,
+        "minYear":  1990
+    },
+    {
+        "id":  "trakt-superhero-superhero-movies-superhero-comic-book-movies-and-tv-shows",
+        "title":  "Superhero Movies",
+        "url":  "seriouspain/lists/superhero-comic-book-movies-and-tv-shows",
+        "catalogType":  "traktMovie",
+        "traktSortBy":  "random",
+        "minRating":  57,
+        "minYear":  1990
+    },
+    {
+        "id":  "trakt-superhero-superhero-tv-shows-live-action-superhero-tv",
+        "title":  "Superhero TV Shows",
+        "url":  "amohr/lists/live-action-superhero-tv",
+        "catalogType":  "traktTv",
+        "traktSortBy":  "random",
+        "minRating":  57,
+        "minYear":  1990
+    },
+    {
+        "id":  "trakt-superhero-marvel-movies-marvel",
+        "title":  "Marvel Movies",
+        "url":  "movistapp/lists/marvel",
+        "catalogType":  "traktMovie",
+        "traktSortBy":  "random",
+        "minRating":  57,
+        "minYear":  1990
+    },
+    {
+        "id":  "trakt-superhero-dc-movies-dc-animated",
+        "title":  "DC Movies",
+        "url":  "jinzulen/lists/dc-animated",
+        "catalogType":  "traktMovie",
+        "traktSortBy":  "random",
+        "minRating":  57,
+        "minYear":  1990
+    },
+    {
+        "id":  "trakt-superhero-marvel-tv-shows-marvel-tv",
+        "title":  "Marvel TV Shows",
+        "url":  "caspian024/lists/marvel-tv",
+        "catalogType":  "traktTv",
+        "traktSortBy":  "random",
+        "minRating":  57,
+        "minYear":  1990
+    },
+    {
+        "id":  "trakt-superhero-dc-tv-shows-dc-animated-series-universe",
+        "title":  "DC TV Shows",
+        "url":  "donxy/lists/dc-animated-series-universe",
+        "catalogType":  "traktTv",
+        "traktSortBy":  "random",
+        "minRating":  57,
+        "minYear":  1990
+    },
+    {
+        "id":  "trakt-superhero-comic-book-adaptations-marvel-dc-comic-adaptations",
+        "title":  "Comic Book Adaptations",
+        "url":  "benfranklin/lists/marvel-dc-comic-adaptations",
+        "catalogType":  "traktMovie",
+        "traktSortBy":  "random",
+        "minRating":  57,
+        "minYear":  1990
+    },
+    {
+        "id":  "trakt-superhero-marvel-dc-animated-marvel-dc-animated-movies",
+        "title":  "Marvel \u0026 DC Animated",
+        "url":  "benfranklin/lists/marvel-dc-animated-movies",
+        "catalogType":  "traktMovie",
+        "traktSortBy":  "random",
+        "minRating":  57,
+        "minYear":  1990
+    },
+    {
+        "id":  "trakt-superhero-xmen-universe-x-men-universe",
+        "title":  "X-Men Universe",
+        "url":  "donxy/lists/x-men-universe",
+        "catalogType":  "traktMovie",
+        "traktSortBy":  "random",
+        "minRating":  57,
+        "minYear":  1990
+    },
+    {
+        "id":  "trakt-superhero-spiderman-films-spiderman",
+        "title":  "Spider-Man Films",
+        "url":  "morgana1273/lists/spiderman",
+        "catalogType":  "traktMovie",
+        "traktSortBy":  "random",
+        "minRating":  57,
+        "minYear":  1990
+    },
+    {
+        "id":  "trakt-superhero-batman-universe-batman",
+        "title":  "Batman Universe",
+        "url":  "movistapp/lists/batman",
+        "catalogType":  "traktMovie",
+        "traktSortBy":  "random",
+        "minRating":  57,
+        "minYear":  1990
+    },
+    {
+        "id":  "trakt-superhero-avengers-saga-avengers",
+        "title":  "Avengers Saga",
+        "url":  "totes30/lists/avengers",
+        "catalogType":  "traktMovie",
+        "traktSortBy":  "random",
+        "minRating":  57,
+        "minYear":  1990
+    },
+    {
+        "id":  "trakt-superhero-antihero-stories-antiheros-and-antiheroines",
+        "title":  "Anti-Hero Stories",
+        "url":  "shana71/lists/antiheros-and-antiheroines",
+        "catalogType":  "traktMovie",
+        "traktSortBy":  "random",
+        "minRating":  57,
+        "minYear":  1990
+    },
+    {
+        "id":  "trakt-superhero-superhero-powers-superhero-powers",
+        "title":  "Superhero Powers",
+        "url":  "29zombies/lists/superhero-powers",
+        "catalogType":  "traktMovie",
+        "traktSortBy":  "random",
+        "minRating":  57,
+        "minYear":  1990
+    },
+    {
+        "id":  "trakt-superhero-your-next-watch-marvel-cinematic-universe",
+        "title":  "Your Next Watch",
+        "url":  "tetharion/lists/marvel-cinematic-universe",
+        "catalogType":  "traktMovie",
+        "traktSortBy":  "random",
+        "minRating":  57,
+        "minYear":  1990
+    }
+]
