@@ -106,7 +106,7 @@
   {
     "id": "trakt-comedy-movies",
     "title": "Need a Good Laugh?",
-    "url": "ljransom/lists/comedy-movies",
+    "url": "movistapp/lists/comedy",
     "catalogType": "traktMovie",
     "traktSortBy": "random"
   },
