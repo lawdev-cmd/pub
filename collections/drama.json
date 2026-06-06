@@ -36,15 +36,6 @@
     "minYear": 1970
   },
   {
-    "id": "trakt-dramas-sundance-film-festival-grand-jury-prize-dramatic-sundance-film-festival-grand-jury-prize-d",
-    "title": "Critically Acclaimed Dramas",
-    "url": "sp1ti/lists/sundance-film-festival-grand-jury-prize-dramatic",
-    "catalogType": "traktMovie",
-    "traktSortBy": "random",
-    "minRating": 57,
-    "minYear": 1970
-  },
-  {
     "id": "trakt-dramas-steamy-dramas-steamy-dramas",
     "title": "Passionate Dramas",
     "url": "marzipan-pie/lists/steamy-dramas",
