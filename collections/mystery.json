@@ -1,164 +1,74 @@
 [
-    {
-        "id":  "trakt-mystery-todays-top-picks-for-you-murder-mystery-movies",
-        "title":  "Today\u0027s Top Picks for You",
-        "url":  "giladg/lists/murder-mystery-movies",
-        "catalogType":  "traktMovie",
-        "traktSortBy":  "random",
-        "minRating":  57,
-        "minYear":  1980
-    },
-    {
-        "id":  "trakt-mystery-mystery-movies-hallmark-mystery-movies-list-1",
-        "title":  "Mystery Movies",
-        "url":  "norman05/lists/hallmark-mystery-movies-list-1",
-        "catalogType":  "traktMovie",
-        "traktSortBy":  "random",
-        "minRating":  57,
-        "minYear":  1980
-    },
-    {
-        "id":  "trakt-mystery-mystery-tv-shows-british-mystery-shows",
-        "title":  "Mystery TV Shows",
-        "url":  "shinykari/lists/british-mystery-shows",
-        "catalogType":  "traktTv",
-        "traktSortBy":  "random",
-        "minRating":  57,
-        "minYear":  1980
-    },
-    {
-        "id":  "trakt-mystery-detective-stories-detective-crime-series",
-        "title":  "Detective Stories",
-        "url":  "tiska82/lists/detective-crime-series",
-        "catalogType":  "traktTv",
-        "traktSortBy":  "random",
-        "minRating":  57,
-        "minYear":  1980
-    },
-    {
-        "id":  "trakt-mystery-british-detective-tv-british-detective-tv-series",
-        "title":  "British Detective TV",
-        "url":  "majeed_pk/lists/british-detective-tv-series",
-        "catalogType":  "traktTv",
-        "traktSortBy":  "random",
-        "minRating":  57,
-        "minYear":  1980
-    },
-    {
-        "id":  "trakt-mystery-whodunits-top-35-murder-mystery-films",
-        "title":  "Whodunits",
-        "url":  "mattblack_uk/lists/top-35-murder-mystery-films",
-        "catalogType":  "traktMovie",
-        "traktSortBy":  "random",
-        "minRating":  57,
-        "minYear":  1980
-    },
-    {
-        "id":  "trakt-mystery-cozy-mysteries-boofals-cozy-mystery-movies-mostly-hallmark",
-        "title":  "Cozy Mysteries",
-        "url":  "midnitewolf/lists/boofals-cozy-mystery-movies-mostly-hallmark",
-        "catalogType":  "traktMovie",
-        "traktSortBy":  "random",
-        "minRating":  57,
-        "minYear":  1980
-    },
-    {
-        "id":  "trakt-mystery-psychological-thrillers-psychological-thrillers",
-        "title":  "Psychological Thrillers",
-        "url":  "majeed_pk/lists/psychological-thrillers",
-        "catalogType":  "traktMovie",
-        "traktSortBy":  "random",
-        "minRating":  57,
-        "minYear":  1980
-    },
-    {
-        "id":  "trakt-mystery-crime-mysteries-crime-and-punishment-law-and-order-mystery-and-suspense-spy-vs-spy-thrille",
-        "title":  "Crime Mysteries",
-        "url":  "c-leong/lists/crime-and-punishment-law-and-order-mystery-and-suspense-spy-vs-spy-thriller",
-        "catalogType":  "traktMovie",
-        "traktSortBy":  "random",
-        "minRating":  57,
-        "minYear":  1980
-    },
-    {
-        "id":  "trakt-mystery-mystery-anthology-series-horror-and-science-fiction-anthology-series",
-        "title":  "Mystery Anthology Series",
-        "url":  "flapjack-fiasco/lists/horror-and-science-fiction-anthology-series",
-        "catalogType":  "traktTv",
-        "traktSortBy":  "random",
-        "minRating":  57,
-        "minYear":  1980
-    },
-    {
-        "id":  "trakt-mystery-agatha-christie-mysteries-author-agatha-christie-mysteries",
-        "title":  "Agatha Christie Mysteries",
-        "url":  "krissykk/lists/author-agatha-christie-mysteries",
-        "catalogType":  "traktMovie",
-        "traktSortBy":  "random",
-        "minRating":  57,
-        "minYear":  1980
-    },
-    {
-        "id":  "trakt-mystery-spy-espionage-spy-films-1465050",
-        "title":  "Spy \u0026 Espionage",
-        "url":  "donxy/lists/spy-films-1465050",
-        "catalogType":  "traktMovie",
-        "traktSortBy":  "random",
-        "minRating":  57,
-        "minYear":  1980
-    },
-    {
-        "id":  "trakt-mystery-conspiracy-thrillers-conspiracy-movies",
-        "title":  "Conspiracy Thrillers",
-        "url":  "kayaaron13/lists/conspiracy-movies",
-        "catalogType":  "traktMovie",
-        "traktSortBy":  "random",
-        "minRating":  57,
-        "minYear":  1980
-    },
-    {
-        "id":  "trakt-mystery-mystery-movies-based-on-books-erotic-movies-based-on-books",
-        "title":  "Mystery Movies Based on Books",
-        "url":  "amohr/lists/erotic-movies-based-on-books",
-        "catalogType":  "traktMovie",
-        "traktSortBy":  "random",
-        "minRating":  57,
-        "minYear":  1980
-    },
-    {
-        "id":  "trakt-mystery-suspense-thrillers-best-suspense-thriller-movies",
-        "title":  "Suspense Thrillers",
-        "url":  "majeed_pk/lists/best-suspense-thriller-movies",
-        "catalogType":  "traktMovie",
-        "traktSortBy":  "random",
-        "minRating":  57,
-        "minYear":  1980
-    },
-    {
-        "id":  "trakt-mystery-critically-acclaimed-mysteries-imdb-s-top-mystery-movies",
-        "title":  "Critically Acclaimed Mysteries",
-        "url":  "irishstevo/lists/imdb-s-top-mystery-movies",
-        "catalogType":  "traktMovie",
-        "traktSortBy":  "random",
-        "minRating":  57,
-        "minYear":  1980
-    },
-    {
-        "id":  "trakt-mystery-mindbending-mysteries-best-mindfucks",
-        "title":  "Mind-Bending Mysteries",
-        "url":  "benfranklin/lists/best-mindfucks",
-        "catalogType":  "traktMovie",
-        "traktSortBy":  "random",
-        "minRating":  57,
-        "minYear":  1980
-    },
-    {
-        "id":  "trakt-mystery-your-next-watch-mystery",
-        "title":  "Your Next Watch",
-        "url":  "movistapp/lists/mystery",
-        "catalogType":  "traktMovie",
-        "traktSortBy":  "random",
-        "minRating":  57,
-        "minYear":  1980
-    }
+  {
+    "id": "trakt-mystery-murder-mystery-movies-murder-mystery-movies",
+    "title": "Murder Mysteries",
+    "url": "giladg/lists/murder-mystery-movies",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1980
+  },
+  {
+    "id": "trakt-mystery-mystery-mystery",
+    "title": "Today's Top Picks for You",
+    "url": "movistapp/lists/mystery",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1980
+  },
+  {
+    "id": "trakt-mystery-horrormysterythriller-watchlist-horror-mystery-thriller-watchlist",
+    "title": "Mystery Thrillers",
+    "url": "donxy/lists/horror-mystery-thriller-watchlist",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1980
+  },
+  {
+    "id": "trakt-mystery-twisted-mystery-horror-twisted-mystery-horror",
+    "title": "Dark Mysteries",
+    "url": "ravynloony/lists/twisted-mystery-horror",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1980
+  },
+  {
+    "id": "trakt-mystery-twenty-first-century-noir-twenty-first-century-noir",
+    "title": "Noir Films",
+    "url": "majeed_pk/lists/twenty-first-century-noir",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1980
+  },
+  {
+    "id": "trakt-mystery-genre-mystery-1000-titles-1970-2013-genre-mystery-1000-titles-1970-2013",
+    "title": "Classic Mysteries",
+    "url": "xilfneps/lists/genre-mystery-1000-titles-1970-2013",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1980
+  },
+  {
+    "id": "trakt-mystery-ontological-mystery-ontological-mystery",
+    "title": "Mind-Bending Mysteries",
+    "url": "twentywashere/lists/ontological-mystery",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1980
+  },
+  {
+    "id": "trakt-mystery-mystery-106-picks-mystery",
+    "title": "Your Next Watch",
+    "url": "jtucci/lists/mystery",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1980
+  }
 ]
