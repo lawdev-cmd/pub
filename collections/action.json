@@ -1,7 +1,7 @@
 [
   {
-    "id": "trakt-action-todays-top-picks-for-you-action",
-    "title": "Today's Top Picks for You",
+    "id": "trakt-action-action-action",
+    "title": "Action",
     "url": "movistapp/lists/action",
     "catalogType": "traktMovie",
     "traktSortBy": "random",
@@ -9,8 +9,8 @@
     "minYear": 1980
   },
   {
-    "id": "trakt-action-action-movies-action-shooter-movies",
-    "title": "Action Movies",
+    "id": "trakt-action-actionshooter-movies-action-shooter-movies",
+    "title": "Action/Shooter Movies",
     "url": "ricksanchez/lists/action-shooter-movies",
     "catalogType": "traktMovie",
     "traktSortBy": "random",
@@ -18,8 +18,8 @@
     "minYear": 1980
   },
   {
-    "id": "trakt-action-action-tv-shows-action-tv",
-    "title": "Action TV Shows",
+    "id": "trakt-action-action-tv-action-tv",
+    "title": "Action TV",
     "url": "caspian024/lists/action-tv",
     "catalogType": "traktTv",
     "traktSortBy": "random",
@@ -36,8 +36,8 @@
     "minYear": 1980
   },
   {
-    "id": "trakt-action-martial-arts-asian-martial-arts",
-    "title": "Martial Arts",
+    "id": "trakt-action-asian-martial-arts-asian-martial-arts",
+    "title": "Asian Martial Arts",
     "url": "hammers-lists/lists/asian-martial-arts",
     "catalogType": "traktMovie",
     "traktSortBy": "random",
@@ -45,17 +45,17 @@
     "minYear": 1980
   },
   {
-    "id": "trakt-action-action-disney-live-action-movies",
-    "title": "Action",
-    "url": "donxy/lists/disney-live-action-movies",
+    "id": "trakt-action-kung-fu-kung-fu",
+    "title": "KUNG FU",
+    "url": "canconfirm/lists/kung-fu",
     "catalogType": "traktMovie",
     "traktSortBy": "random",
     "minRating": 57,
     "minYear": 1980
   },
   {
-    "id": "trakt-action-spy--espionage-action-spy-films-1465050",
-    "title": "Spy & Espionage Action",
+    "id": "trakt-action-spy-films-spy-films-1465050",
+    "title": "Spy films",
     "url": "donxy/lists/spy-films-1465050",
     "catalogType": "traktMovie",
     "traktSortBy": "random",
@@ -63,8 +63,8 @@
     "minYear": 1980
   },
   {
-    "id": "trakt-action-heist--robbery-con-artist-heist",
-    "title": "Heist & Robbery",
+    "id": "trakt-action-con-artistheist-con-artist-heist",
+    "title": "Con-Artist/Heist",
     "url": "29zombies/lists/con-artist-heist",
     "catalogType": "traktMovie",
     "traktSortBy": "random",
@@ -72,17 +72,26 @@
     "minYear": 1980
   },
   {
-    "id": "trakt-action-director-john-carpenter-director-john-carpenter",
-    "title": "Director: John Carpenter",
-    "url": "origin14/lists/director-john-carpenter",
+    "id": "trakt-action-disney-live-action-movies-disney-live-action-movies",
+    "title": "Disney Live-Action Movies",
+    "url": "donxy/lists/disney-live-action-movies",
     "catalogType": "traktMovie",
     "traktSortBy": "random",
     "minRating": 57,
     "minYear": 1980
   },
   {
-    "id": "trakt-action-revenge-films-revenge",
-    "title": "Revenge Films",
+    "id": "trakt-action-hollywood-martial-arts-hollywood-martial-arts",
+    "title": "Hollywood Martial Arts",
+    "url": "hammers-lists/lists/hollywood-martial-arts",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1980
+  },
+  {
+    "id": "trakt-action-revenge-revenge",
+    "title": "Revenge",
     "url": "jtucci/lists/revenge",
     "catalogType": "traktMovie",
     "traktSortBy": "random",
@@ -90,8 +99,8 @@
     "minYear": 1980
   },
   {
-    "id": "trakt-action-1980s-action-action-80s-style",
-    "title": "1980s Action",
+    "id": "trakt-action-action-80s-style-action-80s-style",
+    "title": "Action 80s Style",
     "url": "marcelocastanheira/lists/action-80s-style",
     "catalogType": "traktMovie",
     "traktSortBy": "random",
@@ -100,7 +109,7 @@
   },
   {
     "id": "trakt-action-trakt-movie---decade-1990s-trakt-movie-decade-1990s",
-    "title": "Trakt: Movie - Decade: 1990s",
+    "title": "Movie - Decade: 1990s",
     "url": "felix66/lists/trakt-movie-decade-1990s",
     "catalogType": "traktMovie",
     "traktSortBy": "random",
@@ -117,8 +126,8 @@
     "minYear": 1980
   },
   {
-    "id": "trakt-action-action-thrillers-action-thriller-not-on-netflix-prime",
-    "title": "Action Thrillers",
+    "id": "trakt-action-action-thriller-not-on-netflixprime-action-thriller-not-on-netflix-prime",
+    "title": "Action-Thriller NOT on Netflix/Prime",
     "url": "amazing-journey/lists/action-thriller-not-on-netflix-prime",
     "catalogType": "traktMovie",
     "traktSortBy": "random",
@@ -135,8 +144,8 @@
     "minYear": 1980
   },
   {
-    "id": "trakt-action-superhero-action-marvel-cinematic-universe",
-    "title": "Superhero Action",
+    "id": "trakt-action-marvel-cinematic-universe-marvel-cinematic-universe",
+    "title": "MARVEL Cinematic Universe",
     "url": "donxy/lists/marvel-cinematic-universe",
     "catalogType": "traktMovie",
     "traktSortBy": "random",
@@ -153,8 +162,17 @@
     "minYear": 1980
   },
   {
-    "id": "trakt-action-survival-action-survival-horror",
-    "title": "Survival Action",
+    "id": "trakt-action-gun-fu--shootouts-martial-arts-the-top-250-greatest-movies-of-all-time",
+    "title": "Gun-Fu & Shootouts",
+    "url": "majeed_pk/lists/martial-arts-the-top-250-greatest-movies-of-all-time",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1980
+  },
+  {
+    "id": "trakt-action-survival-horror-survival-horror",
+    "title": "Survival Horror",
     "url": "ravynloony/lists/survival-horror",
     "catalogType": "traktMovie",
     "traktSortBy": "random",
@@ -162,8 +180,8 @@
     "minYear": 1980
   },
   {
-    "id": "trakt-action-your-next-watch-disney-live-action-movies",
-    "title": "Your Next Watch",
+    "id": "trakt-action-disney-live-action-movies-disney-live-action-movies",
+    "title": "Disney Live Action Movies",
     "url": "ricksanchez/lists/disney-live-action-movies",
     "catalogType": "traktMovie",
     "traktSortBy": "random",
