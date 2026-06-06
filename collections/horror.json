@@ -1,182 +1,452 @@
 [
   {
-    "id": "trakt-horror-today-s-topics-for-you-rotten-tomatoes-best-horror-movies-of-all-time",
+    "id": "trakt-holiday-christmas-movies-christmas-movies",
     "title": "Today's Top Picks for You",
-    "url": "lish408/lists/rotten-tomatoes-best-horror-movies-of-all-time",
+    "url": "movistapp/lists/christmas-movies",
     "catalogType": "traktMovie",
     "traktSortBy": "random",
     "minRating": 57,
-    "minYear": 1980
+    "minYear": 1970
   },
   {
-    "id": "trakt-horror-critically-acclaimed-horror-horror",
-    "title": "Critically Acclaimed Horror",
-    "url": "garycrawfordgc/lists/horror",
+    "id": "trakt-holiday-hallmark-christmas-hallmark-christmas",
+    "title": "Hallmark Christmas",
+    "url": "ad76/lists/hallmark-christmas",
     "catalogType": "traktMovie",
     "traktSortBy": "random",
     "minRating": 57,
-    "minYear": 1980
+    "minYear": 1970
   },
   {
-    "id": "trakt-horror-horror-movies-horror",
-    "title": "Horror Movies",
-    "url": "movistapp/lists/horror",
+    "id": "trakt-holiday-rotten-tomatoes-the-best-christmas-movies-of-all-time-rotten-tomatoes-the-best-christmas-m",
+    "title": "Christmas Classics",
+    "url": "lish408/lists/rotten-tomatoes-the-best-christmas-movies-of-all-time",
     "catalogType": "traktMovie",
     "traktSortBy": "random",
     "minRating": 57,
-    "minYear": 1980
+    "minYear": 1970
   },
   {
-    "id": "trakt-horror-classic-horror-horror",
-    "title": "Classic Horror",
-    "url": "hammers-lists/lists/horror",
+    "id": "trakt-holiday-hallmark-movies-hallmark-movies",
+    "title": "Hallmark Movies",
+    "url": "ad76/lists/hallmark-movies",
     "catalogType": "traktMovie",
     "traktSortBy": "random",
     "minRating": 57,
-    "minYear": 1980
+    "minYear": 1970
   },
   {
-    "id": "trakt-horror-slasher-movies-horror-1274158",
-    "title": "Slasher Movies",
-    "url": "donxy/lists/horror-1274158",
+    "id": "trakt-holiday-holiday-special-holiday-special",
+    "title": "Holiday Specials",
+    "url": "canconfirm/lists/holiday-special",
     "catalogType": "traktMovie",
     "traktSortBy": "random",
     "minRating": 57,
-    "minYear": 1980
+    "minYear": 1970
   },
   {
-    "id": "trakt-horror-supernatural-horror-80s-horror",
-    "title": "Supernatural Horror",
-    "url": "canadutchy/lists/80s-horror",
+    "id": "trakt-holiday-hallmark-mysteries-hallmark-mysteries",
+    "title": "Hallmark Mysteries",
+    "url": "ad76/lists/hallmark-mysteries",
     "catalogType": "traktMovie",
     "traktSortBy": "random",
     "minRating": 57,
-    "minYear": 1980
+    "minYear": 1970
   },
   {
-    "id": "trakt-horror-psychological-horror-zombies",
-    "title": "Psychological Horror",
-    "url": "29zombies/lists/zombies",
+    "id": "trakt-holiday-family-halloween-family-halloween",
+    "title": "Family Halloween",
+    "url": "donxy/lists/family-halloween",
     "catalogType": "traktMovie",
     "traktSortBy": "random",
     "minRating": 57,
-    "minYear": 1980
+    "minYear": 1970
   },
   {
-    "id": "trakt-horror-zombie-movies-ranker-top-zombie-movies",
-    "title": "Zombie Movies",
-    "url": "kayaaron13/lists/ranker-top-zombie-movies",
+    "id": "trakt-holiday-christmas-x-mas-holiday-movies-christmas-x-mas-holiday-movies",
+    "title": "Christmas Holiday Films",
+    "url": "benfranklin/lists/christmas-x-mas-holiday-movies",
     "catalogType": "traktMovie",
     "traktSortBy": "random",
     "minRating": 57,
-    "minYear": 1980
+    "minYear": 1970
   },
   {
-    "id": "trakt-horror-vampire-movies-vampire-movies",
-    "title": "Vampire Movies",
-    "url": "coldkeys/lists/vampire-movies",
+    "id": "trakt-holiday-christmas-movies-713-picks-christmas-movies",
+    "title": "Christmas Movie Collection",
+    "url": "del74/lists/christmas-movies",
     "catalogType": "traktMovie",
     "traktSortBy": "random",
     "minRating": 57,
-    "minYear": 1980
+    "minYear": 1970
   },
   {
-    "id": "trakt-horror-found-footage-rotten-tomatoes-100-best-found-footage-movies",
-    "title": "Found Footage",
-    "url": "lish408/lists/rotten-tomatoes-100-best-found-footage-movies",
+    "id": "trakt-holiday-halloween-movies-halloween-movies",
+    "title": "Halloween Movies",
+    "url": "movistapp/lists/halloween-movies",
     "catalogType": "traktMovie",
     "traktSortBy": "random",
     "minRating": 57,
-    "minYear": 1980
+    "minYear": 1970
   },
   {
-    "id": "trakt-horror-horror-tv-shows-horror-shows",
-    "title": "Horror TV Shows",
-    "url": "garycrawfordgc/lists/horror-shows",
+    "id": "trakt-holiday-hallmark-2024---christmas-movies-shows-hallmark-2024-christmas-movies-shows",
+    "title": "Hallmark 2024 Holiday",
+    "url": "crossoverenserie/lists/hallmark-2024-christmas-movies-shows",
     "catalogType": "traktTv",
     "traktSortBy": "random",
     "minRating": 57,
-    "minYear": 1980
+    "minYear": 1970
   },
   {
-    "id": "trakt-horror-anthology-horror-popular-horror",
-    "title": "Anthology Horror",
-    "url": "lish408/lists/popular-horror",
+    "id": "trakt-holiday-christmas-episodes-christmas-episodes",
+    "title": "Christmas Episodes",
+    "url": "philrivers/lists/christmas-episodes",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1970
+  },
+  {
+    "id": "trakt-holiday-hallmark-movies-669-picks-hallmark-movies",
+    "title": "Hallmark Collection",
+    "url": "mattm382/lists/hallmark-movies",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1970
+  },
+  {
+    "id": "trakt-holiday-christmas-christmas",
+    "title": "Christmas Favorites",
+    "url": "zubiaks/lists/christmas",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1970
+  },
+  {
+    "id": "trakt-holiday-halloween-halloween",
+    "title": "Halloween Favorites",
+    "url": "29zombies/lists/halloween",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1970
+  },
+  {
+    "id": "trakt-holiday-christmas-478-picks-christmas",
+    "title": "Christmas Essentials",
+    "url": "madmapper/lists/christmas",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1970
+  },
+  {
+    "id": "trakt-holiday-hallmark-christmas---2023-hallmark-christmas-2023",
+    "title": "Hallmark Christmas 2023",
+    "url": "crossoverenserie/lists/hallmark-christmas-2023",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1970
+  },
+  {
+    "id": "trakt-holiday-hallmark-movies---2023-hallmark-movies-2023",
+    "title": "Hallmark Movies 2023",
+    "url": "crossoverenserie/lists/hallmark-movies-2023",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1970
+  },
+  {
+    "id": "trakt-holiday-halloween-horror-halloween-horror-b2a01bb2-898f-45c0-9a3c-14d801e8627a",
+    "title": "Halloween Horror",
+    "url": "donxy/lists/halloween-horror-b2a01bb2-898f-45c0-9a3c-14d801e8627a",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1970
+  },
+  {
+    "id": "trakt-holiday-lifetime-christmas-lifetime-christmas",
+    "title": "Lifetime Christmas",
+    "url": "ad76/lists/lifetime-christmas",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1970
+  },
+  {
+    "id": "trakt-holiday-hallmark-2024---movies-shows-hallmark-2024-movies-shows",
+    "title": "Hallmark 2024",
+    "url": "crossoverenserie/lists/hallmark-2024-movies-shows",
     "catalogType": "traktTv",
     "traktSortBy": "random",
     "minRating": 57,
-    "minYear": 1980
+    "minYear": 1970
   },
   {
-    "id": "trakt-horror-70s-cult-horror-70-s-cult-horror",
-    "title": "70s Cult Horror",
-    "url": "gabriel-syme/lists/70-s-cult-horror",
+    "id": "trakt-holiday-christmas-movies-320-picks-christmas-movies",
+    "title": "More Christmas Movies",
+    "url": "29zombies/lists/christmas-movies",
     "catalogType": "traktMovie",
     "traktSortBy": "random",
     "minRating": 57,
-    "minYear": 1980
+    "minYear": 1970
   },
   {
-    "id": "trakt-horror-body-horror-david-cronenberg",
-    "title": "Body Horror",
-    "url": "caspian024/lists/david-cronenberg",
+    "id": "trakt-holiday-hallmark-2025---christmas-movies-shows-hallmark-2025-christmas-movies-shows",
+    "title": "Hallmark 2025 Holiday",
+    "url": "crossoverenserie/lists/hallmark-2025-christmas-movies-shows",
+    "catalogType": "traktTv",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1970
+  },
+  {
+    "id": "trakt-holiday-classical-halloween-classical-halloween",
+    "title": "Classic Halloween",
+    "url": "donxy/lists/classical-halloween",
     "catalogType": "traktMovie",
     "traktSortBy": "random",
     "minRating": 57,
-    "minYear": 1980
+    "minYear": 1970
   },
   {
-    "id": "trakt-horror-monster-movies-creature-features",
-    "title": "Monster Movies",
-    "url": "canadutchy/lists/creature-features",
+    "id": "trakt-holiday-hallmark-2025---movies-shows-hallmark-2025-movies-shows",
+    "title": "Hallmark 2025",
+    "url": "crossoverenserie/lists/hallmark-2025-movies-shows",
+    "catalogType": "traktTv",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1970
+  },
+  {
+    "id": "trakt-holiday-hallmark-christmas---2022-hallmark-christmas-2022",
+    "title": "Hallmark Christmas 2022",
+    "url": "crossoverenserie/lists/hallmark-christmas-2022",
     "catalogType": "traktMovie",
     "traktSortBy": "random",
     "minRating": 57,
-    "minYear": 1980
+    "minYear": 1970
   },
   {
-    "id": "trakt-horror-gems-for-you-horror-movies",
-    "title": "Gems for You",
-    "url": "maxtrontv/lists/horror-movies",
+    "id": "trakt-holiday-a-bit-less-scary-halloween-a-bit-less-scary-halloween",
+    "title": "Family-Friendly Halloween",
+    "url": "donxy/lists/a-bit-less-scary-halloween",
     "catalogType": "traktMovie",
     "traktSortBy": "random",
     "minRating": 57,
-    "minYear": 1980
+    "minYear": 1970
   },
   {
-    "id": "trakt-horror-your-next-watch-imdb-s-top-horror-movies",
+    "id": "trakt-holiday-imdb-popular-christmas-horror-imdb-popular-christmas-horror",
+    "title": "Christmas Horror",
+    "url": "lish408/lists/imdb-popular-christmas-horror",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1970
+  },
+  {
+    "id": "trakt-holiday-halloween-441-picks-halloween",
+    "title": "Halloween Collection",
+    "url": "madmapper/lists/halloween",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1970
+  },
+  {
+    "id": "trakt-holiday-christmas-249-picks-christmas",
+    "title": "Christmas Picks",
+    "url": "ad76/lists/christmas",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1970
+  },
+  {
+    "id": "trakt-holiday-hallmark-mystery-movies-hallmark-mystery-movies",
+    "title": "Hallmark Mystery Films",
+    "url": "crossoverenserie/lists/hallmark-mystery-movies",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1970
+  },
+  {
+    "id": "trakt-holiday-halloween-tv-episodes-halloween-tv-episodes",
+    "title": "Halloween TV Episodes",
+    "url": "philrivers/lists/halloween-tv-episodes",
+    "catalogType": "traktTv",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1970
+  },
+  {
+    "id": "trakt-holiday-christmas-movies-437-picks-christmas-movies",
+    "title": "Christmas Films",
+    "url": "pauls67/lists/christmas-movies",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1970
+  },
+  {
+    "id": "trakt-holiday-imdb-popular-christmas-holiday-animation-imdb-popular-christmas-holiday-animation",
+    "title": "Animated Holiday Films",
+    "url": "lish408/lists/imdb-popular-christmas-holiday-animation",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1970
+  },
+  {
+    "id": "trakt-holiday-christmas-movies-84-picks-christmas-movies",
+    "title": "Christmas Gems",
+    "url": "philrivers/lists/christmas-movies",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1970
+  },
+  {
+    "id": "trakt-holiday-hallmark-hallmark",
+    "title": "Hallmark Channel",
+    "url": "billy-shakes/lists/hallmark",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1970
+  },
+  {
+    "id": "trakt-holiday-christmas-movies-47-picks-christmas-movies",
+    "title": "Cozy Christmas Films",
+    "url": "jtucci/lists/christmas-movies",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1970
+  },
+  {
+    "id": "trakt-holiday-hallmark-shows-hallmark-shows",
+    "title": "Hallmark TV Shows",
+    "url": "crossoverenserie/lists/hallmark-shows",
+    "catalogType": "traktTv",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1970
+  },
+  {
+    "id": "trakt-holiday-lifetime-christmas---2023-lifetime-christmas-2023",
+    "title": "Lifetime Christmas 2023",
+    "url": "crossoverenserie/lists/lifetime-christmas-2023",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1970
+  },
+  {
+    "id": "trakt-holiday-lifetime-christmas---2022-lifetime-christmas-2022",
+    "title": "Lifetime Christmas 2022",
+    "url": "crossoverenserie/lists/lifetime-christmas-2022",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1970
+  },
+  {
+    "id": "trakt-holiday-other-christmas---2022-other-christmas-2022",
+    "title": "Holiday Films 2022",
+    "url": "crossoverenserie/lists/other-christmas-2022",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1970
+  },
+  {
+    "id": "trakt-holiday-thanksgiving-tv-episodes-thanksgiving-tv-episodes",
+    "title": "Thanksgiving Episodes",
+    "url": "philrivers/lists/thanksgiving-tv-episodes",
+    "catalogType": "traktTv",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1970
+  },
+  {
+    "id": "trakt-holiday-imdb-movies-tagged-with-christmas-imdb-movies-tagged-with-christmas",
+    "title": "Christmas Tagged Films",
+    "url": "lish408/lists/imdb-movies-tagged-with-christmas",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1970
+  },
+  {
+    "id": "trakt-holiday-october-2018-halloween-movies-31daysofhalloween-october-2018-halloween-movies-31daysofhall",
+    "title": "October Halloween Marathon",
+    "url": "philrivers/lists/october-2018-halloween-movies-31daysofhalloween",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1970
+  },
+  {
+    "id": "trakt-holiday-from-pyscho-to-halloween-pre-1980s-slashers-from-pyscho-to-halloween-pre-1980s-slashers",
+    "title": "Classic Slashers",
+    "url": "twentywashere/lists/from-pyscho-to-halloween-pre-1980s-slashers",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1970
+  },
+  {
+    "id": "trakt-holiday-halloween-films-halloween-films",
+    "title": "Halloween Films",
+    "url": "arachn0id/lists/halloween-films",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1970
+  },
+  {
+    "id": "trakt-holiday-hallmark-mysteries-190-picks-hallmark-mysteries",
+    "title": "Hallmark Mystery Collection",
+    "url": "billy-shakes/lists/hallmark-mysteries",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1970
+  },
+  {
+    "id": "trakt-holiday-hallmark-christmas---2021-hallmark-christmas-2021",
+    "title": "Hallmark Christmas 2021",
+    "url": "crossoverenserie/lists/hallmark-christmas-2021",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1970
+  },
+  {
+    "id": "trakt-holiday-october-2017-halloween-movies-31daysofhalloween-october-2017-halloween-movies-31daysofhall",
+    "title": "October Horror Marathon",
+    "url": "philrivers/lists/october-2017-halloween-movies-31daysofhalloween",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1970
+  },
+  {
+    "id": "trakt-holiday-lifetime-christmas---2021-lifetime-christmas-2021",
     "title": "Your Next Watch",
-    "url": "irishstevo/lists/imdb-s-top-horror-movies",
+    "url": "crossoverenserie/lists/lifetime-christmas-2021",
     "catalogType": "traktMovie",
     "traktSortBy": "random",
     "minRating": 57,
-    "minYear": 1980
-  },
-  {
-    "id": "trakt-horror-horror-comedies-comedy-horror-movies",
-    "title": "Horror Comedies",
-    "url": "kayaaron13/lists/comedy-horror-movies",
-    "catalogType": "traktMovie",
-    "traktSortBy": "random",
-    "minRating": 57,
-    "minYear": 1980
-  },
-  {
-    "id": "trakt-horror-foreign-horror-bbc-culture-s-100-greatest-foreign-language-films",
-    "title": "Foreign Horror",
-    "url": "zimanazly/lists/bbc-culture-s-100-greatest-foreign-language-films",
-    "catalogType": "traktMovie",
-    "traktSortBy": "random",
-    "minRating": 57,
-    "minYear": 1980
-  },
-  {
-    "id": "trakt-horror-horror-anthologies-franchises-horror-movies",
-    "title": "Horror Anthologies & Franchises",
-    "url": "caspian024/lists/horror-movies",
-    "catalogType": "traktMovie",
-    "traktSortBy": "random",
-    "minRating": 57,
-    "minYear": 1980
+    "minYear": 1970
   }
 ]
