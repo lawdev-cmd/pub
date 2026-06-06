@@ -1,173 +1,254 @@
 [
-    {
-        "id":  "trakt-foreign-todays-top-picks-for-you-foreign-films",
-        "title":  "Today\u0027s Top Picks for You",
-        "url":  "majeed_pk/lists/foreign-films",
-        "catalogType":  "traktMovie",
-        "traktSortBy":  "random",
-        "minRating":  57,
-        "minYear":  1960
-    },
-    {
-        "id":  "trakt-foreign-best-foreign-language-films-bbc-culture-s-100-greatest-foreign-language-films",
-        "title":  "Best Foreign Language Films",
-        "url":  "majeed_pk/lists/bbc-culture-s-100-greatest-foreign-language-films",
-        "catalogType":  "traktMovie",
-        "traktSortBy":  "random",
-        "minRating":  57,
-        "minYear":  1960
-    },
-    {
-        "id":  "trakt-foreign-international-tv-dramas-best-worldwide-apocalyptic-pandemic-zombie-tv-shows",
-        "title":  "International TV Dramas",
-        "url":  "turkkildare/lists/best-worldwide-apocalyptic-pandemic-zombie-tv-shows",
-        "catalogType":  "traktTv",
-        "traktSortBy":  "random",
-        "minRating":  57,
-        "minYear":  1960
-    },
-    {
-        "id":  "trakt-foreign-korean-films-korean-movies",
-        "title":  "Korean Films",
-        "url":  "c858/lists/korean-movies",
-        "catalogType":  "traktMovie",
-        "traktSortBy":  "random",
-        "minRating":  57,
-        "minYear":  1960
-    },
-    {
-        "id":  "trakt-foreign-kdramas-k-drama",
-        "title":  "K-Dramas",
-        "url":  "nhudad/lists/k-drama",
-        "catalogType":  "traktTv",
-        "traktSortBy":  "random",
-        "minRating":  57,
-        "minYear":  1960
-    },
-    {
-        "id":  "trakt-foreign-japanese-films-charts-top-japanese-movies",
-        "title":  "Japanese Films",
-        "url":  "mraniki/lists/charts-top-japanese-movies",
-        "catalogType":  "traktMovie",
-        "traktSortBy":  "random",
-        "minRating":  57,
-        "minYear":  1960
-    },
-    {
-        "id":  "trakt-foreign-french-cinema-best-french-films-cesar-award-winners",
-        "title":  "French Cinema",
-        "url":  "majeed_pk/lists/best-french-films-cesar-award-winners",
-        "catalogType":  "traktMovie",
-        "traktSortBy":  "random",
-        "minRating":  57,
-        "minYear":  1960
-    },
-    {
-        "id":  "trakt-foreign-spanish-language-films-crimes-in-spanish",
-        "title":  "Spanish Language Films",
-        "url":  "marcelocastanheira/lists/crimes-in-spanish",
-        "catalogType":  "traktMovie",
-        "traktSortBy":  "random",
-        "minRating":  57,
-        "minYear":  1960
-    },
-    {
-        "id":  "trakt-foreign-british-tv-series-british-shows",
-        "title":  "British TV Series",
-        "url":  "gonzohunter/lists/british-shows",
-        "catalogType":  "traktTv",
-        "traktSortBy":  "random",
-        "minRating":  57,
-        "minYear":  1960
-    },
-    {
-        "id":  "trakt-foreign-scandinavian-noir-nordic-noir-euro-mysteries",
-        "title":  "Scandinavian Noir",
-        "url":  "shinykari/lists/nordic-noir-euro-mysteries",
-        "catalogType":  "traktMovie",
-        "traktSortBy":  "random",
-        "minRating":  57,
-        "minYear":  1960
-    },
-    {
-        "id":  "trakt-foreign-asian-action-asian-martial-arts",
-        "title":  "Asian Action",
-        "url":  "hammers-lists/lists/asian-martial-arts",
-        "catalogType":  "traktMovie",
-        "traktSortBy":  "random",
-        "minRating":  57,
-        "minYear":  1960
-    },
-    {
-        "id":  "trakt-foreign-anime-films-site-sound-50-essential-anime-films",
-        "title":  "Anime Films",
-        "url":  "giladg/lists/site-sound-50-essential-anime-films",
-        "catalogType":  "traktMovie",
-        "traktSortBy":  "random",
-        "minRating":  57,
-        "minYear":  1960
-    },
-    {
-        "id":  "trakt-foreign-foreign-comedies-foreign-comedy-movie-nudity-watchlist",
-        "title":  "Foreign Comedies",
-        "url":  "amohr/lists/foreign-comedy-movie-nudity-watchlist",
-        "catalogType":  "traktMovie",
-        "traktSortBy":  "random",
-        "minRating":  57,
-        "minYear":  1960
-    },
-    {
-        "id":  "trakt-foreign-foreign-thrillers-50-foreign-action-thriller-crime-films",
-        "title":  "Foreign Thrillers",
-        "url":  "skinnyfilmbuff/lists/50-foreign-action-thriller-crime-films",
-        "catalogType":  "traktMovie",
-        "traktSortBy":  "random",
-        "minRating":  57,
-        "minYear":  1960
-    },
-    {
-        "id":  "trakt-foreign-foreign-horror-foreign-horror",
-        "title":  "Foreign Horror",
-        "url":  "canadutchy/lists/foreign-horror",
-        "catalogType":  "traktMovie",
-        "traktSortBy":  "random",
-        "minRating":  57,
-        "minYear":  1960
-    },
-    {
-        "id":  "trakt-foreign-cannes-winners-cannes-palme-d-or-winners",
-        "title":  "Cannes Winners",
-        "url":  "sp1ti/lists/cannes-palme-d-or-winners",
-        "catalogType":  "traktMovie",
-        "traktSortBy":  "random",
-        "minRating":  57,
-        "minYear":  1960
-    },
-    {
-        "id":  "trakt-foreign-critically-acclaimed-foreign-best-foreign-language-films",
-        "title":  "Critically Acclaimed Foreign",
-        "url":  "starney/lists/best-foreign-language-films",
-        "catalogType":  "traktMovie",
-        "traktSortBy":  "random",
-        "minRating":  57,
-        "minYear":  1960
-    },
-    {
-        "id":  "trakt-foreign-world-cinema-classics-directory-of-world-cinema-japan",
-        "title":  "World Cinema Classics",
-        "url":  "sp1ti/lists/directory-of-world-cinema-japan",
-        "catalogType":  "traktMovie",
-        "traktSortBy":  "random",
-        "minRating":  57,
-        "minYear":  1960
-    },
-    {
-        "id":  "trakt-foreign-your-next-watch-foreign-films",
-        "title":  "Your Next Watch",
-        "url":  "mahasharif/lists/foreign-films",
-        "catalogType":  "traktMovie",
-        "traktSortBy":  "random",
-        "minRating":  57,
-        "minYear":  1960
-    }
+  {
+    "id": "trakt-foreign-foreign-films-foreign-films",
+    "title": "Today's Top Picks for You",
+    "url": "majeed_pk/lists/foreign-films",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1960
+  },
+  {
+    "id": "trakt-foreign-the-j-film-pow-wows-top-100-favorite-japanese-films-the-j-film-pow-wow-s-top-100-favorite-",
+    "title": "Japanese Cinema Essentials",
+    "url": "sp1ti/lists/the-j-film-pow-wow-s-top-100-favorite-japanese-films",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1960
+  },
+  {
+    "id": "trakt-foreign-japanese-dramas-japanese-dramas",
+    "title": "Japanese Dramas",
+    "url": "xscaredycat/lists/japanese-dramas",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1960
+  },
+  {
+    "id": "trakt-foreign-100-best-films-of-world-cinema---empire-magazine-100-best-films-of-world-cinema-empire-mag",
+    "title": "World Cinema Essentials",
+    "url": "majeed_pk/lists/100-best-films-of-world-cinema-empire-magazine",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1960
+  },
+  {
+    "id": "trakt-foreign-directory-of-world-cinema-italy-directory-of-world-cinema-italy",
+    "title": "Italian Cinema",
+    "url": "sp1ti/lists/directory-of-world-cinema-italy",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1960
+  },
+  {
+    "id": "trakt-foreign-directory-of-world-cinema-american-independent-directory-of-world-cinema-american-independ",
+    "title": "American Indies",
+    "url": "sp1ti/lists/directory-of-world-cinema-american-independent",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1960
+  },
+  {
+    "id": "trakt-foreign-directory-of-world-cinema-germany-directory-of-world-cinema-germany",
+    "title": "German Cinema",
+    "url": "sp1ti/lists/directory-of-world-cinema-germany",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1960
+  },
+  {
+    "id": "trakt-foreign-sexy-foreign-movies-sexy-foreign-movies",
+    "title": "Foreign Thrillers",
+    "url": "amohr/lists/sexy-foreign-movies",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1960
+  },
+  {
+    "id": "trakt-foreign-kinema-junpos-top-200-japanese-films-of-all-time-2009-edition-kinema-junpo-s-top-200-japan",
+    "title": "Japanese Classics",
+    "url": "sp1ti/lists/kinema-junpo-s-top-200-japanese-films-of-all-time-2009-edition",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1960
+  },
+  {
+    "id": "trakt-foreign-japanese-japanese",
+    "title": "Japanese Essentials",
+    "url": "kokosay/lists/japanese",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1960
+  },
+  {
+    "id": "trakt-foreign-directory-of-world-cinema-american-hollywood-directory-of-world-cinema-american-hollywood",
+    "title": "Hollywood World Cinema",
+    "url": "sp1ti/lists/directory-of-world-cinema-american-hollywood",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1960
+  },
+  {
+    "id": "trakt-foreign-foreign-horror-foreign-horror",
+    "title": "Foreign Horror",
+    "url": "canadutchy/lists/foreign-horror",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1960
+  },
+  {
+    "id": "trakt-foreign-foreign-comedy-movie-nudity-watchlist-foreign-comedy-movie-nudity-watchlist",
+    "title": "Foreign Comedies",
+    "url": "amohr/lists/foreign-comedy-movie-nudity-watchlist",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1960
+  },
+  {
+    "id": "trakt-foreign-directory-of-world-cinema-finland-directory-of-world-cinema-finland",
+    "title": "Nordic Cinema",
+    "url": "sp1ti/lists/directory-of-world-cinema-finland",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1960
+  },
+  {
+    "id": "trakt-foreign-japanese-dramas-134-picks-japanese-dramas",
+    "title": "Japanese Drama Collection",
+    "url": "dandiandi/lists/japanese-dramas",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1960
+  },
+  {
+    "id": "trakt-foreign-japanese-movies-japanese-movies",
+    "title": "Japanese Films",
+    "url": "c858/lists/japanese-movies",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1960
+  },
+  {
+    "id": "trakt-foreign-foreign-foreign",
+    "title": "International Films",
+    "url": "jtucci/lists/foreign",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1960
+  },
+  {
+    "id": "trakt-foreign-directory-of-world-cinema-germany-directory-of-world-cinema-germany",
+    "title": "German Cinema Classics",
+    "url": "hulkhorgen/lists/directory-of-world-cinema-germany",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1960
+  },
+  {
+    "id": "trakt-foreign-berlin-international-film-festival-golden-bear-winners-berlin-international-film-festival-",
+    "title": "Golden Bear Winners",
+    "url": "zorge88/lists/berlin-international-film-festival-golden-bear-winners",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1960
+  },
+  {
+    "id": "trakt-foreign-directory-of-world-cinema-american-independent-directory-of-world-cinema-american-independ",
+    "title": "Independent Cinema",
+    "url": "hulkhorgen/lists/directory-of-world-cinema-american-independent",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1960
+  },
+  {
+    "id": "trakt-foreign-directory-of-world-cinema-american-hollywood-directory-of-world-cinema-american-hollywood",
+    "title": "Classic Hollywood",
+    "url": "hulkhorgen/lists/directory-of-world-cinema-american-hollywood",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1960
+  },
+  {
+    "id": "trakt-foreign-european-series-european-series",
+    "title": "European Series",
+    "url": "dandiandi/lists/european-series",
+    "catalogType": "traktTv",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1960
+  },
+  {
+    "id": "trakt-foreign-french-french",
+    "title": "French Cinema",
+    "url": "g0g0/lists/french",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1960
+  },
+  {
+    "id": "trakt-foreign-crime-in-french-crime-in-french",
+    "title": "French Crime Films",
+    "url": "marcelocastanheira/lists/crime-in-french",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1960
+  },
+  {
+    "id": "trakt-foreign-japanese-movies-japanese-movies",
+    "title": "Japanese Cinema",
+    "url": "yoru14/lists/japanese-movies",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1960
+  },
+  {
+    "id": "trakt-foreign-european-film-award-european-film-award",
+    "title": "European Film Awards",
+    "url": "zorge88/lists/european-film-award",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1960
+  },
+  {
+    "id": "trakt-foreign-japanese-movies---the-criterion-channel-japanese-movies-the-criterion-channel",
+    "title": "Criterion Japanese Films",
+    "url": "amazing-journey/lists/japanese-movies-the-criterion-channel",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1960
+  },
+  {
+    "id": "trakt-foreign-toronto-international-film-festival-peoples-choice-award---tiff-toronto-international-film",
+    "title": "Your Next Watch",
+    "url": "philrivers/lists/toronto-international-film-festival-people-s-choice-award-tiff",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1960
+  }
 ]
