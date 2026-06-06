@@ -279,15 +279,6 @@
     "minYear": 1970
   },
   {
-    "id": "trakt-holiday-halloween-tv-episodes-halloween-tv-episodes",
-    "title": "Halloween TV Episodes",
-    "url": "philrivers/lists/halloween-tv-episodes",
-    "catalogType": "traktTv",
-    "traktSortBy": "random",
-    "minRating": 57,
-    "minYear": 1970
-  },
-  {
     "id": "trakt-holiday-christmas-movies-437-picks-christmas-movies",
     "title": "Christmas Films",
     "url": "pauls67/lists/christmas-movies",
