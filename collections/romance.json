@@ -56,7 +56,7 @@
   {
     "id": "trakt-romance-rom-coms-rom-coms",
     "title": "Feel-Good Rom-Coms",
-    "url": "users/hammers-lists/lists/romantic-comedies",
+    "url": "hammers-lists/lists/romantic-comedies",
     "catalogType": "traktMovie",
     "traktSortBy": "random",
     "minRating": 57,
