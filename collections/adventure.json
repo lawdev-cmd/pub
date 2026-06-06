@@ -1,6 +1,6 @@
 [
   {
-    "id": "trakt-adventure-today-s-topics-for-you-adventure",
+    "id": "trakt-adventure-adventure-adventure",
     "title": "Today's Top Picks for You",
     "url": "movistapp/lists/adventure",
     "catalogType": "traktMovie",
@@ -9,17 +9,35 @@
     "minYear": 1980
   },
   {
-    "id": "trakt-adventure-action-adventure-movies-action-adventure-movies",
-    "title": "Action & Adventure Movies",
-    "url": "maxtrontv/lists/action-adventure-movies",
+    "id": "trakt-adventure-survival-off-grid-living-shows-survival-off-grid-living-shows",
+    "title": "Off-Grid Survival Shows",
+    "url": "hammers-lists/lists/survival-off-grid-living-shows",
+    "catalogType": "traktTv",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1980
+  },
+  {
+    "id": "trakt-adventure-adventure-951-picks-adventure",
+    "title": "Adventure Essentials",
+    "url": "usiris/lists/adventure",
     "catalogType": "traktMovie",
     "traktSortBy": "random",
     "minRating": 57,
     "minYear": 1980
   },
   {
-    "id": "trakt-adventure-epic-adventures-sexy-adventure",
-    "title": "Epic Adventures",
+    "id": "trakt-adventure-genre-adventure-1250-titles-1970-2013-genre-adventure-1250-titles-1970-2013",
+    "title": "Classic Adventure Films",
+    "url": "xilfneps/lists/genre-adventure-1250-titles-1970-2013",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1980
+  },
+  {
+    "id": "trakt-adventure-sexy-adventure-sexy-adventure",
+    "title": "Exotic Adventures",
     "url": "amohr/lists/sexy-adventure",
     "catalogType": "traktMovie",
     "traktSortBy": "random",
@@ -27,35 +45,17 @@
     "minYear": 1980
   },
   {
-    "id": "trakt-adventure-fantasy-adventures-fantasy-sci-fi-adventure-comedy-drama",
-    "title": "Fantasy Adventures",
-    "url": "krissykk/lists/fantasy-sci-fi-adventure-comedy-drama",
+    "id": "trakt-adventure-adventure-114-picks-adventure",
+    "title": "Handpicked Adventures",
+    "url": "jtucci/lists/adventure",
     "catalogType": "traktMovie",
     "traktSortBy": "random",
     "minRating": 57,
     "minYear": 1980
   },
   {
-    "id": "trakt-adventure-adventure-tv-shows-action-adventure-tv-shows-copy",
-    "title": "Adventure TV Shows",
-    "url": "hippydog77/lists/action-adventure-tv-shows-copy",
-    "catalogType": "traktTv",
-    "traktSortBy": "random",
-    "minRating": 57,
-    "minYear": 1980
-  },
-  {
-    "id": "trakt-adventure-family-adventures-action-and-adventure-movies",
-    "title": "Family Adventures",
-    "url": "coldkeys/lists/action-and-adventure-movies",
-    "catalogType": "traktMovie",
-    "traktSortBy": "random",
-    "minRating": 57,
-    "minYear": 1980
-  },
-  {
-    "id": "trakt-adventure-sci-fi-adventures-adventure-movies",
-    "title": "Sci-Fi Adventures",
+    "id": "trakt-adventure-adventure-movies-adventure-movies",
+    "title": "Adventure Movies",
     "url": "caspian024/lists/adventure-movies",
     "catalogType": "traktMovie",
     "traktSortBy": "random",
@@ -63,72 +63,63 @@
     "minYear": 1980
   },
   {
-    "id": "trakt-adventure-anime-adventures-adventure",
-    "title": "Anime Adventures",
-    "url": "29zombies/lists/adventure",
-    "catalogType": "traktTv",
-    "traktSortBy": "random",
-    "minRating": 57,
-    "minYear": 1980
-  },
-  {
-    "id": "trakt-adventure-survival-adventures-imdb-s-top-adventure-movies",
+    "id": "trakt-adventure-survival-movies-survival-movies",
     "title": "Survival Adventures",
-    "url": "irishstevo/lists/imdb-s-top-adventure-movies",
+    "url": "kayaaron13/lists/survival-movies",
     "catalogType": "traktMovie",
     "traktSortBy": "random",
     "minRating": 57,
     "minYear": 1980
   },
   {
-    "id": "trakt-adventure-treasure-hunts-heists-adventure",
-    "title": "Treasure Hunts & Heists",
-    "url": "mrj514/lists/adventure",
+    "id": "trakt-adventure-adventure-183-picks-adventure",
+    "title": "Epic Adventures",
+    "url": "29zombies/lists/adventure",
     "catalogType": "traktMovie",
     "traktSortBy": "random",
     "minRating": 57,
     "minYear": 1980
   },
   {
-    "id": "trakt-adventure-swashbuckling-classics-classic-adventures",
-    "title": "Swashbuckling Classics",
-    "url": "kingkearney/lists/classic-adventures",
+    "id": "trakt-adventure-dangerous-exploration-dangerous-exploration",
+    "title": "Exploration & Discovery",
+    "url": "ravynloony/lists/dangerous-exploration",
     "catalogType": "traktMovie",
     "traktSortBy": "random",
     "minRating": 57,
     "minYear": 1980
   },
   {
-    "id": "trakt-adventure-gems-for-you-action-adventure",
-    "title": "Gems for You",
-    "url": "ibjamn78/lists/action-adventure",
+    "id": "trakt-adventure-adventure-508-picks-adventure",
+    "title": "Greatest Adventures",
+    "url": "miester433/lists/adventure",
     "catalogType": "traktMovie",
     "traktSortBy": "random",
     "minRating": 57,
     "minYear": 1980
   },
   {
-    "id": "trakt-adventure-critically-acclaimed-adventures-the-best-adventure-movies",
-    "title": "Critically Acclaimed Adventures",
-    "url": "jim222001/lists/the-best-adventure-movies",
+    "id": "trakt-adventure-adventure-2010s-adventure-2010s",
+    "title": "2010s Adventure",
+    "url": "blom-00/lists/adventure-2010s",
     "catalogType": "traktMovie",
     "traktSortBy": "random",
     "minRating": 57,
     "minYear": 1980
   },
   {
-    "id": "trakt-adventure-adventure-blockbusters-adventure-swords-sorcery-dragons-legends-mythical-e",
-    "title": "Adventure Blockbusters",
-    "url": "krissykk/lists/adventure-swords-sorcery-dragons-legends-mythical-events-2of2",
+    "id": "trakt-adventure-adventure-2000s-adventure-2000s",
+    "title": "2000s Adventure",
+    "url": "blom-00/lists/adventure-2000s",
     "catalogType": "traktMovie",
     "traktSortBy": "random",
     "minRating": 57,
     "minYear": 1980
   },
   {
-    "id": "trakt-adventure-your-next-watch-action-adventure-1181694",
+    "id": "trakt-adventure-survival-game-horror-survival-game-horror",
     "title": "Your Next Watch",
-    "url": "kingkearney/lists/action-adventure-1181694",
+    "url": "ravynloony/lists/survival-game-horror",
     "catalogType": "traktMovie",
     "traktSortBy": "random",
     "minRating": 57,
