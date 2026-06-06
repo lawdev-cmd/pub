@@ -28,7 +28,7 @@
   },
   {
     "id": "trakt-action-quick-hits-great-movies-90-minutes-or-less-quick-hits-great-movies-90-minutes-or-less",
-    "title": "Quick Hits: Great Movies 90 Minutes or Less",
+    "title": "Quick Hits: 90 Minutes or Less",
     "url": "giladg/lists/quick-hits-great-movies-90-minutes-or-less",
     "catalogType": "traktMovie",
     "traktSortBy": "random",
