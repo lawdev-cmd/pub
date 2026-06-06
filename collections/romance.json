@@ -1,164 +1,119 @@
 [
   {
-    "id": "trakt-romance-today-s-topics-for-you-romantic-comedies",
-    "title": "Today's Top Picks for You",
+    "id": "trakt-romance-romantic-comedies-romantic-comedies",
+    "title": "Romantic Comedies",
     "url": "hammers-lists/lists/romantic-comedies",
     "catalogType": "traktMovie",
     "traktSortBy": "random",
     "minRating": 57,
-    "minYear": 1990
+    "minYear": 1980
   },
   {
-    "id": "trakt-romance-romance-movies-romance-movies",
-    "title": "Romance Movies",
-    "url": "maxtrontv/lists/romance-movies",
+    "id": "trakt-romance-romance-romance",
+    "title": "Today's Top Picks for You",
+    "url": "movistapp/lists/romance",
     "catalogType": "traktMovie",
     "traktSortBy": "random",
     "minRating": 57,
-    "minYear": 1990
+    "minYear": 1980
   },
   {
-    "id": "trakt-romance-romantic-favorites-best-romantic-movies-of-all-time",
-    "title": "Romantic Favorites",
-    "url": "majeed_pk/lists/best-romantic-movies-of-all-time",
-    "catalogType": "traktMovie",
-    "traktSortBy": "random",
-    "minRating": 57,
-    "minYear": 1990
-  },
-  {
-    "id": "trakt-romance-sit-back-relax-feel-good-movies",
-    "title": "Sit Back & Relax",
-    "url": "shana71/lists/feel-good-movies",
-    "catalogType": "traktMovie",
-    "traktSortBy": "random",
-    "minRating": 57,
-    "minYear": 1990
-  },
-  {
-    "id": "trakt-romance-k-dramas-for-beginners-2019-2025-korean-drama",
-    "title": "K-Dramas for Beginners",
-    "url": "a-homrany-hotmail-com/lists/2019-2025-korean-drama",
-    "catalogType": "traktTv",
-    "traktSortBy": "random",
-    "minRating": 57,
-    "minYear": 1990
-  },
-  {
-    "id": "trakt-romance-only-on-netflix-netflix1",
-    "title": "Streaming Picks",
-    "url": "stuacott/lists/netflix1",
-    "catalogType": "traktMovie",
-    "traktSortBy": "random",
-    "minRating": 57,
-    "minYear": 1990
-  },
-  {
-    "id": "trakt-romance-romantic-comedies-rotten-tomatoes-the-200-best-romantic-comedies-of-all-time",
-    "title": "Romantic Comedies",
+    "id": "trakt-romance-rotten-tomatoes-the-200-best-romantic-comedies-of-all-time-rotten-tomatoes-the-200-best-ro",
+    "title": "Greatest Rom-Coms",
     "url": "lish408/lists/rotten-tomatoes-the-200-best-romantic-comedies-of-all-time",
     "catalogType": "traktMovie",
     "traktSortBy": "random",
     "minRating": 57,
-    "minYear": 1990
+    "minYear": 1980
   },
   {
-    "id": "trakt-romance-girls-night-in-the-chick-flick-list",
-    "title": "Girls' Night In",
-    "url": "resetvector/lists/the-chick-flick-list",
+    "id": "trakt-romance-best-rom-coms-best-rom-coms",
+    "title": "Best Rom-Coms",
+    "url": "majeed_pk/lists/best-rom-coms",
     "catalogType": "traktMovie",
     "traktSortBy": "random",
     "minRating": 57,
-    "minYear": 1990
+    "minYear": 1980
   },
   {
-    "id": "trakt-romance-rom-coms-rom-coms",
-    "title": "Rom-Coms",
-    "url": "madmapper/lists/rom-coms",
-    "catalogType": "traktMovie",
-    "traktSortBy": "random",
-    "minRating": 57,
-    "minYear": 1990
-  },
-  {
-    "id": "trakt-romance-k-dramas-best-south-korean-movies-amp",
-    "title": "K-Dramas",
-    "url": "gsmolo/lists/best-south-korean-movies-amp",
-    "catalogType": "traktTv",
-    "traktSortBy": "random",
-    "minRating": 57,
-    "minYear": 1990
-  },
-  {
-    "id": "trakt-romance-romantic-drama-movies-romantic-comedies",
-    "title": "Romantic Drama Movies",
+    "id": "trakt-romance-romantic-comedies-414-picks-romantic-comedies",
+    "title": "Rom-Com Essentials",
     "url": "29zombies/lists/romantic-comedies",
     "catalogType": "traktMovie",
     "traktSortBy": "random",
     "minRating": 57,
-    "minYear": 1990
+    "minYear": 1980
   },
   {
-    "id": "trakt-romance-international-comedies-foreign-films",
-    "title": "International Comedies",
-    "url": "majeed_pk/lists/foreign-films",
+    "id": "trakt-romance-the-30-best-romantic-comedies-of-all-time-the-30-best-romantic-comedies-of-all-time",
+    "title": "Rom-Com Classics",
+    "url": "movistapp/lists/the-30-best-romantic-comedies-of-all-time",
     "catalogType": "traktMovie",
     "traktSortBy": "random",
     "minRating": 57,
-    "minYear": 1990
+    "minYear": 1980
   },
   {
-    "id": "trakt-romance-new-on-netflix-hallmark-romance-premieres-2024-2025",
-    "title": "Trending This Year",
-    "url": "midnitewolf/lists/hallmark-romance-premieres-2024-2025",
+    "id": "trakt-romance-rom-coms-rom-coms",
+    "title": "Feel-Good Rom-Coms",
+    "url": "marzipan-pie/lists/rom-coms",
     "catalogType": "traktMovie",
     "traktSortBy": "random",
     "minRating": 57,
-    "minYear": 1990
+    "minYear": 1980
   },
   {
-    "id": "trakt-romance-we-think-you-ll-love-this-rotten-tomatoe-s-top-100-romance-movies",
-    "title": "We Think You'll Love This",
-    "url": "cristinx/lists/rotten-tomatoe-s-top-100-romance-movies",
+    "id": "trakt-romance-new-romantic-comedies-new-romantic-comedies",
+    "title": "Modern Rom-Coms",
+    "url": "mattm382/lists/new-romantic-comedies",
     "catalogType": "traktMovie",
     "traktSortBy": "random",
     "minRating": 57,
-    "minYear": 1990
+    "minYear": 1980
   },
   {
-    "id": "trakt-romance-growing-up-millennial-coming-of-age",
-    "title": "Growing Up Millennial",
-    "url": "madmapper/lists/coming-of-age",
+    "id": "trakt-romance-hopeless-romantic-movies-hopeless-romantic-movies",
+    "title": "Romantic Dramas",
+    "url": "majeed_pk/lists/hopeless-romantic-movies",
     "catalogType": "traktMovie",
     "traktSortBy": "random",
     "minRating": 57,
-    "minYear": 1990
+    "minYear": 1980
   },
   {
-    "id": "trakt-romance-your-next-watch-chick-flicks",
-    "title": "Your Next Watch",
-    "url": "canadutchy/lists/chick-flicks",
+    "id": "trakt-romance-romance-78-picks-romance",
+    "title": "Romance Movies",
+    "url": "jtucci/lists/romance",
     "catalogType": "traktMovie",
     "traktSortBy": "random",
     "minRating": 57,
-    "minYear": 1990
+    "minYear": 1980
   },
   {
-    "id": "trakt-romance-greatest-love-stories-afi-100-passions",
+    "id": "trakt-romance-romance_-best-romance-in-movies-romance_-best-romance-in-movies",
     "title": "Greatest Love Stories",
-    "url": "sp1ti/lists/afi-s-100-years-100-passions-top-100-greatest-love-stories-in-american-cinema",
+    "url": "moses456/lists/romance_-best-romance-in-movies",
     "catalogType": "traktMovie",
     "traktSortBy": "random",
     "minRating": 57,
-    "minYear": 1990
+    "minYear": 1980
   },
   {
-    "id": "trakt-romance-coming-of-age-drama-coming-of-age-movies",
-    "title": "Coming-of-Age Drama",
-    "url": "canadutchy/lists/coming-of-age-movies",
+    "id": "trakt-romance-rom-coms-rom-coms",
+    "title": "Romance Classics",
+    "url": "madmapper/lists/rom-coms",
     "catalogType": "traktMovie",
     "traktSortBy": "random",
     "minRating": 57,
-    "minYear": 1990
+    "minYear": 1980
+  },
+  {
+    "id": "trakt-romance-romance_-unconventional-romance-films-romance_-unconventional-romance-films",
+    "title": "Your Next Watch",
+    "url": "moses456/lists/romance_-unconventional-romance-films",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1980
   }
 ]
