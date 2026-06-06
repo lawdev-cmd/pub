@@ -1,182 +1,254 @@
 [
   {
-    "id": "trakt-hiddengems-hidden-gems-hidden-gems",
+    "id": "trakt-foreign-foreign-films-foreign-films",
     "title": "Today's Top Picks for You",
-    "url": "recom273/lists/hidden-gems",
+    "url": "majeed_pk/lists/foreign-films",
     "catalogType": "traktMovie",
     "traktSortBy": "random",
     "minRating": 57,
-    "minYear": 1980
+    "minYear": 1960
   },
   {
-    "id": "trakt-hiddengems-wikipedias-list-of-cult-films-wikipedia-s-list-of-cult-films",
-    "title": "Cult Cinema Classics",
-    "url": "didzgreen/lists/wikipedia-s-list-of-cult-films",
+    "id": "trakt-foreign-the-j-film-pow-wows-top-100-favorite-japanese-films-the-j-film-pow-wow-s-top-100-favorite-",
+    "title": "Japanese Cinema Essentials",
+    "url": "sp1ti/lists/the-j-film-pow-wow-s-top-100-favorite-japanese-films",
     "catalogType": "traktMovie",
     "traktSortBy": "random",
     "minRating": 57,
-    "minYear": 1980
+    "minYear": 1960
   },
   {
-    "id": "trakt-hiddengems-underground-network-underground-network",
-    "title": "Underground Films",
-    "url": "justin/lists/underground-network",
+    "id": "trakt-foreign-japanese-dramas-japanese-dramas",
+    "title": "Japanese Dramas",
+    "url": "xscaredycat/lists/japanese-dramas",
     "catalogType": "traktMovie",
     "traktSortBy": "random",
     "minRating": 57,
-    "minYear": 1980
+    "minYear": 1960
   },
   {
-    "id": "trakt-hiddengems-av-clubs-the-new-cult-canon-a-v-club-s-the-new-cult-canon",
-    "title": "The New Cult Canon",
-    "url": "sp1ti/lists/a-v-club-s-the-new-cult-canon",
+    "id": "trakt-foreign-100-best-films-of-world-cinema---empire-magazine-100-best-films-of-world-cinema-empire-mag",
+    "title": "World Cinema Essentials",
+    "url": "majeed_pk/lists/100-best-films-of-world-cinema-empire-magazine",
     "catalogType": "traktMovie",
     "traktSortBy": "random",
     "minRating": 57,
-    "minYear": 1980
+    "minYear": 1960
   },
   {
-    "id": "trakt-hiddengems-cult-classics-cult-classics",
-    "title": "Cult Classics",
-    "url": "kayaaron13/lists/cult-classics",
+    "id": "trakt-foreign-directory-of-world-cinema-italy-directory-of-world-cinema-italy",
+    "title": "Italian Cinema",
+    "url": "sp1ti/lists/directory-of-world-cinema-italy",
     "catalogType": "traktMovie",
     "traktSortBy": "random",
     "minRating": 57,
-    "minYear": 1980
+    "minYear": 1960
   },
   {
-    "id": "trakt-hiddengems-70s-horror-cult-70s-horror-cult",
-    "title": "1970s Cult Horror",
-    "url": "marcelocastanheira/lists/70s-horror-cult",
+    "id": "trakt-foreign-directory-of-world-cinema-american-independent-directory-of-world-cinema-american-independ",
+    "title": "American Indies",
+    "url": "sp1ti/lists/directory-of-world-cinema-american-independent",
     "catalogType": "traktMovie",
     "traktSortBy": "random",
     "minRating": 57,
-    "minYear": 1980
+    "minYear": 1960
   },
   {
-    "id": "trakt-hiddengems-most-underrated-movies-of-the-last-20-years-most-underrated-movies-of-the-last-20-years",
-    "title": "Underrated Masterpieces",
-    "url": "hulkhorgen/lists/most-underrated-movies-of-the-last-20-years",
+    "id": "trakt-foreign-directory-of-world-cinema-germany-directory-of-world-cinema-germany",
+    "title": "German Cinema",
+    "url": "sp1ti/lists/directory-of-world-cinema-germany",
     "catalogType": "traktMovie",
     "traktSortBy": "random",
     "minRating": 57,
-    "minYear": 1980
+    "minYear": 1960
   },
   {
-    "id": "trakt-hiddengems-hidden-gems-52-picks-hidden-gems",
-    "title": "Hidden Gem Movies",
-    "url": "kayaaron13/lists/hidden-gems",
+    "id": "trakt-foreign-sexy-foreign-movies-sexy-foreign-movies",
+    "title": "Foreign Thrillers",
+    "url": "amohr/lists/sexy-foreign-movies",
     "catalogType": "traktMovie",
     "traktSortBy": "random",
     "minRating": 57,
-    "minYear": 1980
+    "minYear": 1960
   },
   {
-    "id": "trakt-hiddengems-80s-horror-cults-80s-horror-cults",
-    "title": "1980s Cult Horror",
-    "url": "marcelocastanheira/lists/80s-horror-cults",
+    "id": "trakt-foreign-kinema-junpos-top-200-japanese-films-of-all-time-2009-edition-kinema-junpo-s-top-200-japan",
+    "title": "Japanese Classics",
+    "url": "sp1ti/lists/kinema-junpo-s-top-200-japanese-films-of-all-time-2009-edition",
     "catalogType": "traktMovie",
     "traktSortBy": "random",
     "minRating": 57,
-    "minYear": 1980
+    "minYear": 1960
   },
   {
-    "id": "trakt-hiddengems-best-sci-fi-cult-classics-of-all-time-best-sci-fi-cult-classics-of-all-time",
-    "title": "Cult Sci-Fi",
-    "url": "philrivers/lists/best-sci-fi-cult-classics-of-all-time",
+    "id": "trakt-foreign-japanese-japanese",
+    "title": "Japanese Essentials",
+    "url": "kokosay/lists/japanese",
     "catalogType": "traktMovie",
     "traktSortBy": "random",
     "minRating": 57,
-    "minYear": 1980
+    "minYear": 1960
   },
   {
-    "id": "trakt-hiddengems-90s-horror-cults-90s-horror-cults",
-    "title": "1990s Cult Horror",
-    "url": "marcelocastanheira/lists/90s-horror-cults",
+    "id": "trakt-foreign-directory-of-world-cinema-american-hollywood-directory-of-world-cinema-american-hollywood",
+    "title": "Hollywood World Cinema",
+    "url": "sp1ti/lists/directory-of-world-cinema-american-hollywood",
     "catalogType": "traktMovie",
     "traktSortBy": "random",
     "minRating": 57,
-    "minYear": 1980
+    "minYear": 1960
   },
   {
-    "id": "trakt-hiddengems-cult-classics-693-picks-cult-classics",
-    "title": "Essential Cult Classics",
-    "url": "madmapper/lists/cult-classics",
+    "id": "trakt-foreign-foreign-horror-foreign-horror",
+    "title": "Foreign Horror",
+    "url": "canadutchy/lists/foreign-horror",
     "catalogType": "traktMovie",
     "traktSortBy": "random",
     "minRating": 57,
-    "minYear": 1980
+    "minYear": 1960
   },
   {
-    "id": "trakt-hiddengems-a-v-club-s-the-new-cult-canon-a-v-club-s-the-new-cult-canon",
-    "title": "Critically Acclaimed Cult Films",
-    "url": "hulkhorgen/lists/a-v-club-s-the-new-cult-canon",
+    "id": "trakt-foreign-foreign-comedy-movie-nudity-watchlist-foreign-comedy-movie-nudity-watchlist",
+    "title": "Foreign Comedies",
+    "url": "amohr/lists/foreign-comedy-movie-nudity-watchlist",
     "catalogType": "traktMovie",
     "traktSortBy": "random",
     "minRating": 57,
-    "minYear": 1980
+    "minYear": 1960
   },
   {
-    "id": "trakt-hiddengems-2010s-horror-cult-2010s-horror-cult",
-    "title": "2010s Cult Horror",
-    "url": "marcelocastanheira/lists/2010s-horror-cult",
+    "id": "trakt-foreign-directory-of-world-cinema-finland-directory-of-world-cinema-finland",
+    "title": "Nordic Cinema",
+    "url": "sp1ti/lists/directory-of-world-cinema-finland",
     "catalogType": "traktMovie",
     "traktSortBy": "random",
     "minRating": 57,
-    "minYear": 1980
+    "minYear": 1960
   },
   {
-    "id": "trakt-hiddengems-underrated-and-underseen-90s-horror-movies-underrated-and-underseen-90s-horror-movies",
-    "title": "Underrated 90s Horror",
-    "url": "philrivers/lists/underrated-and-underseen-90s-horror-movies",
+    "id": "trakt-foreign-japanese-dramas-134-picks-japanese-dramas",
+    "title": "Japanese Drama Collection",
+    "url": "dandiandi/lists/japanese-dramas",
     "catalogType": "traktMovie",
     "traktSortBy": "random",
     "minRating": 57,
-    "minYear": 1980
+    "minYear": 1960
   },
   {
-    "id": "trakt-hiddengems-the-best-underrated-black-movies-the-best-underrated-black-movies",
-    "title": "Underrated Black Cinema",
-    "url": "moses456/lists/the-best-underrated-black-movies",
+    "id": "trakt-foreign-japanese-movies-japanese-movies",
+    "title": "Japanese Films",
+    "url": "c858/lists/japanese-movies",
     "catalogType": "traktMovie",
     "traktSortBy": "random",
     "minRating": 57,
-    "minYear": 1980
+    "minYear": 1960
   },
   {
-    "id": "trakt-hiddengems-2020s-horror-cult-2020s-horror-cult",
-    "title": "2020s Cult Horror",
-    "url": "marcelocastanheira/lists/2020s-horror-cult",
+    "id": "trakt-foreign-foreign-foreign",
+    "title": "International Films",
+    "url": "jtucci/lists/foreign",
     "catalogType": "traktMovie",
     "traktSortBy": "random",
     "minRating": 57,
-    "minYear": 1980
+    "minYear": 1960
   },
   {
-    "id": "trakt-hiddengems-1900-1970-horror-cults-1900-1970-horror-cults",
-    "title": "Vintage Cult Horror",
-    "url": "marcelocastanheira/lists/1900-1970-horror-cults",
+    "id": "trakt-foreign-directory-of-world-cinema-germany-directory-of-world-cinema-germany",
+    "title": "German Cinema Classics",
+    "url": "hulkhorgen/lists/directory-of-world-cinema-germany",
     "catalogType": "traktMovie",
     "traktSortBy": "random",
     "minRating": 57,
-    "minYear": 1980
+    "minYear": 1960
   },
   {
-    "id": "trakt-hiddengems-2000s-horror-cult-2000s-horror-cult",
-    "title": "2000s Cult Horror",
-    "url": "marcelocastanheira/lists/2000s-horror-cult",
+    "id": "trakt-foreign-berlin-international-film-festival-golden-bear-winners-berlin-international-film-festival-",
+    "title": "Golden Bear Winners",
+    "url": "zorge88/lists/berlin-international-film-festival-golden-bear-winners",
     "catalogType": "traktMovie",
     "traktSortBy": "random",
     "minRating": 57,
-    "minYear": 1980
+    "minYear": 1960
   },
   {
-    "id": "trakt-hiddengems-underappreciated-or-overlooked-animated-movies-underappreciated-or-overlooked-animated-mov",
+    "id": "trakt-foreign-directory-of-world-cinema-american-independent-directory-of-world-cinema-american-independ",
+    "title": "Independent Cinema",
+    "url": "hulkhorgen/lists/directory-of-world-cinema-american-independent",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1960
+  },
+  {
+    "id": "trakt-foreign-directory-of-world-cinema-american-hollywood-directory-of-world-cinema-american-hollywood",
+    "title": "Classic Hollywood",
+    "url": "hulkhorgen/lists/directory-of-world-cinema-american-hollywood",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1960
+  },
+  {
+    "id": "trakt-foreign-european-series-european-series",
+    "title": "European Series",
+    "url": "dandiandi/lists/european-series",
+    "catalogType": "traktTv",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1960
+  },
+  {
+    "id": "trakt-foreign-french-french",
+    "title": "French Cinema",
+    "url": "g0g0/lists/french",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1960
+  },
+  {
+    "id": "trakt-foreign-crime-in-french-crime-in-french",
+    "title": "French Crime Films",
+    "url": "marcelocastanheira/lists/crime-in-french",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1960
+  },
+  {
+    "id": "trakt-foreign-japanese-movies-japanese-movies",
+    "title": "Japanese Cinema",
+    "url": "yoru14/lists/japanese-movies",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1960
+  },
+  {
+    "id": "trakt-foreign-european-film-award-european-film-award",
+    "title": "European Film Awards",
+    "url": "zorge88/lists/european-film-award",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1960
+  },
+  {
+    "id": "trakt-foreign-japanese-movies---the-criterion-channel-japanese-movies-the-criterion-channel",
+    "title": "Criterion Japanese Films",
+    "url": "amazing-journey/lists/japanese-movies-the-criterion-channel",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1960
+  },
+  {
+    "id": "trakt-foreign-toronto-international-film-festival-peoples-choice-award---tiff-toronto-international-film",
     "title": "Your Next Watch",
-    "url": "philrivers/lists/underappreciated-or-overlooked-animated-movies",
+    "url": "philrivers/lists/toronto-international-film-festival-people-s-choice-award-tiff",
     "catalogType": "traktMovie",
     "traktSortBy": "random",
     "minRating": 57,
-    "minYear": 1980
+    "minYear": 1960
   }
 ]
