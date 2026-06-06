@@ -117,15 +117,6 @@
     "minYear": 1980
   },
   {
-    "id": "trakt-action-action-1970s-action-1970s",
-    "title": "1970s Action",
-    "url": "blom-00/lists/action-1970s",
-    "catalogType": "traktMovie",
-    "traktSortBy": "random",
-    "minRating": 57,
-    "minYear": 1980
-  },
-  {
     "id": "trakt-action-action-tv-action-tv",
     "title": "Action TV Shows",
     "url": "caspian024/lists/action-tv",
