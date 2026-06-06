@@ -54,7 +54,7 @@
     "minYear": 1990
   },
   {
-    "id": "trakt-family-kids-movies-kids-movies",
+    "id": "trakt-family-best-kids-movies-kids-movies",
     "title": "Best Kids Movies",
     "url": "drinfernoo/lists/kids-movies",
     "catalogType": "traktMovie",
@@ -138,15 +138,6 @@
     "id": "trakt-family-pixar---all-movies-pixar-all-movies",
     "title": "Pixar Movies",
     "url": "fidel-cb/lists/pixar-all-movies",
-    "catalogType": "traktMovie",
-    "traktSortBy": "random",
-    "minRating": 57,
-    "minYear": 1990
-  },
-  {
-    "id": "trakt-family-disney-live-action-movies-disney-live-action-movies-3fc28e03-48dd-4782-aa2a-42a0306fe028",
-    "title": "Disney Live Action",
-    "url": "canadutchy/lists/disney-live-action-movies-3fc28e03-48dd-4782-aa2a-42a0306fe028",
     "catalogType": "traktMovie",
     "traktSortBy": "random",
     "minRating": 57,
