@@ -9,36 +9,9 @@
     "minYear": 1970
   },
   {
-    "id": "trakt-dramas-asian-dramas-asian-dramas",
-    "title": "Asian Dramas",
-    "url": "xscaredycat/lists/asian-dramas",
-    "catalogType": "traktMovie",
-    "traktSortBy": "random",
-    "minRating": 57,
-    "minYear": 1970
-  },
-  {
     "id": "trakt-dramas-courtroom-dramas-courtroom-dramas",
     "title": "Courtroom Dramas",
     "url": "majeed_pk/lists/courtroom-dramas",
-    "catalogType": "traktMovie",
-    "traktSortBy": "random",
-    "minRating": 57,
-    "minYear": 1970
-  },
-  {
-    "id": "trakt-dramas-chinese-dramas-chinese-dramas",
-    "title": "Chinese Dramas",
-    "url": "xscaredycat/lists/chinese-dramas",
-    "catalogType": "traktMovie",
-    "traktSortBy": "random",
-    "minRating": 57,
-    "minYear": 1970
-  },
-  {
-    "id": "trakt-dramas-asian-dramas-1084-picks-asian-dramas",
-    "title": "Korean Dramas",
-    "url": "dandiandi/lists/asian-dramas",
     "catalogType": "traktMovie",
     "traktSortBy": "random",
     "minRating": 57,
