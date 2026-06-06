@@ -171,15 +171,6 @@
     "minYear": 1980
   },
   {
-    "id": "trakt-thriller-thriller-1970s-thriller-1970s",
-    "title": "1970s Thrillers",
-    "url": "blom-00/lists/thriller-1970s",
-    "catalogType": "traktMovie",
-    "traktSortBy": "random",
-    "minRating": 57,
-    "minYear": 1980
-  },
-  {
     "id": "trakt-thriller-psychological-horror-films-psychological-horror-films-copy",
     "title": "Psychological Horror",
     "url": "kayaaron13/lists/psychological-horror-films-copy",
