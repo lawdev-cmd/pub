@@ -153,7 +153,7 @@
     "minYear": 1960
   },
   {
-    "id": "trakt-foreign-directory-of-world-cinema-germany-directory-of-world-cinema-germany",
+    "id": "trakt-foreign-german-cinema-classics-directory-of-world-cinema-germany",
     "title": "German Cinema Classics",
     "url": "hulkhorgen/lists/directory-of-world-cinema-germany",
     "catalogType": "traktMovie",
@@ -171,7 +171,7 @@
     "minYear": 1960
   },
   {
-    "id": "trakt-foreign-directory-of-world-cinema-american-independent-directory-of-world-cinema-american-independ",
+    "id": "trakt-foreign-independent-cinema-directory-of-world-cinema-american-independent",
     "title": "Independent Cinema",
     "url": "hulkhorgen/lists/directory-of-world-cinema-american-independent",
     "catalogType": "traktMovie",
@@ -180,7 +180,7 @@
     "minYear": 1960
   },
   {
-    "id": "trakt-foreign-directory-of-world-cinema-american-hollywood-directory-of-world-cinema-american-hollywood",
+    "id": "trakt-foreign-classic-hollywood-directory-of-world-cinema-american-hollywood",
     "title": "Classic Hollywood",
     "url": "hulkhorgen/lists/directory-of-world-cinema-american-hollywood",
     "catalogType": "traktMovie",
@@ -216,7 +216,7 @@
     "minYear": 1960
   },
   {
-    "id": "trakt-foreign-japanese-movies-japanese-movies",
+    "id": "trakt-foreign-japanese-cinema-japanese-movies",
     "title": "Japanese Cinema",
     "url": "yoru14/lists/japanese-movies",
     "catalogType": "traktMovie",
