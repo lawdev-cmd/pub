@@ -1,61 +1,43 @@
 [
   {
-    "id": "trakt-action-today-s-topics-for-you-action",
+    "id": "trakt-action-todays-top-picks-for-you-action",
     "title": "Today's Top Picks for You",
-    "url": "garycrawfordgc/lists/action",
+    "url": "movistapp/lists/action",
     "catalogType": "traktMovie",
     "traktSortBy": "random",
     "minRating": 57,
     "minYear": 1980
   },
   {
-    "id": "trakt-action-action-adventure-movies-action-shooter-movies",
-    "title": "Action & Adventure Movies",
-    "url": "ljransom/lists/action-shooter-movies",
+    "id": "trakt-action-action-movies-action-shooter-movies",
+    "title": "Action Movies",
+    "url": "ricksanchez/lists/action-shooter-movies",
     "catalogType": "traktMovie",
     "traktSortBy": "random",
     "minRating": 57,
     "minYear": 1980
   },
   {
-    "id": "trakt-action-familiar-favorites-rotten-tomatoes-100-best-action-movies-copy",
-    "title": "Familiar Favorites",
-    "url": "sebastian-c-bell/lists/rotten-tomatoes-100-best-action-movies-copy",
-    "catalogType": "traktMovie",
-    "traktSortBy": "random",
-    "minRating": 57,
-    "minYear": 1980
-  },
-  {
-    "id": "trakt-action-exciting-tv-shows-live-action-tv-shows-based-on-manga-manhwa-and-anime",
-    "title": "Exciting TV Shows",
-    "url": "sp1ti/lists/live-action-tv-shows-based-on-manga-manhwa-and-anime",
+    "id": "trakt-action-action-tv-shows-action-tv",
+    "title": "Action TV Shows",
+    "url": "caspian024/lists/action-tv",
     "catalogType": "traktTv",
     "traktSortBy": "random",
     "minRating": 57,
     "minYear": 1980
   },
   {
-    "id": "trakt-action-tv-action-adventure-tv-shows-action",
-    "title": "TV Action & Adventure",
-    "url": "astigmark/lists/tv-shows-action",
-    "catalogType": "traktTv",
-    "traktSortBy": "random",
-    "minRating": 57,
-    "minYear": 1980
-  },
-  {
-    "id": "trakt-action-get-in-on-the-action-imdb-s-top-action-movies",
-    "title": "Get in on the Action",
-    "url": "irishstevo/lists/imdb-s-top-action-movies",
+    "id": "trakt-action-quick-hits-great-movies-90-minutes-or-less-quick-hits-great-movies-90-minutes-or-less",
+    "title": "Quick Hits: Great Movies 90 Minutes or Less",
+    "url": "giladg/lists/quick-hits-great-movies-90-minutes-or-less",
     "catalogType": "traktMovie",
     "traktSortBy": "random",
     "minRating": 57,
     "minYear": 1980
   },
   {
-    "id": "trakt-action-we-think-you-ll-love-these-asian-martial-arts",
-    "title": "We Think You'll Love These",
+    "id": "trakt-action-martial-arts-asian-martial-arts",
+    "title": "Martial Arts",
     "url": "hammers-lists/lists/asian-martial-arts",
     "catalogType": "traktMovie",
     "traktSortBy": "random",
@@ -63,8 +45,17 @@
     "minYear": 1980
   },
   {
-    "id": "trakt-action-action-movies-spy-films-1465050",
-    "title": "Action Movies",
+    "id": "trakt-action-action-disney-live-action-movies",
+    "title": "Action",
+    "url": "donxy/lists/disney-live-action-movies",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1980
+  },
+  {
+    "id": "trakt-action-spy--espionage-action-spy-films-1465050",
+    "title": "Spy & Espionage Action",
     "url": "donxy/lists/spy-films-1465050",
     "catalogType": "traktMovie",
     "traktSortBy": "random",
@@ -72,125 +63,35 @@
     "minYear": 1980
   },
   {
-    "id": "trakt-action-anime-series-trending-anime-shows",
-    "title": "Anime Series",
-    "url": "tvgeniekodi/lists/trending-anime-shows",
-    "catalogType": "traktTv",
-    "traktSortBy": "random",
-    "minRating": 57,
-    "minYear": 1980
-  },
-  {
-    "id": "trakt-action-watch-together-for-older-kids-rotten-tomatoes-top-100-kids-family-movies",
-    "title": "Watch Together for Older Kids",
-    "url": "giladg/lists/rotten-tomatoes-top-100-kids-family-movies",
+    "id": "trakt-action-heist--robbery-con-artist-heist",
+    "title": "Heist & Robbery",
+    "url": "29zombies/lists/con-artist-heist",
     "catalogType": "traktMovie",
     "traktSortBy": "random",
     "minRating": 57,
     "minYear": 1980
   },
   {
-    "id": "trakt-action-martial-arts-movies-martial-arts-the-top-250-greatest-movies-of-all-time",
-    "title": "Martial Arts Movies",
-    "url": "majeed_pk/lists/martial-arts-the-top-250-greatest-movies-of-all-time",
+    "id": "trakt-action-director-john-carpenter-director-john-carpenter",
+    "title": "Director: John Carpenter",
+    "url": "origin14/lists/director-john-carpenter",
     "catalogType": "traktMovie",
     "traktSortBy": "random",
     "minRating": 57,
     "minYear": 1980
   },
   {
-    "id": "trakt-action-spy-thrillers-assassin-hitman-spy",
-    "title": "Spy Thrillers",
-    "url": "29zombies/lists/assassin-hitman-spy",
+    "id": "trakt-action-revenge-films-revenge",
+    "title": "Revenge Films",
+    "url": "jtucci/lists/revenge",
     "catalogType": "traktMovie",
     "traktSortBy": "random",
     "minRating": 57,
     "minYear": 1980
   },
   {
-    "id": "trakt-action-war-movies-war",
-    "title": "War Movies",
-    "url": "garycrawfordgc/lists/war",
-    "catalogType": "traktMovie",
-    "traktSortBy": "random",
-    "minRating": 57,
-    "minYear": 1980
-  },
-  {
-    "id": "trakt-action-heist-movies-ranker-top-bank-robbery-movies",
-    "title": "Heist Movies",
-    "url": "kayaaron13/lists/ranker-top-bank-robbery-movies",
-    "catalogType": "traktMovie",
-    "traktSortBy": "random",
-    "minRating": 57,
-    "minYear": 1980
-  },
-  {
-    "id": "trakt-action-superhero-movies-superhero",
-    "title": "Superhero Movies",
-    "url": "caspian024/lists/superhero",
-    "catalogType": "traktMovie",
-    "traktSortBy": "random",
-    "minRating": 57,
-    "minYear": 1980
-  },
-  {
-    "id": "trakt-action-crime-action-action-crime-thriller-list",
-    "title": "Crime Action",
-    "url": "dennisd49/lists/action-crime-thriller-list",
-    "catalogType": "traktMovie",
-    "traktSortBy": "random",
-    "minRating": 57,
-    "minYear": 1980
-  },
-  {
-    "id": "trakt-action-action-blockbusters-blockbusters",
-    "title": "Action Blockbusters",
-    "url": "kingkearney/lists/blockbusters",
-    "catalogType": "traktMovie",
-    "traktSortBy": "random",
-    "minRating": 57,
-    "minYear": 1980
-  },
-  {
-    "id": "trakt-action-critically-acclaimed-action-100-best-action-movies",
-    "title": "Critically Acclaimed Action",
-    "url": "lencocoa/lists/100-best-action-movies",
-    "catalogType": "traktMovie",
-    "traktSortBy": "random",
-    "minRating": 57,
-    "minYear": 1980
-  },
-  {
-    "id": "trakt-action-sci-fi-action-sci-fi",
-    "title": "Sci-Fi Action",
-    "url": "garycrawfordgc/lists/sci-fi",
-    "catalogType": "traktMovie",
-    "traktSortBy": "random",
-    "minRating": 57,
-    "minYear": 1980
-  },
-  {
-    "id": "trakt-action-car-chase-racing-car-chase",
-    "title": "Car Chase & Racing",
-    "url": "29zombies/lists/car-chase",
-    "catalogType": "traktMovie",
-    "traktSortBy": "random",
-    "minRating": 57,
-    "minYear": 1980
-  },
-  {
-    "id": "trakt-action-gems-for-you-hidden-gems",
-    "title": "Gems for You",
-    "url": "recom273/lists/hidden-gems",
-    "catalogType": "traktMovie",
-    "traktSortBy": "random",
-    "minRating": 57,
-    "minYear": 1980
-  },
-  {
-    "id": "trakt-action-80s-action-classics-action-80s-style",
-    "title": "80s Action Classics",
+    "id": "trakt-action-1980s-action-action-80s-style",
+    "title": "1980s Action",
     "url": "marcelocastanheira/lists/action-80s-style",
     "catalogType": "traktMovie",
     "traktSortBy": "random",
@@ -198,27 +99,72 @@
     "minYear": 1980
   },
   {
-    "id": "trakt-action-90s-action-movies-90s-blockbusters",
-    "title": "90s Action Movies",
-    "url": "lysin/lists/90s-blockbusters",
+    "id": "trakt-action-trakt-movie---decade-1990s-trakt-movie-decade-1990s",
+    "title": "Trakt: Movie - Decade: 1990s",
+    "url": "felix66/lists/trakt-movie-decade-1990s",
     "catalogType": "traktMovie",
     "traktSortBy": "random",
     "minRating": 57,
     "minYear": 1980
   },
   {
-    "id": "trakt-action-action-comedies-action_-best-of-80s-90s-00s-action-copy",
-    "title": "Action Comedies",
-    "url": "hippydog77/lists/action_-best-of-80s-90s-00s-action-copy",
+    "id": "trakt-action-romantic-comedies-romantic-comedies",
+    "title": "Romantic Comedies",
+    "url": "hammers-lists/lists/romantic-comedies",
     "catalogType": "traktMovie",
     "traktSortBy": "random",
     "minRating": 57,
     "minYear": 1980
   },
   {
-    "id": "trakt-action-your-next-watch-bang-bang-bang",
+    "id": "trakt-action-action-thrillers-action-thriller-not-on-netflix-prime",
+    "title": "Action Thrillers",
+    "url": "amazing-journey/lists/action-thriller-not-on-netflix-prime",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1980
+  },
+  {
+    "id": "trakt-action-100-greatest-sci-fi-movies-100-greatest-sci-fi-movies",
+    "title": "100 Greatest Sci-Fi Movies",
+    "url": "codermike/lists/100-greatest-sci-fi-movies",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1980
+  },
+  {
+    "id": "trakt-action-superhero-action-marvel-cinematic-universe",
+    "title": "Superhero Action",
+    "url": "donxy/lists/marvel-cinematic-universe",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1980
+  },
+  {
+    "id": "trakt-action-asian-action-cinema-lovehkfilm-s-top-100-hong-kong-films-of-the-nineties",
+    "title": "Asian Action Cinema",
+    "url": "sp1ti/lists/lovehkfilm-s-top-100-hong-kong-films-of-the-nineties",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1980
+  },
+  {
+    "id": "trakt-action-survival-action-survival-horror",
+    "title": "Survival Action",
+    "url": "ravynloony/lists/survival-horror",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1980
+  },
+  {
+    "id": "trakt-action-your-next-watch-disney-live-action-movies",
     "title": "Your Next Watch",
-    "url": "marcelocastanheira/lists/bang-bang-bang",
+    "url": "ricksanchez/lists/disney-live-action-movies",
     "catalogType": "traktMovie",
     "traktSortBy": "random",
     "minRating": 57,
