@@ -1,23 +1,5 @@
 [
   {
-    "id": "trakt-scifi-star-wars-canon-timeline-star-wars-canon-timeline",
-    "title": "Star Wars Universe",
-    "url": "sonicwarrior/lists/star-wars-canon-timeline",
-    "catalogType": "traktMovie",
-    "traktSortBy": "random",
-    "minRating": 57,
-    "minYear": 1980
-  },
-  {
-    "id": "trakt-scifi-star-trek-canon-star-trek-canon",
-    "title": "Star Trek Universe",
-    "url": "dgw/lists/star-trek-canon",
-    "catalogType": "traktMovie",
-    "traktSortBy": "random",
-    "minRating": 57,
-    "minYear": 1980
-  },
-  {
     "id": "trakt-scifi-science-fiction-science-fiction",
     "title": "Today's Top Picks for You",
     "url": "movistapp/lists/science-fiction",
@@ -35,42 +17,7 @@
     "minRating": 57,
     "minYear": 1980
   },
-  {
-    "id": "trakt-scifi-sci-fi-sci-fi-72c81243-2a16-453c-8366-b41d86114c23",
-    "title": "Sci-Fi Adventures",
-    "url": "usiris/lists/sci-fi-72c81243-2a16-453c-8366-b41d86114c23",
-    "catalogType": "traktMovie",
-    "traktSortBy": "random",
-    "minRating": 57,
-    "minYear": 1980
-  },
-  {
-    "id": "trakt-scifi-star-wars-chronological-order-star-wars-chronological-order",
-    "title": "Star Wars in Order",
-    "url": "xrayblaster/lists/star-wars-chronological-order",
-    "catalogType": "traktMovie",
-    "traktSortBy": "random",
-    "minRating": 57,
-    "minYear": 1980
-  },
-  {
-    "id": "trakt-scifi-star-wars-star-wars",
-    "title": "Star Wars Classics",
-    "url": "yoru14/lists/star-wars",
-    "catalogType": "traktMovie",
-    "traktSortBy": "random",
-    "minRating": 57,
-    "minYear": 1980
-  },
-  {
-    "id": "trakt-scifi-watching-order-star-wars-new-canon-watching-order-star-wars-new-canon",
-    "title": "Star Wars Watching Order",
-    "url": "grendelcrusher/lists/watching-order-star-wars-new-canon",
-    "catalogType": "traktMovie",
-    "traktSortBy": "random",
-    "minRating": 57,
-    "minYear": 1980
-  },
+
   {
     "id": "trakt-scifi-science-fiction-movies-science-fiction-movies",
     "title": "Sci-Fi Movies",
@@ -90,45 +37,9 @@
     "minYear": 1980
   },
   {
-    "id": "trakt-scifi-the-star-wars-saga-feature-films-and-tv-shows-the-star-wars-saga-feature-films-and-tv-show",
-    "title": "Star Wars Saga",
-    "url": "pullsa/lists/the-star-wars-saga-feature-films-and-tv-shows",
-    "catalogType": "traktTv",
-    "traktSortBy": "random",
-    "minRating": 57,
-    "minYear": 1980
-  },
-  {
     "id": "trakt-scifi-aliens-aliens",
     "title": "Alien Encounters",
     "url": "29zombies/lists/aliens",
-    "catalogType": "traktMovie",
-    "traktSortBy": "random",
-    "minRating": 57,
-    "minYear": 1980
-  },
-  {
-    "id": "trakt-scifi-star-trek-watching-order-star-trek-watching-order",
-    "title": "Star Trek in Order",
-    "url": "username57/lists/star-trek-watching-order",
-    "catalogType": "traktMovie",
-    "traktSortBy": "random",
-    "minRating": 57,
-    "minYear": 1980
-  },
-  {
-    "id": "trakt-scifi-star-trek-star-trek",
-    "title": "Star Trek Classics",
-    "url": "strangerer/lists/star-trek",
-    "catalogType": "traktMovie",
-    "traktSortBy": "random",
-    "minRating": 57,
-    "minYear": 1980
-  },
-  {
-    "id": "trakt-scifi-watching-order-star-trek-watching-order-star-trek",
-    "title": "Star Trek Watching Order",
-    "url": "grendelcrusher/lists/watching-order-star-trek",
     "catalogType": "traktMovie",
     "traktSortBy": "random",
     "minRating": 57,
@@ -147,15 +58,6 @@
     "id": "trakt-scifi-heavily-buzzed-sci-fihorrorfantasy-genre-films-in-festivals-2014-heavily-buzzed-sci-fi-hor",
     "title": "Sci-Fi Horror",
     "url": "philrivers/lists/heavily-buzzed-sci-fi-horror-fantasy-genre-films-in-festivals-2014",
-    "catalogType": "traktMovie",
-    "traktSortBy": "random",
-    "minRating": 57,
-    "minYear": 1980
-  },
-  {
-    "id": "trakt-scifi-star-wars-timeline-star-wars-timeline",
-    "title": "Star Wars Timeline",
-    "url": "username57/lists/star-wars-timeline",
     "catalogType": "traktMovie",
     "traktSortBy": "random",
     "minRating": 57,
@@ -252,15 +154,6 @@
     "minYear": 1980
   },
   {
-    "id": "trakt-scifi-star-trek-20-picks-star-trek",
-    "title": "Star Trek Essentials",
-    "url": "zorge88/lists/star-trek",
-    "catalogType": "traktMovie",
-    "traktSortBy": "random",
-    "minRating": 57,
-    "minYear": 1980
-  },
-  {
     "id": "trakt-scifi-all-science-fiction-tv-series-all-science-fiction-tv-series",
     "title": "Sci-Fi TV Collection",
     "url": "a925sw/lists/all-science-fiction-tv-series",
@@ -274,15 +167,6 @@
     "title": "Apocalyptic Films",
     "url": "marcelocastanheira/lists/sci-fi-dystopia",
     "catalogType": "traktMovie",
-    "traktSortBy": "random",
-    "minRating": 57,
-    "minYear": 1980
-  },
-  {
-    "id": "trakt-scifi-my-science-fiction-movies-and-series-my-science-fiction-movies-and-series",
-    "title": "Sci-Fi Favorites",
-    "url": "grendelcrusher/lists/my-science-fiction-movies-and-series",
-    "catalogType": "traktTv",
     "traktSortBy": "random",
     "minRating": 57,
     "minYear": 1980
@@ -306,15 +190,6 @@
     "minYear": 1980
   },
   {
-    "id": "trakt-scifi-star-wars-chronological-star-wars-chronological",
-    "title": "Star Wars Chronological",
-    "url": "marcelocastanheira/lists/star-wars-chronological",
-    "catalogType": "traktMovie",
-    "traktSortBy": "random",
-    "minRating": 57,
-    "minYear": 1980
-  },
-  {
     "id": "trakt-scifi-alienblade-runnerpredator-timeline-alien-blade-runner-predator-timeline",
     "title": "Alien Universe",
     "url": "sonicwarrior/lists/alien-blade-runner-predator-timeline",
@@ -324,36 +199,9 @@
     "minYear": 1980
   },
   {
-    "id": "trakt-scifi-ranker-top-alien-movies-ranker-top-alien-movies",
-    "title": "Greatest Alien Films",
-    "url": "kayaaron13/lists/ranker-top-alien-movies",
-    "catalogType": "traktMovie",
-    "traktSortBy": "random",
-    "minRating": 57,
-    "minYear": 1980
-  },
-  {
     "id": "trakt-scifi-semi-hard-science-fiction-semi-hard-science-fiction-copy",
     "title": "Hard Sci-Fi",
     "url": "kayaaron13/lists/semi-hard-science-fiction-copy",
-    "catalogType": "traktMovie",
-    "traktSortBy": "random",
-    "minRating": 57,
-    "minYear": 1980
-  },
-  {
-    "id": "trakt-scifi-hammer-horror-scifi-hammer-horror-scifi",
-    "title": "Classic Sci-Fi",
-    "url": "marcelocastanheira/lists/hammer-horror-scifi",
-    "catalogType": "traktMovie",
-    "traktSortBy": "random",
-    "minRating": 57,
-    "minYear": 1980
-  },
-  {
-    "id": "trakt-scifi-alien-blade-runner-universe-timeline-alien-blade-runner-universe-timeline",
-    "title": "Blade Runner Universe",
-    "url": "username57/lists/alien-blade-runner-universe-timeline",
     "catalogType": "traktMovie",
     "traktSortBy": "random",
     "minRating": 57,
@@ -378,36 +226,9 @@
     "minYear": 1980
   },
   {
-    "id": "trakt-scifi-star-trek-universe-star-trek-universe",
-    "title": "Star Trek Universe",
-    "url": "pullsa/lists/star-trek-universe",
-    "catalogType": "traktMovie",
-    "traktSortBy": "random",
-    "minRating": 57,
-    "minYear": 1980
-  },
-  {
-    "id": "trakt-scifi-scifi-1970s-scifi-1970s",
-    "title": "1970s Sci-Fi",
-    "url": "blom-00/lists/scifi-1970s",
-    "catalogType": "traktMovie",
-    "traktSortBy": "random",
-    "minRating": 57,
-    "minYear": 1980
-  },
-  {
     "id": "trakt-scifi-my-most-favorite-science-fiction-movies-my-most-favorite-science-fiction-movies",
     "title": "Sci-Fi Classics",
     "url": "benfranklin/lists/my-most-favorite-science-fiction-movies",
-    "catalogType": "traktMovie",
-    "traktSortBy": "random",
-    "minRating": 57,
-    "minYear": 1980
-  },
-  {
-    "id": "trakt-scifi-scifi-1960s-scifi-1960s",
-    "title": "1960s Sci-Fi",
-    "url": "blom-00/lists/scifi-1960s",
     "catalogType": "traktMovie",
     "traktSortBy": "random",
     "minRating": 57,
@@ -426,15 +247,6 @@
     "id": "trakt-scifi-sci-fi-favorites-ranked-sci-fi-favorites-ranked",
     "title": "Ranked Sci-Fi Picks",
     "url": "acoucalancha/lists/sci-fi-favorites-ranked",
-    "catalogType": "traktMovie",
-    "traktSortBy": "random",
-    "minRating": 57,
-    "minYear": 1980
-  },
-  {
-    "id": "trakt-scifi-scifi-classic-scifi-classic",
-    "title": "Vintage Sci-Fi",
-    "url": "blom-00/lists/scifi-classic",
     "catalogType": "traktMovie",
     "traktSortBy": "random",
     "minRating": 57,
