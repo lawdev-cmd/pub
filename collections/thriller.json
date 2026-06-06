@@ -1,143 +1,26 @@
 [
   {
-    "id": "trakt-thriller-action-movies-assassin-hitman-spy",
-    "title": "Action Movies",
-    "url": "29zombies/lists/assassin-hitman-spy",
+    "id": "trakt-thriller-thriller-thriller",
+    "title": "Today's Top Picks for You",
+    "url": "movistapp/lists/thriller",
     "catalogType": "traktMovie",
     "traktSortBy": "random",
     "minRating": 57,
     "minYear": 1980
   },
   {
-    "id": "trakt-thriller-boredom-busters-binge-worthy",
-    "title": "Boredom Busters",
-    "url": "ibjamn78/lists/binge-worthy",
-    "catalogType": "traktTv",
-    "traktSortBy": "random",
-    "minRating": 57,
-    "minYear": 1980
-  },
-  {
-    "id": "trakt-thriller-critically-acclaimed-binge-worthy-tv-shows-imdb-top-rated-tv-shows",
-    "title": "Critically Acclaimed Binge-Worthy TV Shows",
-    "url": "justin/lists/imdb-top-rated-tv-shows",
-    "catalogType": "traktTv",
-    "traktSortBy": "random",
-    "minRating": 57,
-    "minYear": 1980
-  },
-  {
-    "id": "trakt-thriller-only-on-netflix-netflix-shows",
-    "title": "Streaming Picks",
-    "url": "garycrawfordgc/lists/netflix-shows",
-    "catalogType": "traktTv",
-    "traktSortBy": "random",
-    "minRating": 57,
-    "minYear": 1980
-  },
-  {
-    "id": "trakt-thriller-crime-tv-dramas-the-best-of-thriller-crime-drama-tv-shows",
-    "title": "Crime TV Dramas",
-    "url": "iyez/lists/the-best-of-thriller-crime-drama-tv-shows",
-    "catalogType": "traktTv",
-    "traktSortBy": "random",
-    "minRating": 57,
-    "minYear": 1980
-  },
-  {
-    "id": "trakt-thriller-bad-cops-antiheroes-bad-dirty-corrupt-cops",
-    "title": "Bad Cops & Antiheroes",
-    "url": "29zombies/lists/bad-dirty-corrupt-cops",
-    "catalogType": "traktMovie",
-    "traktSortBy": "random",
-    "minRating": 57,
-    "minYear": 1980
-  },
-  {
-    "id": "trakt-thriller-action-adventure-movies-action-and-adventure-movies",
-    "title": "Action & Adventure Movies",
-    "url": "coldkeys/lists/action-and-adventure-movies",
-    "catalogType": "traktMovie",
-    "traktSortBy": "random",
-    "minRating": 57,
-    "minYear": 1980
-  },
-  {
-    "id": "trakt-thriller-get-in-on-the-action-action-thrillers",
-    "title": "Get in on the Action",
-    "url": "kingkearney/lists/action-thrillers",
-    "catalogType": "traktMovie",
-    "traktSortBy": "random",
-    "minRating": 57,
-    "minYear": 1980
-  },
-  {
-    "id": "trakt-thriller-binge-worthy-tv-shows-trakt-popular-tv-shows",
-    "title": "Binge-Worthy TV Shows",
-    "url": "justin/lists/trakt-popular-tv-shows",
-    "catalogType": "traktTv",
-    "traktSortBy": "random",
-    "minRating": 57,
-    "minYear": 1980
-  },
-  {
-    "id": "trakt-thriller-activating-beast-mode-badass-chics",
-    "title": "Activating Beast Mode",
-    "url": "hirkiti/lists/badass-chics",
-    "catalogType": "traktMovie",
-    "traktSortBy": "random",
-    "minRating": 57,
-    "minYear": 1980
-  },
-  {
-    "id": "trakt-thriller-gritty-tv-dramas-the-best-gritty-crime-tv-shows",
-    "title": "Gritty TV Dramas",
-    "url": "jim222001/lists/the-best-gritty-crime-tv-shows",
-    "catalogType": "traktTv",
-    "traktSortBy": "random",
-    "minRating": 57,
-    "minYear": 1980
-  },
-  {
-    "id": "trakt-thriller-mind-boggling-binge-watches-best-mindfucks",
-    "title": "Mind-Boggling Binge Watches",
-    "url": "benfranklin/lists/best-mindfucks",
-    "catalogType": "traktTv",
-    "traktSortBy": "random",
-    "minRating": 57,
-    "minYear": 1980
-  },
-  {
-    "id": "trakt-thriller-action-thrillers-action-thrillers",
-    "title": "Action Thrillers",
-    "url": "kingkearney/lists/action-thrillers",
-    "catalogType": "traktMovie",
-    "traktSortBy": "random",
-    "minRating": 57,
-    "minYear": 1980
-  },
-  {
-    "id": "trakt-thriller-mystery-movies-100-best-mystery-movies",
-    "title": "Mystery Movies",
-    "url": "lencocoa/lists/100-best-mystery-movies",
-    "catalogType": "traktMovie",
-    "traktSortBy": "random",
-    "minRating": 57,
-    "minYear": 1980
-  },
-  {
-    "id": "trakt-thriller-women-who-rule-the-screen-strong-and-interesting-women",
-    "title": "Women Who Rule the Screen",
-    "url": "kutrinet/lists/strong-and-interesting-women",
-    "catalogType": "traktMovie",
-    "traktSortBy": "random",
-    "minRating": 57,
-    "minYear": 1980
-  },
-  {
-    "id": "trakt-thriller-psychological-thrillers-psychological-thrillers-or-thought-provoking-movies",
+    "id": "trakt-thriller-psychological-thrillers-psychological-thrillers",
     "title": "Psychological Thrillers",
-    "url": "pato22/lists/psychological-thrillers-or-thought-provoking-movies",
+    "url": "majeed_pk/lists/psychological-thrillers",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1980
+  },
+  {
+    "id": "trakt-thriller-top-200-psychological-thrillers-top-200-psychological-thrillers",
+    "title": "Essential Psychological Thrillers",
+    "url": "majeed_pk/lists/top-200-psychological-thrillers",
     "catalogType": "traktMovie",
     "traktSortBy": "random",
     "minRating": 57,
@@ -153,145 +36,163 @@
     "minYear": 1980
   },
   {
-    "id": "trakt-thriller-comedy-movies-the-great-dark-comedy-list",
-    "title": "Comedy Movies",
-    "url": "majeed_pk/lists/the-great-dark-comedy-list",
-    "catalogType": "traktMovie",
-    "traktSortBy": "random",
-    "minRating": 57,
-    "minYear": 1980
-  },
-  {
-    "id": "trakt-thriller-star-power-best-suspense-thriller-movies",
-    "title": "Star Power",
-    "url": "majeed_pk/lists/best-suspense-thriller-movies",
-    "catalogType": "traktMovie",
-    "traktSortBy": "random",
-    "minRating": 57,
-    "minYear": 1980
-  },
-  {
-    "id": "trakt-thriller-conspiracy-tv-shows-political-thrillers-conspiracy-espionage-terror",
-    "title": "Conspiracy TV Shows",
+    "id": "trakt-thriller-political-thrillers-conspiracy-espionage-terror-political-thrillers-conspiracy-espionage-t",
+    "title": "Conspiracy Thrillers",
     "url": "majeed_pk/lists/political-thrillers-conspiracy-espionage-terror",
-    "catalogType": "traktTv",
-    "traktSortBy": "random",
-    "minRating": 57,
-    "minYear": 1980
-  },
-  {
-    "id": "trakt-thriller-limited-series-british-tv-mini-series",
-    "title": "Limited Series",
-    "url": "majeed_pk/lists/british-tv-mini-series",
-    "catalogType": "traktTv",
-    "traktSortBy": "random",
-    "minRating": 57,
-    "minYear": 1980
-  },
-  {
-    "id": "trakt-thriller-blockbuster-exciting-movies-blockbusters",
-    "title": "Blockbuster Exciting Movies",
-    "url": "kingkearney/lists/blockbusters",
     "catalogType": "traktMovie",
     "traktSortBy": "random",
     "minRating": 57,
     "minYear": 1980
   },
   {
-    "id": "trakt-thriller-young-adult-movies-shows-young-and-wild",
-    "title": "Young Adult Movies & Shows",
-    "url": "coco_brown11/lists/young-and-wild",
-    "catalogType": "traktTv",
-    "traktSortBy": "random",
-    "minRating": 57,
-    "minYear": 1980
-  },
-  {
-    "id": "trakt-thriller-drama-movies-drama",
-    "title": "Drama Movies",
-    "url": "garycrawfordgc/lists/drama",
+    "id": "trakt-thriller-thriller-117-picks-thriller",
+    "title": "Handpicked Thrillers",
+    "url": "jtucci/lists/thriller",
     "catalogType": "traktMovie",
     "traktSortBy": "random",
     "minRating": 57,
     "minYear": 1980
   },
   {
-    "id": "trakt-thriller-horror-movies-horror",
-    "title": "Horror Movies",
-    "url": "garycrawfordgc/lists/horror",
+    "id": "trakt-thriller-psychological-thrillers-202-picks-psychological-thrillers",
+    "title": "Mind-Bending Thrillers",
+    "url": "istoit/lists/psychological-thrillers",
     "catalogType": "traktMovie",
     "traktSortBy": "random",
     "minRating": 57,
     "minYear": 1980
   },
   {
-    "id": "trakt-thriller-suspenseful-movies-imdb-s-top-thriller-movies",
-    "title": "Suspenseful Movies",
-    "url": "irishstevo/lists/imdb-s-top-thriller-movies",
+    "id": "trakt-thriller-legal-dramas-legal-thrillers-legal-dramas-legal-thrillers",
+    "title": "Legal & Courtroom Thrillers",
+    "url": "twentywashere/lists/legal-dramas-legal-thrillers",
     "catalogType": "traktMovie",
     "traktSortBy": "random",
     "minRating": 57,
     "minYear": 1980
   },
   {
-    "id": "trakt-thriller-crime-movies-crime",
-    "title": "Crime Movies",
-    "url": "garycrawfordgc/lists/crime",
+    "id": "trakt-thriller-thriller-1523-picks-thriller",
+    "title": "Thriller Essentials",
+    "url": "usiris/lists/thriller",
     "catalogType": "traktMovie",
     "traktSortBy": "random",
     "minRating": 57,
     "minYear": 1980
   },
   {
-    "id": "trakt-thriller-blockbuster-movies-90s-blockbusters",
-    "title": "Blockbuster Movies",
-    "url": "lysin/lists/90s-blockbusters",
+    "id": "trakt-thriller-twisted-plots-and-psychological-mindfucks-twisted-plots-and-psychological-mindfucks",
+    "title": "Twisted Psychological Thrillers",
+    "url": "29zombies/lists/twisted-plots-and-psychological-mindfucks",
     "catalogType": "traktMovie",
     "traktSortBy": "random",
     "minRating": 57,
     "minYear": 1980
   },
   {
-    "id": "trakt-thriller-gems-for-you-underrated-unusual-cult-films",
-    "title": "Gems for You",
-    "url": "majeed_pk/lists/underrated-unusual-cult-films",
+    "id": "trakt-thriller-thriller-1990s-thriller-1990s",
+    "title": "1990s Thrillers",
+    "url": "blom-00/lists/thriller-1990s",
     "catalogType": "traktMovie",
     "traktSortBy": "random",
     "minRating": 57,
     "minYear": 1980
   },
   {
-    "id": "trakt-thriller-tv-dramas-drama-shows",
-    "title": "TV Dramas",
-    "url": "garycrawfordgc/lists/drama-shows",
-    "catalogType": "traktTv",
-    "traktSortBy": "random",
-    "minRating": 57,
-    "minYear": 1980
-  },
-  {
-    "id": "trakt-thriller-watch-in-one-weekend-academy-awards-best-picture-winners",
-    "title": "Watch in One Weekend",
-    "url": "thefork/lists/academy-awards-best-picture-winners",
+    "id": "trakt-thriller-thriller-2000s-thriller-2000s",
+    "title": "2000s Thrillers",
+    "url": "blom-00/lists/thriller-2000s",
     "catalogType": "traktMovie",
     "traktSortBy": "random",
     "minRating": 57,
     "minYear": 1980
   },
   {
-    "id": "trakt-thriller-tv-shows-based-on-books-imdb-top-rated-tv-shows",
-    "title": "TV Shows Based on Books",
-    "url": "justin/lists/imdb-top-rated-tv-shows",
-    "catalogType": "traktTv",
+    "id": "trakt-thriller-thriller-2010s-thriller-2010s",
+    "title": "2010s Thrillers",
+    "url": "blom-00/lists/thriller-2010s",
+    "catalogType": "traktMovie",
     "traktSortBy": "random",
     "minRating": 57,
     "minYear": 1980
   },
   {
-    "id": "trakt-thriller-suspenseful-tv-shows-the-best-of-thriller-crime-drama-tv-shows",
-    "title": "Suspenseful TV Shows",
-    "url": "iyez/lists/the-best-of-thriller-crime-drama-tv-shows",
-    "catalogType": "traktTv",
+    "id": "trakt-thriller-action-thriller-not-on-netflixprime-action-thriller-not-on-netflix-prime",
+    "title": "Action Thrillers",
+    "url": "amazing-journey/lists/action-thriller-not-on-netflix-prime",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1980
+  },
+  {
+    "id": "trakt-thriller-genre-thriller-2600-titles-1970-2013-genre-thriller-2600-titles-1970-2013",
+    "title": "Classic Thriller Films",
+    "url": "xilfneps/lists/genre-thriller-2600-titles-1970-2013",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1980
+  },
+  {
+    "id": "trakt-thriller-thriller-1980s-thriller-1980s",
+    "title": "1980s Thrillers",
+    "url": "blom-00/lists/thriller-1980s",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1980
+  },
+  {
+    "id": "trakt-thriller-thriller-movies-thriller-movies",
+    "title": "Crime Thrillers",
+    "url": "caspian024/lists/thriller-movies",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1980
+  },
+  {
+    "id": "trakt-thriller-actionthriller-action-thriller",
+    "title": "Action & Suspense",
+    "url": "miester433/lists/action-thriller",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1980
+  },
+  {
+    "id": "trakt-thriller-sexy-thrillers-sexy-thrillers",
+    "title": "Seductive Thrillers",
+    "url": "amohr/lists/sexy-thrillers",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1980
+  },
+  {
+    "id": "trakt-thriller-thriller-1970s-thriller-1970s",
+    "title": "1970s Thrillers",
+    "url": "blom-00/lists/thriller-1970s",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1980
+  },
+  {
+    "id": "trakt-thriller-psychological-horror-films-psychological-horror-films-copy",
+    "title": "Psychological Horror",
+    "url": "kayaaron13/lists/psychological-horror-films-copy",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1980
+  },
+  {
+    "id": "trakt-thriller-hammer-horror-thrillers-and-more-hammer-horror-thrillers-and-more",
+    "title": "Your Next Watch",
+    "url": "twentywashere/lists/hammer-horror-thrillers-and-more",
+    "catalogType": "traktMovie",
     "traktSortBy": "random",
     "minRating": 57,
     "minYear": 1980
