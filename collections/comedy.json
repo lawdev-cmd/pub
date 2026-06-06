@@ -225,15 +225,6 @@
     "minYear": 1980
   },
   {
-    "id": "trakt-comedies-comedy-1970s-comedy-1970s",
-    "title": "1970s Comedies",
-    "url": "blom-00/lists/comedy-1970s",
-    "catalogType": "traktMovie",
-    "traktSortBy": "random",
-    "minRating": 57,
-    "minYear": 1980
-  },
-  {
     "id": "trakt-comedies-stand-up-stand-up",
     "title": "Stand-Up Favorites",
     "url": "madmapper/lists/stand-up",
