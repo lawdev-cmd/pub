@@ -144,7 +144,7 @@
     "minYear": 1980
   },
   {
-    "id": "trakt-thriller-thriller-movies-thriller-movies",
+    "id": "trakt-thriller-crime-thrillers-thriller-movies",
     "title": "Crime Thrillers",
     "url": "caspian024/lists/thriller-movies",
     "catalogType": "traktMovie",
@@ -174,15 +174,6 @@
     "id": "trakt-thriller-psychological-horror-films-psychological-horror-films-copy",
     "title": "Psychological Horror",
     "url": "kayaaron13/lists/psychological-horror-films-copy",
-    "catalogType": "traktMovie",
-    "traktSortBy": "random",
-    "minRating": 57,
-    "minYear": 1980
-  },
-  {
-    "id": "trakt-thriller-hammer-horror-thrillers-and-more-hammer-horror-thrillers-and-more",
-    "title": "Your Next Watch",
-    "url": "twentywashere/lists/hammer-horror-thrillers-and-more",
     "catalogType": "traktMovie",
     "traktSortBy": "random",
     "minRating": 57,
