@@ -56,7 +56,7 @@
   {
     "id": "trakt-romance-rom-coms-rom-coms",
     "title": "Feel-Good Rom-Coms",
-    "url": "hammers-lists/lists/romantic-comedies",
+    "url": "users/hammers-lists/lists/romantic-comedies",
     "catalogType": "traktMovie",
     "traktSortBy": "random",
     "minRating": 57,
@@ -99,7 +99,7 @@
     "minYear": 1980
   },
   {
-    "id": "trakt-romance-rom-coms-rom-coms",
+    "id": "trakt-romance-romance-classics-rom-coms",
     "title": "Romance Classics",
     "url": "madmapper/lists/rom-coms",
     "catalogType": "traktMovie",
