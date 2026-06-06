@@ -18,15 +18,6 @@
     "minYear": 1980
   },
   {
-    "id": "trakt-adventure-adventure-951-picks-adventure",
-    "title": "Adventure Essentials",
-    "url": "usiris/lists/adventure",
-    "catalogType": "traktMovie",
-    "traktSortBy": "random",
-    "minRating": 57,
-    "minYear": 1980
-  },
-  {
     "id": "trakt-adventure-genre-adventure-1250-titles-1970-2013-genre-adventure-1250-titles-1970-2013",
     "title": "Classic Adventure Films",
     "url": "xilfneps/lists/genre-adventure-1250-titles-1970-2013",
