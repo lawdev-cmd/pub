@@ -397,9 +397,11 @@
   {
     "id": "trakt-comedy-movies",
     "title": "Need a Good Laugh?",
-    "url": "ljransom/lists/comedy-movies",
+    "url": "joemarar/lists/classic-comedy-movies",
     "catalogType": "traktMovie",
-    "traktSortBy": "random"
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1997
   },
   {
     "id": "trakt-top-rated-crime-films",
