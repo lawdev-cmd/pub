@@ -397,7 +397,7 @@
   {
     "id": "trakt-comedy-movies",
     "title": "Need a Good Laugh?",
-    "url": "joemarar/lists/classic-comedy-movies",
+    "url": "ricksanchez/lists/comedy-movies",
     "catalogType": "traktMovie",
     "traktSortBy": "random",
     "minRating": 57,
