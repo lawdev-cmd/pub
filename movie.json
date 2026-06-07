@@ -3,7 +3,8 @@
     "title": "Trending Movies",
     "url": "tvgeniekodi/lists/trending-movies",
     "catalogType": "traktMovie",
-    "traktSortBy": null
+    "traktSortBy": null,
+    "inPlace": true
   },
   {
     "id": "trakt-revenge-movies",
