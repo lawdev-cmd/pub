@@ -400,8 +400,8 @@
     "url": "ricksanchez/lists/comedy-movies",
     "catalogType": "traktMovie",
     "traktSortBy": "random",
-    "minRating": 57,
-    "minYear": 1997
+    "minRating": 55,
+    "minYear": 1994
   },
   {
     "id": "trakt-top-rated-crime-films",
