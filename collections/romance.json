@@ -24,7 +24,7 @@
     "catalogType": "traktMovie",
     "traktSortBy": "random",
     "minRating": 57,
-    "minYear": 1980
+    "minYear": 1990
   },
   {
     "id": "trakt-romance-best-rom-coms-best-rom-coms",
@@ -60,7 +60,7 @@
     "catalogType": "traktMovie",
     "traktSortBy": "random",
     "minRating": 57,
-    "minYear": 1980
+    "minYear": 1997
   },
   {
     "id": "trakt-romance-new-romantic-comedies-new-romantic-comedies",
