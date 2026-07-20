@@ -1,0 +1,206 @@
+[
+  {
+    "id": "trakt-trending-movies",
+    "title": "Trending Movies",
+    "url": "tvgeniekodi/lists/trending-movies",
+    "source": "Trakt"
+  },
+  {
+    "id": "tvgeniekodi-trakt-trending-shows",
+    "title": "Trending Shows",
+    "url": "tvgeniekodi/lists/trending-shows",
+    "source": "Trakt"
+  },
+  {
+    "id": "popular-action",
+    "title": "Action Movies",
+    "url": "discover/movie?include_adult=false&include_video=false&language=en-US&with_release_type=4%7C5%7C6&vote_count.gte=30&sort_by=primary_release_date.desc&with_genres=28&with_watch_providers=2|8|337|15|9|384|188|43|386|387|531|1968&watch_region=US&with_original_language=en",
+    "source": "TmdbMovie"
+  },
+  {
+    "id": "popular-adventure",
+    "title": "Adventure Movies",
+    "url": "discover/movie?include_adult=false&include_video=false&language=en-US&with_release_type=4%7C5%7C6&vote_count.gte=30&sort_by=primary_release_date.desc&with_genres=12&with_watch_providers=2|8|337|15|9|384|188|43|386|387|531|1968&watch_region=US&with_original_language=en",
+    "source": "TmdbMovie"
+  },
+  {
+    "id": "popular-animation",
+    "title": "Animation Movies",
+    "url": "discover/movie?include_adult=false&include_video=false&language=en-US&with_release_type=4%7C5%7C6&vote_count.gte=30&sort_by=primary_release_date.desc&with_genres=16&with_watch_providers=2|8|337|15|9|384|188|43|386|387|531|1968&watch_region=US&with_original_language=en",
+    "source": "TmdbMovie"
+  },
+  {
+    "id": "popular-comedy",
+    "title": "Comedy Movies",
+    "url": "discover/movie?include_adult=false&include_video=false&language=en-US&with_release_type=4%7C5%7C6&vote_count.gte=30&sort_by=primary_release_date.desc&with_genres=35&with_watch_providers=2|8|337|15|9|384|188|43|386|387|531|1968&watch_region=US&with_original_language=en",
+    "source": "TmdbMovie"
+  },
+  {
+    "id": "popular-crime",
+    "title": "Crime Movies",
+    "url": "discover/movie?include_adult=false&include_video=false&language=en-US&with_release_type=4%7C5%7C6&vote_count.gte=30&sort_by=primary_release_date.desc&with_genres=80&with_watch_providers=2|8|337|15|9|384|188|43|386|387|531|1968&watch_region=US&with_original_language=en",
+    "source": "TmdbMovie"
+  },
+  {
+    "id": "popular-drama",
+    "title": "Drama Movies",
+    "url": "discover/movie?include_adult=false&include_video=false&language=en-US&with_release_type=4%7C5%7C6&vote_count.gte=30&sort_by=primary_release_date.desc&with_genres=18&with_watch_providers=2|8|337|15|9|384|188|43|386|387|531|1968&watch_region=US&with_original_language=en",
+    "source": "TmdbMovie"
+  },
+  {
+    "id": "popular-family",
+    "title": "Family Movies",
+    "url": "discover/movie?include_adult=false&include_video=false&language=en-US&with_release_type=4%7C5%7C6&vote_count.gte=30&sort_by=primary_release_date.desc&with_genres=10751&with_watch_providers=2|8|337|15|9|384|188|43|386|387|531|1968&watch_region=US&with_original_language=en",
+    "source": "TmdbMovie"
+  },
+  {
+    "id": "popular-fantasy",
+    "title": "Fantasy Movies",
+    "url": "discover/movie?include_adult=false&include_video=false&language=en-US&with_release_type=4%7C5%7C6&vote_count.gte=30&sort_by=primary_release_date.desc&with_genres=14&without_genres=10751&with_watch_providers=2|8|337|15|9|384|188|43|386|387|531|1968&watch_region=US&with_original_language=en",
+    "source": "TmdbMovie"
+  },
+  {
+    "id": "popular-horror",
+    "title": "Horror Movies",
+    "url": "discover/movie?include_adult=false&include_video=false&language=en-US&with_release_type=4%7C5%7C6&vote_count.gte=30&sort_by=primary_release_date.desc&with_genres=27&with_watch_providers=2|8|337|15|9|384|188|43|386|387|531|1968&watch_region=US&with_original_language=en",
+    "source": "TmdbMovie"
+  },
+  {
+    "id": "popular-mystery",
+    "title": "Mystery Movies",
+    "url": "discover/movie?include_adult=false&include_video=false&language=en-US&with_release_type=4%7C5%7C6&vote_count.gte=30&sort_by=primary_release_date.desc&with_genres=9648&with_watch_providers=2|8|337|15|9|384|188|43|386|387|531|1968&watch_region=US&with_original_language=en",
+    "source": "TmdbMovie"
+  },
+  {
+    "id": "popular-romance",
+    "title": "Romance Movies",
+    "url": "discover/movie?include_adult=false&include_video=false&language=en-US&with_release_type=4%7C5%7C6&vote_count.gte=30&sort_by=primary_release_date.desc&with_genres=10749&with_watch_providers=2|8|337|15|9|384|188|43|386|387|531|1968&watch_region=US&with_original_language=en",
+    "source": "TmdbMovie"
+  },
+  {
+    "id": "popular-science-fiction",
+    "title": "Science Fiction Movies",
+    "url": "discover/movie?include_adult=false&include_video=false&language=en-US&with_release_type=4%7C5%7C6&vote_count.gte=30&sort_by=primary_release_date.desc&with_genres=878&with_watch_providers=2|8|337|15|9|384|188|43|386|387|531|1968&watch_region=US&with_original_language=en",
+    "source": "TmdbMovie"
+  },
+  {
+    "id": "popular-tv-movie",
+    "title": "TV Movies",
+    "url": "discover/movie?include_adult=false&include_video=false&language=en-US&with_release_type=4%7C5%7C6&vote_count.gte=30&sort_by=primary_release_date.desc&with_genres=10770&with_watch_providers=2|8|337|15|9|384|188|43|386|387|531|1968&watch_region=US&with_original_language=en",
+    "source": "TmdbMovie"
+  },
+  {
+    "id": "popular-thriller",
+    "title": "Thriller Movies",
+    "url": "discover/movie?include_adult=false&include_video=false&language=en-US&with_release_type=4%7C5%7C6&vote_count.gte=30&sort_by=primary_release_date.desc&with_genres=53&with_watch_providers=2|8|337|15|9|384|188|43|386|387|531|1968&watch_region=US&with_original_language=en",
+    "source": "TmdbMovie"
+  },
+  {
+    "id": "popular-war",
+    "title": "War Movies",
+    "url": "discover/movie?include_adult=false&include_video=false&language=en-US&with_release_type=4%7C5%7C6&vote_count.gte=30&sort_by=primary_release_date.desc&with_genres=10752&with_watch_providers=2|8|337|15|9|384|188|43|386|387|531|1968&watch_region=US&with_original_language=en",
+    "source": "TmdbMovie"
+  },
+  {
+    "id": "popular-western",
+    "title": "Western Movies",
+    "url": "discover/movie?include_adult=false&include_video=false&language=en-US&with_release_type=4%7C5%7C6&vote_count.gte=30&sort_by=primary_release_date.desc&with_genres=37&with_watch_providers=2|8|337|15|9|384|188|43|386|387|531|1968&watch_region=US&with_original_language=en",
+    "source": "TmdbMovie"
+  },
+  {
+    "id": "tv-action-adventure",
+    "title": "Action & Adventure TV Shows",
+    "url": "discover/tv?include_adult=false&include_null_first_air_dates=false&language=en-US&page=1&sort_by=first_air_date.desc&with_genres=10759&with_original_language=en&vote_count.gte=40",
+    "source": "TmdbTv"
+  },
+  {
+    "id": "tv-animation",
+    "title": "Animation TV Shows",
+    "url": "discover/tv?include_adult=false&include_null_first_air_dates=false&language=en-US&page=1&sort_by=first_air_date.desc&with_genres=16&with_original_language=en&vote_count.gte=40",
+    "source": "TmdbTv"
+  },
+  {
+    "id": "tv-comedy",
+    "title": "Comedy TV Shows",
+    "url": "discover/tv?include_adult=false&include_null_first_air_dates=false&language=en-US&page=1&sort_by=first_air_date.desc&with_genres=35&with_original_language=en&vote_count.gte=40",
+    "source": "TmdbTv"
+  },
+  {
+    "id": "tv-crime",
+    "title": "Crime TV Shows",
+    "url": "discover/tv?include_adult=false&include_null_first_air_dates=false&language=en-US&page=1&sort_by=first_air_date.desc&with_genres=80&with_original_language=en&vote_count.gte=40",
+    "source": "TmdbTv"
+  },
+  {
+    "id": "tv-documentary",
+    "title": "Documentaries",
+    "url": "discover/tv?include_adult=false&include_null_first_air_dates=false&language=en-US&page=1&sort_by=first_air_date.desc&with_genres=99&with_original_language=en&vote_count.gte=40",
+    "source": "TmdbTv"
+  },
+  {
+    "id": "tv-drama",
+    "title": "Drama",
+    "url": "discover/tv?include_adult=false&include_null_first_air_dates=false&language=en-US&page=1&sort_by=first_air_date.desc&with_genres=18&with_original_language=en&vote_count.gte=40",
+    "source": "TmdbTv"
+  },
+  {
+    "id": "tv-family",
+    "title": "Family TV Shows",
+    "url": "discover/tv?include_adult=false&include_null_first_air_dates=false&language=en-US&page=1&sort_by=first_air_date.desc&with_genres=10751&with_original_language=en&vote_count.gte=40",
+    "source": "TmdbTv"
+  },
+  {
+    "id": "tv-kids",
+    "title": "Kids TV Shows",
+    "url": "discover/tv?include_adult=false&include_null_first_air_dates=false&language=en-US&page=1&sort_by=first_air_date.desc&with_genres=10762&with_original_language=en&vote_count.gte=40",
+    "source": "TmdbTv"
+  },
+  {
+    "id": "tv-mystery",
+    "title": "Mystery TV Shows",
+    "url": "discover/tv?include_adult=false&include_null_first_air_dates=false&language=en-US&page=1&sort_by=first_air_date.desc&with_genres=9648&with_original_language=en&vote_count.gte=40",
+    "source": "TmdbTv"
+  },
+  {
+    "id": "tv-news",
+    "title": "News TV Shows",
+    "url": "discover/tv?include_adult=false&include_null_first_air_dates=false&language=en-US&page=1&sort_by=first_air_date.desc&with_genres=10763&with_original_language=en&vote_count.gte=40",
+    "source": "TmdbTv"
+  },
+  {
+    "id": "tv-reality",
+    "title": "Reality TV Shows",
+    "url": "discover/tv?include_adult=false&include_null_first_air_dates=false&language=en-US&page=1&sort_by=first_air_date.desc&with_genres=10764&with_original_language=en&vote_count.gte=40",
+    "source": "TmdbTv"
+  },
+  {
+    "id": "tv-sci-fi-fantasy",
+    "title": "Sci-Fi & Fantasy TV Shows",
+    "url": "discover/tv?include_adult=false&include_null_first_air_dates=false&language=en-US&page=1&sort_by=first_air_date.desc&with_genres=10765&with_original_language=en&vote_count.gte=40",
+    "source": "TmdbTv"
+  },
+  {
+    "id": "tv-soap",
+    "title": "Soap",
+    "url": "discover/tv?include_adult=false&include_null_first_air_dates=false&language=en-US&page=1&sort_by=first_air_date.desc&with_genres=10766&with_original_language=en&vote_count.gte=40",
+    "source": "TmdbTv"
+  },
+  {
+    "id": "tv-talk",
+    "title": "Talk Shows",
+    "url": "discover/tv?include_adult=false&include_null_first_air_dates=false&language=en-US&page=1&sort_by=first_air_date.desc&with_genres=10767&with_original_language=en&vote_count.gte=40",
+    "source": "TmdbTv"
+  },
+  {
+    "id": "tv-war-politics",
+    "title": "War & Politics TV Shows",
+    "url": "discover/tv?include_adult=false&include_null_first_air_dates=false&language=en-US&page=1&sort_by=first_air_date.desc&with_genres=10768&with_original_language=en&vote_count.gte=40",
+    "source": "TmdbTv"
+  },
+  {
+    "id": "tv-western",
+    "title": "Western TV Shows",
+    "url": "discover/tv?include_adult=false&include_null_first_air_dates=false&language=en-US&page=1&sort_by=first_air_date.desc&with_genres=37&with_original_language=en&vote_count.gte=40",
+    "source": "TmdbTv"
+  }
+]
