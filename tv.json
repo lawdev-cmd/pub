@@ -2,7 +2,7 @@
   {
     "id": "tv-trending-shows",
     "title": "Trending Shows",
-    "url": "rizreflects/lists/trending-now-shows",
+    "url": "tvgeniekodi/lists/trending-shows",
     "catalogType": "traktTv",
     "traktSortBy": null,
     "inPlace": true
