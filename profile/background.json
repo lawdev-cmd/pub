@@ -1,0 +1,44 @@
+{
+  "adult": [
+  {
+    "title": "Project Hail Mary",
+    "background": "2I1OFQJ0L9T0dpU6FobKFWV2PxX.jpg",
+    "logo": "jvqIELbZctv3Jqtcc7Ic5of8vY7.png",
+    "genre": ["Sci-fi", "Adventure"]
+  },
+  {
+    "title": "Michael",
+    "background": "ufSwlnECLoUbBjPrFqEQcWBzHwc.jpg",
+    "logo": "wJHlHY0t6iBq6JRyCZNCH7cKzl1.png",
+    "genre": ["Period Drama"]
+  },
+  {
+    "title": "Spider-Noir",
+    "background": "6t2FvBr9DS8MOq0m5FAwPBCdAW5.jpg",
+    "logo": "o2D8loRUDlEuOf7BMRgulerNJ6p.png",
+    "genre": ["Drama", "Mystery", "Crime"]
+  }
+],
+
+   "kids": [
+  {
+    "title": "Project Hail Mary",
+    "background": "2I1OFQJ0L9T0dpU6FobKFWV2PxX.jpg",
+    "logo": "jvqIELbZctv3Jqtcc7Ic5of8vY7.png",
+    "genre": ["Sci-fi", "Adventure"]
+  },
+  {
+    "title": "Michael",
+    "background": "ufSwlnECLoUbBjPrFqEQcWBzHwc.jpg",
+    "logo": "wJHlHY0t6iBq6JRyCZNCH7cKzl1.png",
+    "genre": ["Period Drama"]
+  },
+  {
+    "title": "Spider-Noir",
+    "background": "6t2FvBr9DS8MOq0m5FAwPBCdAW5.jpg",
+    "logo": "o2D8loRUDlEuOf7BMRgulerNJ6p.png",
+    "genre": ["Drama", "Mystery", "Crime"]
+  }
+]
+
+}
