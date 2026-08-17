@@ -1,4 +1,4 @@
-[
+ [
   {
     "title": "Project Hail Mary",
     "background": "2I1OFQJ0L9T0dpU6FobKFWV2PxX.jpg",
@@ -6,15 +6,18 @@
     "genre": ["Sci-fi", "Adventure"]
   },
   {
-    "title": "Michael",
-    "background": "ufSwlnECLoUbBjPrFqEQcWBzHwc.jpg",
-    "logo": "wJHlHY0t6iBq6JRyCZNCH7cKzl1.png",
-    "genre": ["Period Drama"]
+    "title": "Spider-Man",
+    "background": "b0LviwKbDto7Qq0D4DzGoVHpF4C.jpg",
+    "logo": "vbZcDHC5IFylYuRnp3eyOs5rTV1.png"
   },
   {
-    "title": "Spider-Noir",
-    "background": "6t2FvBr9DS8MOq0m5FAwPBCdAW5.jpg",
-    "logo": "o2D8loRUDlEuOf7BMRgulerNJ6p.png",
-    "genre": ["Drama", "Mystery", "Crime"]
+    "title": "minions",
+    "background": "rSzPpGCyNdgZxm1gjTKpSIimXUj.jpg",
+    "logo": "7bfRNJWmYIwyca2kFyd031wwaJm.png"
+  },
+  {
+    "title": "odissey",
+    "background": "n3D2Lmwomtbc4SZFO8hLtLL0b5q.jpg",
+    "logo": "nKjmavzR9ESsFtsvHuOoR3SGIwk.png"
   }
 ]
