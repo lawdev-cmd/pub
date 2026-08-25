@@ -1,38 +1,44 @@
- [
-    {
-    "title": "Lucky",
-    "background": "4t4iq2NHkhNVki8JoBM9ILQlEoc.jpg",
-    "logo": "ofBcrmZTjCSh2bL9Cpy6AgJQX2J.png",
-     "type": "adult"
+[
+  {
+    "background": "iQFcwSGbZXMkeyKrxbPnwnRo5fl.jpg",
+    "logo": "uud5GDUnSiZuWCuJcJ4hUczqBoJ.png",
+    "title": "Spider-Man No Way Home",
+    "type": "kids"
   },
-    {
-    "title": "Toy-Story-5",
+  {
     "background": "8sSKdEmlmqF4kJUd28SqthXC4yZ.jpg",
     "logo": "dpQ5yGNLRjEPh0mpX5iEYjqGEIJ.png",
-     "type": "kids"
+    "title": "Toy-Story-5",
+    "type": "kids"
   },
   {
-    "title": "Project Hail Mary",
     "background": "8Tfys3mDZVp4tNoH2ktm06a0Tau.jpg",
     "logo": "jvqIELbZctv3Jqtcc7Ic5of8vY7.png",
-     "type": "adult"
+    "title": "Project Hail Mary",
+    "type": "adult"
   },
   {
-    "title": "Spider-Man",
     "background": "bPW6HcI0E1eklEle61LVQuD1Cwc.jpg",
     "logo": "vbZcDHC5IFylYuRnp3eyOs5rTV1.png",
-     "type": "kids"
+    "title": "Spider-Man",
+    "type": "kids"
   },
   {
-    "title": "minions",
     "background": "kkcwhgSFd81QDlXo8ytrpHPQjhy.jpg",
     "logo": "7bfRNJWmYIwyca2kFyd031wwaJm.png",
-     "type": "kids"
+    "title": "minions",
+    "type": "kids"
   },
   {
-    "title": "odissey",
     "background": "twiVn9oFXOVR0uoYgawyEBlnFu8.jpg",
     "logo": "nKjmavzR9ESsFtsvHuOoR3SGIwk.png",
-     "type": "adult"
+    "title": "odissey",
+    "type": "adult"
+  },
+  {
+    "background": "4t4iq2NHkhNVki8JoBM9ILQlEoc.jpg",
+    "logo": "ofBcrmZTjCSh2bL9Cpy6AgJQX2J.png",
+    "title": "Lucky",
+    "type": "adult"
   }
 ]
