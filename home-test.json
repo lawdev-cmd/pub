@@ -15,7 +15,7 @@
     "inPlace": true
   },
   {
-    "id": "trakt-trending-movies",
+    "id": "trakt-s-trending-movies",
     "title": "Trending Movies",
     "url": "tvgeniekodi/lists/trending-movies",
     "catalogType": "traktMovie",
@@ -30,6 +30,13 @@
     "traktSortBy": "",
     "inPlace": true
   },
+    {
+  "id": "survival",
+  "title": "Survival",
+  "url": "https://raw.githubusercontent.com/lawdev-cmd/dump/refs/heads/main/dump/sampleItems.json",
+  "catalogType": "githubRaw",
+  "traktSortBy": "random"
+},
   {
     "id": "visually-pleasing",
     "title": "Visually Pleasing",
@@ -44,7 +51,7 @@
     "catalogType": "traktMovie",
     "traktSortBy": "random"
   },
-  {
+    {
     "id": "action-sci-fi-fantasy",
     "title": "Action Sci-Fi & Fantasy",
     "url": "kingkearney/lists/action-sci-fi-fantasy",
@@ -317,7 +324,7 @@
     "catalogType": "traktMovie",
     "traktSortBy": "random"
   },
-  {
+    {
     "id": "romantic-comedies-movies123",
     "title": "Romantic Movies",
     "url": "hammers-lists/lists/romantic-comedies",
@@ -338,14 +345,14 @@
     "catalogType": "traktMovie",
     "traktSortBy": "random"
   },
-  {
+   {
     "id": "best-british-gangster-movies",
     "title": "British Gangster Movies",
     "url": "w1nt3r/lists/best-british-gangster-movies",
     "catalogType": "traktMovie",
     "traktSortBy": "random"
   },
-  {
+     {
     "id": "the-best-of-british-comedy-tv-shows",
     "title": "British Comedy TV",
     "url": "iyez/lists/the-best-of-british-comedy-tv-shows",
@@ -390,9 +397,11 @@
   {
     "id": "trakt-comedy-movies",
     "title": "Need a Good Laugh?",
-    "url": "ljransom/lists/comedy-movies",
+    "url": "ricksanchez/lists/comedy-movies",
     "catalogType": "traktMovie",
-    "traktSortBy": "random"
+    "traktSortBy": "random",
+    "minRating": 55,
+    "minYear": 1994
   },
   {
     "id": "trakt-top-rated-crime-films",
