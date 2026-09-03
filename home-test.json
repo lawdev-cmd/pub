@@ -9,24 +9,24 @@
   {
     "id": "trakt-latest-movie-releases",
     "title": "Latest Releases",
-    "url": "https://raw.githubusercontent.com/lawdev-cmd/dump/refs/heads/main/dump/trakt-latest-movie-releases.json",
-    "catalogType": "githubRaw",
+    "url": "garycrawfordgc/lists/latest-releases",
+    "catalogType": "traktMovie",
     "traktSortBy": "desc",
     "inPlace": true
   },
   {
     "id": "trakt-s-trending-movies",
     "title": "Trending Movies",
-    "url": "https://raw.githubusercontent.com/lawdev-cmd/dump/refs/heads/main/dump/trakt-s-trending-movies.json",
-    "catalogType": "githubRaw",
+    "url": "tvgeniekodi/lists/trending-movies",
+    "catalogType": "traktMovie",
     "traktSortBy": "",
     "inPlace": true
   },
   {
     "id": "trakt-top-tvshows",
     "title": "Latest TV Shows",
-    "url": "https://raw.githubusercontent.com/lawdev-cmd/dump/refs/heads/main/dump/trakt-top-tvshows.json",
-    "catalogType": "githubRaw",
+    "url": "garycrawfordgc/lists/latest-tv-shows",
+    "catalogType": "traktTv",
     "traktSortBy": "",
     "inPlace": true
   },
