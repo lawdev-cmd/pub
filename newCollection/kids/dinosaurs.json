@@ -1,0 +1,9 @@
+[
+  {
+    "id": "kids-dinosaurs-shows-dinosaur-tv",
+    "title": "Dinosaur TV",
+    "url": "https://raw.githubusercontent.com/lawdev-cmd/dump/refs/heads/main/dump/newDump/kids/shows/dinosaurs/dinosaur-tv.json",
+    "catalogType": "githubRaw",
+    "traktSortBy": "random"
+  }
+]

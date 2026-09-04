@@ -1,0 +1,122 @@
+[
+  {
+    "id": "normal-thriller-movies-today-s-top-picks-for-you",
+    "title": "Today's Top Picks for You",
+    "url": "https://raw.githubusercontent.com/lawdev-cmd/dump/refs/heads/main/dump/newDump/movies/thriller/today-s-top-picks-for-you.json",
+    "catalogType": "githubRaw",
+    "traktSortBy": "",
+    "inPlace": true
+  },
+  {
+    "id": "normal-thriller-movies-comedy-movies",
+    "title": "Comedy Movies",
+    "url": "https://raw.githubusercontent.com/lawdev-cmd/dump/refs/heads/main/dump/newDump/movies/thriller/comedy-movies.json",
+    "catalogType": "githubRaw",
+    "traktSortBy": "random"
+  },
+  {
+    "id": "normal-thriller-movies-critically-acclaimed-movies",
+    "title": "Critically Acclaimed",
+    "url": "https://raw.githubusercontent.com/lawdev-cmd/dump/refs/heads/main/dump/newDump/movies/thriller/critically-acclaimed-movies.json",
+    "catalogType": "githubRaw",
+    "traktSortBy": "random"
+  },
+  {
+    "id": "normal-thriller-movies-drama-movies",
+    "title": "Drama Movies",
+    "url": "https://raw.githubusercontent.com/lawdev-cmd/dump/refs/heads/main/dump/newDump/movies/thriller/drama-movies.json",
+    "catalogType": "githubRaw",
+    "traktSortBy": "random"
+  },
+  {
+    "id": "normal-thriller-movies-exciting-movies",
+    "title": "Exciting Movies",
+    "url": "https://raw.githubusercontent.com/lawdev-cmd/dump/refs/heads/main/dump/newDump/movies/thriller/exciting-movies.json",
+    "catalogType": "githubRaw",
+    "traktSortBy": "random"
+  },
+  {
+    "id": "normal-thriller-movies-gems-for-you",
+    "title": "Gems for You",
+    "url": "https://raw.githubusercontent.com/lawdev-cmd/dump/refs/heads/main/dump/newDump/movies/thriller/gems-for-you.json",
+    "catalogType": "githubRaw",
+    "traktSortBy": "random"
+  },
+  {
+    "id": "normal-thriller-movies-horror-movies",
+    "title": "Horror Movies",
+    "url": "https://raw.githubusercontent.com/lawdev-cmd/dump/refs/heads/main/dump/newDump/movies/thriller/horror-movies.json",
+    "catalogType": "githubRaw",
+    "traktSortBy": "random"
+  },
+  {
+    "id": "normal-thriller-movies-indian-movies",
+    "title": "Indian Movies",
+    "url": "https://raw.githubusercontent.com/lawdev-cmd/dump/refs/heads/main/dump/newDump/movies/thriller/indian-movies.json",
+    "catalogType": "githubRaw",
+    "traktSortBy": "random"
+  },
+  {
+    "id": "normal-thriller-movies-international-movies",
+    "title": "International Movies",
+    "url": "https://raw.githubusercontent.com/lawdev-cmd/dump/refs/heads/main/dump/newDump/movies/thriller/international-movies.json",
+    "catalogType": "githubRaw",
+    "traktSortBy": "random"
+  },
+  {
+    "id": "normal-thriller-movies-only-on-netflix",
+    "title": "Only on Netflix",
+    "url": "https://raw.githubusercontent.com/lawdev-cmd/dump/refs/heads/main/dump/newDump/movies/thriller/only-on-netflix.json",
+    "catalogType": "githubRaw",
+    "traktSortBy": "random"
+  },
+  {
+    "id": "normal-thriller-movies-sci-fi-and-fantasy-movies",
+    "title": "Sci-Fi & Fantasy Movies",
+    "url": "https://raw.githubusercontent.com/lawdev-cmd/dump/refs/heads/main/dump/newDump/movies/thriller/sci-fi-and-fantasy-movies.json",
+    "catalogType": "githubRaw",
+    "traktSortBy": "random"
+  },
+  {
+    "id": "normal-thriller-movies-sci-fi-movies",
+    "title": "Sci-Fi Movies",
+    "url": "https://raw.githubusercontent.com/lawdev-cmd/dump/refs/heads/main/dump/newDump/movies/thriller/sci-fi-movies.json",
+    "catalogType": "githubRaw",
+    "traktSortBy": "random"
+  },
+  {
+    "id": "normal-thriller-movies-spanish-language-movies",
+    "title": "Spanish Language Movies",
+    "url": "https://raw.githubusercontent.com/lawdev-cmd/dump/refs/heads/main/dump/newDump/movies/thriller/spanish-language-movies.json",
+    "catalogType": "githubRaw",
+    "traktSortBy": "random"
+  },
+  {
+    "id": "normal-thriller-movies-suspenseful-movies",
+    "title": "Suspenseful Movies",
+    "url": "https://raw.githubusercontent.com/lawdev-cmd/dump/refs/heads/main/dump/newDump/movies/thriller/suspenseful-movies.json",
+    "catalogType": "githubRaw",
+    "traktSortBy": "random"
+  },
+  {
+    "id": "normal-thriller-movies-tight-on-time-hit-films-under-90-minutes",
+    "title": "Tight On Time Hit Films Under 90 Minutes",
+    "url": "https://raw.githubusercontent.com/lawdev-cmd/dump/refs/heads/main/dump/newDump/movies/thriller/tight-on-time-hit-films-under-90-minutes.json",
+    "catalogType": "githubRaw",
+    "traktSortBy": "random"
+  },
+  {
+    "id": "normal-thriller-movies-we-think-you-ll-love-these",
+    "title": "We Think You'll Love These",
+    "url": "https://raw.githubusercontent.com/lawdev-cmd/dump/refs/heads/main/dump/newDump/movies/thriller/we-think-you-ll-love-these.json",
+    "catalogType": "githubRaw",
+    "traktSortBy": "random"
+  },
+  {
+    "id": "normal-thriller-movies-your-next-watch",
+    "title": "Your Next Watch",
+    "url": "https://raw.githubusercontent.com/lawdev-cmd/dump/refs/heads/main/dump/newDump/movies/thriller/your-next-watch.json",
+    "catalogType": "githubRaw",
+    "traktSortBy": "random"
+  }
+]

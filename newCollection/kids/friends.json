@@ -1,0 +1,260 @@
+[
+  {
+    "id": "kids-friends-movies-everyone-s-watching",
+    "title": "Everyone's Watching Movies",
+    "url": "https://raw.githubusercontent.com/lawdev-cmd/dump/refs/heads/main/dump/newDump/kids/movies/friends/everyone-s-watching.json",
+    "catalogType": "githubRaw",
+    "traktSortBy": "",
+    "inPlace": true
+  },
+  {
+    "id": "kids-friends-shows-everyone-s-watching",
+    "title": "Everyone's Watching TV",
+    "url": "https://raw.githubusercontent.com/lawdev-cmd/dump/refs/heads/main/dump/newDump/kids/shows/friends/everyone-s-watching.json",
+    "catalogType": "githubRaw",
+    "traktSortBy": "",
+    "inPlace": true
+  },
+  {
+    "id": "kids-friends-movies-popular",
+    "title": "Popular Movies",
+    "url": "https://raw.githubusercontent.com/lawdev-cmd/dump/refs/heads/main/dump/newDump/kids/movies/friends/popular.json",
+    "catalogType": "githubRaw",
+    "traktSortBy": "",
+    "inPlace": true
+  },
+  {
+    "id": "kids-friends-shows-popular",
+    "title": "Popular TV",
+    "url": "https://raw.githubusercontent.com/lawdev-cmd/dump/refs/heads/main/dump/newDump/kids/shows/friends/popular.json",
+    "catalogType": "githubRaw",
+    "traktSortBy": "",
+    "inPlace": true
+  },
+  {
+    "id": "kids-friends-movies-new-on-netflix",
+    "title": "Just Added Movies",
+    "url": "https://raw.githubusercontent.com/lawdev-cmd/dump/refs/heads/main/dump/newDump/kids/movies/friends/new-on-netflix.json",
+    "catalogType": "githubRaw",
+    "traktSortBy": "",
+    "inPlace": true
+  },
+  {
+    "id": "kids-friends-shows-new-on-netflix",
+    "title": "Just Added TV",
+    "url": "https://raw.githubusercontent.com/lawdev-cmd/dump/refs/heads/main/dump/newDump/kids/shows/friends/new-on-netflix.json",
+    "catalogType": "githubRaw",
+    "traktSortBy": "",
+    "inPlace": true
+  },
+  {
+    "id": "kids-friends-movies-action",
+    "title": "Action Movies",
+    "url": "https://raw.githubusercontent.com/lawdev-cmd/dump/refs/heads/main/dump/newDump/kids/movies/friends/action.json",
+    "catalogType": "githubRaw",
+    "traktSortBy": "random"
+  },
+  {
+    "id": "kids-friends-shows-action",
+    "title": "Action TV",
+    "url": "https://raw.githubusercontent.com/lawdev-cmd/dump/refs/heads/main/dump/newDump/kids/shows/friends/action.json",
+    "catalogType": "githubRaw",
+    "traktSortBy": "random"
+  },
+  {
+    "id": "kids-friends-movies-adventures",
+    "title": "Adventure Movies",
+    "url": "https://raw.githubusercontent.com/lawdev-cmd/dump/refs/heads/main/dump/newDump/kids/movies/friends/adventures.json",
+    "catalogType": "githubRaw",
+    "traktSortBy": "random"
+  },
+  {
+    "id": "kids-friends-shows-adventures",
+    "title": "Adventure TV",
+    "url": "https://raw.githubusercontent.com/lawdev-cmd/dump/refs/heads/main/dump/newDump/kids/shows/friends/adventures.json",
+    "catalogType": "githubRaw",
+    "traktSortBy": "random"
+  },
+  {
+    "id": "kids-friends-shows-all-things-wild",
+    "title": "All Things Wild",
+    "url": "https://raw.githubusercontent.com/lawdev-cmd/dump/refs/heads/main/dump/newDump/kids/shows/friends/all-things-wild.json",
+    "catalogType": "githubRaw",
+    "traktSortBy": "random"
+  },
+  {
+    "id": "kids-friends-movies-animals",
+    "title": "Animals Movies",
+    "url": "https://raw.githubusercontent.com/lawdev-cmd/dump/refs/heads/main/dump/newDump/kids/movies/friends/animals.json",
+    "catalogType": "githubRaw",
+    "traktSortBy": "random"
+  },
+  {
+    "id": "kids-friends-shows-animals",
+    "title": "Animals TV",
+    "url": "https://raw.githubusercontent.com/lawdev-cmd/dump/refs/heads/main/dump/newDump/kids/shows/friends/animals.json",
+    "catalogType": "githubRaw",
+    "traktSortBy": "random"
+  },
+  {
+    "id": "kids-friends-movies-animated",
+    "title": "Animated Movies",
+    "url": "https://raw.githubusercontent.com/lawdev-cmd/dump/refs/heads/main/dump/newDump/kids/movies/friends/animated.json",
+    "catalogType": "githubRaw",
+    "traktSortBy": "random"
+  },
+  {
+    "id": "kids-friends-shows-animated",
+    "title": "Animated TV",
+    "url": "https://raw.githubusercontent.com/lawdev-cmd/dump/refs/heads/main/dump/newDump/kids/shows/friends/animated.json",
+    "catalogType": "githubRaw",
+    "traktSortBy": "random"
+  },
+  {
+    "id": "kids-friends-movies-fantasy",
+    "title": "Fantasy Movies",
+    "url": "https://raw.githubusercontent.com/lawdev-cmd/dump/refs/heads/main/dump/newDump/kids/movies/friends/fantasy.json",
+    "catalogType": "githubRaw",
+    "traktSortBy": "random"
+  },
+  {
+    "id": "kids-friends-shows-fantasy",
+    "title": "Fantasy TV",
+    "url": "https://raw.githubusercontent.com/lawdev-cmd/dump/refs/heads/main/dump/newDump/kids/shows/friends/fantasy.json",
+    "catalogType": "githubRaw",
+    "traktSortBy": "random"
+  },
+  {
+    "id": "kids-friends-movies-feel-good",
+    "title": "Feel Good Movies",
+    "url": "https://raw.githubusercontent.com/lawdev-cmd/dump/refs/heads/main/dump/newDump/kids/movies/friends/feel-good.json",
+    "catalogType": "githubRaw",
+    "traktSortBy": "random"
+  },
+  {
+    "id": "kids-friends-shows-feel-good",
+    "title": "Feel Good TV",
+    "url": "https://raw.githubusercontent.com/lawdev-cmd/dump/refs/heads/main/dump/newDump/kids/shows/friends/feel-good.json",
+    "catalogType": "githubRaw",
+    "traktSortBy": "random"
+  },
+  {
+    "id": "kids-friends-movies-friends-tv",
+    "title": "Friends TV",
+    "url": "https://raw.githubusercontent.com/lawdev-cmd/dump/refs/heads/main/dump/newDump/kids/movies/friends/friends-tv.json",
+    "catalogType": "githubRaw",
+    "traktSortBy": "random"
+  },
+  {
+    "id": "kids-friends-movies-funny",
+    "title": "Funny Movies",
+    "url": "https://raw.githubusercontent.com/lawdev-cmd/dump/refs/heads/main/dump/newDump/kids/movies/friends/funny.json",
+    "catalogType": "githubRaw",
+    "traktSortBy": "random"
+  },
+  {
+    "id": "kids-friends-shows-funny",
+    "title": "Funny TV",
+    "url": "https://raw.githubusercontent.com/lawdev-cmd/dump/refs/heads/main/dump/newDump/kids/shows/friends/funny.json",
+    "catalogType": "githubRaw",
+    "traktSortBy": "random"
+  },
+  {
+    "id": "kids-friends-shows-gems-for-you",
+    "title": "Gems for You",
+    "url": "https://raw.githubusercontent.com/lawdev-cmd/dump/refs/heads/main/dump/newDump/kids/shows/friends/gems-for-you.json",
+    "catalogType": "githubRaw",
+    "traktSortBy": "random"
+  },
+  {
+    "id": "kids-friends-movies-girls-take-the-lead",
+    "title": "Girls Take the Lead Movies",
+    "url": "https://raw.githubusercontent.com/lawdev-cmd/dump/refs/heads/main/dump/newDump/kids/movies/friends/girls-take-the-lead.json",
+    "catalogType": "githubRaw",
+    "traktSortBy": "random"
+  },
+  {
+    "id": "kids-friends-shows-girls-take-the-lead",
+    "title": "Girls Take the Lead TV",
+    "url": "https://raw.githubusercontent.com/lawdev-cmd/dump/refs/heads/main/dump/newDump/kids/shows/friends/girls-take-the-lead.json",
+    "catalogType": "githubRaw",
+    "traktSortBy": "random"
+  },
+  {
+    "id": "kids-friends-movies-only-on-netflix",
+    "title": "Only on Netflix Movies",
+    "url": "https://raw.githubusercontent.com/lawdev-cmd/dump/refs/heads/main/dump/newDump/kids/movies/friends/only-on-netflix.json",
+    "catalogType": "githubRaw",
+    "traktSortBy": "random"
+  },
+  {
+    "id": "kids-friends-shows-only-on-netflix",
+    "title": "Only on Netflix TV",
+    "url": "https://raw.githubusercontent.com/lawdev-cmd/dump/refs/heads/main/dump/newDump/kids/shows/friends/only-on-netflix.json",
+    "catalogType": "githubRaw",
+    "traktSortBy": "random"
+  },
+  {
+    "id": "kids-friends-movies-singing-and-dancing",
+    "title": "Singing & Dancing",
+    "url": "https://raw.githubusercontent.com/lawdev-cmd/dump/refs/heads/main/dump/newDump/kids/movies/friends/singing-and-dancing.json",
+    "catalogType": "githubRaw",
+    "traktSortBy": "random"
+  },
+  {
+    "id": "kids-friends-movies-singing-and-dancing-tv",
+    "title": "Singing & Dancing TV",
+    "url": "https://raw.githubusercontent.com/lawdev-cmd/dump/refs/heads/main/dump/newDump/kids/movies/friends/singing-and-dancing-tv.json",
+    "catalogType": "githubRaw",
+    "traktSortBy": "random"
+  },
+  {
+    "id": "kids-friends-shows-singing-and-dancing-tv",
+    "title": "Singing & Dancing TV",
+    "url": "https://raw.githubusercontent.com/lawdev-cmd/dump/refs/heads/main/dump/newDump/kids/shows/friends/singing-and-dancing-tv.json",
+    "catalogType": "githubRaw",
+    "traktSortBy": "random"
+  },
+  {
+    "id": "kids-friends-movies-tv-shows",
+    "title": "TV Shows",
+    "url": "https://raw.githubusercontent.com/lawdev-cmd/dump/refs/heads/main/dump/newDump/kids/movies/friends/tv-shows.json",
+    "catalogType": "githubRaw",
+    "traktSortBy": "random"
+  },
+  {
+    "id": "kids-friends-shows-tv-shows",
+    "title": "TV Shows",
+    "url": "https://raw.githubusercontent.com/lawdev-cmd/dump/refs/heads/main/dump/newDump/kids/shows/friends/tv-shows.json",
+    "catalogType": "githubRaw",
+    "traktSortBy": "random"
+  },
+  {
+    "id": "kids-friends-movies-watch-with-the-family",
+    "title": "Watch with the Family Movies",
+    "url": "https://raw.githubusercontent.com/lawdev-cmd/dump/refs/heads/main/dump/newDump/kids/movies/friends/watch-with-the-family.json",
+    "catalogType": "githubRaw",
+    "traktSortBy": "random"
+  },
+  {
+    "id": "kids-friends-shows-watch-with-the-family",
+    "title": "Watch with the Family TV",
+    "url": "https://raw.githubusercontent.com/lawdev-cmd/dump/refs/heads/main/dump/newDump/kids/shows/friends/watch-with-the-family.json",
+    "catalogType": "githubRaw",
+    "traktSortBy": "random"
+  },
+  {
+    "id": "kids-friends-movies-we-think-you-ll-love-these",
+    "title": "We Think You'll Love These Movies",
+    "url": "https://raw.githubusercontent.com/lawdev-cmd/dump/refs/heads/main/dump/newDump/kids/movies/friends/we-think-you-ll-love-these.json",
+    "catalogType": "githubRaw",
+    "traktSortBy": "random"
+  },
+  {
+    "id": "kids-friends-shows-we-think-you-ll-love-these",
+    "title": "We Think You'll Love These TV",
+    "url": "https://raw.githubusercontent.com/lawdev-cmd/dump/refs/heads/main/dump/newDump/kids/shows/friends/we-think-you-ll-love-these.json",
+    "catalogType": "githubRaw",
+    "traktSortBy": "random"
+  }
+]

@@ -1,0 +1,260 @@
+[
+  {
+    "id": "kids-watch-with-the-family-movies-everyone-s-watching",
+    "title": "Everyone's Watching Movies",
+    "url": "https://raw.githubusercontent.com/lawdev-cmd/dump/refs/heads/main/dump/newDump/kids/movies/watch-with-the-family/everyone-s-watching.json",
+    "catalogType": "githubRaw",
+    "traktSortBy": "",
+    "inPlace": true
+  },
+  {
+    "id": "kids-watch-with-the-family-shows-everyone-s-watching",
+    "title": "Everyone's Watching TV",
+    "url": "https://raw.githubusercontent.com/lawdev-cmd/dump/refs/heads/main/dump/newDump/kids/shows/watch-with-the-family/everyone-s-watching.json",
+    "catalogType": "githubRaw",
+    "traktSortBy": "",
+    "inPlace": true
+  },
+  {
+    "id": "kids-watch-with-the-family-movies-popular",
+    "title": "Popular Movies",
+    "url": "https://raw.githubusercontent.com/lawdev-cmd/dump/refs/heads/main/dump/newDump/kids/movies/watch-with-the-family/popular.json",
+    "catalogType": "githubRaw",
+    "traktSortBy": "",
+    "inPlace": true
+  },
+  {
+    "id": "kids-watch-with-the-family-shows-popular",
+    "title": "Popular TV",
+    "url": "https://raw.githubusercontent.com/lawdev-cmd/dump/refs/heads/main/dump/newDump/kids/shows/watch-with-the-family/popular.json",
+    "catalogType": "githubRaw",
+    "traktSortBy": "",
+    "inPlace": true
+  },
+  {
+    "id": "kids-watch-with-the-family-movies-new-on-netflix",
+    "title": "Just Added Movies",
+    "url": "https://raw.githubusercontent.com/lawdev-cmd/dump/refs/heads/main/dump/newDump/kids/movies/watch-with-the-family/new-on-netflix.json",
+    "catalogType": "githubRaw",
+    "traktSortBy": "",
+    "inPlace": true
+  },
+  {
+    "id": "kids-watch-with-the-family-shows-new-on-netflix",
+    "title": "Just Added TV",
+    "url": "https://raw.githubusercontent.com/lawdev-cmd/dump/refs/heads/main/dump/newDump/kids/shows/watch-with-the-family/new-on-netflix.json",
+    "catalogType": "githubRaw",
+    "traktSortBy": "",
+    "inPlace": true
+  },
+  {
+    "id": "kids-watch-with-the-family-movies-action",
+    "title": "Action Movies",
+    "url": "https://raw.githubusercontent.com/lawdev-cmd/dump/refs/heads/main/dump/newDump/kids/movies/watch-with-the-family/action.json",
+    "catalogType": "githubRaw",
+    "traktSortBy": "random"
+  },
+  {
+    "id": "kids-watch-with-the-family-shows-action",
+    "title": "Action TV",
+    "url": "https://raw.githubusercontent.com/lawdev-cmd/dump/refs/heads/main/dump/newDump/kids/shows/watch-with-the-family/action.json",
+    "catalogType": "githubRaw",
+    "traktSortBy": "random"
+  },
+  {
+    "id": "kids-watch-with-the-family-shows-adventures",
+    "title": "Adventures",
+    "url": "https://raw.githubusercontent.com/lawdev-cmd/dump/refs/heads/main/dump/newDump/kids/shows/watch-with-the-family/adventures.json",
+    "catalogType": "githubRaw",
+    "traktSortBy": "random"
+  },
+  {
+    "id": "kids-watch-with-the-family-movies-all-things-wild",
+    "title": "All Things Wild Movies",
+    "url": "https://raw.githubusercontent.com/lawdev-cmd/dump/refs/heads/main/dump/newDump/kids/movies/watch-with-the-family/all-things-wild.json",
+    "catalogType": "githubRaw",
+    "traktSortBy": "random"
+  },
+  {
+    "id": "kids-watch-with-the-family-shows-all-things-wild",
+    "title": "All Things Wild TV",
+    "url": "https://raw.githubusercontent.com/lawdev-cmd/dump/refs/heads/main/dump/newDump/kids/shows/watch-with-the-family/all-things-wild.json",
+    "catalogType": "githubRaw",
+    "traktSortBy": "random"
+  },
+  {
+    "id": "kids-watch-with-the-family-movies-animals",
+    "title": "Animals",
+    "url": "https://raw.githubusercontent.com/lawdev-cmd/dump/refs/heads/main/dump/newDump/kids/movies/watch-with-the-family/animals.json",
+    "catalogType": "githubRaw",
+    "traktSortBy": "random"
+  },
+  {
+    "id": "kids-watch-with-the-family-movies-animated",
+    "title": "Animated Movies",
+    "url": "https://raw.githubusercontent.com/lawdev-cmd/dump/refs/heads/main/dump/newDump/kids/movies/watch-with-the-family/animated.json",
+    "catalogType": "githubRaw",
+    "traktSortBy": "random"
+  },
+  {
+    "id": "kids-watch-with-the-family-shows-animated",
+    "title": "Animated TV",
+    "url": "https://raw.githubusercontent.com/lawdev-cmd/dump/refs/heads/main/dump/newDump/kids/shows/watch-with-the-family/animated.json",
+    "catalogType": "githubRaw",
+    "traktSortBy": "random"
+  },
+  {
+    "id": "kids-watch-with-the-family-shows-fantasy",
+    "title": "Fantasy",
+    "url": "https://raw.githubusercontent.com/lawdev-cmd/dump/refs/heads/main/dump/newDump/kids/shows/watch-with-the-family/fantasy.json",
+    "catalogType": "githubRaw",
+    "traktSortBy": "random"
+  },
+  {
+    "id": "kids-watch-with-the-family-movies-feel-good",
+    "title": "Feel Good Movies",
+    "url": "https://raw.githubusercontent.com/lawdev-cmd/dump/refs/heads/main/dump/newDump/kids/movies/watch-with-the-family/feel-good.json",
+    "catalogType": "githubRaw",
+    "traktSortBy": "random"
+  },
+  {
+    "id": "kids-watch-with-the-family-shows-feel-good",
+    "title": "Feel Good TV",
+    "url": "https://raw.githubusercontent.com/lawdev-cmd/dump/refs/heads/main/dump/newDump/kids/shows/watch-with-the-family/feel-good.json",
+    "catalogType": "githubRaw",
+    "traktSortBy": "random"
+  },
+  {
+    "id": "kids-watch-with-the-family-movies-friends",
+    "title": "Friends Movies",
+    "url": "https://raw.githubusercontent.com/lawdev-cmd/dump/refs/heads/main/dump/newDump/kids/movies/watch-with-the-family/friends.json",
+    "catalogType": "githubRaw",
+    "traktSortBy": "random"
+  },
+  {
+    "id": "kids-watch-with-the-family-shows-friends",
+    "title": "Friends TV",
+    "url": "https://raw.githubusercontent.com/lawdev-cmd/dump/refs/heads/main/dump/newDump/kids/shows/watch-with-the-family/friends.json",
+    "catalogType": "githubRaw",
+    "traktSortBy": "random"
+  },
+  {
+    "id": "kids-watch-with-the-family-shows-friends-tv",
+    "title": "Friends TV",
+    "url": "https://raw.githubusercontent.com/lawdev-cmd/dump/refs/heads/main/dump/newDump/kids/shows/watch-with-the-family/friends-tv.json",
+    "catalogType": "githubRaw",
+    "traktSortBy": "random"
+  },
+  {
+    "id": "kids-watch-with-the-family-movies-funny",
+    "title": "Funny Movies",
+    "url": "https://raw.githubusercontent.com/lawdev-cmd/dump/refs/heads/main/dump/newDump/kids/movies/watch-with-the-family/funny.json",
+    "catalogType": "githubRaw",
+    "traktSortBy": "random"
+  },
+  {
+    "id": "kids-watch-with-the-family-shows-funny",
+    "title": "Funny TV",
+    "url": "https://raw.githubusercontent.com/lawdev-cmd/dump/refs/heads/main/dump/newDump/kids/shows/watch-with-the-family/funny.json",
+    "catalogType": "githubRaw",
+    "traktSortBy": "random"
+  },
+  {
+    "id": "kids-watch-with-the-family-movies-gems-for-you",
+    "title": "Gems for You",
+    "url": "https://raw.githubusercontent.com/lawdev-cmd/dump/refs/heads/main/dump/newDump/kids/movies/watch-with-the-family/gems-for-you.json",
+    "catalogType": "githubRaw",
+    "traktSortBy": "random"
+  },
+  {
+    "id": "kids-watch-with-the-family-movies-girls-take-the-lead",
+    "title": "Girls Take the Lead Movies",
+    "url": "https://raw.githubusercontent.com/lawdev-cmd/dump/refs/heads/main/dump/newDump/kids/movies/watch-with-the-family/girls-take-the-lead.json",
+    "catalogType": "githubRaw",
+    "traktSortBy": "random"
+  },
+  {
+    "id": "kids-watch-with-the-family-shows-girls-take-the-lead",
+    "title": "Girls Take the Lead TV",
+    "url": "https://raw.githubusercontent.com/lawdev-cmd/dump/refs/heads/main/dump/newDump/kids/shows/watch-with-the-family/girls-take-the-lead.json",
+    "catalogType": "githubRaw",
+    "traktSortBy": "random"
+  },
+  {
+    "id": "kids-watch-with-the-family-movies-nature",
+    "title": "Nature",
+    "url": "https://raw.githubusercontent.com/lawdev-cmd/dump/refs/heads/main/dump/newDump/kids/movies/watch-with-the-family/nature.json",
+    "catalogType": "githubRaw",
+    "traktSortBy": "random"
+  },
+  {
+    "id": "kids-watch-with-the-family-movies-only-on-netflix",
+    "title": "Only on Netflix Movies",
+    "url": "https://raw.githubusercontent.com/lawdev-cmd/dump/refs/heads/main/dump/newDump/kids/movies/watch-with-the-family/only-on-netflix.json",
+    "catalogType": "githubRaw",
+    "traktSortBy": "random"
+  },
+  {
+    "id": "kids-watch-with-the-family-shows-only-on-netflix",
+    "title": "Only on Netflix TV",
+    "url": "https://raw.githubusercontent.com/lawdev-cmd/dump/refs/heads/main/dump/newDump/kids/shows/watch-with-the-family/only-on-netflix.json",
+    "catalogType": "githubRaw",
+    "traktSortBy": "random"
+  },
+  {
+    "id": "kids-watch-with-the-family-movies-sing-alongs",
+    "title": "Sing-Alongs",
+    "url": "https://raw.githubusercontent.com/lawdev-cmd/dump/refs/heads/main/dump/newDump/kids/movies/watch-with-the-family/sing-alongs.json",
+    "catalogType": "githubRaw",
+    "traktSortBy": "random"
+  },
+  {
+    "id": "kids-watch-with-the-family-shows-singing-and-dancing-tv",
+    "title": "Singing & Dancing TV",
+    "url": "https://raw.githubusercontent.com/lawdev-cmd/dump/refs/heads/main/dump/newDump/kids/shows/watch-with-the-family/singing-and-dancing-tv.json",
+    "catalogType": "githubRaw",
+    "traktSortBy": "random"
+  },
+  {
+    "id": "kids-watch-with-the-family-shows-superheroes",
+    "title": "Superheroes",
+    "url": "https://raw.githubusercontent.com/lawdev-cmd/dump/refs/heads/main/dump/newDump/kids/shows/watch-with-the-family/superheroes.json",
+    "catalogType": "githubRaw",
+    "traktSortBy": "random"
+  },
+  {
+    "id": "kids-watch-with-the-family-movies-tv-shows",
+    "title": "TV Shows",
+    "url": "https://raw.githubusercontent.com/lawdev-cmd/dump/refs/heads/main/dump/newDump/kids/movies/watch-with-the-family/tv-shows.json",
+    "catalogType": "githubRaw",
+    "traktSortBy": "random"
+  },
+  {
+    "id": "kids-watch-with-the-family-shows-tv-shows",
+    "title": "TV Shows",
+    "url": "https://raw.githubusercontent.com/lawdev-cmd/dump/refs/heads/main/dump/newDump/kids/shows/watch-with-the-family/tv-shows.json",
+    "catalogType": "githubRaw",
+    "traktSortBy": "random"
+  },
+  {
+    "id": "kids-watch-with-the-family-movies-watch-with-the-family",
+    "title": "Watch with the Family",
+    "url": "https://raw.githubusercontent.com/lawdev-cmd/dump/refs/heads/main/dump/newDump/kids/movies/watch-with-the-family/watch-with-the-family.json",
+    "catalogType": "githubRaw",
+    "traktSortBy": "random"
+  },
+  {
+    "id": "kids-watch-with-the-family-movies-we-think-you-ll-love-these",
+    "title": "We Think You'll Love These Movies",
+    "url": "https://raw.githubusercontent.com/lawdev-cmd/dump/refs/heads/main/dump/newDump/kids/movies/watch-with-the-family/we-think-you-ll-love-these.json",
+    "catalogType": "githubRaw",
+    "traktSortBy": "random"
+  },
+  {
+    "id": "kids-watch-with-the-family-shows-we-think-you-ll-love-these",
+    "title": "We Think You'll Love These TV",
+    "url": "https://raw.githubusercontent.com/lawdev-cmd/dump/refs/heads/main/dump/newDump/kids/shows/watch-with-the-family/we-think-you-ll-love-these.json",
+    "catalogType": "githubRaw",
+    "traktSortBy": "random"
+  }
+]

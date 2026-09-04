@@ -1,0 +1,123 @@
+[
+  {
+    "id": "normal-horror-movies-today-s-top-picks-for-you",
+    "title": "Today's Top Picks for You",
+    "url": "https://raw.githubusercontent.com/lawdev-cmd/dump/refs/heads/main/dump/newDump/movies/horror/today-s-top-picks-for-you.json",
+    "catalogType": "githubRaw",
+    "traktSortBy": "",
+    "inPlace": true
+  },
+  {
+    "id": "normal-horror-movies-new-on-netflix",
+    "title": "Just Added",
+    "url": "https://raw.githubusercontent.com/lawdev-cmd/dump/refs/heads/main/dump/newDump/movies/horror/new-on-netflix.json",
+    "catalogType": "githubRaw",
+    "traktSortBy": "",
+    "inPlace": true
+  },
+  {
+    "id": "normal-horror-movies-20th-century-period-piece-movies",
+    "title": "20th Century Period Piece Movies",
+    "url": "https://raw.githubusercontent.com/lawdev-cmd/dump/refs/heads/main/dump/newDump/movies/horror/20th-century-period-piece-movies.json",
+    "catalogType": "githubRaw",
+    "traktSortBy": "random"
+  },
+  {
+    "id": "normal-horror-movies-action-and-adventure-movies",
+    "title": "Action and Adventure Movies",
+    "url": "https://raw.githubusercontent.com/lawdev-cmd/dump/refs/heads/main/dump/newDump/movies/horror/action-and-adventure-movies.json",
+    "catalogType": "githubRaw",
+    "traktSortBy": "random"
+  },
+  {
+    "id": "normal-horror-movies-asian-movies",
+    "title": "Asian Movies",
+    "url": "https://raw.githubusercontent.com/lawdev-cmd/dump/refs/heads/main/dump/newDump/movies/horror/asian-movies.json",
+    "catalogType": "githubRaw",
+    "traktSortBy": "random"
+  },
+  {
+    "id": "normal-horror-movies-comedy-movies",
+    "title": "Comedy Movies",
+    "url": "https://raw.githubusercontent.com/lawdev-cmd/dump/refs/heads/main/dump/newDump/movies/horror/comedy-movies.json",
+    "catalogType": "githubRaw",
+    "traktSortBy": "random"
+  },
+  {
+    "id": "normal-horror-movies-gems-for-you",
+    "title": "Gems for You",
+    "url": "https://raw.githubusercontent.com/lawdev-cmd/dump/refs/heads/main/dump/newDump/movies/horror/gems-for-you.json",
+    "catalogType": "githubRaw",
+    "traktSortBy": "random"
+  },
+  {
+    "id": "normal-horror-movies-international-movies",
+    "title": "International Movies",
+    "url": "https://raw.githubusercontent.com/lawdev-cmd/dump/refs/heads/main/dump/newDump/movies/horror/international-movies.json",
+    "catalogType": "githubRaw",
+    "traktSortBy": "random"
+  },
+  {
+    "id": "normal-horror-movies-only-on-netflix",
+    "title": "Only on Netflix",
+    "url": "https://raw.githubusercontent.com/lawdev-cmd/dump/refs/heads/main/dump/newDump/movies/horror/only-on-netflix.json",
+    "catalogType": "githubRaw",
+    "traktSortBy": "random"
+  },
+  {
+    "id": "normal-horror-movies-psychological-movies",
+    "title": "Psychological Movies",
+    "url": "https://raw.githubusercontent.com/lawdev-cmd/dump/refs/heads/main/dump/newDump/movies/horror/psychological-movies.json",
+    "catalogType": "githubRaw",
+    "traktSortBy": "random"
+  },
+  {
+    "id": "normal-horror-movies-slasher-and-serial-killer-movies",
+    "title": "Slasher and Serial Killer Movies",
+    "url": "https://raw.githubusercontent.com/lawdev-cmd/dump/refs/heads/main/dump/newDump/movies/horror/slasher-and-serial-killer-movies.json",
+    "catalogType": "githubRaw",
+    "traktSortBy": "random"
+  },
+  {
+    "id": "normal-horror-movies-supernatural-horror-movies",
+    "title": "Supernatural Horror Movies",
+    "url": "https://raw.githubusercontent.com/lawdev-cmd/dump/refs/heads/main/dump/newDump/movies/horror/supernatural-horror-movies.json",
+    "catalogType": "githubRaw",
+    "traktSortBy": "random"
+  },
+  {
+    "id": "normal-horror-movies-suspenseful-movies",
+    "title": "Suspenseful Movies",
+    "url": "https://raw.githubusercontent.com/lawdev-cmd/dump/refs/heads/main/dump/newDump/movies/horror/suspenseful-movies.json",
+    "catalogType": "githubRaw",
+    "traktSortBy": "random"
+  },
+  {
+    "id": "normal-horror-movies-teen-screams",
+    "title": "Teen Screams",
+    "url": "https://raw.githubusercontent.com/lawdev-cmd/dump/refs/heads/main/dump/newDump/movies/horror/teen-screams.json",
+    "catalogType": "githubRaw",
+    "traktSortBy": "random"
+  },
+  {
+    "id": "normal-horror-movies-thriller-movies",
+    "title": "Thriller Movies",
+    "url": "https://raw.githubusercontent.com/lawdev-cmd/dump/refs/heads/main/dump/newDump/movies/horror/thriller-movies.json",
+    "catalogType": "githubRaw",
+    "traktSortBy": "random"
+  },
+  {
+    "id": "normal-horror-movies-we-think-you-ll-love-these",
+    "title": "We Think You'll Love These",
+    "url": "https://raw.githubusercontent.com/lawdev-cmd/dump/refs/heads/main/dump/newDump/movies/horror/we-think-you-ll-love-these.json",
+    "catalogType": "githubRaw",
+    "traktSortBy": "random"
+  },
+  {
+    "id": "normal-horror-movies-your-next-watch",
+    "title": "Your Next Watch",
+    "url": "https://raw.githubusercontent.com/lawdev-cmd/dump/refs/heads/main/dump/newDump/movies/horror/your-next-watch.json",
+    "catalogType": "githubRaw",
+    "traktSortBy": "random"
+  }
+]

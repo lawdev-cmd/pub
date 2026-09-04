@@ -1,0 +1,101 @@
+[
+  {
+    "id": "normal-shorts-movies-today-s-top-picks-for-you",
+    "title": "Today's Top Picks for You",
+    "url": "https://raw.githubusercontent.com/lawdev-cmd/dump/refs/heads/main/dump/newDump/movies/shorts/today-s-top-picks-for-you.json",
+    "catalogType": "githubRaw",
+    "traktSortBy": "",
+    "inPlace": true
+  },
+  {
+    "id": "normal-shorts-movies-award-winning-documentaries",
+    "title": "Award Winning Documentaries",
+    "url": "https://raw.githubusercontent.com/lawdev-cmd/dump/refs/heads/main/dump/newDump/movies/shorts/award-winning-documentaries.json",
+    "catalogType": "githubRaw",
+    "traktSortBy": "random"
+  },
+  {
+    "id": "normal-shorts-movies-critically-acclaimed-movies",
+    "title": "Critically Acclaimed",
+    "url": "https://raw.githubusercontent.com/lawdev-cmd/dump/refs/heads/main/dump/newDump/movies/shorts/critically-acclaimed-movies.json",
+    "catalogType": "githubRaw",
+    "traktSortBy": "random"
+  },
+  {
+    "id": "normal-shorts-movies-documentaries",
+    "title": "Documentaries",
+    "url": "https://raw.githubusercontent.com/lawdev-cmd/dump/refs/heads/main/dump/newDump/movies/shorts/documentaries.json",
+    "catalogType": "githubRaw",
+    "traktSortBy": "random"
+  },
+  {
+    "id": "normal-shorts-movies-drama-movies",
+    "title": "Drama Movies",
+    "url": "https://raw.githubusercontent.com/lawdev-cmd/dump/refs/heads/main/dump/newDump/movies/shorts/drama-movies.json",
+    "catalogType": "githubRaw",
+    "traktSortBy": "random"
+  },
+  {
+    "id": "normal-shorts-movies-emotional-movies",
+    "title": "Emotional Movies",
+    "url": "https://raw.githubusercontent.com/lawdev-cmd/dump/refs/heads/main/dump/newDump/movies/shorts/emotional-movies.json",
+    "catalogType": "githubRaw",
+    "traktSortBy": "random"
+  },
+  {
+    "id": "normal-shorts-movies-food-for-hungry-brains",
+    "title": "Food for Hungry Brains",
+    "url": "https://raw.githubusercontent.com/lawdev-cmd/dump/refs/heads/main/dump/newDump/movies/shorts/food-for-hungry-brains.json",
+    "catalogType": "githubRaw",
+    "traktSortBy": "random"
+  },
+  {
+    "id": "normal-shorts-movies-gems-for-you",
+    "title": "Gems for You",
+    "url": "https://raw.githubusercontent.com/lawdev-cmd/dump/refs/heads/main/dump/newDump/movies/shorts/gems-for-you.json",
+    "catalogType": "githubRaw",
+    "traktSortBy": "random"
+  },
+  {
+    "id": "normal-shorts-movies-inspiring-documentaries",
+    "title": "Inspiring Documentaries",
+    "url": "https://raw.githubusercontent.com/lawdev-cmd/dump/refs/heads/main/dump/newDump/movies/shorts/inspiring-documentaries.json",
+    "catalogType": "githubRaw",
+    "traktSortBy": "random"
+  },
+  {
+    "id": "normal-shorts-movies-international-movies",
+    "title": "International Movies",
+    "url": "https://raw.githubusercontent.com/lawdev-cmd/dump/refs/heads/main/dump/newDump/movies/shorts/international-movies.json",
+    "catalogType": "githubRaw",
+    "traktSortBy": "random"
+  },
+  {
+    "id": "normal-shorts-movies-only-on-netflix",
+    "title": "Only on Netflix",
+    "url": "https://raw.githubusercontent.com/lawdev-cmd/dump/refs/heads/main/dump/newDump/movies/shorts/only-on-netflix.json",
+    "catalogType": "githubRaw",
+    "traktSortBy": "random"
+  },
+  {
+    "id": "normal-shorts-movies-social-and-cultural-documentaries",
+    "title": "Social and Cultural Documentaries",
+    "url": "https://raw.githubusercontent.com/lawdev-cmd/dump/refs/heads/main/dump/newDump/movies/shorts/social-and-cultural-documentaries.json",
+    "catalogType": "githubRaw",
+    "traktSortBy": "random"
+  },
+  {
+    "id": "normal-shorts-movies-we-think-you-ll-love-these",
+    "title": "We Think You'll Love These",
+    "url": "https://raw.githubusercontent.com/lawdev-cmd/dump/refs/heads/main/dump/newDump/movies/shorts/we-think-you-ll-love-these.json",
+    "catalogType": "githubRaw",
+    "traktSortBy": "random"
+  },
+  {
+    "id": "normal-shorts-movies-your-next-watch",
+    "title": "Your Next Watch",
+    "url": "https://raw.githubusercontent.com/lawdev-cmd/dump/refs/heads/main/dump/newDump/movies/shorts/your-next-watch.json",
+    "catalogType": "githubRaw",
+    "traktSortBy": "random"
+  }
+]

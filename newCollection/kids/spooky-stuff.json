@@ -1,0 +1,46 @@
+[
+  {
+    "id": "kids-spooky-stuff-movies-everyone-s-watching",
+    "title": "Everyone's Watching",
+    "url": "https://raw.githubusercontent.com/lawdev-cmd/dump/refs/heads/main/dump/newDump/kids/movies/spooky-stuff/everyone-s-watching.json",
+    "catalogType": "githubRaw",
+    "traktSortBy": "",
+    "inPlace": true
+  },
+  {
+    "id": "kids-spooky-stuff-movies-new-on-netflix",
+    "title": "Just Added",
+    "url": "https://raw.githubusercontent.com/lawdev-cmd/dump/refs/heads/main/dump/newDump/kids/movies/spooky-stuff/new-on-netflix.json",
+    "catalogType": "githubRaw",
+    "traktSortBy": "",
+    "inPlace": true
+  },
+  {
+    "id": "kids-spooky-stuff-movies-animated",
+    "title": "Animated",
+    "url": "https://raw.githubusercontent.com/lawdev-cmd/dump/refs/heads/main/dump/newDump/kids/movies/spooky-stuff/animated.json",
+    "catalogType": "githubRaw",
+    "traktSortBy": "random"
+  },
+  {
+    "id": "kids-spooky-stuff-movies-only-on-netflix",
+    "title": "Only on Netflix",
+    "url": "https://raw.githubusercontent.com/lawdev-cmd/dump/refs/heads/main/dump/newDump/kids/movies/spooky-stuff/only-on-netflix.json",
+    "catalogType": "githubRaw",
+    "traktSortBy": "random"
+  },
+  {
+    "id": "kids-spooky-stuff-shows-spooky-tv",
+    "title": "Spooky TV",
+    "url": "https://raw.githubusercontent.com/lawdev-cmd/dump/refs/heads/main/dump/newDump/kids/shows/spooky-stuff/spooky-tv.json",
+    "catalogType": "githubRaw",
+    "traktSortBy": "random"
+  },
+  {
+    "id": "kids-spooky-stuff-movies-watch-with-the-family",
+    "title": "Watch with the Family",
+    "url": "https://raw.githubusercontent.com/lawdev-cmd/dump/refs/heads/main/dump/newDump/kids/movies/spooky-stuff/watch-with-the-family.json",
+    "catalogType": "githubRaw",
+    "traktSortBy": "random"
+  }
+]

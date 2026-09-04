@@ -1,0 +1,134 @@
+[
+  {
+    "id": "normal-action",
+    "file": "action.json",
+    "label": "Action",
+    "logo": ""
+  },
+  {
+    "id": "normal-anime",
+    "file": "anime.json",
+    "label": "Anime",
+    "logo": ""
+  },
+  {
+    "id": "normal-canadian",
+    "file": "canadian.json",
+    "label": "Canadian",
+    "logo": ""
+  },
+  {
+    "id": "normal-classics",
+    "file": "classics.json",
+    "label": "Classics",
+    "logo": ""
+  },
+  {
+    "id": "normal-comedy",
+    "file": "comedy.json",
+    "label": "Comedy",
+    "logo": ""
+  },
+  {
+    "id": "normal-documentary",
+    "file": "documentary.json",
+    "label": "Documentary",
+    "logo": ""
+  },
+  {
+    "id": "normal-drama",
+    "file": "drama.json",
+    "label": "Drama",
+    "logo": ""
+  },
+  {
+    "id": "normal-faith-and-spirituality",
+    "file": "faith-and-spirituality.json",
+    "label": "Faith & Spirituality",
+    "logo": ""
+  },
+  {
+    "id": "normal-family",
+    "file": "family.json",
+    "label": "Family",
+    "logo": ""
+  },
+  {
+    "id": "normal-fantasy",
+    "file": "fantasy.json",
+    "label": "Fantasy",
+    "logo": ""
+  },
+  {
+    "id": "normal-foreign",
+    "file": "foreign.json",
+    "label": "Foreign",
+    "logo": ""
+  },
+  {
+    "id": "normal-halloween",
+    "file": "halloween.json",
+    "label": "Halloween",
+    "logo": ""
+  },
+  {
+    "id": "normal-horror",
+    "file": "horror.json",
+    "label": "Horror",
+    "logo": ""
+  },
+  {
+    "id": "normal-independent",
+    "file": "independent.json",
+    "label": "Independent",
+    "logo": ""
+  },
+  {
+    "id": "normal-movies",
+    "file": "movies.json",
+    "label": "Movies",
+    "logo": ""
+  },
+  {
+    "id": "normal-music-and-musicals",
+    "file": "music-and-musicals.json",
+    "label": "Music & Musicals",
+    "logo": ""
+  },
+  {
+    "id": "normal-romance",
+    "file": "romance.json",
+    "label": "Romance",
+    "logo": ""
+  },
+  {
+    "id": "normal-scifi",
+    "file": "scifi.json",
+    "label": "Sci-Fi",
+    "logo": ""
+  },
+  {
+    "id": "normal-shorts",
+    "file": "shorts.json",
+    "label": "Shorts",
+    "logo": ""
+  },
+  {
+    "id": "normal-sports",
+    "file": "sports.json",
+    "label": "Sports",
+    "logo": ""
+  },
+  {
+    "id": "normal-stand-up-comedy",
+    "file": "stand-up-comedy.json",
+    "label": "Stand-Up Comedy",
+    "logo": ""
+  },
+  {
+    "id": "normal-thriller",
+    "file": "thriller.json",
+    "label": "Thriller",
+    "logo": ""
+  }
+]

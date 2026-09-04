@@ -1,0 +1,67 @@
+[
+  {
+    "id": "normal-classics-movies-today-s-top-picks-for-you",
+    "title": "Today's Top Picks for You",
+    "url": "https://raw.githubusercontent.com/lawdev-cmd/dump/refs/heads/main/dump/newDump/movies/classics/today-s-top-picks-for-you.json",
+    "catalogType": "githubRaw",
+    "traktSortBy": "",
+    "inPlace": true
+  },
+  {
+    "id": "normal-classics-movies-new-on-netflix",
+    "title": "Just Added",
+    "url": "https://raw.githubusercontent.com/lawdev-cmd/dump/refs/heads/main/dump/newDump/movies/classics/new-on-netflix.json",
+    "catalogType": "githubRaw",
+    "traktSortBy": "",
+    "inPlace": true
+  },
+  {
+    "id": "normal-classics-movies-award-winning-films",
+    "title": "Award-Winning Films",
+    "url": "https://raw.githubusercontent.com/lawdev-cmd/dump/refs/heads/main/dump/newDump/movies/classics/award-winning-films.json",
+    "catalogType": "githubRaw",
+    "traktSortBy": "random"
+  },
+  {
+    "id": "normal-classics-movies-comedy-movies",
+    "title": "Comedy Movies",
+    "url": "https://raw.githubusercontent.com/lawdev-cmd/dump/refs/heads/main/dump/newDump/movies/classics/comedy-movies.json",
+    "catalogType": "githubRaw",
+    "traktSortBy": "random"
+  },
+  {
+    "id": "normal-classics-movies-critically-acclaimed-movies",
+    "title": "Critically Acclaimed",
+    "url": "https://raw.githubusercontent.com/lawdev-cmd/dump/refs/heads/main/dump/newDump/movies/classics/critically-acclaimed-movies.json",
+    "catalogType": "githubRaw",
+    "traktSortBy": "random"
+  },
+  {
+    "id": "normal-classics-movies-drama-movies",
+    "title": "Drama Movies",
+    "url": "https://raw.githubusercontent.com/lawdev-cmd/dump/refs/heads/main/dump/newDump/movies/classics/drama-movies.json",
+    "catalogType": "githubRaw",
+    "traktSortBy": "random"
+  },
+  {
+    "id": "normal-classics-movies-gems-for-you",
+    "title": "Gems for You",
+    "url": "https://raw.githubusercontent.com/lawdev-cmd/dump/refs/heads/main/dump/newDump/movies/classics/gems-for-you.json",
+    "catalogType": "githubRaw",
+    "traktSortBy": "random"
+  },
+  {
+    "id": "normal-classics-movies-we-think-you-ll-love-these",
+    "title": "We Think You'll Love These",
+    "url": "https://raw.githubusercontent.com/lawdev-cmd/dump/refs/heads/main/dump/newDump/movies/classics/we-think-you-ll-love-these.json",
+    "catalogType": "githubRaw",
+    "traktSortBy": "random"
+  },
+  {
+    "id": "normal-classics-movies-your-next-watch",
+    "title": "Your Next Watch",
+    "url": "https://raw.githubusercontent.com/lawdev-cmd/dump/refs/heads/main/dump/newDump/movies/classics/your-next-watch.json",
+    "catalogType": "githubRaw",
+    "traktSortBy": "random"
+  }
+]

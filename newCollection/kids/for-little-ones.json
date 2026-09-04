@@ -1,0 +1,142 @@
+[
+  {
+    "id": "kids-for-little-ones-movies-20-minutes-or-less",
+    "title": "20 Minutes or Less Movies",
+    "url": "https://raw.githubusercontent.com/lawdev-cmd/dump/refs/heads/main/dump/newDump/kids/movies/for-little-ones/20-minutes-or-less.json",
+    "catalogType": "githubRaw",
+    "traktSortBy": "random"
+  },
+  {
+    "id": "kids-for-little-ones-shows-20-minutes-or-less",
+    "title": "20 Minutes or Less TV",
+    "url": "https://raw.githubusercontent.com/lawdev-cmd/dump/refs/heads/main/dump/newDump/kids/shows/for-little-ones/20-minutes-or-less.json",
+    "catalogType": "githubRaw",
+    "traktSortBy": "random"
+  },
+  {
+    "id": "kids-for-little-ones-movies-award-winning-and-acclaimed",
+    "title": "Award-Winning & Acclaimed Movies",
+    "url": "https://raw.githubusercontent.com/lawdev-cmd/dump/refs/heads/main/dump/newDump/kids/movies/for-little-ones/award-winning-and-acclaimed.json",
+    "catalogType": "githubRaw",
+    "traktSortBy": "random"
+  },
+  {
+    "id": "kids-for-little-ones-shows-award-winning-and-acclaimed",
+    "title": "Award-Winning & Acclaimed TV",
+    "url": "https://raw.githubusercontent.com/lawdev-cmd/dump/refs/heads/main/dump/newDump/kids/shows/for-little-ones/award-winning-and-acclaimed.json",
+    "catalogType": "githubRaw",
+    "traktSortBy": "random"
+  },
+  {
+    "id": "kids-for-little-ones-movies-calm-and-gentle",
+    "title": "Calm and Gentle Movies",
+    "url": "https://raw.githubusercontent.com/lawdev-cmd/dump/refs/heads/main/dump/newDump/kids/movies/for-little-ones/calm-and-gentle.json",
+    "catalogType": "githubRaw",
+    "traktSortBy": "random"
+  },
+  {
+    "id": "kids-for-little-ones-shows-calm-and-gentle",
+    "title": "Calm and Gentle TV",
+    "url": "https://raw.githubusercontent.com/lawdev-cmd/dump/refs/heads/main/dump/newDump/kids/shows/for-little-ones/calm-and-gentle.json",
+    "catalogType": "githubRaw",
+    "traktSortBy": "random"
+  },
+  {
+    "id": "kids-for-little-ones-movies-educational-and-entertaining",
+    "title": "Educational & Entertaining Movies",
+    "url": "https://raw.githubusercontent.com/lawdev-cmd/dump/refs/heads/main/dump/newDump/kids/movies/for-little-ones/educational-and-entertaining.json",
+    "catalogType": "githubRaw",
+    "traktSortBy": "random"
+  },
+  {
+    "id": "kids-for-little-ones-shows-educational-and-entertaining",
+    "title": "Educational & Entertaining TV",
+    "url": "https://raw.githubusercontent.com/lawdev-cmd/dump/refs/heads/main/dump/newDump/kids/shows/for-little-ones/educational-and-entertaining.json",
+    "catalogType": "githubRaw",
+    "traktSortBy": "random"
+  },
+  {
+    "id": "kids-for-little-ones-movies-for-littles-who-love-to-sing-and-dance",
+    "title": "For Littles Who Love to Sing and Dance Movies",
+    "url": "https://raw.githubusercontent.com/lawdev-cmd/dump/refs/heads/main/dump/newDump/kids/movies/for-little-ones/for-littles-who-love-to-sing-and-dance.json",
+    "catalogType": "githubRaw",
+    "traktSortBy": "random"
+  },
+  {
+    "id": "kids-for-little-ones-shows-for-littles-who-love-to-sing-and-dance",
+    "title": "For Littles Who Love to Sing and Dance TV",
+    "url": "https://raw.githubusercontent.com/lawdev-cmd/dump/refs/heads/main/dump/newDump/kids/shows/for-little-ones/for-littles-who-love-to-sing-and-dance.json",
+    "catalogType": "githubRaw",
+    "traktSortBy": "random"
+  },
+  {
+    "id": "kids-for-little-ones-movies-lorries-trains-and-planes",
+    "title": "Lorries, Trains and Planes Movies",
+    "url": "https://raw.githubusercontent.com/lawdev-cmd/dump/refs/heads/main/dump/newDump/kids/movies/for-little-ones/lorries-trains-and-planes.json",
+    "catalogType": "githubRaw",
+    "traktSortBy": "random"
+  },
+  {
+    "id": "kids-for-little-ones-shows-lorries-trains-and-planes",
+    "title": "Lorries, Trains and Planes TV",
+    "url": "https://raw.githubusercontent.com/lawdev-cmd/dump/refs/heads/main/dump/newDump/kids/shows/for-little-ones/lorries-trains-and-planes.json",
+    "catalogType": "githubRaw",
+    "traktSortBy": "random"
+  },
+  {
+    "id": "kids-for-little-ones-movies-movies-for-the-whole-family",
+    "title": "Movies for the Whole Family Movies",
+    "url": "https://raw.githubusercontent.com/lawdev-cmd/dump/refs/heads/main/dump/newDump/kids/movies/for-little-ones/movies-for-the-whole-family.json",
+    "catalogType": "githubRaw",
+    "traktSortBy": "random"
+  },
+  {
+    "id": "kids-for-little-ones-shows-movies-for-the-whole-family",
+    "title": "Movies for the Whole Family TV",
+    "url": "https://raw.githubusercontent.com/lawdev-cmd/dump/refs/heads/main/dump/newDump/kids/shows/for-little-ones/movies-for-the-whole-family.json",
+    "catalogType": "githubRaw",
+    "traktSortBy": "random"
+  },
+  {
+    "id": "kids-for-little-ones-movies-preschool-hosts-with-the-most",
+    "title": "Preschool Hosts with the Most Movies",
+    "url": "https://raw.githubusercontent.com/lawdev-cmd/dump/refs/heads/main/dump/newDump/kids/movies/for-little-ones/preschool-hosts-with-the-most.json",
+    "catalogType": "githubRaw",
+    "traktSortBy": "random"
+  },
+  {
+    "id": "kids-for-little-ones-shows-preschool-hosts-with-the-most",
+    "title": "Preschool Hosts with the Most TV",
+    "url": "https://raw.githubusercontent.com/lawdev-cmd/dump/refs/heads/main/dump/newDump/kids/shows/for-little-ones/preschool-hosts-with-the-most.json",
+    "catalogType": "githubRaw",
+    "traktSortBy": "random"
+  },
+  {
+    "id": "kids-for-little-ones-movies-quack-moo-bark-oink",
+    "title": "Quack, Moo, Bark, Oink! Movies",
+    "url": "https://raw.githubusercontent.com/lawdev-cmd/dump/refs/heads/main/dump/newDump/kids/movies/for-little-ones/quack-moo-bark-oink.json",
+    "catalogType": "githubRaw",
+    "traktSortBy": "random"
+  },
+  {
+    "id": "kids-for-little-ones-shows-quack-moo-bark-oink",
+    "title": "Quack, Moo, Bark, Oink! TV",
+    "url": "https://raw.githubusercontent.com/lawdev-cmd/dump/refs/heads/main/dump/newDump/kids/shows/for-little-ones/quack-moo-bark-oink.json",
+    "catalogType": "githubRaw",
+    "traktSortBy": "random"
+  },
+  {
+    "id": "kids-for-little-ones-movies-sunny-days-on-sesame-street",
+    "title": "Sunny Days on Sesame Street Movies",
+    "url": "https://raw.githubusercontent.com/lawdev-cmd/dump/refs/heads/main/dump/newDump/kids/movies/for-little-ones/sunny-days-on-sesame-street.json",
+    "catalogType": "githubRaw",
+    "traktSortBy": "random"
+  },
+  {
+    "id": "kids-for-little-ones-shows-sunny-days-on-sesame-street",
+    "title": "Sunny Days on Sesame Street TV",
+    "url": "https://raw.githubusercontent.com/lawdev-cmd/dump/refs/heads/main/dump/newDump/kids/shows/for-little-ones/sunny-days-on-sesame-street.json",
+    "catalogType": "githubRaw",
+    "traktSortBy": "random"
+  }
+]

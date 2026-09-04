@@ -1,0 +1,9 @@
+[
+  {
+    "id": "kids-princesses-movies-princess-movies",
+    "title": "Princess Movies",
+    "url": "https://raw.githubusercontent.com/lawdev-cmd/dump/refs/heads/main/dump/newDump/kids/movies/princesses/princess-movies.json",
+    "catalogType": "githubRaw",
+    "traktSortBy": "random"
+  }
+]

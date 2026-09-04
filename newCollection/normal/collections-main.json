@@ -1,0 +1,90 @@
+[
+  {
+    "title": "Action",
+    "url": "https://raw.githubusercontent.com/lawdev-cmd/pub/refs/heads/main/newCollection/normal/action.json"
+  },
+  {
+    "title": "Anime",
+    "url": "https://raw.githubusercontent.com/lawdev-cmd/pub/refs/heads/main/newCollection/normal/anime.json"
+  },
+  {
+    "title": "Canadian",
+    "url": "https://raw.githubusercontent.com/lawdev-cmd/pub/refs/heads/main/newCollection/normal/canadian.json"
+  },
+  {
+    "title": "Classics",
+    "url": "https://raw.githubusercontent.com/lawdev-cmd/pub/refs/heads/main/newCollection/normal/classics.json"
+  },
+  {
+    "title": "Comedy",
+    "url": "https://raw.githubusercontent.com/lawdev-cmd/pub/refs/heads/main/newCollection/normal/comedy.json"
+  },
+  {
+    "title": "Documentary",
+    "url": "https://raw.githubusercontent.com/lawdev-cmd/pub/refs/heads/main/newCollection/normal/documentary.json"
+  },
+  {
+    "title": "Drama",
+    "url": "https://raw.githubusercontent.com/lawdev-cmd/pub/refs/heads/main/newCollection/normal/drama.json"
+  },
+  {
+    "title": "Faith & Spirituality",
+    "url": "https://raw.githubusercontent.com/lawdev-cmd/pub/refs/heads/main/newCollection/normal/faith-and-spirituality.json"
+  },
+  {
+    "title": "Family",
+    "url": "https://raw.githubusercontent.com/lawdev-cmd/pub/refs/heads/main/newCollection/normal/family.json"
+  },
+  {
+    "title": "Fantasy",
+    "url": "https://raw.githubusercontent.com/lawdev-cmd/pub/refs/heads/main/newCollection/normal/fantasy.json"
+  },
+  {
+    "title": "Foreign",
+    "url": "https://raw.githubusercontent.com/lawdev-cmd/pub/refs/heads/main/newCollection/normal/foreign.json"
+  },
+  {
+    "title": "Halloween",
+    "url": "https://raw.githubusercontent.com/lawdev-cmd/pub/refs/heads/main/newCollection/normal/halloween.json"
+  },
+  {
+    "title": "Horror",
+    "url": "https://raw.githubusercontent.com/lawdev-cmd/pub/refs/heads/main/newCollection/normal/horror.json"
+  },
+  {
+    "title": "Independent",
+    "url": "https://raw.githubusercontent.com/lawdev-cmd/pub/refs/heads/main/newCollection/normal/independent.json"
+  },
+  {
+    "title": "Movies",
+    "url": "https://raw.githubusercontent.com/lawdev-cmd/pub/refs/heads/main/newCollection/normal/movies.json"
+  },
+  {
+    "title": "Music & Musicals",
+    "url": "https://raw.githubusercontent.com/lawdev-cmd/pub/refs/heads/main/newCollection/normal/music-and-musicals.json"
+  },
+  {
+    "title": "Romance",
+    "url": "https://raw.githubusercontent.com/lawdev-cmd/pub/refs/heads/main/newCollection/normal/romance.json"
+  },
+  {
+    "title": "Sci-Fi",
+    "url": "https://raw.githubusercontent.com/lawdev-cmd/pub/refs/heads/main/newCollection/normal/scifi.json"
+  },
+  {
+    "title": "Shorts",
+    "url": "https://raw.githubusercontent.com/lawdev-cmd/pub/refs/heads/main/newCollection/normal/shorts.json"
+  },
+  {
+    "title": "Sports",
+    "url": "https://raw.githubusercontent.com/lawdev-cmd/pub/refs/heads/main/newCollection/normal/sports.json"
+  },
+  {
+    "title": "Stand-Up Comedy",
+    "url": "https://raw.githubusercontent.com/lawdev-cmd/pub/refs/heads/main/newCollection/normal/stand-up-comedy.json"
+  },
+  {
+    "title": "Thriller",
+    "url": "https://raw.githubusercontent.com/lawdev-cmd/pub/refs/heads/main/newCollection/normal/thriller.json"
+  }
+]

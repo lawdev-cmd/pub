@@ -1,0 +1,93 @@
+[
+  {
+    "id": "normal-halloween-movies-bite-into-vampire-central",
+    "title": "Bite Into Vampire Central",
+    "url": "https://raw.githubusercontent.com/lawdev-cmd/dump/refs/heads/main/dump/newDump/movies/halloween/bite-into-vampire-central.json",
+    "catalogType": "githubRaw",
+    "traktSortBy": "random"
+  },
+  {
+    "id": "normal-halloween-movies-creature-features",
+    "title": "Creature Features",
+    "url": "https://raw.githubusercontent.com/lawdev-cmd/dump/refs/heads/main/dump/newDump/movies/halloween/creature-features.json",
+    "catalogType": "githubRaw",
+    "traktSortBy": "random"
+  },
+  {
+    "id": "normal-halloween-movies-dive-into-mental-mayhem",
+    "title": "Dive Into Mental Mayhem",
+    "url": "https://raw.githubusercontent.com/lawdev-cmd/dump/refs/heads/main/dump/newDump/movies/halloween/dive-into-mental-mayhem.json",
+    "catalogType": "githubRaw",
+    "traktSortBy": "random"
+  },
+  {
+    "id": "normal-halloween-movies-enter-the-supernatural",
+    "title": "Enter the Supernatural",
+    "url": "https://raw.githubusercontent.com/lawdev-cmd/dump/refs/heads/main/dump/newDump/movies/halloween/enter-the-supernatural.json",
+    "catalogType": "githubRaw",
+    "traktSortBy": "random"
+  },
+  {
+    "id": "normal-halloween-movies-family-friendly-frights",
+    "title": "Family Friendly Frights",
+    "url": "https://raw.githubusercontent.com/lawdev-cmd/dump/refs/heads/main/dump/newDump/movies/halloween/family-friendly-frights.json",
+    "catalogType": "githubRaw",
+    "traktSortBy": "random"
+  },
+  {
+    "id": "normal-halloween-movies-just-a-little-scary",
+    "title": "Just a Little Scary",
+    "url": "https://raw.githubusercontent.com/lawdev-cmd/dump/refs/heads/main/dump/newDump/movies/halloween/just-a-little-scary.json",
+    "catalogType": "githubRaw",
+    "traktSortBy": "random"
+  },
+  {
+    "id": "normal-halloween-movies-newly-screaming-for-halloween",
+    "title": "Newly Screaming for Halloween",
+    "url": "https://raw.githubusercontent.com/lawdev-cmd/dump/refs/heads/main/dump/newDump/movies/halloween/newly-screaming-for-halloween.json",
+    "catalogType": "githubRaw",
+    "traktSortBy": "random"
+  },
+  {
+    "id": "normal-halloween-movies-scares-critics-love",
+    "title": "Scares Critics Love",
+    "url": "https://raw.githubusercontent.com/lawdev-cmd/dump/refs/heads/main/dump/newDump/movies/halloween/scares-critics-love.json",
+    "catalogType": "githubRaw",
+    "traktSortBy": "random"
+  },
+  {
+    "id": "normal-halloween-movies-scream-with-laughter",
+    "title": "Scream With Laughter",
+    "url": "https://raw.githubusercontent.com/lawdev-cmd/dump/refs/heads/main/dump/newDump/movies/halloween/scream-with-laughter.json",
+    "catalogType": "githubRaw",
+    "traktSortBy": "random"
+  },
+  {
+    "id": "normal-halloween-movies-step-inside-haunted-houses",
+    "title": "Step Inside Haunted Houses",
+    "url": "https://raw.githubusercontent.com/lawdev-cmd/dump/refs/heads/main/dump/newDump/movies/halloween/step-inside-haunted-houses.json",
+    "catalogType": "githubRaw",
+    "traktSortBy": "random"
+  },
+  {
+    "id": "normal-halloween-movies-take-a-stab-at-slasher-flicks",
+    "title": "Take a Stab At Slasher Flicks",
+    "url": "https://raw.githubusercontent.com/lawdev-cmd/dump/refs/heads/main/dump/newDump/movies/halloween/take-a-stab-at-slasher-flicks.json",
+    "catalogType": "githubRaw",
+    "traktSortBy": "random"
+  },
+  {
+    "id": "normal-halloween-movies-the-final-girl",
+    "title": "The Final Girl",
+    "url": "https://raw.githubusercontent.com/lawdev-cmd/dump/refs/heads/main/dump/newDump/movies/halloween/the-final-girl.json",
+    "catalogType": "githubRaw",
+    "traktSortBy": "random"
+  },
+  {
+    "id": "normal-halloween-movies-wake-the-undead",
+    "title": "Wake the Undead",
+    "url": "https://raw.githubusercontent.com/lawdev-cmd/dump/refs/heads/main/dump/newDump/movies/halloween/wake-the-undead.json",
+    "catalogType": "githubRaw",
+    "traktSortBy": "random"
+  }
+]

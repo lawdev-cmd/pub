@@ -1,0 +1,146 @@
+[
+  {
+    "id": "kids-action",
+    "file": "action.json",
+    "label": "Action",
+    "logo": ""
+  },
+  {
+    "id": "kids-adventure",
+    "file": "adventure.json",
+    "label": "Adventure",
+    "logo": ""
+  },
+  {
+    "id": "kids-animal-time",
+    "file": "animal-time.json",
+    "label": "Animal Time",
+    "logo": ""
+  },
+  {
+    "id": "kids-animals",
+    "file": "animals.json",
+    "label": "Animals",
+    "logo": ""
+  },
+  {
+    "id": "kids-animation",
+    "file": "animation.json",
+    "label": "Animation",
+    "logo": ""
+  },
+  {
+    "id": "kids-cool-special-effects",
+    "file": "cool-special-effects.json",
+    "label": "Cool Special Effects",
+    "logo": ""
+  },
+  {
+    "id": "kids-dinosaurs",
+    "file": "dinosaurs.json",
+    "label": "Dinosaurs",
+    "logo": ""
+  },
+  {
+    "id": "kids-documentary",
+    "file": "documentary.json",
+    "label": "Documentary",
+    "logo": ""
+  },
+  {
+    "id": "kids-family",
+    "file": "family.json",
+    "label": "Family",
+    "logo": ""
+  },
+  {
+    "id": "kids-fantasy",
+    "file": "fantasy.json",
+    "label": "Fantasy",
+    "logo": ""
+  },
+  {
+    "id": "kids-feel-good",
+    "file": "feel-good.json",
+    "label": "Feel Good",
+    "logo": ""
+  },
+  {
+    "id": "kids-for-little-ones",
+    "file": "for-little-ones.json",
+    "label": "For Little Ones",
+    "logo": ""
+  },
+  {
+    "id": "kids-friends",
+    "file": "friends.json",
+    "label": "Friends",
+    "logo": ""
+  },
+  {
+    "id": "kids-girls-take-the-lead",
+    "file": "girls-take-the-lead.json",
+    "label": "Girls Take the Lead",
+    "logo": ""
+  },
+  {
+    "id": "kids-little-kids",
+    "file": "little-kids.json",
+    "label": "Little Kids",
+    "logo": ""
+  },
+  {
+    "id": "kids-lol",
+    "file": "lol.json",
+    "label": "LOL",
+    "logo": ""
+  },
+  {
+    "id": "kids-nature",
+    "file": "nature.json",
+    "label": "Nature",
+    "logo": ""
+  },
+  {
+    "id": "kids-princesses",
+    "file": "princesses.json",
+    "label": "Princesses",
+    "logo": ""
+  },
+  {
+    "id": "kids-reality",
+    "file": "reality.json",
+    "label": "Reality",
+    "logo": ""
+  },
+  {
+    "id": "kids-scifi",
+    "file": "scifi.json",
+    "label": "Sci-Fi",
+    "logo": ""
+  },
+  {
+    "id": "kids-science-and-arts",
+    "file": "science-and-arts.json",
+    "label": "Science & Arts",
+    "logo": ""
+  },
+  {
+    "id": "kids-singing-and-dancing",
+    "file": "singing-and-dancing.json",
+    "label": "Singing & Dancing",
+    "logo": ""
+  },
+  {
+    "id": "kids-spooky-stuff",
+    "file": "spooky-stuff.json",
+    "label": "Spooky Stuff",
+    "logo": ""
+  },
+  {
+    "id": "kids-trucks-and-trains",
+    "file": "trucks-and-trains.json",
+    "label": "Trucks & Trains",
+    "logo": ""
+  }
+]
