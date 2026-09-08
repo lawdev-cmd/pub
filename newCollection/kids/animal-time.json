@@ -16,52 +16,9 @@
     "inPlace": true
   },
   {
-    "id": "kids-animal-time-movies-new-on-netflix",
-    "title": "Just Added",
-    "url": "https://raw.githubusercontent.com/lawdev-cmd/dump/refs/heads/main/dump/newDump/kids/movies/animal-time/new-on-netflix.json",
-    "catalogType": "githubRaw",
-    "traktSortBy": "",
-    "inPlace": true
-  },
-  {
-    "id": "kids-animal-time-movies-action",
-    "title": "Action",
-    "url": "https://raw.githubusercontent.com/lawdev-cmd/dump/refs/heads/main/dump/newDump/kids/movies/animal-time/action.json",
-    "catalogType": "githubRaw",
-    "traktSortBy": "random"
-  },
-  {
-    "id": "kids-animal-time-movies-adventures",
-    "title": "Adventures",
-    "url": "https://raw.githubusercontent.com/lawdev-cmd/dump/refs/heads/main/dump/newDump/kids/movies/animal-time/adventures.json",
-    "catalogType": "githubRaw",
-    "traktSortBy": "random"
-  },
-  {
-    "id": "kids-animal-time-movies-all-things-wild",
-    "title": "All Things Wild",
-    "url": "https://raw.githubusercontent.com/lawdev-cmd/dump/refs/heads/main/dump/newDump/kids/movies/animal-time/all-things-wild.json",
-    "catalogType": "githubRaw",
-    "traktSortBy": "random"
-  },
-  {
     "id": "kids-animal-time-movies-animals",
     "title": "Animals",
     "url": "https://raw.githubusercontent.com/lawdev-cmd/dump/refs/heads/main/dump/newDump/kids/movies/animal-time/animals.json",
-    "catalogType": "githubRaw",
-    "traktSortBy": "random"
-  },
-  {
-    "id": "kids-animal-time-movies-fantasy",
-    "title": "Fantasy",
-    "url": "https://raw.githubusercontent.com/lawdev-cmd/dump/refs/heads/main/dump/newDump/kids/movies/animal-time/fantasy.json",
-    "catalogType": "githubRaw",
-    "traktSortBy": "random"
-  },
-  {
-    "id": "kids-animal-time-movies-friends-tv",
-    "title": "Friends TV",
-    "url": "https://raw.githubusercontent.com/lawdev-cmd/dump/refs/heads/main/dump/newDump/kids/movies/animal-time/friends-tv.json",
     "catalogType": "githubRaw",
     "traktSortBy": "random"
   },
@@ -80,37 +37,9 @@
     "traktSortBy": "random"
   },
   {
-    "id": "kids-animal-time-movies-girls-take-the-lead",
-    "title": "Girls Take the Lead",
-    "url": "https://raw.githubusercontent.com/lawdev-cmd/dump/refs/heads/main/dump/newDump/kids/movies/animal-time/girls-take-the-lead.json",
-    "catalogType": "githubRaw",
-    "traktSortBy": "random"
-  },
-  {
-    "id": "kids-animal-time-movies-nature",
-    "title": "Nature",
-    "url": "https://raw.githubusercontent.com/lawdev-cmd/dump/refs/heads/main/dump/newDump/kids/movies/animal-time/nature.json",
-    "catalogType": "githubRaw",
-    "traktSortBy": "random"
-  },
-  {
-    "id": "kids-animal-time-movies-only-on-netflix",
-    "title": "Only on Netflix",
-    "url": "https://raw.githubusercontent.com/lawdev-cmd/dump/refs/heads/main/dump/newDump/kids/movies/animal-time/only-on-netflix.json",
-    "catalogType": "githubRaw",
-    "traktSortBy": "random"
-  },
-  {
-    "id": "kids-animal-time-movies-sing-alongs",
-    "title": "Sing-Alongs",
-    "url": "https://raw.githubusercontent.com/lawdev-cmd/dump/refs/heads/main/dump/newDump/kids/movies/animal-time/sing-alongs.json",
-    "catalogType": "githubRaw",
-    "traktSortBy": "random"
-  },
-  {
-    "id": "kids-animal-time-movies-tv-shows",
-    "title": "TV Shows",
-    "url": "https://raw.githubusercontent.com/lawdev-cmd/dump/refs/heads/main/dump/newDump/kids/movies/animal-time/tv-shows.json",
+    "id": "kids-animal-time-movies-only-on-streaming",
+    "title": "Only on Streaming",
+    "url": "https://raw.githubusercontent.com/lawdev-cmd/dump/refs/heads/main/dump/newDump/kids/movies/animal-time/only-on-streaming.json",
     "catalogType": "githubRaw",
     "traktSortBy": "random"
   },

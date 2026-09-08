@@ -35,13 +35,6 @@
     "traktSortBy": "random"
   },
   {
-    "id": "normal-action-movies-crowd-pleasers",
-    "title": "Crowd Pleasers",
-    "url": "https://raw.githubusercontent.com/lawdev-cmd/dump/refs/heads/main/dump/newDump/movies/action/crowd-pleasers.json",
-    "catalogType": "githubRaw",
-    "traktSortBy": "random"
-  },
-  {
     "id": "normal-action-movies-drama-movies",
     "title": "Drama Movies",
     "url": "https://raw.githubusercontent.com/lawdev-cmd/dump/refs/heads/main/dump/newDump/movies/action/drama-movies.json",
@@ -52,13 +45,6 @@
     "id": "normal-action-movies-epic-worlds",
     "title": "Epic Worlds",
     "url": "https://raw.githubusercontent.com/lawdev-cmd/dump/refs/heads/main/dump/newDump/movies/action/epic-worlds.json",
-    "catalogType": "githubRaw",
-    "traktSortBy": "random"
-  },
-  {
-    "id": "normal-action-movies-horror-movies",
-    "title": "Horror Movies",
-    "url": "https://raw.githubusercontent.com/lawdev-cmd/dump/refs/heads/main/dump/newDump/movies/action/horror-movies.json",
     "catalogType": "githubRaw",
     "traktSortBy": "random"
   },
@@ -77,9 +63,9 @@
     "traktSortBy": "random"
   },
   {
-    "id": "normal-action-movies-only-on-netflix",
-    "title": "Only on Netflix",
-    "url": "https://raw.githubusercontent.com/lawdev-cmd/dump/refs/heads/main/dump/newDump/movies/action/only-on-netflix.json",
+    "id": "normal-action-movies-only-on-streaming",
+    "title": "Only on Streaming",
+    "url": "https://raw.githubusercontent.com/lawdev-cmd/dump/refs/heads/main/dump/newDump/movies/action/only-on-streaming.json",
     "catalogType": "githubRaw",
     "traktSortBy": "random"
   },

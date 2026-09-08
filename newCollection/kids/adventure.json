@@ -23,23 +23,9 @@
     "traktSortBy": "random"
   },
   {
-    "id": "kids-adventure-movies-all-things-wild",
-    "title": "All Things Wild",
-    "url": "https://raw.githubusercontent.com/lawdev-cmd/dump/refs/heads/main/dump/newDump/kids/movies/adventure/all-things-wild.json",
-    "catalogType": "githubRaw",
-    "traktSortBy": "random"
-  },
-  {
     "id": "kids-adventure-movies-animated",
     "title": "Animated",
     "url": "https://raw.githubusercontent.com/lawdev-cmd/dump/refs/heads/main/dump/newDump/kids/movies/adventure/animated.json",
-    "catalogType": "githubRaw",
-    "traktSortBy": "random"
-  },
-  {
-    "id": "kids-adventure-movies-educational-and-entertaining",
-    "title": "Educational & Entertaining",
-    "url": "https://raw.githubusercontent.com/lawdev-cmd/dump/refs/heads/main/dump/newDump/kids/movies/adventure/educational-and-entertaining.json",
     "catalogType": "githubRaw",
     "traktSortBy": "random"
   },
@@ -58,13 +44,6 @@
     "traktSortBy": "random"
   },
   {
-    "id": "kids-adventure-movies-friends",
-    "title": "Friends",
-    "url": "https://raw.githubusercontent.com/lawdev-cmd/dump/refs/heads/main/dump/newDump/kids/movies/adventure/friends.json",
-    "catalogType": "githubRaw",
-    "traktSortBy": "random"
-  },
-  {
     "id": "kids-adventure-movies-funny",
     "title": "Funny",
     "url": "https://raw.githubusercontent.com/lawdev-cmd/dump/refs/heads/main/dump/newDump/kids/movies/adventure/funny.json",
@@ -79,37 +58,9 @@
     "traktSortBy": "random"
   },
   {
-    "id": "kids-adventure-movies-girls-take-the-lead",
-    "title": "Girls Take the Lead",
-    "url": "https://raw.githubusercontent.com/lawdev-cmd/dump/refs/heads/main/dump/newDump/kids/movies/adventure/girls-take-the-lead.json",
-    "catalogType": "githubRaw",
-    "traktSortBy": "random"
-  },
-  {
-    "id": "kids-adventure-movies-only-on-netflix",
-    "title": "Only on Netflix",
-    "url": "https://raw.githubusercontent.com/lawdev-cmd/dump/refs/heads/main/dump/newDump/kids/movies/adventure/only-on-netflix.json",
-    "catalogType": "githubRaw",
-    "traktSortBy": "random"
-  },
-  {
-    "id": "kids-adventure-movies-sing-alongs",
-    "title": "Sing-Alongs",
-    "url": "https://raw.githubusercontent.com/lawdev-cmd/dump/refs/heads/main/dump/newDump/kids/movies/adventure/sing-alongs.json",
-    "catalogType": "githubRaw",
-    "traktSortBy": "random"
-  },
-  {
-    "id": "kids-adventure-movies-superheroes",
-    "title": "Superheroes",
-    "url": "https://raw.githubusercontent.com/lawdev-cmd/dump/refs/heads/main/dump/newDump/kids/movies/adventure/superheroes.json",
-    "catalogType": "githubRaw",
-    "traktSortBy": "random"
-  },
-  {
-    "id": "kids-adventure-movies-tv-shows",
-    "title": "TV Shows",
-    "url": "https://raw.githubusercontent.com/lawdev-cmd/dump/refs/heads/main/dump/newDump/kids/movies/adventure/tv-shows.json",
+    "id": "kids-adventure-movies-only-on-streaming",
+    "title": "Only on Streaming",
+    "url": "https://raw.githubusercontent.com/lawdev-cmd/dump/refs/heads/main/dump/newDump/kids/movies/adventure/only-on-streaming.json",
     "catalogType": "githubRaw",
     "traktSortBy": "random"
   },

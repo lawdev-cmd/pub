@@ -15,13 +15,6 @@
     "traktSortBy": "random"
   },
   {
-    "id": "normal-comedies-movies-blockbuster-action-and-adventure-movies",
-    "title": "Blockbuster Action & Adventure",
-    "url": "https://raw.githubusercontent.com/lawdev-cmd/dump/refs/heads/main/dump/newDump/movies/comedies/blockbuster-action-and-adventure-movies.json",
-    "catalogType": "githubRaw",
-    "traktSortBy": "random"
-  },
-  {
     "id": "normal-comedies-movies-cringe-comedy",
     "title": "Cringe Comedy",
     "url": "https://raw.githubusercontent.com/lawdev-cmd/dump/refs/heads/main/dump/newDump/movies/comedies/cringe-comedy.json",
@@ -92,16 +85,9 @@
     "traktSortBy": "random"
   },
   {
-    "id": "normal-comedies-movies-only-on-netflix",
-    "title": "Only on Netflix",
-    "url": "https://raw.githubusercontent.com/lawdev-cmd/dump/refs/heads/main/dump/newDump/movies/comedies/only-on-netflix.json",
-    "catalogType": "githubRaw",
-    "traktSortBy": "random"
-  },
-  {
-    "id": "normal-comedies-movies-sci-fi-movies",
-    "title": "Sci-Fi Movies",
-    "url": "https://raw.githubusercontent.com/lawdev-cmd/dump/refs/heads/main/dump/newDump/movies/comedies/sci-fi-movies.json",
+    "id": "normal-comedies-movies-only-on-streaming",
+    "title": "Only on Streaming",
+    "url": "https://raw.githubusercontent.com/lawdev-cmd/dump/refs/heads/main/dump/newDump/movies/comedies/only-on-streaming.json",
     "catalogType": "githubRaw",
     "traktSortBy": "random"
   },

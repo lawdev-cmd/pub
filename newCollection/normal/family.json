@@ -8,24 +8,9 @@
     "inPlace": true
   },
   {
-    "id": "normal-children-and-family-movies-new-on-netflix",
-    "title": "Just Added",
-    "url": "https://raw.githubusercontent.com/lawdev-cmd/dump/refs/heads/main/dump/newDump/movies/children-and-family/new-on-netflix.json",
-    "catalogType": "githubRaw",
-    "traktSortBy": "",
-    "inPlace": true
-  },
-  {
     "id": "normal-children-and-family-movies-90-minute-films",
     "title": "90 Minute Films",
     "url": "https://raw.githubusercontent.com/lawdev-cmd/dump/refs/heads/main/dump/newDump/movies/children-and-family/90-minute-films.json",
-    "catalogType": "githubRaw",
-    "traktSortBy": "random"
-  },
-  {
-    "id": "normal-children-and-family-movies-action-and-adventure-movies",
-    "title": "Action and Adventure Movies",
-    "url": "https://raw.githubusercontent.com/lawdev-cmd/dump/refs/heads/main/dump/newDump/movies/children-and-family/action-and-adventure-movies.json",
     "catalogType": "githubRaw",
     "traktSortBy": "random"
   },
@@ -72,37 +57,9 @@
     "traktSortBy": "random"
   },
   {
-    "id": "normal-children-and-family-movies-growing-up-millennial",
-    "title": "Growing Up Millennial",
-    "url": "https://raw.githubusercontent.com/lawdev-cmd/dump/refs/heads/main/dump/newDump/movies/children-and-family/growing-up-millennial.json",
-    "catalogType": "githubRaw",
-    "traktSortBy": "random"
-  },
-  {
-    "id": "normal-children-and-family-movies-need-a-good-laugh",
-    "title": "Need a Good Laugh?",
-    "url": "https://raw.githubusercontent.com/lawdev-cmd/dump/refs/heads/main/dump/newDump/movies/children-and-family/need-a-good-laugh.json",
-    "catalogType": "githubRaw",
-    "traktSortBy": "random"
-  },
-  {
-    "id": "normal-children-and-family-movies-only-on-netflix",
-    "title": "Only on Netflix",
-    "url": "https://raw.githubusercontent.com/lawdev-cmd/dump/refs/heads/main/dump/newDump/movies/children-and-family/only-on-netflix.json",
-    "catalogType": "githubRaw",
-    "traktSortBy": "random"
-  },
-  {
-    "id": "normal-children-and-family-movies-perfect-popcorn-films",
-    "title": "Perfect Popcorn Films",
-    "url": "https://raw.githubusercontent.com/lawdev-cmd/dump/refs/heads/main/dump/newDump/movies/children-and-family/perfect-popcorn-films.json",
-    "catalogType": "githubRaw",
-    "traktSortBy": "random"
-  },
-  {
-    "id": "normal-children-and-family-movies-the-perfect-work-from-home-partner",
-    "title": "The Perfect Work From Home Partner",
-    "url": "https://raw.githubusercontent.com/lawdev-cmd/dump/refs/heads/main/dump/newDump/movies/children-and-family/the-perfect-work-from-home-partner.json",
+    "id": "normal-children-and-family-movies-only-on-streaming",
+    "title": "Only on Streaming",
+    "url": "https://raw.githubusercontent.com/lawdev-cmd/dump/refs/heads/main/dump/newDump/movies/children-and-family/only-on-streaming.json",
     "catalogType": "githubRaw",
     "traktSortBy": "random"
   },

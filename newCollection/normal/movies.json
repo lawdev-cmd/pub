@@ -8,14 +8,6 @@
     "inPlace": true
   },
   {
-    "id": "normal-movies-movies-top-10-movies-in-canada-today",
-    "title": "Top Movies Today",
-    "url": "https://raw.githubusercontent.com/lawdev-cmd/dump/refs/heads/main/dump/newDump/movies/movies/top-10-movies-in-canada-today.json",
-    "catalogType": "githubRaw",
-    "traktSortBy": "",
-    "inPlace": true
-  },
-  {
     "id": "normal-movies-movies-award-winning-directors",
     "title": "Award-Winning Directors",
     "url": "https://raw.githubusercontent.com/lawdev-cmd/dump/refs/heads/main/dump/newDump/movies/movies/award-winning-directors.json",
@@ -86,9 +78,9 @@
     "traktSortBy": "random"
   },
   {
-    "id": "normal-movies-movies-only-on-netflix",
-    "title": "Only on Netflix",
-    "url": "https://raw.githubusercontent.com/lawdev-cmd/dump/refs/heads/main/dump/newDump/movies/movies/only-on-netflix.json",
+    "id": "normal-movies-movies-only-on-streaming",
+    "title": "Only on Streaming",
+    "url": "https://raw.githubusercontent.com/lawdev-cmd/dump/refs/heads/main/dump/newDump/movies/movies/only-on-streaming.json",
     "catalogType": "githubRaw",
     "traktSortBy": "random"
   },

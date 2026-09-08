@@ -36,13 +36,6 @@
     "traktSortBy": "random"
   },
   {
-    "id": "normal-international-movies-crowd-pleasers",
-    "title": "Crowd Pleasers",
-    "url": "https://raw.githubusercontent.com/lawdev-cmd/dump/refs/heads/main/dump/newDump/movies/international/crowd-pleasers.json",
-    "catalogType": "githubRaw",
-    "traktSortBy": "random"
-  },
-  {
     "id": "normal-international-movies-exciting-movies",
     "title": "Exciting Movies",
     "url": "https://raw.githubusercontent.com/lawdev-cmd/dump/refs/heads/main/dump/newDump/movies/international/exciting-movies.json",
@@ -71,16 +64,9 @@
     "traktSortBy": "random"
   },
   {
-    "id": "normal-international-movies-only-on-netflix",
-    "title": "Only on Netflix",
-    "url": "https://raw.githubusercontent.com/lawdev-cmd/dump/refs/heads/main/dump/newDump/movies/international/only-on-netflix.json",
-    "catalogType": "githubRaw",
-    "traktSortBy": "random"
-  },
-  {
-    "id": "normal-international-movies-perfect-popcorn-films",
-    "title": "Perfect Popcorn Films",
-    "url": "https://raw.githubusercontent.com/lawdev-cmd/dump/refs/heads/main/dump/newDump/movies/international/perfect-popcorn-films.json",
+    "id": "normal-international-movies-only-on-streaming",
+    "title": "Only on Streaming",
+    "url": "https://raw.githubusercontent.com/lawdev-cmd/dump/refs/heads/main/dump/newDump/movies/international/only-on-streaming.json",
     "catalogType": "githubRaw",
     "traktSortBy": "random"
   },

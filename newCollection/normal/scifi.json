@@ -15,37 +15,9 @@
     "traktSortBy": "random"
   },
   {
-    "id": "normal-sci-fi-movies-award-winning-films",
-    "title": "Award-Winning Films",
-    "url": "https://raw.githubusercontent.com/lawdev-cmd/dump/refs/heads/main/dump/newDump/movies/sci-fi/award-winning-films.json",
-    "catalogType": "githubRaw",
-    "traktSortBy": "random"
-  },
-  {
-    "id": "normal-sci-fi-movies-blockbuster-action",
-    "title": "Blockbuster Action",
-    "url": "https://raw.githubusercontent.com/lawdev-cmd/dump/refs/heads/main/dump/newDump/movies/sci-fi/blockbuster-action.json",
-    "catalogType": "githubRaw",
-    "traktSortBy": "random"
-  },
-  {
-    "id": "normal-sci-fi-movies-blockbuster-action-and-adventure-movies",
-    "title": "Blockbuster Action & Adventure",
-    "url": "https://raw.githubusercontent.com/lawdev-cmd/dump/refs/heads/main/dump/newDump/movies/sci-fi/blockbuster-action-and-adventure-movies.json",
-    "catalogType": "githubRaw",
-    "traktSortBy": "random"
-  },
-  {
     "id": "normal-sci-fi-movies-blockbuster-movies",
     "title": "Blockbuster Movies",
     "url": "https://raw.githubusercontent.com/lawdev-cmd/dump/refs/heads/main/dump/newDump/movies/sci-fi/blockbuster-movies.json",
-    "catalogType": "githubRaw",
-    "traktSortBy": "random"
-  },
-  {
-    "id": "normal-sci-fi-movies-comedy-movies",
-    "title": "Comedy Movies",
-    "url": "https://raw.githubusercontent.com/lawdev-cmd/dump/refs/heads/main/dump/newDump/movies/sci-fi/comedy-movies.json",
     "catalogType": "githubRaw",
     "traktSortBy": "random"
   },
@@ -71,13 +43,6 @@
     "traktSortBy": "random"
   },
   {
-    "id": "normal-sci-fi-movies-familiar-favorites",
-    "title": "Familiar Favorites",
-    "url": "https://raw.githubusercontent.com/lawdev-cmd/dump/refs/heads/main/dump/newDump/movies/sci-fi/familiar-favorites.json",
-    "catalogType": "githubRaw",
-    "traktSortBy": "random"
-  },
-  {
     "id": "normal-sci-fi-movies-international-movies",
     "title": "International Movies",
     "url": "https://raw.githubusercontent.com/lawdev-cmd/dump/refs/heads/main/dump/newDump/movies/sci-fi/international-movies.json",
@@ -85,9 +50,9 @@
     "traktSortBy": "random"
   },
   {
-    "id": "normal-sci-fi-movies-only-on-netflix",
-    "title": "Only on Netflix",
-    "url": "https://raw.githubusercontent.com/lawdev-cmd/dump/refs/heads/main/dump/newDump/movies/sci-fi/only-on-netflix.json",
+    "id": "normal-sci-fi-movies-only-on-streaming",
+    "title": "Only on Streaming",
+    "url": "https://raw.githubusercontent.com/lawdev-cmd/dump/refs/heads/main/dump/newDump/movies/sci-fi/only-on-streaming.json",
     "catalogType": "githubRaw",
     "traktSortBy": "random"
   },

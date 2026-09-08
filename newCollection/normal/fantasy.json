@@ -8,42 +8,6 @@
     "inPlace": true
   },
   {
-    "id": "normal-fantasy-movies-new-on-netflix",
-    "title": "Just Added",
-    "url": "https://raw.githubusercontent.com/lawdev-cmd/dump/refs/heads/main/dump/newDump/movies/fantasy/new-on-netflix.json",
-    "catalogType": "githubRaw",
-    "traktSortBy": "",
-    "inPlace": true
-  },
-  {
-    "id": "normal-fantasy-movies-action-and-adventure-movies",
-    "title": "Action and Adventure Movies",
-    "url": "https://raw.githubusercontent.com/lawdev-cmd/dump/refs/heads/main/dump/newDump/movies/fantasy/action-and-adventure-movies.json",
-    "catalogType": "githubRaw",
-    "traktSortBy": "random"
-  },
-  {
-    "id": "normal-fantasy-movies-comedy-movies",
-    "title": "Comedy Movies",
-    "url": "https://raw.githubusercontent.com/lawdev-cmd/dump/refs/heads/main/dump/newDump/movies/fantasy/comedy-movies.json",
-    "catalogType": "githubRaw",
-    "traktSortBy": "random"
-  },
-  {
-    "id": "normal-fantasy-movies-drama-movies",
-    "title": "Drama Movies",
-    "url": "https://raw.githubusercontent.com/lawdev-cmd/dump/refs/heads/main/dump/newDump/movies/fantasy/drama-movies.json",
-    "catalogType": "githubRaw",
-    "traktSortBy": "random"
-  },
-  {
-    "id": "normal-fantasy-movies-exciting-movies",
-    "title": "Exciting Movies",
-    "url": "https://raw.githubusercontent.com/lawdev-cmd/dump/refs/heads/main/dump/newDump/movies/fantasy/exciting-movies.json",
-    "catalogType": "githubRaw",
-    "traktSortBy": "random"
-  },
-  {
     "id": "normal-fantasy-movies-gems-for-you",
     "title": "Gems for You",
     "url": "https://raw.githubusercontent.com/lawdev-cmd/dump/refs/heads/main/dump/newDump/movies/fantasy/gems-for-you.json",
@@ -51,16 +15,9 @@
     "traktSortBy": "random"
   },
   {
-    "id": "normal-fantasy-movies-international-movies",
-    "title": "International Movies",
-    "url": "https://raw.githubusercontent.com/lawdev-cmd/dump/refs/heads/main/dump/newDump/movies/fantasy/international-movies.json",
-    "catalogType": "githubRaw",
-    "traktSortBy": "random"
-  },
-  {
-    "id": "normal-fantasy-movies-only-on-netflix",
-    "title": "Only on Netflix",
-    "url": "https://raw.githubusercontent.com/lawdev-cmd/dump/refs/heads/main/dump/newDump/movies/fantasy/only-on-netflix.json",
+    "id": "normal-fantasy-movies-only-on-streaming",
+    "title": "Only on Streaming",
+    "url": "https://raw.githubusercontent.com/lawdev-cmd/dump/refs/heads/main/dump/newDump/movies/fantasy/only-on-streaming.json",
     "catalogType": "githubRaw",
     "traktSortBy": "random"
   },

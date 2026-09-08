@@ -23,28 +23,6 @@
     "inPlace": true
   },
   {
-    "id": "new-on-netflix",
-    "title": "Just Added",
-    "url": "https://raw.githubusercontent.com/lawdev-cmd/dump/refs/heads/main/dump/newDump/kids/home/new-on-netflix.json",
-    "catalogType": "githubRaw",
-    "traktSortBy": "",
-    "inPlace": true
-  },
-  {
-    "id": "top-10-kids-movies-in-canada-today",
-    "title": "Top Kids Movies",
-    "url": "https://raw.githubusercontent.com/lawdev-cmd/dump/refs/heads/main/dump/newDump/kids/home/top-10-kids-movies-in-canada-today.json",
-    "catalogType": "githubRaw",
-    "traktSortBy": ""
-  },
-  {
-    "id": "top-10-kids-tv-shows-in-canada-today",
-    "title": "Top Kids TV Shows",
-    "url": "https://raw.githubusercontent.com/lawdev-cmd/dump/refs/heads/main/dump/newDump/kids/home/top-10-kids-tv-shows-in-canada-today.json",
-    "catalogType": "githubRaw",
-    "traktSortBy": ""
-  },
-  {
     "id": "we-think-you-ll-love-these",
     "title": "We Think You'll Love These",
     "url": "https://raw.githubusercontent.com/lawdev-cmd/dump/refs/heads/main/dump/newDump/kids/home/we-think-you-ll-love-these.json",
@@ -185,13 +163,6 @@
     "traktSortBy": "random"
   },
   {
-    "id": "big-screen-movie-magic",
-    "title": "Big Screen Movie Magic",
-    "url": "https://raw.githubusercontent.com/lawdev-cmd/dump/refs/heads/main/dump/newDump/kids/home/big-screen-movie-magic.json",
-    "catalogType": "githubRaw",
-    "traktSortBy": "random"
-  },
-  {
     "id": "brave-characters",
     "title": "Brave Characters",
     "url": "https://raw.githubusercontent.com/lawdev-cmd/dump/refs/heads/main/dump/newDump/kids/home/brave-characters.json",
@@ -227,23 +198,9 @@
     "traktSortBy": "random"
   },
   {
-    "id": "fairies-fiends-film-time",
-    "title": "Fairies & Fiends",
-    "url": "https://raw.githubusercontent.com/lawdev-cmd/dump/refs/heads/main/dump/newDump/kids/home/fairies-fiends-film-time.json",
-    "catalogType": "githubRaw",
-    "traktSortBy": "random"
-  },
-  {
     "id": "spooky-stories",
     "title": "Spooky Stories",
     "url": "https://raw.githubusercontent.com/lawdev-cmd/dump/refs/heads/main/dump/newDump/kids/home/spooky-stories.json",
-    "catalogType": "githubRaw",
-    "traktSortBy": "random"
-  },
-  {
-    "id": "sports",
-    "title": "Sports",
-    "url": "https://raw.githubusercontent.com/lawdev-cmd/dump/refs/heads/main/dump/newDump/kids/home/sports.json",
     "catalogType": "githubRaw",
     "traktSortBy": "random"
   },
@@ -262,9 +219,9 @@
     "traktSortBy": "random"
   },
   {
-    "id": "only-on-netflix",
+    "id": "only-on-streaming",
     "title": "Kids Exclusives",
-    "url": "https://raw.githubusercontent.com/lawdev-cmd/dump/refs/heads/main/dump/newDump/kids/home/only-on-netflix.json",
+    "url": "https://raw.githubusercontent.com/lawdev-cmd/dump/refs/heads/main/dump/newDump/kids/home/only-on-streaming.json",
     "catalogType": "githubRaw",
     "traktSortBy": "random"
   },
@@ -272,13 +229,6 @@
     "id": "life-lessons",
     "title": "Life Lessons",
     "url": "https://raw.githubusercontent.com/lawdev-cmd/dump/refs/heads/main/dump/newDump/kids/home/life-lessons.json",
-    "catalogType": "githubRaw",
-    "traktSortBy": "random"
-  },
-  {
-    "id": "life-but-much-funnier",
-    "title": "Life, But Much Funnier",
-    "url": "https://raw.githubusercontent.com/lawdev-cmd/dump/refs/heads/main/dump/newDump/kids/home/life-but-much-funnier.json",
     "catalogType": "githubRaw",
     "traktSortBy": "random"
   },
@@ -307,13 +257,6 @@
     "id": "little-kids-tv",
     "title": "Little Kids TV",
     "url": "https://raw.githubusercontent.com/lawdev-cmd/dump/refs/heads/main/dump/newDump/kids/home/little-kids-tv.json",
-    "catalogType": "githubRaw",
-    "traktSortBy": "random"
-  },
-  {
-    "id": "colours-and-shapes",
-    "title": "Colours & Shapes",
-    "url": "https://raw.githubusercontent.com/lawdev-cmd/dump/refs/heads/main/dump/newDump/kids/home/colours-and-shapes.json",
     "catalogType": "githubRaw",
     "traktSortBy": "random"
   },

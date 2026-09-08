@@ -8,38 +8,9 @@
     "inPlace": true
   },
   {
-    "id": "normal-stand-up-comedy-movies-new-on-netflix",
-    "title": "Just Added",
-    "url": "https://raw.githubusercontent.com/lawdev-cmd/dump/refs/heads/main/dump/newDump/movies/stand-up-comedy/new-on-netflix.json",
-    "catalogType": "githubRaw",
-    "traktSortBy": "",
-    "inPlace": true
-  },
-  {
-    "id": "normal-stand-up-comedy-movies-30-minute-laughs",
-    "title": "30 Minute Laughs",
-    "url": "https://raw.githubusercontent.com/lawdev-cmd/dump/refs/heads/main/dump/newDump/movies/stand-up-comedy/30-minute-laughs.json",
-    "catalogType": "githubRaw",
-    "traktSortBy": "random"
-  },
-  {
     "id": "normal-stand-up-comedy-movies-bold-and-brash",
     "title": "Bold and Brash",
     "url": "https://raw.githubusercontent.com/lawdev-cmd/dump/refs/heads/main/dump/newDump/movies/stand-up-comedy/bold-and-brash.json",
-    "catalogType": "githubRaw",
-    "traktSortBy": "random"
-  },
-  {
-    "id": "normal-stand-up-comedy-movies-boredom-busters",
-    "title": "Boredom Busters",
-    "url": "https://raw.githubusercontent.com/lawdev-cmd/dump/refs/heads/main/dump/newDump/movies/stand-up-comedy/boredom-busters.json",
-    "catalogType": "githubRaw",
-    "traktSortBy": "random"
-  },
-  {
-    "id": "normal-stand-up-comedy-movies-casual-viewing",
-    "title": "Casual Viewing",
-    "url": "https://raw.githubusercontent.com/lawdev-cmd/dump/refs/heads/main/dump/newDump/movies/stand-up-comedy/casual-viewing.json",
     "catalogType": "githubRaw",
     "traktSortBy": "random"
   },
@@ -79,9 +50,9 @@
     "traktSortBy": "random"
   },
   {
-    "id": "normal-stand-up-comedy-movies-only-on-netflix",
-    "title": "Only on Netflix",
-    "url": "https://raw.githubusercontent.com/lawdev-cmd/dump/refs/heads/main/dump/newDump/movies/stand-up-comedy/only-on-netflix.json",
+    "id": "normal-stand-up-comedy-movies-only-on-streaming",
+    "title": "Only on Streaming",
+    "url": "https://raw.githubusercontent.com/lawdev-cmd/dump/refs/heads/main/dump/newDump/movies/stand-up-comedy/only-on-streaming.json",
     "catalogType": "githubRaw",
     "traktSortBy": "random"
   },

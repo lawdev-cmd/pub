@@ -77,13 +77,6 @@
     "traktSortBy": "random"
   },
   {
-    "id": "normal-halloween-movies-the-final-girl",
-    "title": "The Final Girl",
-    "url": "https://raw.githubusercontent.com/lawdev-cmd/dump/refs/heads/main/dump/newDump/movies/halloween/the-final-girl.json",
-    "catalogType": "githubRaw",
-    "traktSortBy": "random"
-  },
-  {
     "id": "normal-halloween-movies-wake-the-undead",
     "title": "Wake the Undead",
     "url": "https://raw.githubusercontent.com/lawdev-cmd/dump/refs/heads/main/dump/newDump/movies/halloween/wake-the-undead.json",

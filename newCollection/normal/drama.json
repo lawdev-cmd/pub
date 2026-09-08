@@ -78,9 +78,9 @@
     "traktSortBy": "random"
   },
   {
-    "id": "normal-dramas-movies-only-on-netflix",
-    "title": "Only on Netflix",
-    "url": "https://raw.githubusercontent.com/lawdev-cmd/dump/refs/heads/main/dump/newDump/movies/dramas/only-on-netflix.json",
+    "id": "normal-dramas-movies-only-on-streaming",
+    "title": "Only on Streaming",
+    "url": "https://raw.githubusercontent.com/lawdev-cmd/dump/refs/heads/main/dump/newDump/movies/dramas/only-on-streaming.json",
     "catalogType": "githubRaw",
     "traktSortBy": "random"
   },

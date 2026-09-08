@@ -32,53 +32,9 @@
     "inPlace": true
   },
   {
-    "id": "kids-lol-movies-new-on-netflix",
-    "title": "Just Added Movies",
-    "url": "https://raw.githubusercontent.com/lawdev-cmd/dump/refs/heads/main/dump/newDump/kids/movies/lol/new-on-netflix.json",
-    "catalogType": "githubRaw",
-    "traktSortBy": "",
-    "inPlace": true
-  },
-  {
-    "id": "kids-lol-shows-new-on-netflix",
-    "title": "Just Added TV",
-    "url": "https://raw.githubusercontent.com/lawdev-cmd/dump/refs/heads/main/dump/newDump/kids/shows/lol/new-on-netflix.json",
-    "catalogType": "githubRaw",
-    "traktSortBy": "",
-    "inPlace": true
-  },
-  {
-    "id": "kids-lol-movies-action",
-    "title": "Action Movies",
-    "url": "https://raw.githubusercontent.com/lawdev-cmd/dump/refs/heads/main/dump/newDump/kids/movies/lol/action.json",
-    "catalogType": "githubRaw",
-    "traktSortBy": "random"
-  },
-  {
-    "id": "kids-lol-shows-action",
-    "title": "Action TV",
-    "url": "https://raw.githubusercontent.com/lawdev-cmd/dump/refs/heads/main/dump/newDump/kids/shows/lol/action.json",
-    "catalogType": "githubRaw",
-    "traktSortBy": "random"
-  },
-  {
     "id": "kids-lol-shows-adventures",
     "title": "Adventures",
     "url": "https://raw.githubusercontent.com/lawdev-cmd/dump/refs/heads/main/dump/newDump/kids/shows/lol/adventures.json",
-    "catalogType": "githubRaw",
-    "traktSortBy": "random"
-  },
-  {
-    "id": "kids-lol-movies-all-things-wild",
-    "title": "All Things Wild Movies",
-    "url": "https://raw.githubusercontent.com/lawdev-cmd/dump/refs/heads/main/dump/newDump/kids/movies/lol/all-things-wild.json",
-    "catalogType": "githubRaw",
-    "traktSortBy": "random"
-  },
-  {
-    "id": "kids-lol-shows-all-things-wild",
-    "title": "All Things Wild TV",
-    "url": "https://raw.githubusercontent.com/lawdev-cmd/dump/refs/heads/main/dump/newDump/kids/shows/lol/all-things-wild.json",
     "catalogType": "githubRaw",
     "traktSortBy": "random"
   },
@@ -107,13 +63,6 @@
     "id": "kids-lol-shows-endless-adventures",
     "title": "Endless Adventures",
     "url": "https://raw.githubusercontent.com/lawdev-cmd/dump/refs/heads/main/dump/newDump/kids/shows/lol/endless-adventures.json",
-    "catalogType": "githubRaw",
-    "traktSortBy": "random"
-  },
-  {
-    "id": "kids-lol-movies-fantasy",
-    "title": "Fantasy Movies",
-    "url": "https://raw.githubusercontent.com/lawdev-cmd/dump/refs/heads/main/dump/newDump/kids/movies/lol/fantasy.json",
     "catalogType": "githubRaw",
     "traktSortBy": "random"
   },
@@ -188,37 +137,16 @@
     "traktSortBy": "random"
   },
   {
-    "id": "kids-lol-movies-little-kids-tv",
-    "title": "Little Kids TV",
-    "url": "https://raw.githubusercontent.com/lawdev-cmd/dump/refs/heads/main/dump/newDump/kids/movies/lol/little-kids-tv.json",
+    "id": "kids-lol-movies-only-on-streaming",
+    "title": "Only on Streaming Movies",
+    "url": "https://raw.githubusercontent.com/lawdev-cmd/dump/refs/heads/main/dump/newDump/kids/movies/lol/only-on-streaming.json",
     "catalogType": "githubRaw",
     "traktSortBy": "random"
   },
   {
-    "id": "kids-lol-movies-only-on-netflix",
-    "title": "Only on Netflix Movies",
-    "url": "https://raw.githubusercontent.com/lawdev-cmd/dump/refs/heads/main/dump/newDump/kids/movies/lol/only-on-netflix.json",
-    "catalogType": "githubRaw",
-    "traktSortBy": "random"
-  },
-  {
-    "id": "kids-lol-shows-only-on-netflix",
-    "title": "Only on Netflix TV",
-    "url": "https://raw.githubusercontent.com/lawdev-cmd/dump/refs/heads/main/dump/newDump/kids/shows/lol/only-on-netflix.json",
-    "catalogType": "githubRaw",
-    "traktSortBy": "random"
-  },
-  {
-    "id": "kids-lol-shows-singing-and-dancing-tv",
-    "title": "Singing & Dancing TV",
-    "url": "https://raw.githubusercontent.com/lawdev-cmd/dump/refs/heads/main/dump/newDump/kids/shows/lol/singing-and-dancing-tv.json",
-    "catalogType": "githubRaw",
-    "traktSortBy": "random"
-  },
-  {
-    "id": "kids-lol-movies-tv-shows",
-    "title": "TV Shows",
-    "url": "https://raw.githubusercontent.com/lawdev-cmd/dump/refs/heads/main/dump/newDump/kids/movies/lol/tv-shows.json",
+    "id": "kids-lol-shows-only-on-streaming",
+    "title": "Only on Streaming TV",
+    "url": "https://raw.githubusercontent.com/lawdev-cmd/dump/refs/heads/main/dump/newDump/kids/shows/lol/only-on-streaming.json",
     "catalogType": "githubRaw",
     "traktSortBy": "random"
   },

@@ -8,14 +8,6 @@
     "inPlace": true
   },
   {
-    "id": "normal-documentaries-movies-new-on-netflix",
-    "title": "Just Added",
-    "url": "https://raw.githubusercontent.com/lawdev-cmd/dump/refs/heads/main/dump/newDump/movies/documentaries/new-on-netflix.json",
-    "catalogType": "githubRaw",
-    "traktSortBy": "",
-    "inPlace": true
-  },
-  {
     "id": "normal-documentaries-movies-award-winning-documentaries",
     "title": "Award Winning Documentaries",
     "url": "https://raw.githubusercontent.com/lawdev-cmd/dump/refs/heads/main/dump/newDump/movies/documentaries/award-winning-documentaries.json",
@@ -51,13 +43,6 @@
     "traktSortBy": "random"
   },
   {
-    "id": "normal-documentaries-movies-french-language-movies-and-tv",
-    "title": "French Language Movies and TV",
-    "url": "https://raw.githubusercontent.com/lawdev-cmd/dump/refs/heads/main/dump/newDump/movies/documentaries/french-language-movies-and-tv.json",
-    "catalogType": "githubRaw",
-    "traktSortBy": "random"
-  },
-  {
     "id": "normal-documentaries-movies-gems-for-you",
     "title": "Gems for You",
     "url": "https://raw.githubusercontent.com/lawdev-cmd/dump/refs/heads/main/dump/newDump/movies/documentaries/gems-for-you.json",
@@ -79,16 +64,9 @@
     "traktSortBy": "random"
   },
   {
-    "id": "normal-documentaries-movies-lifestyle",
-    "title": "Lifestyle",
-    "url": "https://raw.githubusercontent.com/lawdev-cmd/dump/refs/heads/main/dump/newDump/movies/documentaries/lifestyle.json",
-    "catalogType": "githubRaw",
-    "traktSortBy": "random"
-  },
-  {
-    "id": "normal-documentaries-movies-only-on-netflix",
-    "title": "Only on Netflix",
-    "url": "https://raw.githubusercontent.com/lawdev-cmd/dump/refs/heads/main/dump/newDump/movies/documentaries/only-on-netflix.json",
+    "id": "normal-documentaries-movies-only-on-streaming",
+    "title": "Only on Streaming",
+    "url": "https://raw.githubusercontent.com/lawdev-cmd/dump/refs/heads/main/dump/newDump/movies/documentaries/only-on-streaming.json",
     "catalogType": "githubRaw",
     "traktSortBy": "random"
   },

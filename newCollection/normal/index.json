@@ -42,12 +42,6 @@
     "logo": ""
   },
   {
-    "id": "normal-faith-and-spirituality",
-    "file": "faith-and-spirituality.json",
-    "label": "Faith & Spirituality",
-    "logo": ""
-  },
-  {
     "id": "normal-family",
     "file": "family.json",
     "label": "Family",

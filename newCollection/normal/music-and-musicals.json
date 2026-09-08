@@ -8,21 +8,6 @@
     "inPlace": true
   },
   {
-    "id": "normal-music-and-musicals-movies-new-on-netflix",
-    "title": "Just Added",
-    "url": "https://raw.githubusercontent.com/lawdev-cmd/dump/refs/heads/main/dump/newDump/movies/music-and-musicals/new-on-netflix.json",
-    "catalogType": "githubRaw",
-    "traktSortBy": "",
-    "inPlace": true
-  },
-  {
-    "id": "normal-music-and-musicals-movies-award-winning-films",
-    "title": "Award-Winning Films",
-    "url": "https://raw.githubusercontent.com/lawdev-cmd/dump/refs/heads/main/dump/newDump/movies/music-and-musicals/award-winning-films.json",
-    "catalogType": "githubRaw",
-    "traktSortBy": "random"
-  },
-  {
     "id": "normal-music-and-musicals-movies-comedy-movies",
     "title": "Comedy Movies",
     "url": "https://raw.githubusercontent.com/lawdev-cmd/dump/refs/heads/main/dump/newDump/movies/music-and-musicals/comedy-movies.json",
@@ -37,30 +22,9 @@
     "traktSortBy": "random"
   },
   {
-    "id": "normal-music-and-musicals-movies-crowd-pleasers",
-    "title": "Crowd Pleasers",
-    "url": "https://raw.githubusercontent.com/lawdev-cmd/dump/refs/heads/main/dump/newDump/movies/music-and-musicals/crowd-pleasers.json",
-    "catalogType": "githubRaw",
-    "traktSortBy": "random"
-  },
-  {
-    "id": "normal-music-and-musicals-movies-documentaries-and-reality-tv-for-all-ages",
-    "title": "Documentaries and Reality TV for All Ages",
-    "url": "https://raw.githubusercontent.com/lawdev-cmd/dump/refs/heads/main/dump/newDump/movies/music-and-musicals/documentaries-and-reality-tv-for-all-ages.json",
-    "catalogType": "githubRaw",
-    "traktSortBy": "random"
-  },
-  {
     "id": "normal-music-and-musicals-movies-drama-movies",
     "title": "Drama Movies",
     "url": "https://raw.githubusercontent.com/lawdev-cmd/dump/refs/heads/main/dump/newDump/movies/music-and-musicals/drama-movies.json",
-    "catalogType": "githubRaw",
-    "traktSortBy": "random"
-  },
-  {
-    "id": "normal-music-and-musicals-movies-exciting-movies",
-    "title": "Exciting Movies",
-    "url": "https://raw.githubusercontent.com/lawdev-cmd/dump/refs/heads/main/dump/newDump/movies/music-and-musicals/exciting-movies.json",
     "catalogType": "githubRaw",
     "traktSortBy": "random"
   },
@@ -72,30 +36,9 @@
     "traktSortBy": "random"
   },
   {
-    "id": "normal-music-and-musicals-movies-indian-movies",
-    "title": "Indian Movies",
-    "url": "https://raw.githubusercontent.com/lawdev-cmd/dump/refs/heads/main/dump/newDump/movies/music-and-musicals/indian-movies.json",
-    "catalogType": "githubRaw",
-    "traktSortBy": "random"
-  },
-  {
-    "id": "normal-music-and-musicals-movies-only-on-netflix",
-    "title": "Only on Netflix",
-    "url": "https://raw.githubusercontent.com/lawdev-cmd/dump/refs/heads/main/dump/newDump/movies/music-and-musicals/only-on-netflix.json",
-    "catalogType": "githubRaw",
-    "traktSortBy": "random"
-  },
-  {
-    "id": "normal-music-and-musicals-movies-romantic-movies",
-    "title": "Romantic Movies",
-    "url": "https://raw.githubusercontent.com/lawdev-cmd/dump/refs/heads/main/dump/newDump/movies/music-and-musicals/romantic-movies.json",
-    "catalogType": "githubRaw",
-    "traktSortBy": "random"
-  },
-  {
-    "id": "normal-music-and-musicals-movies-sci-fi-and-fantasy-movies",
-    "title": "Sci-Fi & Fantasy Movies",
-    "url": "https://raw.githubusercontent.com/lawdev-cmd/dump/refs/heads/main/dump/newDump/movies/music-and-musicals/sci-fi-and-fantasy-movies.json",
+    "id": "normal-music-and-musicals-movies-only-on-streaming",
+    "title": "Only on Streaming",
+    "url": "https://raw.githubusercontent.com/lawdev-cmd/dump/refs/heads/main/dump/newDump/movies/music-and-musicals/only-on-streaming.json",
     "catalogType": "githubRaw",
     "traktSortBy": "random"
   },

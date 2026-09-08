@@ -8,20 +8,6 @@
     "inPlace": true
   },
   {
-    "id": "normal-romance-movies-action-and-adventure-movies",
-    "title": "Action and Adventure Movies",
-    "url": "https://raw.githubusercontent.com/lawdev-cmd/dump/refs/heads/main/dump/newDump/movies/romance/action-and-adventure-movies.json",
-    "catalogType": "githubRaw",
-    "traktSortBy": "random"
-  },
-  {
-    "id": "normal-romance-movies-award-winning-films",
-    "title": "Award-Winning Films",
-    "url": "https://raw.githubusercontent.com/lawdev-cmd/dump/refs/heads/main/dump/newDump/movies/romance/award-winning-films.json",
-    "catalogType": "githubRaw",
-    "traktSortBy": "random"
-  },
-  {
     "id": "normal-romance-movies-comedy-movies",
     "title": "Comedy Movies",
     "url": "https://raw.githubusercontent.com/lawdev-cmd/dump/refs/heads/main/dump/newDump/movies/romance/comedy-movies.json",
@@ -36,23 +22,9 @@
     "traktSortBy": "random"
   },
   {
-    "id": "normal-romance-movies-crowd-pleasers",
-    "title": "Crowd Pleasers",
-    "url": "https://raw.githubusercontent.com/lawdev-cmd/dump/refs/heads/main/dump/newDump/movies/romance/crowd-pleasers.json",
-    "catalogType": "githubRaw",
-    "traktSortBy": "random"
-  },
-  {
     "id": "normal-romance-movies-drama-movies",
     "title": "Drama Movies",
     "url": "https://raw.githubusercontent.com/lawdev-cmd/dump/refs/heads/main/dump/newDump/movies/romance/drama-movies.json",
-    "catalogType": "githubRaw",
-    "traktSortBy": "random"
-  },
-  {
-    "id": "normal-romance-movies-familiar-favorites",
-    "title": "Familiar Favorites",
-    "url": "https://raw.githubusercontent.com/lawdev-cmd/dump/refs/heads/main/dump/newDump/movies/romance/familiar-favorites.json",
     "catalogType": "githubRaw",
     "traktSortBy": "random"
   },
@@ -64,44 +36,9 @@
     "traktSortBy": "random"
   },
   {
-    "id": "normal-romance-movies-growing-up-millennial",
-    "title": "Growing Up Millennial",
-    "url": "https://raw.githubusercontent.com/lawdev-cmd/dump/refs/heads/main/dump/newDump/movies/romance/growing-up-millennial.json",
-    "catalogType": "githubRaw",
-    "traktSortBy": "random"
-  },
-  {
-    "id": "normal-romance-movies-need-a-good-laugh",
-    "title": "Need a Good Laugh?",
-    "url": "https://raw.githubusercontent.com/lawdev-cmd/dump/refs/heads/main/dump/newDump/movies/romance/need-a-good-laugh.json",
-    "catalogType": "githubRaw",
-    "traktSortBy": "random"
-  },
-  {
-    "id": "normal-romance-movies-only-on-netflix",
-    "title": "Only on Netflix",
-    "url": "https://raw.githubusercontent.com/lawdev-cmd/dump/refs/heads/main/dump/newDump/movies/romance/only-on-netflix.json",
-    "catalogType": "githubRaw",
-    "traktSortBy": "random"
-  },
-  {
-    "id": "normal-romance-movies-perfect-popcorn-films",
-    "title": "Perfect Popcorn Films",
-    "url": "https://raw.githubusercontent.com/lawdev-cmd/dump/refs/heads/main/dump/newDump/movies/romance/perfect-popcorn-films.json",
-    "catalogType": "githubRaw",
-    "traktSortBy": "random"
-  },
-  {
-    "id": "normal-romance-movies-sci-fi-movies",
-    "title": "Sci-Fi Movies",
-    "url": "https://raw.githubusercontent.com/lawdev-cmd/dump/refs/heads/main/dump/newDump/movies/romance/sci-fi-movies.json",
-    "catalogType": "githubRaw",
-    "traktSortBy": "random"
-  },
-  {
-    "id": "normal-romance-movies-thriller-movies",
-    "title": "Thriller Movies",
-    "url": "https://raw.githubusercontent.com/lawdev-cmd/dump/refs/heads/main/dump/newDump/movies/romance/thriller-movies.json",
+    "id": "normal-romance-movies-only-on-streaming",
+    "title": "Only on Streaming",
+    "url": "https://raw.githubusercontent.com/lawdev-cmd/dump/refs/heads/main/dump/newDump/movies/romance/only-on-streaming.json",
     "catalogType": "githubRaw",
     "traktSortBy": "random"
   },

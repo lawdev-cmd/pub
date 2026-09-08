@@ -16,28 +16,6 @@
     "inPlace": true
   },
   {
-    "id": "kids-animals-shows-new-on-netflix",
-    "title": "Just Added",
-    "url": "https://raw.githubusercontent.com/lawdev-cmd/dump/refs/heads/main/dump/newDump/kids/shows/animals/new-on-netflix.json",
-    "catalogType": "githubRaw",
-    "traktSortBy": "",
-    "inPlace": true
-  },
-  {
-    "id": "kids-animals-shows-action",
-    "title": "Action",
-    "url": "https://raw.githubusercontent.com/lawdev-cmd/dump/refs/heads/main/dump/newDump/kids/shows/animals/action.json",
-    "catalogType": "githubRaw",
-    "traktSortBy": "random"
-  },
-  {
-    "id": "kids-animals-shows-adventures",
-    "title": "Adventures",
-    "url": "https://raw.githubusercontent.com/lawdev-cmd/dump/refs/heads/main/dump/newDump/kids/shows/animals/adventures.json",
-    "catalogType": "githubRaw",
-    "traktSortBy": "random"
-  },
-  {
     "id": "kids-animals-shows-all-things-wild",
     "title": "All Things Wild",
     "url": "https://raw.githubusercontent.com/lawdev-cmd/dump/refs/heads/main/dump/newDump/kids/shows/animals/all-things-wild.json",
@@ -48,20 +26,6 @@
     "id": "kids-animals-shows-animated",
     "title": "Animated",
     "url": "https://raw.githubusercontent.com/lawdev-cmd/dump/refs/heads/main/dump/newDump/kids/shows/animals/animated.json",
-    "catalogType": "githubRaw",
-    "traktSortBy": "random"
-  },
-  {
-    "id": "kids-animals-shows-early-learning-tv",
-    "title": "Early Learning TV",
-    "url": "https://raw.githubusercontent.com/lawdev-cmd/dump/refs/heads/main/dump/newDump/kids/shows/animals/early-learning-tv.json",
-    "catalogType": "githubRaw",
-    "traktSortBy": "random"
-  },
-  {
-    "id": "kids-animals-shows-fantasy",
-    "title": "Fantasy",
-    "url": "https://raw.githubusercontent.com/lawdev-cmd/dump/refs/heads/main/dump/newDump/kids/shows/animals/fantasy.json",
     "catalogType": "githubRaw",
     "traktSortBy": "random"
   },
@@ -80,13 +44,6 @@
     "traktSortBy": "random"
   },
   {
-    "id": "kids-animals-shows-girls-take-the-lead",
-    "title": "Girls Take the Lead",
-    "url": "https://raw.githubusercontent.com/lawdev-cmd/dump/refs/heads/main/dump/newDump/kids/shows/animals/girls-take-the-lead.json",
-    "catalogType": "githubRaw",
-    "traktSortBy": "random"
-  },
-  {
     "id": "kids-animals-shows-little-kids-tv",
     "title": "Little Kids TV",
     "url": "https://raw.githubusercontent.com/lawdev-cmd/dump/refs/heads/main/dump/newDump/kids/shows/animals/little-kids-tv.json",
@@ -94,23 +51,9 @@
     "traktSortBy": "random"
   },
   {
-    "id": "kids-animals-shows-nature",
-    "title": "Nature",
-    "url": "https://raw.githubusercontent.com/lawdev-cmd/dump/refs/heads/main/dump/newDump/kids/shows/animals/nature.json",
-    "catalogType": "githubRaw",
-    "traktSortBy": "random"
-  },
-  {
-    "id": "kids-animals-shows-only-on-netflix",
-    "title": "Only on Netflix",
-    "url": "https://raw.githubusercontent.com/lawdev-cmd/dump/refs/heads/main/dump/newDump/kids/shows/animals/only-on-netflix.json",
-    "catalogType": "githubRaw",
-    "traktSortBy": "random"
-  },
-  {
-    "id": "kids-animals-shows-steam-science-art-math-and-more",
-    "title": "STEAM: Science, Art & Math",
-    "url": "https://raw.githubusercontent.com/lawdev-cmd/dump/refs/heads/main/dump/newDump/kids/shows/animals/steam-science-art-math-and-more.json",
+    "id": "kids-animals-shows-only-on-streaming",
+    "title": "Only on Streaming",
+    "url": "https://raw.githubusercontent.com/lawdev-cmd/dump/refs/heads/main/dump/newDump/kids/shows/animals/only-on-streaming.json",
     "catalogType": "githubRaw",
     "traktSortBy": "random"
   },

@@ -8,28 +8,6 @@
     "inPlace": true
   },
   {
-    "id": "normal-horror-movies-new-on-netflix",
-    "title": "Just Added",
-    "url": "https://raw.githubusercontent.com/lawdev-cmd/dump/refs/heads/main/dump/newDump/movies/horror/new-on-netflix.json",
-    "catalogType": "githubRaw",
-    "traktSortBy": "",
-    "inPlace": true
-  },
-  {
-    "id": "normal-horror-movies-20th-century-period-piece-movies",
-    "title": "20th Century Period Piece Movies",
-    "url": "https://raw.githubusercontent.com/lawdev-cmd/dump/refs/heads/main/dump/newDump/movies/horror/20th-century-period-piece-movies.json",
-    "catalogType": "githubRaw",
-    "traktSortBy": "random"
-  },
-  {
-    "id": "normal-horror-movies-action-and-adventure-movies",
-    "title": "Action and Adventure Movies",
-    "url": "https://raw.githubusercontent.com/lawdev-cmd/dump/refs/heads/main/dump/newDump/movies/horror/action-and-adventure-movies.json",
-    "catalogType": "githubRaw",
-    "traktSortBy": "random"
-  },
-  {
     "id": "normal-horror-movies-asian-movies",
     "title": "Asian Movies",
     "url": "https://raw.githubusercontent.com/lawdev-cmd/dump/refs/heads/main/dump/newDump/movies/horror/asian-movies.json",
@@ -58,9 +36,9 @@
     "traktSortBy": "random"
   },
   {
-    "id": "normal-horror-movies-only-on-netflix",
-    "title": "Only on Netflix",
-    "url": "https://raw.githubusercontent.com/lawdev-cmd/dump/refs/heads/main/dump/newDump/movies/horror/only-on-netflix.json",
+    "id": "normal-horror-movies-only-on-streaming",
+    "title": "Only on Streaming",
+    "url": "https://raw.githubusercontent.com/lawdev-cmd/dump/refs/heads/main/dump/newDump/movies/horror/only-on-streaming.json",
     "catalogType": "githubRaw",
     "traktSortBy": "random"
   },
@@ -68,13 +46,6 @@
     "id": "normal-horror-movies-psychological-movies",
     "title": "Psychological Movies",
     "url": "https://raw.githubusercontent.com/lawdev-cmd/dump/refs/heads/main/dump/newDump/movies/horror/psychological-movies.json",
-    "catalogType": "githubRaw",
-    "traktSortBy": "random"
-  },
-  {
-    "id": "normal-horror-movies-slasher-and-serial-killer-movies",
-    "title": "Slasher and Serial Killer Movies",
-    "url": "https://raw.githubusercontent.com/lawdev-cmd/dump/refs/heads/main/dump/newDump/movies/horror/slasher-and-serial-killer-movies.json",
     "catalogType": "githubRaw",
     "traktSortBy": "random"
   },
@@ -96,13 +67,6 @@
     "id": "normal-horror-movies-teen-screams",
     "title": "Teen Screams",
     "url": "https://raw.githubusercontent.com/lawdev-cmd/dump/refs/heads/main/dump/newDump/movies/horror/teen-screams.json",
-    "catalogType": "githubRaw",
-    "traktSortBy": "random"
-  },
-  {
-    "id": "normal-horror-movies-thriller-movies",
-    "title": "Thriller Movies",
-    "url": "https://raw.githubusercontent.com/lawdev-cmd/dump/refs/heads/main/dump/newDump/movies/horror/thriller-movies.json",
     "catalogType": "githubRaw",
     "traktSortBy": "random"
   },

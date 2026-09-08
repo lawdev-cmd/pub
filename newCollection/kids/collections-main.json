@@ -24,10 +24,6 @@
     "url": "https://raw.githubusercontent.com/lawdev-cmd/pub/refs/heads/main/newCollection/kids/cool-special-effects.json"
   },
   {
-    "title": "Dinosaurs",
-    "url": "https://raw.githubusercontent.com/lawdev-cmd/pub/refs/heads/main/newCollection/kids/dinosaurs.json"
-  },
-  {
     "title": "Documentary",
     "url": "https://raw.githubusercontent.com/lawdev-cmd/pub/refs/heads/main/newCollection/kids/documentary.json"
   },
@@ -68,10 +64,6 @@
     "url": "https://raw.githubusercontent.com/lawdev-cmd/pub/refs/heads/main/newCollection/kids/nature.json"
   },
   {
-    "title": "Princesses",
-    "url": "https://raw.githubusercontent.com/lawdev-cmd/pub/refs/heads/main/newCollection/kids/princesses.json"
-  },
-  {
     "title": "Reality",
     "url": "https://raw.githubusercontent.com/lawdev-cmd/pub/refs/heads/main/newCollection/kids/reality.json"
   },
@@ -86,10 +78,6 @@
   {
     "title": "Singing & Dancing",
     "url": "https://raw.githubusercontent.com/lawdev-cmd/pub/refs/heads/main/newCollection/kids/singing-and-dancing.json"
-  },
-  {
-    "title": "Spooky Stuff",
-    "url": "https://raw.githubusercontent.com/lawdev-cmd/pub/refs/heads/main/newCollection/kids/spooky-stuff.json"
   },
   {
     "title": "Trucks & Trains",

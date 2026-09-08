@@ -36,12 +36,6 @@
     "logo": ""
   },
   {
-    "id": "kids-dinosaurs",
-    "file": "dinosaurs.json",
-    "label": "Dinosaurs",
-    "logo": ""
-  },
-  {
     "id": "kids-documentary",
     "file": "documentary.json",
     "label": "Documentary",
@@ -102,12 +96,6 @@
     "logo": ""
   },
   {
-    "id": "kids-princesses",
-    "file": "princesses.json",
-    "label": "Princesses",
-    "logo": ""
-  },
-  {
     "id": "kids-reality",
     "file": "reality.json",
     "label": "Reality",
@@ -129,12 +117,6 @@
     "id": "kids-singing-and-dancing",
     "file": "singing-and-dancing.json",
     "label": "Singing & Dancing",
-    "logo": ""
-  },
-  {
-    "id": "kids-spooky-stuff",
-    "file": "spooky-stuff.json",
-    "label": "Spooky Stuff",
     "logo": ""
   },
   {
