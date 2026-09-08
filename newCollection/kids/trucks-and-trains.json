@@ -1,10 +1,1 @@
-[
-  {
-    "id": "kids-trucks-and-trains-shows-popular",
-    "title": "Popular",
-    "url": "https://raw.githubusercontent.com/lawdev-cmd/dump/refs/heads/main/dump/newDump/kids/shows/trucks-and-trains/popular.json",
-    "catalogType": "githubRaw",
-    "traktSortBy": "",
-    "inPlace": true
-  }
-]
+[{"id":"kids-trucks-and-trains-shows-popular","title":"Popular","url":"https://raw.githubusercontent.com/lawdev-cmd/dump/refs/heads/main/dump/newDump/kids/shows/trucks-and-trains/popular.json","catalogType":"githubRaw","traktSortBy":"","inPlace":true}]
