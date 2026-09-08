@@ -118,5 +118,61 @@
     "url": "https://raw.githubusercontent.com/lawdev-cmd/dump/refs/heads/main/dump/newDump/movies/dramas/we-think-you-ll-love-these.json",
     "catalogType": "githubRaw",
     "traktSortBy": "random"
+  },
+  {
+    "id": "normal-dramas-movies-action-movies",
+    "title": "Action Movies",
+    "url": "https://raw.githubusercontent.com/lawdev-cmd/dump/refs/heads/main/dump/newDump/movies/dramas/action-movies.json",
+    "catalogType": "githubRaw",
+    "traktSortBy": "random"
+  },
+  {
+    "id": "normal-dramas-movies-action-thrillers",
+    "title": "Action Thrillers",
+    "url": "https://raw.githubusercontent.com/lawdev-cmd/dump/refs/heads/main/dump/newDump/movies/dramas/action-thrillers.json",
+    "catalogType": "githubRaw",
+    "traktSortBy": "random"
+  },
+  {
+    "id": "normal-dramas-movies-automatic-mood-boosters",
+    "title": "Automatic Mood Boosters",
+    "url": "https://raw.githubusercontent.com/lawdev-cmd/dump/refs/heads/main/dump/newDump/movies/dramas/automatic-mood-boosters.json",
+    "catalogType": "githubRaw",
+    "traktSortBy": "random"
+  },
+  {
+    "id": "normal-dramas-movies-family-movie-night",
+    "title": "Family Movie Night",
+    "url": "https://raw.githubusercontent.com/lawdev-cmd/dump/refs/heads/main/dump/newDump/movies/dramas/family-movie-night.json",
+    "catalogType": "githubRaw",
+    "traktSortBy": "random"
+  },
+  {
+    "id": "normal-dramas-movies-golden-globe-nominees",
+    "title": "Golden Globe Nominees",
+    "url": "https://raw.githubusercontent.com/lawdev-cmd/dump/refs/heads/main/dump/newDump/movies/dramas/golden-globe-nominees.json",
+    "catalogType": "githubRaw",
+    "traktSortBy": "random"
+  },
+  {
+    "id": "normal-dramas-movies-psychological-movies",
+    "title": "Psychological Movies",
+    "url": "https://raw.githubusercontent.com/lawdev-cmd/dump/refs/heads/main/dump/newDump/movies/dramas/psychological-movies.json",
+    "catalogType": "githubRaw",
+    "traktSortBy": "random"
+  },
+  {
+    "id": "normal-dramas-movies-when-nostalgia-calls",
+    "title": "When Nostalgia Calls",
+    "url": "https://raw.githubusercontent.com/lawdev-cmd/dump/refs/heads/main/dump/newDump/movies/dramas/when-nostalgia-calls.json",
+    "catalogType": "githubRaw",
+    "traktSortBy": "random"
+  },
+  {
+    "id": "normal-dramas-movies-your-next-watch",
+    "title": "Your Next Watch",
+    "url": "https://raw.githubusercontent.com/lawdev-cmd/dump/refs/heads/main/dump/newDump/movies/dramas/your-next-watch.json",
+    "catalogType": "githubRaw",
+    "traktSortBy": "random"
   }
 ]

@@ -69,5 +69,12 @@
     "url": "https://raw.githubusercontent.com/lawdev-cmd/dump/refs/heads/main/dump/newDump/movies/independent/your-next-watch.json",
     "catalogType": "githubRaw",
     "traktSortBy": "random"
+  },
+  {
+    "id": "normal-independent-movies-comedies",
+    "title": "Comedies",
+    "url": "https://raw.githubusercontent.com/lawdev-cmd/dump/refs/heads/main/dump/newDump/movies/independent/comedies.json",
+    "catalogType": "githubRaw",
+    "traktSortBy": "random"
   }
 ]

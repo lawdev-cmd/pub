@@ -76,5 +76,19 @@
     "url": "https://raw.githubusercontent.com/lawdev-cmd/dump/refs/heads/main/dump/newDump/movies/children-and-family/your-next-watch.json",
     "catalogType": "githubRaw",
     "traktSortBy": "random"
+  },
+  {
+    "id": "normal-children-and-family-movies-critically-acclaimed-movies",
+    "title": "Critically Acclaimed Movies",
+    "url": "https://raw.githubusercontent.com/lawdev-cmd/dump/refs/heads/main/dump/newDump/movies/children-and-family/critically-acclaimed-movies.json",
+    "catalogType": "githubRaw",
+    "traktSortBy": "random"
+  },
+  {
+    "id": "normal-children-and-family-movies-goofy-comedy-movies",
+    "title": "Goofy Comedy Movies",
+    "url": "https://raw.githubusercontent.com/lawdev-cmd/dump/refs/heads/main/dump/newDump/movies/children-and-family/goofy-comedy-movies.json",
+    "catalogType": "githubRaw",
+    "traktSortBy": "random"
   }
 ]

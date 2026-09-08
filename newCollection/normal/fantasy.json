@@ -41,5 +41,12 @@
     "url": "https://raw.githubusercontent.com/lawdev-cmd/dump/refs/heads/main/dump/newDump/movies/fantasy/your-next-watch.json",
     "catalogType": "githubRaw",
     "traktSortBy": "random"
+  },
+  {
+    "id": "normal-fantasy-movies-action-movies",
+    "title": "Action Movies",
+    "url": "https://raw.githubusercontent.com/lawdev-cmd/dump/refs/heads/main/dump/newDump/movies/fantasy/action-movies.json",
+    "catalogType": "githubRaw",
+    "traktSortBy": "random"
   }
 ]

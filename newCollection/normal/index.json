@@ -78,6 +78,12 @@
     "logo": ""
   },
   {
+    "id": "normal-lgbtq",
+    "file": "lgbtq.json",
+    "label": "LGBTQ",
+    "logo": ""
+  },
+  {
     "id": "normal-movies",
     "file": "movies.json",
     "label": "Movies",

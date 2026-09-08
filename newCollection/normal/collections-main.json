@@ -52,6 +52,10 @@
     "url": "https://raw.githubusercontent.com/lawdev-cmd/pub/refs/heads/main/newCollection/normal/independent.json"
   },
   {
+    "title": "LGBTQ",
+    "url": "https://raw.githubusercontent.com/lawdev-cmd/pub/refs/heads/main/newCollection/normal/lgbtq.json"
+  },
+  {
     "title": "Movies",
     "url": "https://raw.githubusercontent.com/lawdev-cmd/pub/refs/heads/main/newCollection/normal/movies.json"
   },

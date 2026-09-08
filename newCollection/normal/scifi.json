@@ -83,5 +83,33 @@
     "url": "https://raw.githubusercontent.com/lawdev-cmd/dump/refs/heads/main/dump/newDump/movies/sci-fi/your-next-watch.json",
     "catalogType": "githubRaw",
     "traktSortBy": "random"
+  },
+  {
+    "id": "normal-sci-fi-movies-action-movies",
+    "title": "Action Movies",
+    "url": "https://raw.githubusercontent.com/lawdev-cmd/dump/refs/heads/main/dump/newDump/movies/sci-fi/action-movies.json",
+    "catalogType": "githubRaw",
+    "traktSortBy": "random"
+  },
+  {
+    "id": "normal-sci-fi-movies-familiar-favorites",
+    "title": "Familiar Favorites",
+    "url": "https://raw.githubusercontent.com/lawdev-cmd/dump/refs/heads/main/dump/newDump/movies/sci-fi/familiar-favorites.json",
+    "catalogType": "githubRaw",
+    "traktSortBy": "random"
+  },
+  {
+    "id": "normal-sci-fi-movies-get-in-on-the-action",
+    "title": "Get In on the Action",
+    "url": "https://raw.githubusercontent.com/lawdev-cmd/dump/refs/heads/main/dump/newDump/movies/sci-fi/get-in-on-the-action.json",
+    "catalogType": "githubRaw",
+    "traktSortBy": "random"
+  },
+  {
+    "id": "normal-sci-fi-movies-suspenseful-movies",
+    "title": "Suspenseful Movies",
+    "url": "https://raw.githubusercontent.com/lawdev-cmd/dump/refs/heads/main/dump/newDump/movies/sci-fi/suspenseful-movies.json",
+    "catalogType": "githubRaw",
+    "traktSortBy": "random"
   }
 ]
