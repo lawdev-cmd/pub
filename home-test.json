@@ -457,8 +457,7 @@
     "title": "Today's Top Picks for You",
     "url": "https://raw.githubusercontent.com/lawdev-cmd/dump/refs/heads/main/dump/newDump/home/movies-today-s-top-picks-for-you.json",
     "catalogType": "githubRaw",
-    "traktSortBy": "",
-    "inPlace": true
+    "traktSortBy": "random"
   },
   {
     "id": "normal-movies-movies-award-winning-directors",
