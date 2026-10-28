@@ -1,1 +1,50 @@
-[{"id":"tv-trending-shows","title":"Trending Shows","url":"tvgeniekodi/lists/trending-shows","catalogType":"traktTv","traktSortBy":null,"inPlace":true},{"id":"latest-apple-tv-shows","title":"Latest Apple TV+ Shows","url":"https://raw.githubusercontent.com/lawdev-cmd/dump/refs/heads/main/dump/tvshow/latest-apple-tv-plus-tv-shows.json","catalogType":"githubRaw","traktSortBy":null,"inPlace":true},{"id":"latest-hbo-max-shows","title":"Latest HBO Max Shows","url":"https://raw.githubusercontent.com/lawdev-cmd/dump/refs/heads/main/dump/tvshow/latest-max-tv-shows.json","catalogType":"githubRaw","traktSortBy":null,"inPlace":true},{"id":"latest-amazon-prime-shows","title":"Latest Amazon Prime Shows","url":"https://raw.githubusercontent.com/lawdev-cmd/dump/refs/heads/main/dump/tvshow/latest-amazon-prime-tv-shows.json","catalogType":"githubRaw","traktSortBy":null,"inPlace":true},{"id":"latest-netflix-shows","title":"Netflix Shows","url":"https://raw.githubusercontent.com/lawdev-cmd/dump/refs/heads/main/dump/tvshow/netflix-shows.json","catalogType":"githubRaw","traktSortBy":null,"inPlace":true},{"id":"latest-disney-shows","title":"Disney+ Shows","url":"https://raw.githubusercontent.com/lawdev-cmd/dump/refs/heads/main/dump/tvshow/disney-shows.json","catalogType":"githubRaw","traktSortBy":null,"inPlace":true}]
+[
+  {
+    "id": "tv-trending-shows",
+    "title": "Trending Shows",
+    "url": "https://raw.githubusercontent.com/ds-master-34/lists/refs/heads/main/mdb/trakt-s-trending-shows.json",
+    "catalogType": "githubRaw",
+    "traktSortBy": "",
+    "inPlace": true
+  },
+  {
+    "id": "latest-apple-tv-shows",
+    "title": "Latest Apple TV+ Shows",
+    "url": "https://raw.githubusercontent.com/lawdev-cmd/dump/refs/heads/main/dump/tvshow/latest-apple-tv-plus-tv-shows.json",
+    "catalogType": "githubRaw",
+    "traktSortBy": "",
+    "inPlace": true
+  },
+  {
+    "id": "latest-hbo-max-shows",
+    "title": "Latest HBO Max Shows",
+    "url": "https://raw.githubusercontent.com/lawdev-cmd/dump/refs/heads/main/dump/tvshow/latest-max-tv-shows.json",
+    "catalogType": "githubRaw",
+    "traktSortBy": "",
+    "inPlace": true
+  },
+  {
+    "id": "latest-amazon-prime-shows",
+    "title": "Latest Amazon Prime Shows",
+    "url": "https://raw.githubusercontent.com/lawdev-cmd/dump/refs/heads/main/dump/tvshow/latest-amazon-prime-tv-shows.json",
+    "catalogType": "githubRaw",
+     "traktSortBy": "",
+    "inPlace": true
+  },
+  {
+    "id": "latest-netflix-shows",
+    "title": "Netflix Shows",
+    "url": "https://raw.githubusercontent.com/lawdev-cmd/dump/refs/heads/main/dump/tvshow/netflix-shows.json",
+    "catalogType": "githubRaw",
+    "traktSortBy": "",
+    "inPlace": true
+  },
+  {
+    "id": "latest-disney-shows",
+    "title": "Disney+ Shows",
+    "url": "https://raw.githubusercontent.com/lawdev-cmd/dump/refs/heads/main/dump/tvshow/disney-shows.json",
+    "catalogType": "githubRaw",
+   "traktSortBy": "",
+    "inPlace": true
+  }
+]
