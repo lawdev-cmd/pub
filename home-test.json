@@ -17,8 +17,8 @@
   {
     "id": "trakt-s-trending-movies",
     "title": "Trending Movies",
-    "url": "giladg/lists/latest-dolby-vision-releases",
-    "catalogType": "traktMovie",
+    "url": "https://raw.githubusercontent.com/ds-master-34/lists/refs/heads/main/mdb/trending-movies.json",
+    "catalogType": "githubRaw",
     "traktSortBy": "",
     "inPlace": true
   },
