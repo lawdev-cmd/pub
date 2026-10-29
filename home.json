@@ -9,9 +9,9 @@
   {
     "id": "trakt-latest-movie-releases",
     "title": "Latest Releases",
-    "url": "giladg/lists/latest-releases",
-    "catalogType": "traktMovie",
-    "traktSortBy": "desc",
+    "url": "https://raw.githubusercontent.com/ds-master-34/lists/refs/heads/main/mdb/latest-movies-digital-release.json",
+    "catalogType": "githubRaw",
+    "traktSortBy": "",
     "inPlace": true
   },
   {
