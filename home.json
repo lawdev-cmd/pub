@@ -12,7 +12,8 @@
     "url": "https://raw.githubusercontent.com/ds-master-34/lists/refs/heads/main/mdb/latest-movies-digital-release.json",
     "catalogType": "githubRaw",
     "traktSortBy": "",
-    "inPlace": true
+    "inPlace": true,
+     "refreshAfterMs": "0"
   },
   {
     "id": "trakt-s-trending-movies",
@@ -20,7 +21,8 @@
     "url": "https://raw.githubusercontent.com/ds-master-34/lists/refs/heads/main/mdb/trending-movies.json",
     "catalogType": "githubRaw",
     "traktSortBy": "",
-    "inPlace": true
+    "inPlace": true,
+     "refreshAfterMs": "0"
   },
   {
     "id": "github-latest-tvshow",
